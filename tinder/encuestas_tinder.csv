@@ -1,0 +1,454 @@
+ID,Segment Type,Segment Description,Answer,Count,Percentage,It became a Relationship
+292881,Mobile,Mobile respondents,Yes,797,0.207,Yes
+292883,Mobile,Mobile respondents,No,1969,0.511,No
+292885,Mobile,Mobile respondents,I don't use Tinder,1090,0.283,Yes
+292887,Web,Web-based respondents,Yes,0,0,No
+292889,Web,Web-based respondents,No,0,0,No
+292891,Web,Web-based respondents,I don't use Tinder,0,0,No
+292893,Gender,Male respondents,Yes,472,0.213,Yes
+292895,Gender,Male respondents,No,1172,0.528,No
+292897,Gender,Male respondents,I don't use Tinder,574,0.259,No
+292899,Gender,Female respondents,Yes,325,0.198,No
+292901,Gender,Female respondents,No,797,0.487,Yes
+292903,Gender,Female respondents,I don't use Tinder,516,0.315,No
+292905,University,Chapman University,Yes,13,0.206,No
+292907,University,Chapman University,No,31,0.492,No
+292909,University,Chapman University,I don't use Tinder,19,0.302,Yes
+292911,University,Cornell University,Yes,47,0.244,No
+292913,University,Cornell University,No,95,0.492,Yes
+292915,University,Cornell University,I don't use Tinder,51,0.264,No
+292917,University,Duke University,Yes,0,0,No
+292919,University,Duke University,No,2,0.667,No
+292921,University,Duke University,I don't use Tinder,1,0.333,Yes
+292923,University,George Washington University,Yes,1,0.25,No
+292925,University,George Washington University,No,3,0.75,No
+292927,University,George Washington University,I don't use Tinder,0,0,No
+292929,University,Georgetown University,Yes,2,0.5,Yes
+292931,University,Georgetown University,No,1,0.25,No
+292933,University,Georgetown University,I don't use Tinder,1,0.25,No
+292935,University,Harvard University,Yes,1,0.333,No
+292937,University,Harvard University,No,2,0.667,Yes
+292939,University,Harvard University,I don't use Tinder,0,0,No
+292941,University,Indiana University,Yes,9,0.205,Yes
+292943,University,Indiana University,No,30,0.682,No
+292945,University,Indiana University,I don't use Tinder,5,0.114,No
+292947,University,Johns Hopkins University,Yes,33,0.239,No
+292949,University,Johns Hopkins University,No,76,0.551,Yes
+292951,University,Johns Hopkins University,I don't use Tinder,29,0.21,No
+292953,University,Northwestern University,Yes,31,0.258,No
+292955,University,Northwestern University,No,65,0.542,No
+292957,University,Northwestern University,I don't use Tinder,24,0.2,Yes
+292959,University,Ohio State University,Yes,6,0.316,No
+292961,University,Ohio State University,No,12,0.632,No
+292963,University,Ohio State University,I don't use Tinder,1,0.053,No
+292965,University,Princeton University,Yes,1,0.5,Yes
+292967,University,Princeton University,No,1,0.5,No
+292969,University,Princeton University,I don't use Tinder,0,0,Yes
+292971,University,San Diego State University,Yes,5,0.192,No
+292973,University,San Diego State University,No,15,0.577,No
+292975,University,San Diego State University,I don't use Tinder,6,0.231,No
+292977,University,Santa Clara University,Yes,0,0,Yes
+292979,University,Santa Clara University,No,4,0.8,No
+292981,University,Santa Clara University,I don't use Tinder,1,0.2,No
+292983,University,Southern Methodist University,Yes,3,0.333,No
+292985,University,Southern Methodist University,No,4,0.444,Yes
+292987,University,Southern Methodist University,I don't use Tinder,2,0.222,No
+292989,University,Stanford University,Yes,13,0.12,No
+292991,University,Stanford University,No,58,0.537,No
+292993,University,Stanford University,I don't use Tinder,37,0.343,Yes
+292995,University,Tulane University,Yes,3,0.429,No
+292997,University,Tulane University,No,3,0.429,Yes
+292999,University,Tulane University,I don't use Tinder,1,0.143,No
+293001,University,University of Pennsylvania,Yes,24,0.222,No
+293003,University,University of Pennsylvania,No,60,0.556,No
+293005,University,University of Pennsylvania,I don't use Tinder,24,0.222,Yes
+293007,University,University of Wisconsin-Madison,Yes,34,0.27,No
+293009,University,University of Wisconsin-Madison,No,71,0.563,No
+293011,University,University of Wisconsin-Madison,I don't use Tinder,21,0.167,No
+293013,University,University of Alabama,Yes,2,0.133,Yes
+293015,University,University of Alabama,No,11,0.733,No
+293017,University,University of Alabama,I don't use Tinder,2,0.133,No
+293019,University,"University of California, Berkeley",Yes,25,0.275,No
+293021,University,"University of California, Berkeley",No,47,0.516,Yes
+293023,University,"University of California, Berkeley",I don't use Tinder,19,0.209,No
+293025,University,"University of California, Davis",Yes,3,0.176,Yes
+293027,University,"University of California, Davis",No,8,0.471,No
+293029,University,"University of California, Davis",I don't use Tinder,6,0.353,No
+293031,University,"University of California, Los Angeles",Yes,1,0.077,No
+293033,University,"University of California, Los Angeles",No,7,0.538,Yes
+293035,University,"University of California, Los Angeles",I don't use Tinder,5,0.385,No
+293037,University,"University of California, Santa Barbara",Yes,24,0.32,No
+293039,University,"University of California, Santa Barbara",No,34,0.453,No
+293041,University,"University of California, Santa Barbara",I don't use Tinder,17,0.227,Yes
+293043,University,University of Colorado Boulder,Yes,3,0.5,No
+293045,University,University of Colorado Boulder,No,3,0.5,No
+293047,University,University of Colorado Boulder,I don't use Tinder,0,0,No
+293049,University,University of Miami,Yes,0,0,Yes
+293051,University,University of Miami,No,0,0,No
+293053,University,University of Miami,I don't use Tinder,1,1,Yes
+293055,University,University of Michigan,Yes,14,0.163,No
+293057,University,University of Michigan,No,49,0.57,No
+293059,University,University of Michigan,I don't use Tinder,23,0.267,No
+293061,University,University of Oregon,Yes,1,0.2,Yes
+293063,University,University of Oregon,No,4,0.8,No
+293065,University,University of Oregon,I don't use Tinder,0,0,No
+293067,University,University of Southern California,Yes,1,0.1,No
+293069,University,University of Southern California,No,7,0.7,Yes
+293071,University,University of Southern California,I don't use Tinder,2,0.2,No
+293073,University,University of Virginia,Yes,3,0.167,No
+293075,University,University of Virginia,No,7,0.389,No
+293077,University,University of Virginia,I don't use Tinder,8,0.444,Yes
+293079,University,Vanderbilt University,Yes,23,0.235,No
+293081,University,Vanderbilt University,No,63,0.643,Yes
+293083,University,Vanderbilt University,I don't use Tinder,12,0.122,No
+293085,University,Wesleyan University,Yes,0,0,No
+293087,University,Wesleyan University,No,2,1,No
+293089,University,Wesleyan University,I don't use Tinder,0,0,Yes
+293091,University,University of Texas,Yes,12,0.164,No
+293093,University,University of Texas,No,35,0.479,No
+293095,University,University of Texas,I don't use Tinder,26,0.356,No
+293097,University,"University of California, San Diego",Yes,1,1,Yes
+293099,University,"University of California, San Diego",No,0,0,No
+293101,University,"University of California, San Diego",I don't use Tinder,0,0,No
+293103,University,Miami University (Ohio),Yes,0,0,No
+293105,University,Miami University (Ohio),No,1,0.5,Yes
+293107,University,Miami University (Ohio),I don't use Tinder,1,0.5,No
+293109,University,University of Maine,Yes,0,0,Yes
+293111,University,University of Maine,No,3,0.75,No
+293113,University,University of Maine,I don't use Tinder,1,0.25,No
+293115,University,Texas Tech University,Yes,3,0.231,No
+293117,University,Texas Tech University,No,5,0.385,Yes
+293119,University,Texas Tech University,I don't use Tinder,5,0.385,No
+293121,University,University of North Carolina,Yes,1,0.083,No
+293123,University,University of North Carolina,No,8,0.667,No
+293125,University,University of North Carolina,I don't use Tinder,3,0.25,Yes
+293127,University,University of Arkansas,Yes,12,0.182,No
+293129,University,University of Arkansas,No,35,0.53,No
+293131,University,University of Arkansas,I don't use Tinder,19,0.288,No
+293133,University,University of Mississippi,Yes,2,0.667,Yes
+293135,University,University of Mississippi,No,1,0.333,No
+293137,University,University of Mississippi,I don't use Tinder,0,0,Yes
+293139,University,Baylor University,Yes,2,0.286,No
+293141,University,Baylor University,No,2,0.286,No
+293143,University,Baylor University,I don't use Tinder,3,0.429,No
+293145,University,Texas A&M University,Yes,13,0.241,Yes
+293147,University,Texas A&M University,No,29,0.537,No
+293149,University,Texas A&M University,I don't use Tinder,12,0.222,No
+293151,University,University of Oklahoma,Yes,0,0,No
+293153,University,University of Oklahoma,No,4,0.8,Yes
+293155,University,University of Oklahoma,I don't use Tinder,1,0.2,No
+293157,University,Yale University,Yes,1,1,No
+293159,University,Yale University,No,0,0,No
+293161,University,Yale University,I don't use Tinder,0,0,Yes
+293163,University,Cal Poly San Luis Obispo,Yes,8,0.32,No
+293165,University,Cal Poly San Luis Obispo,No,10,0.4,Yes
+293167,University,Cal Poly San Luis Obispo,I don't use Tinder,7,0.28,No
+293169,University,Carnegie Mellon University,Yes,1,0.25,No
+293171,University,Carnegie Mellon University,No,3,0.75,No
+293173,University,Carnegie Mellon University,I don't use Tinder,0,0,Yes
+293175,University,Clemson University,Yes,2,0.5,No
+293177,University,Clemson University,No,0,0,No
+293179,University,Clemson University,I don't use Tinder,2,0.5,No
+293181,University,University of Denver,Yes,1,1,Yes
+293183,University,University of Denver,No,0,0,No
+293185,University,University of Denver,I don't use Tinder,0,0,No
+293187,University,University of Washington,Yes,0,0,No
+293189,University,University of Washington,No,3,0.75,Yes
+293191,University,University of Washington,I don't use Tinder,1,0.25,No
+293193,University,University of Illinois,Yes,10,0.213,Yes
+293195,University,University of Illinois,No,29,0.617,No
+293197,University,University of Illinois,I don't use Tinder,8,0.17,No
+293199,University,New York University,Yes,1,0.333,No
+293201,University,New York University,No,2,0.667,Yes
+293203,University,New York University,I don't use Tinder,0,0,No
+293205,University,Butler University,Yes,7,0.103,No
+293207,University,Butler University,No,44,0.647,No
+293209,University,Butler University,I don't use Tinder,17,0.25,Yes
+293211,University,Washington University in St. Louis,Yes,1,0.125,No
+293213,University,Washington University in St. Louis,No,5,0.625,No
+293215,University,Washington University in St. Louis,I don't use Tinder,2,0.25,No
+293217,University,Northern Illinois University,Yes,0,0,Yes
+293219,University,Northern Illinois University,No,1,0.5,No
+293221,University,Northern Illinois University,I don't use Tinder,1,0.5,Yes
+293223,University,University of Iowa,Yes,1,0.333,No
+293225,University,University of Iowa,No,1,0.333,No
+293227,University,University of Iowa,I don't use Tinder,1,0.333,No
+293229,University,Dartmouth College,Yes,5,0.5,Yes
+293231,University,Dartmouth College,No,3,0.3,No
+293233,University,Dartmouth College,I don't use Tinder,2,0.2,No
+293235,University,Loyola Marymount University,Yes,0,0,No
+293237,University,Loyola Marymount University,No,1,1,Yes
+293239,University,Loyola Marymount University,I don't use Tinder,0,0,No
+293241,University,Williams College,Yes,0,0,No
+293243,University,Williams College,No,0,0,No
+293245,University,Williams College,I don't use Tinder,1,1,Yes
+293247,University,University of Maryland,Yes,1,1,No
+293249,University,University of Maryland,No,0,0,Yes
+293251,University,University of Maryland,I don't use Tinder,0,0,No
+293253,University,UMass Amherst,Yes,3,0.25,No
+293255,University,UMass Amherst,No,6,0.5,No
+293257,University,UMass Amherst,I don't use Tinder,3,0.25,Yes
+293259,University,University of Arizona,Yes,4,0.364,No
+293261,University,University of Arizona,No,4,0.364,No
+293263,University,University of Arizona,I don't use Tinder,3,0.273,No
+293265,University,Texas Christian University,Yes,8,0.308,Yes
+293267,University,Texas Christian University,No,8,0.308,No
+293269,University,Texas Christian University,I don't use Tinder,10,0.385,No
+293271,University,Emory University,Yes,1,0.2,No
+293273,University,Emory University,No,3,0.6,Yes
+293275,University,Emory University,I don't use Tinder,1,0.2,No
+293277,University,Columbia University,Yes,2,0.333,Yes
+293279,University,Columbia University,No,3,0.5,No
+293281,University,Columbia University,I don't use Tinder,1,0.167,No
+293283,University,Purdue University,Yes,5,0.192,No
+293285,University,Purdue University,No,13,0.5,Yes
+293287,University,Purdue University,I don't use Tinder,8,0.308,No
+293289,University,Tufts University,Yes,3,0.429,No
+293291,University,Tufts University,No,2,0.286,No
+293293,University,Tufts University,I don't use Tinder,2,0.286,Yes
+293295,University,University of Richmond,Yes,2,0.111,No
+293297,University,University of Richmond,No,9,0.5,No
+293299,University,University of Richmond,I don't use Tinder,7,0.389,No
+293301,University,Quinnipiac University,Yes,0,0,Yes
+293303,University,Quinnipiac University,No,2,1,No
+293305,University,Quinnipiac University,I don't use Tinder,0,0,Yes
+293307,University,United States Naval Academy,Yes,0,0,No
+293309,University,United States Naval Academy,No,3,0.429,No
+293311,University,United States Naval Academy,I don't use Tinder,4,0.571,No
+293313,University,"University of California, Santa Cruz",Yes,2,0.667,Yes
+293315,University,"University of California, Santa Cruz",No,1,0.333,No
+293317,University,"University of California, Santa Cruz",I don't use Tinder,0,0,No
+293319,University,Rice University ,Yes,1,0.167,No
+293321,University,Rice University ,No,4,0.667,Yes
+293323,University,Rice University ,I don't use Tinder,1,0.167,No
+293325,University,Mississippi State University,Yes,4,0.364,No
+293327,University,Mississippi State University,No,6,0.545,No
+293329,University,Mississippi State University,I don't use Tinder,1,0.091,Yes
+293331,University,University of Missouri,Yes,7,0.233,No
+293333,University,University of Missouri,No,15,0.5,Yes
+293335,University,University of Missouri,I don't use Tinder,8,0.267,No
+293337,University,University of Georgia,Yes,1,0.091,No
+293339,University,University of Georgia,No,9,0.818,No
+293341,University,University of Georgia,I don't use Tinder,1,0.091,Yes
+293343,University,Louisiana State University,Yes,2,0.25,No
+293345,University,Louisiana State University,No,4,0.5,No
+293347,University,Louisiana State University,I don't use Tinder,2,0.25,No
+293349,University,Lehigh University,Yes,0,0,Yes
+293351,University,Lehigh University,No,2,0.667,No
+293353,University,Lehigh University,I don't use Tinder,1,0.333,No
+293355,University,Northern Arizona University,Yes,1,1,No
+293357,University,Northern Arizona University,No,0,0,Yes
+293359,University,Northern Arizona University,I don't use Tinder,0,0,No
+293361,University,Elon University,Yes,0,0,Yes
+293363,University,Elon University,No,4,0.667,No
+293365,University,Elon University,I don't use Tinder,2,0.333,No
+293367,University,Vassar College,Yes,1,0.5,No
+293369,University,Vassar College,No,1,0.5,Yes
+293371,University,Vassar College,I don't use Tinder,0,0,No
+293373,University,University of Pittsburgh,Yes,0,0,No
+293375,University,University of Pittsburgh,No,0,0,No
+293377,University,University of Pittsburgh,I don't use Tinder,2,1,Yes
+293379,University,University of Chicago,Yes,2,0.4,No
+293381,University,University of Chicago,No,1,0.2,No
+293383,University,University of Chicago,I don't use Tinder,2,0.4,No
+293385,University,University of Buffalo,Yes,0,0,Yes
+293387,University,University of Buffalo,No,0,0,No
+293389,University,University of Buffalo,I don't use Tinder,1,1,Yes
+293391,University,University of Minnesota,Yes,2,0.5,No
+293393,University,University of Minnesota,No,1,0.25,No
+293395,University,University of Minnesota,I don't use Tinder,1,0.25,No
+293397,University,Colorado State University,Yes,0,0,Yes
+293399,University,Colorado State University,No,3,1,No
+293401,University,Colorado State University,I don't use Tinder,0,0,No
+293403,University,Skidmore College,Yes,0,0,No
+293405,University,Skidmore College,No,1,1,Yes
+293407,University,Skidmore College,I don't use Tinder,0,0,No
+293409,University,Rochester Institute of Technology,Yes,0,0,No
+293411,University,Rochester Institute of Technology,No,2,1,No
+293413,University,Rochester Institute of Technology,I don't use Tinder,0,0,Yes
+293415,University,Arizona State University,Yes,0,0,No
+293417,University,Arizona State University,No,1,0.5,Yes
+293419,University,Arizona State University,I don't use Tinder,1,0.5,No
+293421,University,University of Rochester,Yes,1,0.333,No
+293423,University,University of Rochester,No,2,0.667,No
+293425,University,University of Rochester,I don't use Tinder,0,0,Yes
+293427,University,University of St Andrews,Yes,0,0,No
+293429,University,University of St Andrews,No,2,0.667,No
+293431,University,University of St Andrews,I don't use Tinder,1,0.333,No
+293433,University,Florida State University,Yes,0,0,Yes
+293435,University,Florida State University,No,0,0,No
+293437,University,Florida State University,I don't use Tinder,1,1,No
+293439,University,Ithaca College,Yes,1,0.25,No
+293441,University,Ithaca College,No,2,0.5,Yes
+293443,University,Ithaca College,I don't use Tinder,1,0.25,No
+293445,University,Union College,Yes,1,0.111,Yes
+293447,University,Union College,No,7,0.778,No
+293449,University,Union College,I don't use Tinder,1,0.111,No
+293451,University,Loyola University Maryland,Yes,0,0,No
+293453,University,Loyola University Maryland,No,3,1,Yes
+293455,University,Loyola University Maryland,I don't use Tinder,0,0,No
+293457,University,Marquette University,Yes,1,0.5,No
+293459,University,Marquette University,No,1,0.5,No
+293461,University,Marquette University,I don't use Tinder,0,0,Yes
+293463,University,James Madison University,Yes,1,1,No
+293465,University,James Madison University,No,0,0,No
+293467,University,James Madison University,I don't use Tinder,0,0,No
+293469,University,Sacred Heart University,Yes,0,0,Yes
+293471,University,Sacred Heart University,No,1,1,No
+293473,University,Sacred Heart University,I don't use Tinder,0,0,Yes
+293475,University,University of Wisconsin-Whitewater,Yes,2,0.4,No
+293477,University,University of Wisconsin-Whitewater,No,2,0.4,No
+293479,University,University of Wisconsin-Whitewater,I don't use Tinder,1,0.2,No
+293481,University,St. Lawrence University,Yes,1,1,Yes
+293483,University,St. Lawrence University,No,0,0,No
+293485,University,St. Lawrence University,I don't use Tinder,0,0,No
+293487,University,Iowa State University,Yes,0,0,No
+293489,University,Iowa State University,No,1,1,Yes
+293491,University,Iowa State University,I don't use Tinder,0,0,No
+293493,University,University of Wisconsin-La Crosse,Yes,0,0,No
+293495,University,University of Wisconsin-La Crosse,No,2,0.667,No
+293497,University,University of Wisconsin-La Crosse,I don't use Tinder,1,0.333,Yes
+293499,University,College of William and Mary,Yes,3,0.188,No
+293501,University,College of William and Mary,No,7,0.438,Yes
+293503,University,College of William and Mary,I don't use Tinder,6,0.375,No
+293505,University,University of Notre Dame,Yes,0,0,No
+293507,University,University of Notre Dame,No,3,0.6,No
+293509,University,University of Notre Dame,I don't use Tinder,2,0.4,Yes
+293511,University,University of Tennessee,Yes,2,0.5,No
+293513,University,University of Tennessee,No,1,0.25,No
+293515,University,University of Tennessee,I don't use Tinder,1,0.25,No
+293517,University,Illinois State,Yes,0,0,Yes
+293519,University,Illinois State,No,1,0.5,No
+293521,University,Illinois State,I don't use Tinder,1,0.5,No
+293523,University,Auburn University,Yes,0,0,No
+293525,University,Auburn University,No,1,1,Yes
+293527,University,Auburn University,I don't use Tinder,0,0,No
+293529,University,Gonzaga University,Yes,0,0,Yes
+293531,University,Gonzaga University,No,1,1,No
+293533,University,Gonzaga University,I don't use Tinder,0,0,No
+293535,University,Washington State University,Yes,8,0.308,No
+293537,University,Washington State University,No,12,0.462,Yes
+293539,University,Washington State University,I don't use Tinder,6,0.231,No
+293541,University,Michigan State University,Yes,0,0,No
+293543,University,Michigan State University,No,1,1,No
+293545,University,Michigan State University,I don't use Tinder,0,0,Yes
+293547,University,Florida International University,Yes,0,0,No
+293549,University,Florida International University,No,2,1,No
+293551,University,Florida International University,I don't use Tinder,0,0,No
+293553,University,University of Central Florida,Yes,0,0,Yes
+293555,University,University of Central Florida,No,0,0,No
+293557,University,University of Central Florida,I don't use Tinder,1,1,Yes
+293559,University,Castleton State College,Yes,0,0,No
+293561,University,Castleton State College,No,1,1,No
+293563,University,Castleton State College,I don't use Tinder,0,0,No
+293565,University,Cal State Northridge,Yes,0,0,Yes
+293567,University,Cal State Northridge,No,2,0.667,No
+293569,University,Cal State Northridge,I don't use Tinder,1,0.333,No
+293571,University,Ohio University,Yes,0,0,No
+293573,University,Ohio University,No,1,1,Yes
+293575,University,Ohio University,I don't use Tinder,0,0,No
+293577,University,Pepperdine University,Yes,0,0,No
+293579,University,Pepperdine University,No,2,1,No
+293581,University,Pepperdine University,I don't use Tinder,0,0,Yes
+293583,University,Providence College,Yes,0,0,No
+293585,University,Providence College,No,1,1,Yes
+293587,University,Providence College,I don't use Tinder,0,0,No
+293589,University,Appalachian State University,Yes,16,0.139,No
+293591,University,Appalachian State University,No,53,0.461,No
+293593,University,Appalachian State University,I don't use Tinder,46,0.4,Yes
+293595,University,University of Connecticut,Yes,0,0,No
+293597,University,University of Connecticut,No,3,0.375,No
+293599,University,University of Connecticut,I don't use Tinder,5,0.625,No
+293601,University,"University of Wisconsin, Eau Claire",Yes,1,1,Yes
+293603,University,"University of Wisconsin, Eau Claire",No,0,0,No
+293605,University,"University of Wisconsin, Eau Claire",I don't use Tinder,0,0,No
+293607,University,University of Delaware,Yes,1,0.25,No
+293609,University,University of Delaware,No,2,0.5,Yes
+293611,University,University of Delaware,I don't use Tinder,1,0.25,No
+293613,University,Massachusetts Institute of Technology,Yes,0,0,Yes
+293615,University,Massachusetts Institute of Technology,No,1,0.5,No
+293617,University,Massachusetts Institute of Technology,I don't use Tinder,1,0.5,No
+293619,University,Oregon State University,Yes,0,0,No
+293621,University,Oregon State University,No,1,1,Yes
+293623,University,Oregon State University,I don't use Tinder,0,0,No
+293625,University,Whatsgoodly University,Yes,0,0,No
+293627,University,Whatsgoodly University,No,1,1,No
+293629,University,Whatsgoodly University,I don't use Tinder,0,0,Yes
+293631,University,Case Western Reserve University,Yes,7,0.226,No
+293633,University,Case Western Reserve University,No,12,0.387,No
+293635,University,Case Western Reserve University,I don't use Tinder,12,0.387,No
+293637,University,Michigan Technological University,Yes,0,0,Yes
+293639,University,Michigan Technological University,No,3,0.75,No
+293641,University,Michigan Technological University,I don't use Tinder,1,0.25,Yes
+293643,University,"Meridian, Idaho",Yes,1,1,No
+293645,University,"Meridian, Idaho",No,0,0,No
+293647,University,"Meridian, Idaho",I don't use Tinder,0,0,No
+293649,University,University of Dayton,Yes,4,0.571,Yes
+293651,University,University of Dayton,No,3,0.429,No
+293653,University,University of Dayton,I don't use Tinder,0,0,No
+293655,University,University of Kansas,Yes,3,0.3,No
+293657,University,University of Kansas,No,5,0.5,Yes
+293659,University,University of Kansas,I don't use Tinder,2,0.2,No
+293661,University,Morehead State University,Yes,0,0,No
+293663,University,Morehead State University,No,0,0,No
+293665,University,Morehead State University,I don't use Tinder,1,1,Yes
+293667,University,University of Central Oklahoma,Yes,1,0.5,No
+293669,University,University of Central Oklahoma,No,0,0,Yes
+293671,University,University of Central Oklahoma,I don't use Tinder,1,0.5,No
+293673,University,Syracuse University,Yes,4,0.444,No
+293675,University,Syracuse University,No,4,0.444,No
+293677,University,Syracuse University,I don't use Tinder,1,0.111,Yes
+293679,University,Colby College,Yes,1,0.071,No
+293681,University,Colby College,No,11,0.786,No
+293683,University,Colby College,I don't use Tinder,2,0.143,No
+293685,University,Brigham Young University,Yes,1,0.125,Yes
+293687,University,Brigham Young University,No,3,0.375,No
+293689,University,Brigham Young University,I don't use Tinder,4,0.5,No
+293691,University,Arkansas State University,Yes,0,0,No
+293693,University,Arkansas State University,No,1,1,Yes
+293695,University,Arkansas State University,I don't use Tinder,0,0,No
+293697,University,"Westport, CT",Yes,0,0,Yes
+293699,University,"Westport, CT",No,0,0,No
+293701,University,"Westport, CT",I don't use Tinder,1,1,No
+293703,University,Centre College,Yes,0,0,No
+293705,University,Centre College,No,3,0.75,Yes
+293707,University,Centre College,I don't use Tinder,1,0.25,No
+293709,University,Middlebury College,Yes,1,1,No
+293711,University,Middlebury College,No,0,0,No
+293713,University,Middlebury College,I don't use Tinder,0,0,Yes
+293715,University,North Carolina State,Yes,1,1,No
+293717,University,North Carolina State,No,0,0,No
+293719,University,North Carolina State,I don't use Tinder,0,0,No
+293721,University,University of Kentucky,Yes,0,0,Yes
+293723,University,University of Kentucky,No,1,1,No
+293725,University,University of Kentucky,I don't use Tinder,0,0,Yes
+293727,University,Bucknell University,Yes,1,1,No
+293729,University,Bucknell University,No,0,0,No
+293731,University,Bucknell University,I don't use Tinder,0,0,No
+293733,University,Randolph-Macon College,Yes,0,0,Yes
+293735,University,Randolph-Macon College,No,0,0,No
+293737,University,Randolph-Macon College,I don't use Tinder,1,1,No
+293739,University,Old Dominion University,Yes,1,1,No
+293741,University,Old Dominion University,No,0,0,Yes
+293743,University,Old Dominion University,I don't use Tinder,0,0,No
+293745,University,University of Tampa,Yes,0,0,No
+293747,University,University of Tampa,No,1,1,No
+293749,University,University of Tampa,I don't use Tinder,0,0,Yes
+293751,University,Roger Williams University,Yes,0,0,No
+293753,University,Roger Williams University,No,1,1,Yes
+293755,University,Roger Williams University,I don't use Tinder,0,0,No
+293757,University,Penn State University,Yes,4,0.4,No
+293759,University,Penn State University,No,5,0.5,No
+293761,University,Penn State University,I don't use Tinder,1,0.1,Yes
+293763,University,Minnesota State University Mankato,Yes,1,1,No
+293765,University,Minnesota State University Mankato,No,0,0,No
+293767,University,Minnesota State University Mankato,I don't use Tinder,0,0,No
+293769,University,University of Florida,Yes,0,0,Yes
+293771,University,University of Florida,No,1,1,No
+293773,University,University of Florida,I don't use Tinder,0,0,No
+293775,University,Boston College,Yes,0,0,No
+293777,University,Boston College,No,4,0.8,Yes
+293779,University,Boston College,I don't use Tinder,1,0.2,No
+293781,University,Boston University,Yes,2,0.333,Yes
+293783,University,Boston University,No,3,0.5,No
+293785,University,Boston University,I don't use Tinder,1,0.167,No
