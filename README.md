@@ -36,11 +36,7 @@ pip install pandas numpy matplotlib
    cd ejercicios-instagram/ejercicio-1
    ```
 
-3. Abre el notebook con Jupyter o la extensión de jupyter de VS Code:
-
-   ```bash
-   jupyter notebook solucion.ipynb
-   ```
+3. Abre el notebook con Jupyter o la extensión de jupyter de VS Code: y ejecuta cada celda con CTRL + ENTER.
 
 ## Contribuciones
 
