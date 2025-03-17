@@ -1,6 +1,6 @@
 # Ejercicios de Python y Pandas de Instagram
 
-¡Bienvenido/a! Este repositorio recopila los ejercicios de Python y Pandas que comparto en mi cuenta de Instagram [@r2d2_coder](https://www.instagram.com/r2d2_coder/). Aquí encontrarás el código fuente, datasets y soluciones detalladas de cada ejercicio.
+¡Bienvenido/a! Este repositorio recopila los ejercicios de Python y Pandas que comparto en mi cuenta de Instagram [@r2d2.coder](https://www.instagram.com/r2d2.coder/). Aquí encontrarás el código fuente, datasets y soluciones detalladas de cada ejercicio.
 
 ## Contenido
 
@@ -44,4 +44,4 @@ Si deseas contribuir con nuevos ejercicios o mejoras, siéntete libre de abrir u
 
 ## Contacto
 
-Para más contenido y actualizaciones, sígueme en Instagram: [@r2d2_coder](https://www.instagram.com/r2d2_coder/)
+Para más contenido y actualizaciones, sígueme en Instagram: [@r2d2.coder](https://www.instagram.com/r2d2.coder/)
