@@ -1,0 +1,222 @@
+country_name,continent_name,wage_span,median_salary,average_salary,lowest_salary,highest_salary
+Afghanistan,Asia,Monthly,853.74,1001.15,252.53,4460.97
+Aland Islands,Europe,Monthly,3319.24,3858.35,972.52,17124.74
+Albania,Europe,Monthly,832.84,956.92,241.22,4258.49
+Algeria,Africa,Monthly,1148.84,1308.81,330.11,5824.18
+American Samoa,Oceania,Monthly,1390,1570,400,6980
+Andorra,Europe,Monthly,3668.08,4069.77,1120.51,17653.28
+Angola,Africa,Monthly,284.39,314.39,79.32,1403.96
+Antigua and Barbuda,Caribbean,Monthly,1548.15,1677.78,422.22,7444.44
+Argentina,South America,Monthly,110.28,129.42,32.57,577.13
+Armenia,Asia,Monthly,1700.25,1974.32,497.39,8780.39
+Aruba,Caribbean,Monthly,1106.15,1268.16,318.44,5642.46
+Australia,Oceania,Monthly,4306.45,4903.23,1236.13,21774.19
+Austria,Europe,Monthly,3572.94,4016.91,1014.8,17864.69
+Azerbaijan,Asia,Monthly,1558.82,1741.18,441.18,7764.71
+Bahamas,North America,Monthly,3541.0,3908.0,983.0,17416.0
+Bahrain,Asia,Monthly,3617.02,3936.17,984.04,17553.19
+Bangladesh,Asia,Monthly,218.57,236.71,59.68,1052.06
+Barbados,Caribbean,Monthly,1395.0,1635.0,410.0,7250.0
+Belarus,Europe,Monthly,849.5,983.28,247.49,4381.27
+Belgium,Europe,Monthly,5729.39,6522.2,1997.89,27378.44
+Belize,Central America,Monthly,1730.0,1965.0,495.0,8750.0
+Benin,Africa,Monthly,488.25,549.48,138.58,2449.28
+Bermuda,Northern America,Monthly,1440.0,1600.0,400.0,7120.0
+Bhutan,Asia,Monthly,407.26,449.3,113.17,1994.23
+Bolivia,South America,Monthly,1131.5,1236.99,312.14,5505.78
+Bosnia and Herzegovina,Europe,Monthly,1151.35,1248.65,313.51,5567.57
+Botswana,Africa,Monthly,729.39,860.69,216.63,3822.03
+Brazil,South America,Monthly,1490.04,1711.16,432.27,7609.56
+British Indian Ocean Territory,Africa,Monthly,2360,2690,680,12000
+Brunei,Asia,Monthly,2110.29,2375.0,595.59,10588.24
+Bulgaria,Europe,Monthly,1605.41,1794.59,454.05,7945.95
+Burkina Faso,Africa,Monthly,485.02,534.97,135.03,2384.83
+Burundi,Africa,Monthly,384.78,420.08,105.55,1863.89
+Cambodia,Asia,Monthly,745.19,808.3,203.41,3592.44
+Cameroon,Africa,Monthly,633.27,744.45,186.92,3303.31
+Canada,Northern America,Monthly,6311.03,7352.94,1850.0,32720.59
+Cape Verde,Africa,Monthly,1706.29,1965.11,495.59,8742.33
+Cayman Islands,Caribbean,Monthly,3430.97,3901.56,984.39,17406.96
+Central African Republic,Africa,Monthly,621.99,699.33,175.64,3109.94
+Chad,Africa,Monthly,707.39,787.96,198.2,3512.79
+Chile,South America,Monthly,1890.4,2090.56,525.98,9274.09
+China,Asia,Monthly,3684.93,4027.4,1015.07,17945.21
+Colombia,South America,Monthly,995.6,1157.85,292.53,5137.79
+Comoros,Africa,Monthly,567.21,651.0,163.93,2900.48
+Congo,Africa,Monthly,1058.67,1205.3,302.94,5365.86
+Congo Democratic Republic,Africa,Monthly,170.39,191.74,48.34,853.95
+Cook Islands,Oceania,Monthly,2538.92,2832.34,712.57,12574.85
+Costa Rica,Central America,Monthly,4016.06,4427.01,1115.16,19613.34
+Cote Divoire,Africa,Monthly,497.91,544.64,137.45,2417.05
+Croatia,Europe,Monthly,1935.48,2089.76,527.35,9298.74
+Cuba,Caribbean,Monthly,783.33,916.67,231.25,4079.17
+Cyprus,Europe,Monthly,1976.74,2293.87,581.4,10211.42
+Czech Republic,Europe,Monthly,2310.03,2653.06,668.69,11810.68
+Denmark,Europe,Monthly,5084.99,5779.04,1458.92,25637.39
+Djibouti,Africa,Monthly,1378.57,1553.0,391.63,6921.0
+Dominica,Caribbean,Monthly,496.3,555.56,140.74,2470.37
+Dominican Republic,Caribbean,Monthly,318.89,350.6,88.62,1562.72
+East Timor,Asia,Monthly,2030,2220,560,9860
+Ecuador,South America,Monthly,1260,1370,340,6080
+Egypt,Africa,Monthly,254.53,298.51,75.36,1329.24
+El Salvador,Central America,Monthly,1470,1710,430,7610
+Equatorial Guinea,Africa,Monthly,671.94,773.46,194.98,3432.22
+Eritrea,Africa,Monthly,402.0,457.33,115.33,2033.33
+Estonia,Europe,Monthly,2579.28,2906.98,729.39,12896.41
+Ethiopia,Africa,Monthly,143.88,160.41,40.42,713.13
+Faroe Islands,Europe,Monthly,3484.42,3810.2,958.92,16855.52
+Fiji,Oceania,Monthly,1939.13,2100.0,530.43,9347.83
+Finland,Europe,Monthly,4238.9,4978.86,1257.93,22093.02
+France,Europe,Monthly,3769.56,4377.38,1100.42,19467.23
+French Guiana,South America,Monthly,2896.41,3319.24,835.1,14799.15
+French Polynesia,Oceania,Monthly,1133.75,1293.18,325.95,5757.31
+Gabon,Africa,Monthly,800.85,894.31,225.59,3980.08
+Gambia,Africa,Monthly,223.7,246.84,62.02,1095.34
+Georgia,Asia,Monthly,2309.7,2526.12,638.06,11231.34
+Germany,Europe,Monthly,3731.5,4048.63,1014.8,17970.4
+Ghana,Africa,Monthly,373.82,438.42,110.25,1946.6
+Gibraltar,Europe,Monthly,3567.07,4135.37,1046.34,18393.9
+Greece,Europe,Monthly,2241.01,2579.28,655.39,11522.2
+Greenland,Northern America,Monthly,3526.91,4008.5,1011.33,17847.03
+Grenada,Caribbean,Monthly,2066.67,2329.63,588.89,10370.37
+Guadeloupe,Caribbean,Monthly,3985.2,4439.75,1120.51,19767.44
+Guam,Oceania,Monthly,1270,1400,350,6230
+Guatemala,Central America,Monthly,1222.65,1335.88,337.15,5954.2
+Guernsey,Europe,Monthly,8689.02,9409.76,2367.07,41869.51
+Guinea,Africa,Monthly,696.71,817.87,206.22,3634.99
+Guinea-Bissau,Africa,Monthly,475.35,551.09,139.06,2449.28
+Guyana,South America,Monthly,731.32,841.26,211.75,3737.87
+Haiti,Caribbean,Monthly,444.95,506.2,127.66,2250.59
+Honduras,Central America,Monthly,1022.22,1139.39,287.27,5090.91
+Hong Kong,Asia,Monthly,4252.87,4687.1,1182.63,20817.37
+Hungary,Europe,Monthly,1227.46,1344.23,339.45,5974.36
+Iceland,Europe,Monthly,4661.2,5049.03,1273.23,22464.51
+India,Asia,Monthly,327.97,384.43,97.07,1717.92
+Indonesia,Asia,Monthly,678.91,788.83,198.5,3504.47
+Iran,Asia,Monthly,932.63,1070.97,269.53,4770.47
+Iraq,Asia,Monthly,1382.38,1573.31,395.62,6988.25
+Ireland,Europe,Monthly,3021.14,3399.58,856.24,15151.16
+Italy,Europe,Monthly,3467.23,3868.92,972.52,17230.44
+Jamaica,Caribbean,Monthly,565.78,624.56,157.59,2777.24
+Japan,Asia,Monthly,3158.67,3453.12,869.97,15391.82
+Jersey,Europe,Monthly,5817.07,6304.88,1585.37,28048.78
+Jordan,Asia,Monthly,1946.4,2284.91,578.28,10141.04
+Kazakhstan,Asia,Monthly,701.0,813.99,204.86,3620.08
+Kenya,Africa,Monthly,863.29,991.43,250.22,4424.36
+Kiribati,Oceania,Monthly,2206.45,2509.68,632.26,11161.29
+Korea (North),Asia,Monthly,192.22575,216.67064,54.556555,963.35099
+Korea (South),Asia,Monthly,2593.42,2889.81,728.38,12893.0
+Kyrgyzstan,Asia,Monthly,201.87,219.92,55.6,980.04
+Laos,Asia,Monthly,206.42,223.54,56.25,992.99
+Latvia,Europe,Monthly,1654.0727,1952.1038,491.75135,8657.804
+Lebanon,Asia,Monthly,753.33,873.33,219.33,3873.33
+Lesotho,Africa,Monthly,540.54,625.33,157.39,2776.89
+Liberia,Africa,Monthly,334.39,380.35,96.14,1690.44
+Libya,Africa,Monthly,417.18,470.35,118.61,2085.89
+Liechtenstein,Europe,Monthly,5224.04,5825.14,1464.48,25901.64
+Lithuania,Europe,Monthly,903.87466,997.90189,251.75032,4428.3792
+Luxembourg,Europe,Monthly,4767.44,5211.42,1310.78,23150.11
+Macao,Asia,Monthly,856.26,928.13,234.2,4126.39
+Macedonia,Europe,Monthly,677.0,794.14,199.83,3531.44
+Madagascar,Africa,Monthly,250.87,290.48,73.28,1291.74
+Malawi,Africa,Monthly,132.38,151.69,38.24,674.79
+Malaysia,Asia,Monthly,1236.17,1406.38,355.32,6255.32
+Maldives,Asia,Monthly,1099.61,1241.91,313.07,5517.46
+Mali,Africa,Monthly,478.58,533.36,134.55,2368.71
+Malta,Europe,Monthly,4439.75,4904.86,1236.79,21775.9
+Marshall Islands,Oceania,Monthly,2070,2260,570,10100
+Martinique,Caribbean,Monthly,2949.26,3192.39,803.38,14164.9
+Mauritania,Africa,Monthly,44.623043,52.497697,13.203171,232.82729
+Mauritius,Africa,Monthly,901.53,1047.66,263.04,4653.78
+Mayotte,Africa,Monthly,2389.01,2748.41,697.67,12262.16
+Mexico,Central America,Monthly,1681.97,1917.34,482.78,8495.98
+Micronesia,Oceania,Monthly,1250,1410,360,6270
+Moldova,Europe,Monthly,1318.68,1467.03,370.33,6538.46
+Monaco,Europe,Monthly,4112.05,4492.6,1374.21,18921.78
+Mongolia,Asia,Monthly,515.76,564.74,142.34,2509.62
+Montenegro,Europe,Monthly,2621.56,2832.98,718.82,12579.28
+Montserrat,Caribbean,Monthly,859.26,1011.11,255.56,4481.48
+Morocco,Africa,Monthly,1634.24,1896.89,477.63,8433.85
+Mozambique,Africa,Monthly,549.81,631.27,159.77,2803.88
+Myanmar,Asia,Monthly,228.46,260.35,65.68,1156.59
+Namibia,Africa,Monthly,821.41,927.4,233.7,4128.25
+Nepal,Asia,Monthly,551.13,608.2,153.18,2703.11
+Netherlands,Europe,Monthly,4756.87,5179.7,1427.06,22515.86
+Netherlands Antilles,North America,Monthly,2268.16,2458.1,620.11,10893.85
+New Caledonia,Oceania,Monthly,664.3,779.45,196.63,3463.24
+New Zealand,Oceania,Monthly,4196.41,4870.06,1227.54,21656.29
+Nicaragua,Central America,Monthly,449.1,517.15,130.38,2299.95
+Niger,Africa,Monthly,480.19,547.87,137.93,2433.17
+Nigeria,Africa,Monthly,389.85,438.91,110.63,1949.27
+Northern Mariana Islands,Oceania,Monthly,1820,1990,500,8870
+Norway,Europe,Monthly,4420.02,4786.34,1208.23,21281.57
+Oman,Asia,Monthly,3932.29,4635.42,1171.88,20572.92
+Pakistan,Asia,Monthly,245.34,284.9,71.83,1266.61
+Palau,Oceania,Monthly,2380,2740,690,12200
+Palestine,Asia,Monthly,1510,1710,430,7620
+Panama,Central America,Monthly,1890.0,2130.0,540.0,9460.0
+Papua New Guinea,Oceania,Monthly,1010.96,1128.77,284.93,5013.7
+Paraguay,South America,Monthly,1019.69,1126.17,283.93,5009.74
+Peru,South America,Monthly,1825.86,1997.36,503.96,8891.82
+Philippines,Asia,Monthly,728.78,790.54,199.4,3511.56
+Poland,Europe,Monthly,1496.57,1736.84,437.07,7734.55
+Portugal,Europe,Monthly,2537.0,2917.55,739.96,13002.11
+Puerto Rico,Caribbean,Monthly,1483,1683,425,7491
+Qatar,Asia,Monthly,3846.15,4313.19,1090.66,19230.77
+Reunion,Africa,Monthly,1966.17,2198.73,549.68,9767.44
+Romania,Europe,Monthly,1739.87,1921.11,484.01,8550.11
+Russia,Europe,Monthly,975.51,1065.68,268.47,4744.34
+Rwanda,Africa,Monthly,525.39,569.65,143.44,2532.68
+Saint Kitts and Nevis,Caribbean,Monthly,1092.59,1259.26,318.52,5592.59
+Saint Lucia,Caribbean,Monthly,922.22,1048.15,262.96,4666.67
+Saint Martin,North America,Monthly,3086.68,3477.8,877.38,15433.4
+Saint Vincent and the Grenadines,Caribbean,Monthly,1144.44,1262.96,318.52,5629.63
+Samoa,Oceania,Monthly,808.66,884.48,223.83,3935.02
+San Marino,Europe,Monthly,4450.32,4820.3,1215.64,21458.77
+Sao Tome and Principe,Africa,Monthly,254.88163,298.78264,75.441552,1329.8172
+Saudi Arabia,Asia,Monthly,3840.0,4480.0,1128.0,19893.33
+Senegal,Africa,Monthly,493.08,565.59,142.77,2513.74
+Serbia,Europe,Monthly,1120.04,1273.6,320.66,5654.41
+Seychelles,Africa,Monthly,1246.44,1403.13,353.99,6246.44
+Sierra Leone,Africa,Monthly,249.1,277.75,69.92,1238.23
+Singapore,Asia,Monthly,5647.06,6235.29,1573.53,27720.59
+Slovakia,Europe,Monthly,2114.16,2315.01,581.4,10295.98
+Slovenia,Europe,Monthly,1934.46,2093.02,528.54,9302.33
+Solomon Islands,Oceania,Monthly,644.89,756.53,191.21,3361.05
+Somalia,Africa,Monthly,392.16,455.19,114.85,2030.85
+South Africa,Africa,Monthly,1441.44,1658.72,417.59,7366.19
+Spain,Europe,Monthly,2579.28,2875.26,877.38,12050.74
+Sri Lanka,Asia,Monthly,249.68,278.41,70.14,1239.11
+Sudan,Africa,Monthly,67.61,74.53,18.8,331.92
+Suriname,South America,Monthly,122.18,133.57,33.65,592.8
+Swaziland,Africa,Monthly,204.56,239.53,60.41,1065.18
+Sweden,Europe,Monthly,3568.16,4144.56,1043.0,18389.75
+Switzerland,Europe,Monthly,9836.07,11292.9,2850.27,50363.93
+Syria,Asia,Monthly,10.12,11.51,2.9,51.2
+Taiwan,Asia,Monthly,3571.43,4037.27,1015.53,17919.25
+Tajikistan,Asia,Monthly,959.78,1069.47,269.65,4753.2
+Tanzania,Africa,Monthly,457.77,505.54,126.98,2245.08
+Thailand,Asia,Monthly,2432.28,2662.11,670.31,11846.79
+Togo,Africa,Monthly,787.96,852.41,214.31,3786.72
+Tonga,Oceania,Monthly,668.09,778.72,195.74,3459.57
+Trinidad and Tobago,Caribbean,Monthly,1258.11,1445.43,364.31,6430.68
+Tunisia,Africa,Monthly,1088.33,1239.75,312.3,5520.5
+Turkey,Asia,Monthly,254.1,286.13,72.08,1274.12
+Turkmenistan,Asia,Monthly,1342.86,1500.0,377.14,6657.14
+Turks and Caicos Islands,North America,Monthly,1350,1490,380,6640
+Uganda,Africa,Monthly,645.21,698.31,176.04,3106.55
+Ukraine,Europe,Monthly,530.73,622.8,157.32,2761.98
+United Arab Emirates,Asia,Monthly,3324.25,3896.46,708.45,18637.6
+United Kingdom,Europe,Monthly,6300.0,7235.37,1829.27,32214.63
+United States,Northern America,Monthly,6966,7925,2000,35250
+Uruguay,South America,Monthly,773.64,862.2,217.24,3829.12
+Uzbekistan,Asia,Monthly,97.25,106.98,27.07,477.35
+Vanuatu,Oceania,Monthly,750.74,821.77,207.3,3650.48
+Venezuela,South America,Monthly,3282.02,3862.91,972.99,17165.26
+Vietnam,Asia,Monthly,612.57,711.24,179.25,3161.52
+Virgin Islands (British),North America,Monthly,1600,1840,460,8180
+Virgin Islands (US),North America,Monthly,2380,2710,680,12000
+Western Sahara,Africa,Monthly,908.56,1011.67,254.86,4503.89
+Yemen,Asia,Monthly,120.98,133.36,33.62,594.93
+Zambia,Africa,Monthly,0.26133504,0.28552394,0.072092424,1.2711033
+Zimbabwe,Africa,Monthly,555.40204,602.37635,151.42305,2674.772
