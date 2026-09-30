@@ -1,1 +1,9 @@
 *_solutions.ipynb
+
+# Autoguardados de Jupyter
+.ipynb_checkpoints/
+
+# Datasets grandes (superan el límite de GitHub, se redescargan)
+data-science/stackoverflow/datasets/survey_results_public.csv
+data-science/youtube/datasets/youtube_trending_us.csv
+data-science/amazon/datasets/amazon_reviews_small.csv

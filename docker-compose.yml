@@ -1,0 +1,17 @@
+services:
+  pyspark:
+    # Imagen oficial de Jupyter con PySpark ya instalado (corre sobre Linux)
+    image: quay.io/jupyter/pyspark-notebook:latest
+    container_name: ejercicios-pyspark
+    ports:
+      - "8888:8888"   # Jupyter Lab
+      - "4040:4040"   # Spark UI (para ver los jobs en el vídeo)
+    volumes:
+      # Monta todo el repo dentro del contenedor
+      - ./:/home/jovyan/work
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      # Deja pyspark importable desde el kernel (el Spark de la imagen)
+      - PYTHONPATH=/usr/local/spark/python:/usr/local/spark/python/lib/py4j-0.10.9.9-src.zip
+    # Token fijo para entrar sin copiar el de los logs
+    command: start-notebook.py --IdentityProvider.token='spark'
