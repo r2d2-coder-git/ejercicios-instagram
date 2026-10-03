@@ -1,0 +1,1601 @@
+tienda_id,categoria,canal,pais,mes,pedidos,ticket_medio_usd,devoluciones
+SH400,Moda,Movil,Reino Unido,8,66,47.52,6
+SH401,Alimentacion,Web,Espana,3,70,34.51,0
+SH402,Mascotas,Social,Espana,3,62,54.98,1
+SH403,Hogar,Movil,Mexico,6,61,68.26,3
+SH404,Hogar,Web,Espana,2,52,93.69,3
+SH405,Alimentacion,Web,EEUU,11,55,23.04,2
+SH406,Moda,Movil,Canada,4,75,44.69,5
+SH407,Mascotas,Web,EEUU,9,62,49.86,4
+SH408,Belleza,Movil,EEUU,2,55,44.51,4
+SH409,Moda,POS,Mexico,8,48,48.4,3
+SH410,Deportes,Web,Reino Unido,3,54,70.83,3
+SH411,Juguetes,Web,Mexico,4,57,33.69,4
+SH412,Mascotas,POS,EEUU,5,64,48.94,4
+SH413,Alimentacion,Movil,Canada,2,60,34.04,3
+SH414,Mascotas,Web,Canada,2,61,60.08,6
+SH415,Alimentacion,Social,EEUU,10,64,30.47,7
+SH416,Deportes,Social,EEUU,5,50,74.46,4
+SH417,Belleza,Movil,Canada,7,57,41.75,4
+SH418,Alimentacion,Movil,EEUU,8,58,28.06,17
+SH419,Hogar,Web,Mexico,8,60,64.63,1
+SH420,Deportes,Web,EEUU,8,60,87.53,2
+SH421,Electronica,Movil,EEUU,12,55,125.38,4
+SH422,Belleza,Web,Espana,8,58,46.5,1
+SH423,Juguetes,Movil,EEUU,5,78,30.08,11
+SH424,Alimentacion,Social,Mexico,4,62,36.58,7
+SH425,Mascotas,Web,Espana,10,69,39.14,1
+SH426,Hogar,Movil,EEUU,6,59,94.62,4
+SH427,Alimentacion,Web,Reino Unido,7,52,34.5,2
+SH428,Deportes,Social,Reino Unido,10,50,52.97,1
+SH429,Hogar,Web,Espana,3,56,83.11,2
+SH430,Hogar,Movil,Espana,3,73,79.35,1
+SH431,Belleza,Movil,Reino Unido,1,58,36.36,2
+SH432,Moda,Movil,Reino Unido,1,59,48.71,11
+SH433,Deportes,Movil,EEUU,8,64,77.17,9
+SH434,Juguetes,Movil,Reino Unido,7,52,42.57,2
+SH435,Moda,Movil,Mexico,4,58,50.81,9
+SH436,Alimentacion,Social,Reino Unido,3,66,37.83,3
+SH437,Alimentacion,POS,Reino Unido,9,62,27.2,3
+SH438,Electronica,Movil,Canada,2,62,113.87,2
+SH439,Mascotas,Movil,Espana,9,47,50.16,7
+SH440,Belleza,Web,Mexico,11,49,31.2,1
+SH441,Alimentacion,Social,EEUU,6,70,27.34,6
+SH442,Mascotas,Movil,EEUU,6,54,47.69,19
+SH443,Electronica,Movil,Canada,7,63,132.05,7
+SH444,Moda,Web,Canada,2,65,47.27,10
+SH445,Juguetes,Social,Reino Unido,8,56,41.77,7
+SH446,Hogar,Movil,EEUU,5,62,76.97,14
+SH447,Juguetes,Movil,EEUU,6,73,44.63,6
+SH448,Mascotas,Web,Reino Unido,1,66,49.66,7
+SH449,Alimentacion,POS,Reino Unido,11,74,30.96,2
+SH450,Alimentacion,Web,Reino Unido,5,57,27.07,6
+SH451,Belleza,Web,Espana,1,68,46.54,1
+SH452,Electronica,Social,Reino Unido,10,67,124.54,6
+SH453,Hogar,POS,Espana,12,63,64.17,0
+SH454,Hogar,Web,Reino Unido,7,57,89.35,0
+SH455,Moda,Movil,Canada,1,78,63.85,5
+SH456,Deportes,Movil,Reino Unido,12,72,73.1,3
+SH457,Belleza,Social,EEUU,3,61,29.67,5
+SH458,Mascotas,Movil,EEUU,3,66,37.59,4
+SH459,Mascotas,Movil,Canada,9,59,47.5,4
+SH460,Juguetes,Movil,Mexico,4,61,42.67,2
+SH461,Mascotas,Movil,Reino Unido,2,61,46.55,2
+SH462,Electronica,Social,EEUU,9,66,109.45,6
+SH463,Juguetes,Movil,Reino Unido,4,58,30.87,1
+SH464,Hogar,Web,EEUU,11,60,78.73,2
+SH465,Electronica,POS,Espana,2,59,166.31,2
+SH466,Juguetes,Social,Espana,11,55,27.7,4
+SH467,Electronica,Social,Reino Unido,9,60,111.64,9
+SH468,Moda,Web,Reino Unido,3,63,48.73,11
+SH469,Hogar,Web,EEUU,7,73,57.51,1
+SH470,Alimentacion,Movil,Canada,12,60,31.98,1
+SH471,Belleza,Web,Mexico,1,61,31.57,3
+SH472,Hogar,POS,Espana,10,71,81.23,8
+SH473,Belleza,Movil,Canada,6,64,46.21,4
+SH474,Mascotas,Movil,EEUU,12,62,60.02,2
+SH475,Hogar,Social,EEUU,3,68,93.83,4
+SH476,Electronica,Movil,EEUU,9,64,130.96,4
+SH477,Belleza,Web,EEUU,12,66,29.46,1
+SH478,Deportes,Movil,EEUU,5,66,62.18,10
+SH479,Mascotas,Movil,Mexico,2,74,53.05,3
+SH480,Juguetes,Movil,Canada,5,49,28.26,1
+SH481,Hogar,Movil,EEUU,8,47,69.11,3
+SH482,Belleza,POS,EEUU,8,48,35.48,2
+SH483,Alimentacion,Movil,EEUU,6,62,26.34,7
+SH484,Mascotas,Web,Espana,12,56,52.98,1
+SH485,Mascotas,Movil,EEUU,7,53,51.73,0
+SH486,Moda,Movil,Espana,8,54,57.37,7
+SH487,Electronica,Web,Espana,12,49,184.51,2
+SH488,Alimentacion,Web,EEUU,12,67,24.3,10
+SH489,Alimentacion,Movil,Reino Unido,5,53,25.12,1
+SH490,Hogar,Web,Mexico,4,60,70.1,2
+SH491,Alimentacion,POS,EEUU,9,66,33.98,6
+SH492,Alimentacion,Web,EEUU,7,60,32.72,3
+SH493,Hogar,Web,Mexico,6,62,57.11,4
+SH494,Juguetes,Social,Mexico,9,65,47.13,5
+SH495,Electronica,Social,Canada,8,53,133.63,2
+SH496,Belleza,Web,Canada,11,57,36.84,7
+SH497,Mascotas,Web,EEUU,5,54,50.79,1
+SH498,Mascotas,Web,Espana,10,63,59.34,4
+SH499,Belleza,Movil,Canada,3,62,43.64,6
+SH500,Alimentacion,Movil,EEUU,12,89,39.21,5
+SH501,Belleza,Web,Reino Unido,2,66,33.0,4
+SH502,Alimentacion,Web,Mexico,10,46,33.33,4
+SH503,Moda,Movil,Espana,2,58,66.61,7
+SH504,Alimentacion,POS,EEUU,11,62,31.41,3
+SH505,Alimentacion,Movil,EEUU,12,68,28.84,7
+SH506,Alimentacion,Movil,Mexico,10,60,39.73,4
+SH507,Mascotas,Web,Mexico,10,66,37.95,4
+SH508,Hogar,Web,Canada,6,70,71.26,7
+SH509,Mascotas,Web,Reino Unido,3,53,57.43,7
+SH510,Electronica,Social,Canada,12,57,183.64,3
+SH511,Alimentacion,Social,EEUU,7,53,39.66,2
+SH512,Deportes,POS,EEUU,10,70,83.57,3
+SH513,Hogar,POS,EEUU,9,80,56.14,8
+SH514,Deportes,POS,EEUU,9,56,85.3,5
+SH515,Deportes,POS,Espana,5,65,65.98,10
+SH516,Moda,Web,EEUU,6,59,61.03,12
+SH517,Belleza,Web,EEUU,6,68,37.63,5
+SH518,Belleza,Web,Canada,8,54,47.03,4
+SH519,Moda,Movil,EEUU,9,59,58.64,6
+SH520,Hogar,Web,EEUU,3,56,89.51,9
+SH521,Mascotas,Social,Reino Unido,3,64,39.35,18
+SH522,Mascotas,Movil,EEUU,1,73,39.12,5
+SH523,Hogar,Movil,Reino Unido,7,73,72.5,3
+SH524,Alimentacion,Web,Mexico,9,48,22.58,0
+SH525,Deportes,Web,EEUU,3,47,76.17,5
+SH526,Moda,Web,Mexico,9,69,49.83,8
+SH527,Alimentacion,Social,Mexico,1,60,32.25,8
+SH528,Deportes,Movil,Espana,11,62,52.2,3
+SH529,Mascotas,Movil,Reino Unido,9,60,38.74,3
+SH530,Deportes,Web,Reino Unido,9,62,73.48,7
+SH531,Deportes,Movil,Reino Unido,9,77,61.27,8
+SH532,Moda,Movil,Reino Unido,5,61,47.26,7
+SH533,Deportes,Social,EEUU,12,55,58.31,8
+SH534,Alimentacion,Social,Mexico,9,76,26.26,6
+SH535,Electronica,Web,Reino Unido,3,70,160.32,4
+SH536,Deportes,POS,Espana,12,69,55.96,1
+SH537,Moda,Web,EEUU,9,64,51.93,9
+SH538,Electronica,Social,EEUU,4,53,165.78,3
+SH539,Hogar,Web,Canada,12,46,75.57,1
+SH540,Juguetes,Web,Canada,3,70,39.54,9
+SH541,Belleza,Social,Canada,8,61,34.42,7
+SH542,Electronica,Web,EEUU,9,51,186.35,8
+SH543,Hogar,Movil,EEUU,12,62,71.38,9
+SH544,Juguetes,Movil,Canada,7,67,33.03,0
+SH545,Alimentacion,Web,EEUU,12,61,38.33,7
+SH546,Moda,Movil,Mexico,4,53,61.14,6
+SH547,Belleza,Social,EEUU,10,65,42.55,0
+SH548,Alimentacion,Social,EEUU,3,72,38.02,2
+SH549,Moda,Web,EEUU,12,79,42.34,9
+SH550,Alimentacion,Movil,Canada,10,61,37.16,8
+SH551,Electronica,Web,Canada,8,55,164.94,2
+SH552,Juguetes,Web,Reino Unido,1,67,34.56,1
+SH553,Electronica,Web,Mexico,6,60,129.53,0
+SH554,Hogar,POS,EEUU,2,52,58.4,0
+SH555,Mascotas,Social,Reino Unido,12,56,59.23,3
+SH556,Belleza,Social,EEUU,5,61,31.98,4
+SH557,Deportes,Movil,EEUU,10,63,59.49,1
+SH558,Deportes,Movil,Canada,11,66,76.11,4
+SH559,Alimentacion,Movil,EEUU,2,73,34.93,8
+SH560,Juguetes,Movil,Reino Unido,10,61,30.38,1
+SH561,Mascotas,Movil,Reino Unido,4,54,55.86,5
+SH562,Hogar,Web,Espana,2,56,75.43,4
+SH563,Hogar,Web,Canada,4,66,89.64,3
+SH564,Hogar,POS,Reino Unido,7,53,57.67,2
+SH565,Alimentacion,Movil,EEUU,11,61,23.25,2
+SH566,Electronica,POS,EEUU,9,58,161.51,6
+SH567,Belleza,Web,EEUU,3,53,32.16,4
+SH568,Electronica,Movil,Reino Unido,4,52,152.1,8
+SH569,Moda,Web,Mexico,4,68,40.94,8
+SH570,Moda,Web,EEUU,9,60,65.07,3
+SH571,Moda,Web,Canada,7,74,68.84,14
+SH572,Alimentacion,Web,Espana,1,71,37.18,5
+SH573,Mascotas,POS,Espana,1,58,59.69,9
+SH574,Mascotas,Web,Canada,1,67,58.22,5
+SH575,Hogar,Movil,Reino Unido,12,55,72.65,10
+SH576,Mascotas,Movil,Reino Unido,7,62,44.8,2
+SH577,Belleza,Movil,Espana,6,56,48.87,2
+SH578,Juguetes,Movil,EEUU,10,64,46.47,4
+SH579,Deportes,Web,Mexico,3,63,86.95,2
+SH580,Juguetes,POS,EEUU,1,53,43.13,6
+SH581,Belleza,Social,Espana,4,55,33.32,1
+SH582,Hogar,Movil,EEUU,3,56,93.69,1
+SH583,Mascotas,Movil,EEUU,10,70,59.39,3
+SH584,Hogar,Web,EEUU,10,63,81.98,0
+SH585,Hogar,POS,Canada,8,69,90.01,5
+SH586,Belleza,Web,EEUU,11,56,41.37,2
+SH587,Hogar,Web,EEUU,6,41,93.65,0
+SH588,Belleza,Web,Canada,3,71,30.9,0
+SH589,Electronica,Social,EEUU,4,50,180.57,2
+SH590,Mascotas,Movil,Espana,2,58,35.68,0
+SH591,Mascotas,Social,Mexico,11,62,43.22,2
+SH592,Deportes,Social,Reino Unido,8,64,54.71,6
+SH593,Electronica,Web,EEUU,10,62,148.25,5
+SH594,Juguetes,POS,EEUU,4,52,31.88,7
+SH595,Moda,Movil,Mexico,9,59,70.49,6
+SH596,Electronica,Movil,EEUU,4,53,154.98,4
+SH597,Moda,Web,EEUU,6,52,68.78,3
+SH598,Electronica,POS,Mexico,8,73,131.36,6
+SH599,Juguetes,Web,Mexico,12,64,27.55,5
+SH600,Electronica,Web,EEUU,7,61,173.16,2
+SH601,Juguetes,Movil,Reino Unido,9,62,41.75,7
+SH602,Hogar,Web,Canada,8,60,76.91,2
+SH603,Mascotas,Web,Espana,6,68,55.89,5
+SH604,Hogar,Movil,EEUU,12,71,89.28,0
+SH605,Electronica,Movil,EEUU,12,68,157.38,6
+SH606,Alimentacion,POS,Reino Unido,4,56,39.4,5
+SH607,Juguetes,Web,EEUU,11,61,42.11,3
+SH608,Electronica,Movil,Reino Unido,6,55,164.86,7
+SH609,Alimentacion,Movil,EEUU,9,60,28.82,1
+SH610,Electronica,Movil,Mexico,7,70,108.19,7
+SH611,Mascotas,Movil,Espana,10,64,40.61,1
+SH612,Alimentacion,Movil,Canada,11,51,35.87,6
+SH613,Hogar,POS,Espana,6,59,83.81,2
+SH614,Mascotas,Web,EEUU,9,67,43.01,2
+SH615,Electronica,Web,Canada,7,63,160.55,1
+SH616,Moda,Movil,EEUU,10,71,46.65,6
+SH617,Moda,Social,Mexico,3,50,48.8,8
+SH618,Hogar,Web,Espana,9,59,93.79,0
+SH619,Juguetes,Movil,Mexico,8,67,35.68,1
+SH620,Belleza,Social,Mexico,6,48,34.29,4
+SH621,Hogar,Movil,Mexico,5,67,74.46,10
+SH622,Mascotas,POS,EEUU,9,66,44.49,3
+SH623,Belleza,Movil,Mexico,5,54,45.14,0
+SH624,Mascotas,Movil,Reino Unido,1,68,59.79,2
+SH625,Electronica,Web,Canada,12,64,157.71,2
+SH626,Alimentacion,POS,Reino Unido,6,61,32.85,3
+SH627,Deportes,Movil,EEUU,2,65,63.55,2
+SH628,Deportes,Movil,EEUU,3,51,71.24,0
+SH629,Belleza,Movil,EEUU,10,43,35.95,4
+SH630,Hogar,Movil,EEUU,4,58,54.05,2
+SH631,Alimentacion,Movil,Canada,4,66,37.66,2
+SH632,Moda,Movil,Mexico,6,47,54.03,4
+SH633,Alimentacion,POS,Reino Unido,1,55,31.11,0
+SH634,Hogar,Movil,Canada,7,68,57.51,9
+SH635,Mascotas,Movil,Canada,1,56,56.47,1
+SH636,Mascotas,Web,Canada,11,52,38.73,2
+SH637,Hogar,Movil,EEUU,6,67,71.25,7
+SH638,Electronica,Movil,Espana,3,62,178.58,1
+SH639,Mascotas,Web,EEUU,6,56,46.38,4
+SH640,Belleza,Web,Reino Unido,3,52,49.66,4
+SH641,Deportes,Movil,Espana,4,70,57.56,4
+SH642,Moda,Movil,Reino Unido,2,69,63.03,6
+SH643,Mascotas,Movil,Mexico,9,61,60.21,1
+SH644,Mascotas,Web,EEUU,12,65,48.82,3
+SH645,Moda,Web,Mexico,6,65,62.3,6
+SH646,Alimentacion,Web,Espana,2,61,29.38,3
+SH647,Hogar,Social,Espana,1,64,85.56,3
+SH648,Alimentacion,Social,Reino Unido,10,54,38.41,2
+SH649,Moda,Web,Espana,5,66,62.65,5
+SH650,Belleza,Movil,Mexico,4,59,49.76,4
+SH651,Hogar,Web,Canada,2,57,78.72,2
+SH652,Belleza,Web,Espana,8,64,41.73,12
+SH653,Electronica,Web,Espana,1,66,133.59,1
+SH654,Mascotas,Web,Canada,11,71,53.08,5
+SH655,Belleza,Movil,Mexico,3,50,48.56,4
+SH656,Mascotas,POS,EEUU,1,71,51.39,0
+SH657,Moda,Web,Reino Unido,9,65,47.84,7
+SH658,Belleza,Movil,EEUU,5,57,40.99,6
+SH659,Deportes,Movil,EEUU,9,51,78.6,3
+SH660,Alimentacion,POS,Espana,1,60,38.94,8
+SH661,Belleza,Movil,EEUU,11,64,32.31,7
+SH662,Electronica,Web,EEUU,4,50,118.71,2
+SH663,Juguetes,Movil,EEUU,10,70,35.67,0
+SH664,Juguetes,Web,Canada,12,53,29.64,5
+SH665,Deportes,POS,Espana,7,56,87.25,6
+SH666,Hogar,Movil,Mexico,5,57,71.82,12
+SH667,Electronica,Movil,EEUU,4,64,152.82,7
+SH668,Deportes,Web,Reino Unido,9,57,58.24,2
+SH669,Deportes,Movil,Canada,1,53,66.79,5
+SH670,Electronica,Social,Reino Unido,2,53,190.71,5
+SH671,Moda,Movil,Canada,8,60,55.89,5
+SH672,Belleza,Movil,EEUU,1,74,29.0,4
+SH673,Juguetes,POS,Canada,4,56,32.09,6
+SH674,Hogar,Social,Reino Unido,8,70,95.1,3
+SH675,Hogar,Web,Canada,4,51,95.54,5
+SH676,Hogar,Movil,Canada,12,59,62.84,3
+SH677,Alimentacion,Movil,Espana,12,72,33.27,9
+SH678,Moda,Movil,Espana,1,63,42.92,6
+SH679,Moda,Web,EEUU,3,65,58.69,4
+SH680,Electronica,Web,Espana,11,60,118.58,3
+SH681,Hogar,POS,Espana,1,63,88.38,7
+SH682,Mascotas,POS,EEUU,6,69,59.19,3
+SH683,Hogar,Social,Reino Unido,12,71,61.27,7
+SH684,Hogar,POS,EEUU,8,52,73.43,1
+SH685,Juguetes,Movil,Espana,4,65,29.14,3
+SH686,Belleza,Social,EEUU,1,50,36.4,1
+SH687,Deportes,Social,Reino Unido,5,77,52.01,6
+SH688,Deportes,Movil,EEUU,7,67,59.69,4
+SH689,Hogar,Movil,Canada,1,56,95.59,11
+SH690,Alimentacion,Web,Mexico,7,70,23.28,0
+SH691,Electronica,Movil,EEUU,5,60,180.15,10
+SH692,Juguetes,Web,Mexico,4,66,28.63,2
+SH693,Electronica,Web,Mexico,12,59,152.44,2
+SH694,Deportes,Movil,Mexico,11,59,66.91,6
+SH695,Deportes,Movil,EEUU,9,61,85.36,12
+SH696,Alimentacion,Web,Espana,8,57,25.98,8
+SH697,Hogar,Social,EEUU,6,51,61.55,10
+SH698,Electronica,Social,EEUU,1,48,170.89,0
+SH699,Moda,Web,Mexico,4,52,63.36,7
+SH400,Electronica,Web,Reino Unido,1,68,166.73,5
+SH401,Alimentacion,Web,Canada,5,63,22.96,5
+SH402,Moda,Social,EEUU,6,62,48.69,6
+SH403,Juguetes,Social,Espana,8,57,44.64,6
+SH404,Deportes,Web,Reino Unido,5,61,72.63,2
+SH405,Belleza,Social,Canada,4,60,42.29,4
+SH406,Electronica,Web,Mexico,9,55,132.86,0
+SH407,Deportes,Movil,EEUU,2,47,59.52,1
+SH408,Electronica,POS,EEUU,2,69,187.51,2
+SH409,Moda,Web,Reino Unido,9,63,63.42,9
+SH410,Mascotas,Web,Mexico,8,57,37.57,0
+SH411,Mascotas,Movil,EEUU,11,57,59.14,1
+SH412,Moda,Movil,EEUU,9,73,58.84,6
+SH413,Electronica,POS,EEUU,11,65,136.0,6
+SH414,Belleza,POS,Mexico,8,51,37.7,4
+SH415,Mascotas,Web,EEUU,11,54,53.5,5
+SH416,Mascotas,Web,Canada,3,68,44.21,4
+SH417,Mascotas,Social,Mexico,7,47,49.59,10
+SH418,Juguetes,Web,EEUU,12,60,41.92,3
+SH419,Alimentacion,Social,Canada,10,71,25.92,9
+SH420,Electronica,Movil,Canada,5,53,187.32,2
+SH421,Moda,Web,Espana,12,58,51.72,6
+SH422,Deportes,Social,EEUU,4,75,65.65,4
+SH423,Juguetes,Web,EEUU,1,61,41.67,6
+SH424,Juguetes,Movil,EEUU,10,74,39.78,7
+SH425,Belleza,Movil,Espana,5,60,38.66,11
+SH426,Belleza,Movil,Espana,1,65,43.35,2
+SH427,Moda,Movil,EEUU,3,54,68.94,5
+SH428,Belleza,Movil,EEUU,1,64,46.73,2
+SH429,Deportes,POS,Mexico,12,59,81.23,0
+SH430,Deportes,POS,EEUU,11,56,59.45,1
+SH431,Electronica,Movil,EEUU,12,74,143.23,5
+SH432,Electronica,Web,Canada,3,57,154.52,2
+SH433,Alimentacion,Movil,EEUU,10,51,23.27,4
+SH434,Hogar,POS,EEUU,7,61,86.33,3
+SH435,Alimentacion,Web,Canada,4,56,28.16,1
+SH436,Juguetes,Movil,EEUU,9,57,32.93,4
+SH437,Electronica,Movil,Canada,12,53,129.78,2
+SH438,Belleza,Web,Reino Unido,6,70,35.15,2
+SH439,Juguetes,Movil,Reino Unido,1,60,34.1,1
+SH440,Mascotas,Movil,EEUU,11,43,50.29,1
+SH441,Electronica,Social,Espana,3,69,157.02,5
+SH442,Deportes,Social,EEUU,3,59,59.34,3
+SH443,Deportes,Social,Espana,8,59,57.45,4
+SH444,Juguetes,Movil,EEUU,10,61,44.35,7
+SH445,Electronica,Web,Espana,10,61,115.79,0
+SH446,Juguetes,Movil,EEUU,11,59,37.77,2
+SH447,Juguetes,Social,EEUU,11,55,37.93,1
+SH448,Belleza,Movil,Canada,2,62,41.66,2
+SH449,Belleza,Social,EEUU,4,66,48.64,0
+SH450,Deportes,Web,EEUU,9,65,73.52,2
+SH451,Moda,Social,Espana,5,59,71.17,7
+SH452,Electronica,Web,Espana,9,53,181.19,3
+SH453,Hogar,Web,EEUU,6,63,63.02,6
+SH454,Juguetes,Movil,Mexico,6,65,32.06,2
+SH455,Juguetes,Web,Espana,1,57,34.24,6
+SH456,Belleza,Web,Mexico,8,47,37.57,8
+SH457,Juguetes,Web,Reino Unido,11,50,38.61,8
+SH458,Moda,Movil,Reino Unido,10,72,47.82,14
+SH459,Mascotas,Social,Canada,5,56,40.11,3
+SH460,Alimentacion,Web,Reino Unido,9,59,29.17,3
+SH461,Juguetes,Movil,Mexico,3,51,41.11,1
+SH462,Belleza,Social,EEUU,8,51,44.21,4
+SH463,Juguetes,Web,EEUU,5,53,47.5,3
+SH464,Moda,Web,EEUU,12,69,46.88,10
+SH465,Deportes,Social,Mexico,9,60,64.63,2
+SH466,Hogar,Social,Canada,1,61,94.52,5
+SH467,Electronica,Movil,Reino Unido,11,55,165.96,3
+SH468,Moda,Social,Espana,9,65,59.16,6
+SH469,Alimentacion,Web,Mexico,3,56,31.94,11
+SH470,Electronica,Movil,EEUU,4,60,114.34,1
+SH471,Mascotas,Movil,Espana,3,59,57.96,3
+SH472,Hogar,Web,Mexico,4,66,80.27,3
+SH473,Electronica,Social,EEUU,12,61,156.02,4
+SH474,Juguetes,Movil,Espana,11,54,38.33,1
+SH475,Moda,Social,EEUU,7,58,52.85,9
+SH476,Mascotas,Movil,Reino Unido,5,52,40.97,2
+SH477,Mascotas,Movil,Canada,5,63,54.29,7
+SH478,Hogar,Web,EEUU,12,50,75.4,1
+SH479,Electronica,Web,EEUU,3,54,110.85,0
+SH480,Moda,Social,EEUU,10,60,53.07,6
+SH481,Juguetes,Web,EEUU,12,65,46.5,5
+SH482,Juguetes,Web,Reino Unido,11,54,34.85,1
+SH483,Belleza,Web,EEUU,9,72,38.06,7
+SH484,Moda,Web,EEUU,11,61,60.15,8
+SH485,Moda,Social,Reino Unido,3,53,65.75,4
+SH486,Moda,Movil,Reino Unido,12,66,61.56,5
+SH487,Alimentacion,POS,Canada,2,72,37.38,1
+SH488,Juguetes,Web,Mexico,1,65,29.39,6
+SH489,Belleza,Movil,EEUU,3,50,49.51,0
+SH490,Mascotas,Movil,Espana,8,58,58.24,0
+SH491,Belleza,Movil,EEUU,3,57,40.43,1
+SH492,Electronica,Social,Espana,8,67,160.48,4
+SH493,Deportes,POS,Mexico,2,74,57.69,1
+SH494,Mascotas,Social,Espana,9,58,46.12,6
+SH495,Alimentacion,Web,Reino Unido,3,56,26.05,5
+SH496,Moda,Web,Reino Unido,7,60,41.19,11
+SH497,Belleza,Movil,EEUU,2,54,50.77,2
+SH498,Electronica,Web,Reino Unido,12,66,129.77,1
+SH499,Electronica,Movil,Espana,5,67,157.82,11
+SH500,Juguetes,Movil,Mexico,8,68,33.31,0
+SH501,Alimentacion,Movil,Canada,6,64,28.99,1
+SH502,Electronica,Social,EEUU,8,58,141.41,8
+SH503,Juguetes,Movil,Reino Unido,6,64,34.04,3
+SH504,Hogar,Web,EEUU,1,71,80.77,3
+SH505,Deportes,Web,EEUU,10,62,86.5,1
+SH506,Hogar,Movil,EEUU,8,63,72.0,1
+SH507,Belleza,Movil,Espana,4,65,50.6,2
+SH508,Juguetes,Web,EEUU,2,54,41.02,6
+SH509,Moda,Movil,EEUU,11,54,59.62,5
+SH510,Belleza,Social,EEUU,4,71,34.11,3
+SH511,Belleza,Social,Mexico,11,58,30.21,5
+SH512,Electronica,Movil,Reino Unido,10,52,179.56,1
+SH513,Belleza,Movil,EEUU,12,61,41.66,2
+SH514,Moda,Web,EEUU,8,54,53.55,5
+SH515,Mascotas,Movil,Canada,3,58,55.8,4
+SH516,Juguetes,Web,EEUU,1,64,33.52,4
+SH517,Moda,Movil,Reino Unido,3,57,65.18,7
+SH518,Electronica,Movil,Canada,6,63,135.55,10
+SH519,Deportes,Web,Mexico,8,60,84.95,0
+SH520,Juguetes,Web,EEUU,11,74,32.63,1
+SH521,Mascotas,Web,Reino Unido,2,56,37.86,2
+SH522,Alimentacion,Social,EEUU,8,56,34.72,0
+SH523,Deportes,Movil,Mexico,2,64,55.77,1
+SH524,Hogar,Web,Mexico,6,74,93.87,0
+SH525,Belleza,Social,Espana,1,66,43.48,2
+SH526,Alimentacion,Movil,Canada,5,63,26.54,8
+SH527,Alimentacion,Movil,EEUU,8,52,26.15,1
+SH528,Moda,POS,Espana,9,58,69.6,7
+SH529,Mascotas,Web,Espana,10,54,50.37,5
+SH530,Moda,Web,EEUU,7,67,68.65,8
+SH531,Mascotas,Movil,Canada,4,42,37.13,0
+SH532,Alimentacion,Web,Canada,11,68,38.69,7
+SH533,Belleza,Movil,Espana,12,66,40.45,1
+SH534,Hogar,Web,Reino Unido,12,54,82.07,2
+SH535,Moda,Web,Reino Unido,10,54,52.25,9
+SH536,Deportes,Web,Reino Unido,10,53,51.78,0
+SH537,Juguetes,Movil,EEUU,1,61,47.12,8
+SH538,Moda,Web,EEUU,7,63,71.83,7
+SH539,Hogar,Web,EEUU,5,74,69.31,4
+SH540,Juguetes,Social,Espana,4,72,46.82,3
+SH541,Electronica,Web,Canada,1,64,122.09,10
+SH542,Belleza,Movil,Canada,3,59,32.26,4
+SH543,Hogar,Web,EEUU,11,63,57.07,8
+SH544,Deportes,Movil,EEUU,11,43,64.56,0
+SH545,Mascotas,Web,Reino Unido,9,64,35.59,0
+SH546,Electronica,Movil,EEUU,2,72,141.15,8
+SH547,Juguetes,Web,EEUU,9,72,29.91,4
+SH548,Deportes,Social,Espana,2,55,77.63,1
+SH549,Electronica,POS,EEUU,9,57,178.0,4
+SH550,Juguetes,Web,EEUU,1,54,41.44,8
+SH551,Juguetes,Web,Canada,4,54,31.21,3
+SH552,Hogar,Web,Espana,2,62,86.21,6
+SH553,Moda,Movil,EEUU,12,69,48.36,11
+SH554,Deportes,Web,Espana,7,62,78.74,2
+SH555,Deportes,Social,Mexico,12,63,71.34,8
+SH556,Belleza,Social,Reino Unido,1,52,37.01,3
+SH557,Mascotas,Social,Canada,9,56,36.42,7
+SH558,Alimentacion,Movil,Espana,6,74,36.98,14
+SH559,Moda,POS,Canada,6,64,70.1,5
+SH560,Mascotas,Web,EEUU,11,56,51.91,3
+SH561,Belleza,Movil,Canada,1,56,50.41,10
+SH562,Mascotas,Web,EEUU,12,60,59.05,3
+SH563,Hogar,POS,EEUU,1,61,62.17,4
+SH564,Moda,Movil,EEUU,5,57,63.53,6
+SH565,Juguetes,Social,EEUU,2,53,34.34,1
+SH566,Belleza,Web,EEUU,7,59,39.72,9
+SH567,Deportes,POS,Canada,8,76,55.54,6
+SH568,Belleza,Movil,Mexico,8,68,50.64,4
+SH569,Juguetes,Movil,EEUU,10,76,42.25,1
+SH570,Mascotas,POS,Reino Unido,10,59,41.3,2
+SH571,Alimentacion,Movil,Canada,12,57,29.0,3
+SH572,Hogar,Movil,EEUU,6,65,71.74,8
+SH573,Hogar,Movil,EEUU,3,69,85.4,11
+SH574,Mascotas,Web,EEUU,2,62,58.82,2
+SH575,Alimentacion,Web,EEUU,4,69,28.13,0
+SH576,Alimentacion,Web,EEUU,8,52,30.77,5
+SH577,Moda,Web,EEUU,1,61,59.19,6
+SH578,Mascotas,Social,Canada,12,52,44.66,5
+SH579,Moda,Movil,EEUU,12,63,56.38,11
+SH580,Electronica,Movil,EEUU,2,44,116.88,1
+SH581,Alimentacion,Movil,EEUU,10,64,25.43,1
+SH582,Electronica,Movil,Canada,8,59,141.69,5
+SH583,Alimentacion,Movil,EEUU,6,62,38.51,5
+SH584,Hogar,POS,Canada,9,60,68.67,2
+SH585,Belleza,POS,EEUU,7,56,34.4,0
+SH586,Electronica,Movil,EEUU,4,54,170.4,2
+SH587,Deportes,Web,Mexico,7,71,86.04,2
+SH588,Alimentacion,Movil,EEUU,2,45,30.53,1
+SH589,Deportes,Movil,EEUU,4,54,49.83,1
+SH590,Juguetes,Movil,EEUU,12,64,41.45,5
+SH591,Alimentacion,Movil,Mexico,3,57,29.76,0
+SH592,Alimentacion,Movil,Reino Unido,8,57,34.29,3
+SH593,Deportes,Web,Reino Unido,4,72,60.19,1
+SH594,Electronica,Web,Mexico,6,72,108.2,3
+SH595,Hogar,Movil,EEUU,3,65,68.47,6
+SH596,Moda,Web,Mexico,7,60,62.7,6
+SH597,Electronica,Web,EEUU,7,46,141.02,2
+SH598,Juguetes,Movil,Reino Unido,8,57,31.6,2
+SH599,Hogar,Movil,Canada,4,60,73.49,3
+SH600,Moda,Web,EEUU,7,51,64.2,3
+SH601,Mascotas,Movil,Mexico,9,64,37.38,4
+SH602,Juguetes,Social,EEUU,9,58,41.53,2
+SH603,Alimentacion,Web,Mexico,7,50,34.18,1
+SH604,Electronica,Social,EEUU,4,66,139.14,0
+SH605,Hogar,POS,Reino Unido,7,70,94.75,3
+SH606,Deportes,Movil,Mexico,7,53,83.95,0
+SH607,Belleza,Movil,EEUU,12,53,35.88,1
+SH608,Electronica,Web,Mexico,5,61,110.61,0
+SH609,Belleza,POS,Reino Unido,4,65,35.71,5
+SH610,Juguetes,Movil,Reino Unido,9,72,31.3,3
+SH611,Mascotas,POS,EEUU,8,63,48.76,3
+SH612,Alimentacion,Movil,Canada,6,50,38.58,0
+SH613,Alimentacion,Web,Reino Unido,1,60,37.73,3
+SH614,Juguetes,Web,Canada,9,67,33.42,0
+SH615,Moda,Movil,EEUU,9,55,54.0,4
+SH616,Juguetes,Movil,EEUU,12,52,27.77,6
+SH617,Moda,Web,Espana,7,52,57.64,4
+SH618,Hogar,Movil,EEUU,7,47,56.66,2
+SH619,Deportes,Social,Reino Unido,3,60,85.64,7
+SH620,Electronica,Movil,Mexico,6,59,180.82,0
+SH621,Belleza,Movil,EEUU,1,58,33.6,7
+SH622,Belleza,Web,EEUU,7,56,44.47,7
+SH623,Alimentacion,Social,Reino Unido,9,49,32.44,7
+SH624,Electronica,Web,EEUU,10,49,175.31,1
+SH625,Electronica,Social,Reino Unido,8,60,147.95,7
+SH626,Juguetes,Movil,Reino Unido,10,51,31.03,0
+SH627,Belleza,Movil,Reino Unido,8,53,43.13,4
+SH628,Juguetes,Web,EEUU,10,59,28.69,5
+SH629,Juguetes,Web,Reino Unido,6,66,39.28,0
+SH630,Deportes,Social,Reino Unido,8,53,57.69,1
+SH631,Belleza,Movil,EEUU,8,60,44.14,5
+SH632,Belleza,Movil,Reino Unido,7,51,47.35,4
+SH633,Electronica,POS,Mexico,7,56,117.2,15
+SH634,Deportes,POS,Reino Unido,10,60,64.91,9
+SH635,Belleza,Social,Canada,3,61,45.23,2
+SH636,Hogar,Web,EEUU,4,49,60.88,0
+SH637,Moda,Movil,EEUU,7,60,58.35,3
+SH638,Deportes,Social,EEUU,8,55,75.37,4
+SH639,Moda,Movil,EEUU,7,63,51.68,7
+SH640,Mascotas,Web,Mexico,3,59,56.33,2
+SH641,Moda,Social,EEUU,10,64,56.59,13
+SH642,Belleza,Movil,Espana,7,52,42.84,5
+SH643,Belleza,Movil,EEUU,6,58,31.96,0
+SH644,Alimentacion,POS,EEUU,11,57,22.91,4
+SH645,Moda,Movil,EEUU,6,74,42.1,9
+SH646,Hogar,Movil,EEUU,2,58,91.96,1
+SH647,Deportes,Movil,Espana,12,63,83.48,0
+SH648,Deportes,Movil,Mexico,5,53,80.59,7
+SH649,Mascotas,Web,Mexico,11,80,39.51,8
+SH650,Alimentacion,Social,EEUU,7,53,31.7,1
+SH651,Hogar,Social,Espana,3,68,87.44,1
+SH652,Alimentacion,Web,EEUU,5,56,34.31,4
+SH653,Electronica,Web,Mexico,11,57,117.7,3
+SH654,Juguetes,Social,Canada,12,71,45.81,4
+SH655,Deportes,Web,EEUU,2,67,55.69,0
+SH656,Mascotas,Movil,EEUU,12,55,38.77,0
+SH657,Juguetes,Movil,EEUU,11,62,45.92,2
+SH658,Alimentacion,Movil,EEUU,8,66,30.98,4
+SH659,Alimentacion,Web,Mexico,3,53,29.03,7
+SH660,Deportes,Movil,Espana,8,59,70.82,1
+SH661,Moda,Movil,Mexico,6,57,71.41,3
+SH662,Hogar,Movil,EEUU,2,57,59.02,3
+SH663,Belleza,Web,Reino Unido,12,59,45.76,5
+SH664,Juguetes,Movil,EEUU,8,48,34.02,1
+SH665,Belleza,Movil,Canada,2,71,31.42,10
+SH666,Belleza,Web,EEUU,5,51,38.25,11
+SH667,Belleza,Web,EEUU,11,63,41.09,9
+SH668,Mascotas,Web,Reino Unido,6,60,39.68,7
+SH669,Deportes,Web,EEUU,6,67,65.1,6
+SH670,Juguetes,Web,Canada,2,55,40.35,5
+SH671,Hogar,POS,Reino Unido,2,58,78.21,1
+SH672,Electronica,Movil,EEUU,12,66,168.75,3
+SH673,Moda,Social,Mexico,12,69,66.85,9
+SH674,Moda,POS,Canada,2,57,53.39,8
+SH675,Electronica,Web,Espana,7,71,143.53,7
+SH676,Juguetes,Movil,Reino Unido,9,56,37.43,5
+SH677,Deportes,Social,Reino Unido,11,66,71.3,4
+SH678,Juguetes,Movil,Reino Unido,7,65,29.27,2
+SH679,Moda,Movil,Mexico,11,74,50.35,8
+SH680,Moda,Movil,Reino Unido,2,65,45.91,7
+SH681,Alimentacion,Web,EEUU,1,63,29.25,2
+SH682,Moda,Movil,EEUU,6,58,71.16,5
+SH683,Moda,POS,Reino Unido,4,64,58.86,4
+SH684,Hogar,POS,EEUU,10,59,72.03,3
+SH685,Juguetes,Web,EEUU,5,69,38.88,6
+SH686,Mascotas,Movil,EEUU,5,64,52.0,2
+SH687,Moda,Web,Canada,7,55,54.2,11
+SH688,Alimentacion,POS,EEUU,12,54,30.33,4
+SH689,Alimentacion,Web,Reino Unido,1,54,34.77,7
+SH690,Alimentacion,POS,Espana,7,68,23.57,5
+SH691,Juguetes,Social,Espana,5,55,38.34,1
+SH692,Belleza,Web,EEUU,1,48,41.06,2
+SH693,Juguetes,Web,Canada,10,60,42.89,8
+SH694,Electronica,Social,Reino Unido,11,62,190.54,2
+SH695,Alimentacion,Web,Canada,3,59,36.43,1
+SH696,Deportes,Movil,Reino Unido,10,57,68.9,3
+SH697,Alimentacion,POS,EEUU,9,65,25.47,3
+SH698,Mascotas,Movil,Mexico,9,65,49.85,5
+SH699,Mascotas,Movil,EEUU,6,58,56.39,3
+SH400,Deportes,Movil,Espana,4,62,85.4,9
+SH401,Alimentacion,Web,Reino Unido,1,58,36.94,0
+SH402,Mascotas,POS,EEUU,1,54,39.23,7
+SH403,Belleza,Web,Espana,3,55,44.76,1
+SH404,Alimentacion,Web,EEUU,7,57,37.9,3
+SH405,Deportes,Web,Espana,2,66,75.72,3
+SH406,Electronica,POS,Reino Unido,9,52,165.6,1
+SH407,Deportes,Web,EEUU,8,58,68.76,3
+SH408,Juguetes,Social,EEUU,5,68,40.38,4
+SH409,Alimentacion,Movil,Espana,2,76,27.65,6
+SH410,Alimentacion,Social,EEUU,7,78,24.05,3
+SH411,Hogar,POS,Mexico,10,75,88.76,2
+SH412,Alimentacion,Social,Espana,5,58,39.01,0
+SH413,Hogar,POS,Reino Unido,10,65,89.99,3
+SH414,Mascotas,Web,EEUU,4,66,43.08,0
+SH415,Mascotas,Social,Reino Unido,1,69,36.69,20
+SH416,Belleza,Movil,Mexico,8,77,35.08,8
+SH417,Electronica,Movil,EEUU,11,51,178.8,2
+SH418,Moda,Social,EEUU,11,69,61.16,5
+SH419,Belleza,POS,EEUU,12,81,50.45,5
+SH420,Hogar,Movil,EEUU,2,69,68.39,1
+SH421,Hogar,Movil,Espana,1,62,77.16,12
+SH422,Belleza,Movil,Canada,7,67,46.5,3
+SH423,Hogar,Movil,Reino Unido,12,75,63.83,6
+SH424,Deportes,Movil,EEUU,12,53,86.62,2
+SH425,Belleza,Movil,EEUU,4,53,42.07,3
+SH426,Electronica,Web,EEUU,5,65,108.66,3
+SH427,Electronica,Web,Espana,8,50,110.11,1
+SH428,Deportes,Social,Reino Unido,11,68,83.47,5
+SH429,Electronica,Movil,EEUU,3,61,162.2,12
+SH430,Mascotas,POS,Espana,12,64,54.5,4
+SH431,Electronica,Movil,EEUU,10,77,173.86,11
+SH432,Hogar,Web,EEUU,1,65,71.66,1
+SH433,Hogar,Web,EEUU,11,54,87.54,3
+SH434,Belleza,Web,Mexico,8,35,49.8,2
+SH435,Mascotas,POS,Reino Unido,12,57,38.78,10
+SH436,Belleza,Web,Reino Unido,3,72,45.92,4
+SH437,Electronica,Movil,EEUU,12,59,133.85,2
+SH438,Alimentacion,POS,EEUU,1,57,28.13,3
+SH439,Juguetes,POS,Reino Unido,1,55,35.67,6
+SH440,Mascotas,Web,EEUU,6,71,57.17,7
+SH441,Juguetes,Web,Mexico,8,82,27.46,8
+SH442,Alimentacion,Web,Espana,3,52,30.09,1
+SH443,Hogar,Web,Canada,4,50,82.56,1
+SH444,Alimentacion,Web,Espana,5,71,24.43,1
+SH445,Electronica,Movil,Mexico,2,52,174.55,2
+SH446,Hogar,POS,Canada,3,68,93.56,1
+SH447,Deportes,Movil,Reino Unido,2,49,53.0,2
+SH448,Juguetes,Movil,Mexico,12,60,30.21,3
+SH449,Alimentacion,Web,EEUU,12,53,39.55,2
+SH450,Hogar,Social,Mexico,8,51,62.31,0
+SH451,Mascotas,Movil,EEUU,9,60,36.3,3
+SH452,Belleza,Social,Reino Unido,2,59,50.13,2
+SH453,Alimentacion,POS,Espana,1,56,38.12,2
+SH454,Deportes,Web,Reino Unido,5,56,74.75,3
+SH455,Deportes,Web,Canada,12,57,70.73,1
+SH456,Alimentacion,Web,Reino Unido,6,61,38.59,5
+SH457,Mascotas,Movil,EEUU,10,70,51.64,4
+SH458,Moda,POS,EEUU,5,56,61.24,17
+SH459,Electronica,Movil,EEUU,4,58,178.87,8
+SH460,Belleza,Social,Reino Unido,10,81,43.43,3
+SH461,Mascotas,Movil,Canada,6,63,47.6,1
+SH462,Moda,Web,EEUU,9,62,52.78,13
+SH463,Belleza,Web,Mexico,9,65,40.07,3
+SH464,Deportes,Movil,EEUU,9,56,69.62,4
+SH465,Mascotas,Movil,Canada,9,57,43.8,7
+SH466,Deportes,Movil,EEUU,10,65,66.75,9
+SH467,Alimentacion,Web,EEUU,6,56,36.53,3
+SH468,Juguetes,Movil,Espana,4,65,35.75,2
+SH469,Belleza,Web,Canada,7,75,29.37,8
+SH470,Juguetes,POS,EEUU,4,49,32.94,0
+SH471,Deportes,Web,Mexico,1,76,58.42,5
+SH472,Mascotas,Web,Espana,5,65,55.31,4
+SH473,Moda,Movil,Espana,7,52,54.65,9
+SH474,Deportes,Movil,Mexico,7,61,60.29,3
+SH475,Mascotas,Movil,Mexico,5,57,55.76,5
+SH476,Deportes,Movil,EEUU,9,70,50.24,5
+SH477,Moda,POS,Reino Unido,4,66,45.99,5
+SH478,Deportes,Movil,Reino Unido,8,57,81.34,1
+SH479,Juguetes,Movil,EEUU,4,62,38.56,6
+SH480,Mascotas,Movil,EEUU,12,61,54.78,13
+SH481,Belleza,Web,EEUU,8,59,47.58,3
+SH482,Juguetes,Movil,Reino Unido,7,63,46.78,1
+SH483,Juguetes,Web,Espana,6,63,28.33,5
+SH484,Belleza,Movil,Espana,10,74,46.7,2
+SH485,Alimentacion,Web,EEUU,6,63,34.9,4
+SH486,Hogar,POS,EEUU,10,62,62.7,3
+SH487,Deportes,Movil,Canada,2,62,85.37,6
+SH488,Hogar,Social,Canada,10,45,70.98,1
+SH489,Alimentacion,Movil,Mexico,12,59,38.03,3
+SH490,Juguetes,Web,Mexico,3,56,39.71,10
+SH491,Alimentacion,Social,Mexico,3,64,31.72,11
+SH492,Juguetes,Movil,Espana,12,60,30.35,1
+SH493,Juguetes,Social,Mexico,5,63,46.2,5
+SH494,Moda,Movil,Canada,9,60,58.03,20
+SH495,Electronica,Movil,EEUU,3,64,108.51,10
+SH496,Mascotas,Social,EEUU,6,67,34.69,6
+SH497,Deportes,Movil,EEUU,9,45,79.44,3
+SH498,Moda,Web,EEUU,11,59,45.6,6
+SH499,Moda,Movil,EEUU,6,59,59.36,3
+SH500,Deportes,Movil,Mexico,1,50,75.72,1
+SH501,Deportes,POS,EEUU,5,55,60.26,5
+SH502,Belleza,Movil,Mexico,8,58,41.55,2
+SH503,Belleza,Movil,Espana,11,68,34.18,3
+SH504,Belleza,Social,Reino Unido,11,64,50.0,1
+SH505,Deportes,Movil,Reino Unido,10,63,82.62,1
+SH506,Moda,Movil,EEUU,2,59,49.57,4
+SH507,Deportes,Movil,Reino Unido,7,72,69.86,4
+SH508,Hogar,Web,EEUU,7,63,75.03,5
+SH509,Hogar,Movil,Mexico,6,56,94.32,0
+SH510,Mascotas,Web,EEUU,12,74,44.68,3
+SH511,Deportes,Web,EEUU,12,51,71.15,3
+SH512,Mascotas,Movil,Reino Unido,3,59,58.9,2
+SH513,Alimentacion,Movil,Reino Unido,12,62,25.35,4
+SH514,Juguetes,Social,Canada,11,54,38.56,6
+SH515,Alimentacion,Web,Reino Unido,9,55,24.35,4
+SH516,Deportes,Web,EEUU,5,65,73.27,3
+SH517,Hogar,POS,Reino Unido,10,64,69.36,4
+SH518,Belleza,Web,EEUU,8,58,50.48,9
+SH519,Deportes,Web,EEUU,11,61,65.49,4
+SH520,Belleza,Web,EEUU,9,52,31.85,3
+SH521,Juguetes,Movil,EEUU,12,67,44.51,3
+SH522,Alimentacion,Social,EEUU,6,71,36.87,1
+SH523,Moda,Social,Canada,1,53,62.39,2
+SH524,Alimentacion,Movil,EEUU,6,59,35.6,3
+SH525,Moda,Web,EEUU,12,47,48.84,4
+SH526,Mascotas,Movil,Canada,8,62,51.28,3
+SH527,Moda,Movil,EEUU,9,62,41.7,3
+SH528,Hogar,Web,Reino Unido,8,67,62.27,2
+SH529,Mascotas,Web,Mexico,8,70,59.0,5
+SH530,Mascotas,Web,Canada,1,69,53.86,4
+SH531,Hogar,Web,Mexico,5,46,63.69,4
+SH532,Juguetes,Movil,EEUU,2,62,29.34,14
+SH533,Alimentacion,Movil,EEUU,5,73,39.11,3
+SH534,Belleza,Web,Espana,9,45,31.31,2
+SH535,Mascotas,Movil,Espana,10,68,41.04,4
+SH536,Mascotas,Social,Espana,3,49,39.06,3
+SH537,Electronica,Movil,EEUU,8,49,108.63,3
+SH538,Mascotas,Social,Espana,3,67,42.56,3
+SH539,Juguetes,Movil,EEUU,3,64,47.46,8
+SH540,Alimentacion,Social,EEUU,12,73,28.48,4
+SH541,Alimentacion,Web,EEUU,8,56,31.33,10
+SH542,Mascotas,Movil,Mexico,3,65,54.04,3
+SH543,Electronica,Web,EEUU,2,64,154.29,2
+SH544,Alimentacion,Movil,Espana,1,74,35.51,2
+SH545,Electronica,Movil,Reino Unido,6,66,163.58,5
+SH546,Deportes,Web,Espana,2,65,72.93,2
+SH547,Electronica,Social,Reino Unido,8,67,162.57,5
+SH548,Electronica,Web,Espana,6,48,175.13,1
+SH549,Belleza,Web,EEUU,8,51,44.71,0
+SH550,Juguetes,Web,EEUU,3,55,43.63,0
+SH551,Belleza,Movil,Reino Unido,2,48,32.06,5
+SH552,Moda,Web,EEUU,2,60,61.85,4
+SH553,Juguetes,Movil,EEUU,2,58,42.48,6
+SH554,Deportes,Web,EEUU,1,58,61.05,3
+SH555,Hogar,Social,EEUU,4,68,90.73,6
+SH556,Mascotas,POS,EEUU,10,55,42.31,7
+SH557,Hogar,Movil,EEUU,8,54,64.24,1
+SH558,Belleza,Movil,Mexico,4,66,48.22,4
+SH559,Mascotas,Social,EEUU,12,66,40.77,4
+SH560,Belleza,POS,Mexico,10,60,38.11,8
+SH561,Deportes,Movil,Mexico,10,55,63.67,0
+SH562,Juguetes,Social,EEUU,11,69,45.86,1
+SH563,Juguetes,POS,Reino Unido,9,69,36.56,2
+SH564,Electronica,Social,Reino Unido,12,51,166.32,3
+SH565,Alimentacion,Movil,Reino Unido,4,68,36.4,11
+SH566,Deportes,Web,EEUU,11,61,73.67,6
+SH567,Hogar,Web,EEUU,2,65,93.64,2
+SH568,Belleza,Movil,EEUU,4,59,46.78,4
+SH569,Hogar,Movil,Reino Unido,11,67,70.81,5
+SH570,Mascotas,Movil,Mexico,2,61,59.49,4
+SH571,Juguetes,Movil,Reino Unido,7,66,38.02,6
+SH572,Moda,Movil,Reino Unido,5,46,41.21,4
+SH573,Mascotas,Social,Mexico,2,61,41.12,8
+SH574,Alimentacion,Web,Reino Unido,3,65,33.38,1
+SH575,Juguetes,Web,EEUU,7,61,30.29,3
+SH576,Hogar,Social,Mexico,8,56,78.53,7
+SH577,Moda,Social,EEUU,9,57,51.89,11
+SH578,Electronica,POS,EEUU,2,66,152.89,5
+SH579,Alimentacion,Social,Canada,4,66,22.53,6
+SH580,Juguetes,Social,Mexico,2,58,44.82,9
+SH581,Mascotas,Web,EEUU,1,65,43.83,10
+SH582,Moda,Movil,Canada,5,61,44.91,7
+SH583,Moda,Web,EEUU,8,65,54.29,5
+SH584,Hogar,Movil,EEUU,5,57,74.42,2
+SH585,Deportes,POS,EEUU,1,62,74.04,8
+SH586,Moda,Web,Espana,3,71,57.02,5
+SH587,Mascotas,Movil,Mexico,6,60,35.36,6
+SH588,Deportes,Web,EEUU,5,58,83.05,6
+SH589,Moda,Web,EEUU,10,55,54.88,5
+SH590,Moda,Web,EEUU,8,60,42.93,4
+SH591,Hogar,Web,EEUU,12,77,86.46,7
+SH592,Mascotas,POS,Canada,3,49,51.76,0
+SH593,Alimentacion,Movil,Reino Unido,5,63,33.87,4
+SH594,Hogar,Social,Reino Unido,2,62,71.93,5
+SH595,Electronica,Movil,EEUU,1,63,142.48,4
+SH596,Juguetes,Web,Canada,12,64,38.26,6
+SH597,Hogar,Web,EEUU,6,65,56.12,7
+SH598,Electronica,Social,EEUU,8,69,133.11,2
+SH599,Hogar,Web,Mexico,4,51,95.49,5
+SH600,Moda,POS,Espana,1,64,61.36,5
+SH601,Electronica,Web,Mexico,11,50,143.19,4
+SH602,Deportes,Movil,Mexico,8,52,58.06,1
+SH603,Juguetes,Social,Reino Unido,9,63,42.65,3
+SH604,Mascotas,Web,Mexico,7,66,41.12,2
+SH605,Alimentacion,Web,EEUU,5,57,25.34,5
+SH606,Deportes,POS,EEUU,6,61,55.45,3
+SH607,Moda,Web,EEUU,10,55,63.47,6
+SH608,Hogar,Movil,EEUU,3,70,81.0,5
+SH609,Juguetes,Movil,EEUU,5,61,28.47,8
+SH610,Moda,Web,EEUU,4,50,44.12,7
+SH611,Juguetes,Social,Reino Unido,7,62,40.31,4
+SH612,Mascotas,Social,Espana,12,70,49.39,3
+SH613,Electronica,Movil,Reino Unido,12,51,165.62,0
+SH614,Alimentacion,Social,EEUU,7,60,25.62,2
+SH615,Alimentacion,Web,Espana,3,64,35.22,9
+SH616,Moda,Web,EEUU,12,56,69.99,9
+SH617,Moda,Movil,EEUU,4,81,59.43,11
+SH618,Mascotas,POS,EEUU,5,62,39.42,1
+SH619,Juguetes,Web,EEUU,11,55,41.27,1
+SH620,Moda,Web,EEUU,4,68,51.31,5
+SH621,Mascotas,Movil,Espana,6,71,35.51,17
+SH622,Belleza,Social,Espana,12,60,35.57,0
+SH623,Mascotas,Web,Reino Unido,4,67,58.29,7
+SH624,Deportes,Movil,EEUU,8,62,65.33,3
+SH625,Moda,Movil,Espana,1,69,67.74,7
+SH626,Mascotas,Movil,Reino Unido,12,71,47.73,5
+SH627,Juguetes,Web,EEUU,6,56,37.86,1
+SH628,Alimentacion,Web,Reino Unido,9,55,22.59,1
+SH629,Moda,Movil,Canada,7,55,60.57,6
+SH630,Belleza,Movil,Canada,6,65,31.22,3
+SH631,Belleza,Social,EEUU,5,65,39.52,7
+SH632,Hogar,Movil,Canada,1,52,64.93,2
+SH633,Belleza,Movil,EEUU,4,40,37.59,7
+SH634,Alimentacion,POS,EEUU,5,45,31.9,2
+SH635,Alimentacion,Movil,EEUU,5,58,22.75,4
+SH636,Alimentacion,Movil,Mexico,4,57,27.48,1
+SH637,Belleza,POS,EEUU,8,60,50.97,2
+SH638,Moda,Web,EEUU,10,59,42.31,9
+SH639,Juguetes,Movil,EEUU,11,62,33.71,3
+SH640,Electronica,Social,Mexico,12,65,135.0,4
+SH641,Mascotas,Web,Reino Unido,8,61,44.29,11
+SH642,Juguetes,Movil,Mexico,5,65,41.38,4
+SH643,Moda,Web,EEUU,8,68,48.3,6
+SH644,Moda,Web,EEUU,2,64,55.0,13
+SH645,Moda,Movil,Canada,10,58,60.81,7
+SH646,Belleza,Web,EEUU,7,84,36.02,9
+SH647,Moda,Social,Espana,2,67,70.39,6
+SH648,Alimentacion,POS,Mexico,6,52,39.64,2
+SH649,Deportes,Social,Canada,4,61,54.11,1
+SH650,Juguetes,Web,Mexico,5,69,34.22,3
+SH651,Alimentacion,Web,Canada,1,65,26.14,6
+SH652,Juguetes,Web,EEUU,1,42,30.92,6
+SH653,Belleza,Web,Canada,5,78,39.8,10
+SH654,Electronica,POS,EEUU,4,50,155.36,0
+SH655,Alimentacion,Movil,Espana,12,63,29.95,1
+SH656,Belleza,Web,EEUU,4,63,34.91,0
+SH657,Moda,Social,EEUU,4,60,49.28,8
+SH658,Mascotas,Movil,Reino Unido,11,62,60.59,5
+SH659,Alimentacion,Web,EEUU,11,45,38.66,2
+SH660,Juguetes,Web,EEUU,1,65,28.59,2
+SH661,Juguetes,Movil,Reino Unido,2,67,40.79,3
+SH662,Moda,Social,EEUU,2,50,54.89,5
+SH663,Alimentacion,Web,Canada,6,52,34.55,1
+SH664,Alimentacion,POS,EEUU,7,51,32.95,10
+SH665,Mascotas,Social,EEUU,5,52,57.85,3
+SH666,Alimentacion,Social,EEUU,1,75,23.67,1
+SH667,Alimentacion,Web,Espana,3,58,28.62,2
+SH668,Hogar,Web,Mexico,8,50,95.39,4
+SH669,Moda,Social,EEUU,5,74,46.24,10
+SH670,Hogar,Web,Mexico,2,54,59.35,1
+SH671,Belleza,Movil,Reino Unido,8,60,45.13,3
+SH672,Moda,Social,Reino Unido,8,62,64.99,12
+SH673,Moda,Web,Reino Unido,6,58,61.68,6
+SH674,Mascotas,Social,Reino Unido,12,55,54.85,4
+SH675,Deportes,POS,Espana,11,59,76.21,2
+SH676,Deportes,Movil,Canada,1,70,54.73,1
+SH677,Mascotas,Movil,Canada,11,36,50.38,2
+SH678,Deportes,Social,EEUU,1,51,79.41,4
+SH679,Mascotas,Movil,EEUU,6,64,57.22,5
+SH680,Moda,Movil,Reino Unido,11,52,48.26,5
+SH681,Alimentacion,Social,EEUU,12,57,24.73,0
+SH682,Hogar,Movil,EEUU,1,61,86.81,4
+SH683,Belleza,Web,EEUU,1,56,34.55,7
+SH684,Alimentacion,Web,EEUU,3,74,23.06,1
+SH685,Mascotas,Web,Reino Unido,4,69,56.15,4
+SH686,Moda,Movil,Reino Unido,4,64,56.44,13
+SH687,Belleza,Movil,Canada,6,53,36.12,8
+SH688,Moda,Movil,EEUU,4,63,40.86,14
+SH689,Electronica,Movil,Canada,7,49,110.97,3
+SH690,Moda,Social,EEUU,11,61,65.47,8
+SH691,Mascotas,POS,Espana,7,57,47.23,12
+SH692,Deportes,Web,Reino Unido,4,46,55.26,7
+SH693,Juguetes,Movil,Canada,7,64,34.53,3
+SH694,Mascotas,Movil,Canada,8,46,38.6,1
+SH695,Deportes,Movil,Mexico,11,64,53.85,1
+SH696,Deportes,Web,Espana,12,62,60.14,6
+SH697,Moda,Social,Canada,4,59,57.81,6
+SH698,Moda,POS,Canada,12,58,47.12,7
+SH699,Deportes,Movil,EEUU,10,48,62.73,4
+SH400,Moda,POS,Mexico,2,59,55.55,5
+SH401,Moda,POS,EEUU,7,58,53.73,7
+SH402,Belleza,Movil,EEUU,2,71,31.68,21
+SH403,Juguetes,Movil,Mexico,6,45,27.82,6
+SH404,Hogar,Movil,Reino Unido,1,65,55.49,2
+SH405,Mascotas,POS,EEUU,4,46,43.51,4
+SH406,Hogar,Web,EEUU,8,55,84.19,0
+SH407,Belleza,Movil,EEUU,4,62,31.74,2
+SH408,Electronica,Social,Reino Unido,1,56,174.11,1
+SH409,Moda,Web,EEUU,5,66,63.04,6
+SH410,Alimentacion,Social,Mexico,7,57,22.57,4
+SH411,Belleza,Movil,Mexico,10,80,29.4,4
+SH412,Hogar,POS,Canada,2,53,62.19,5
+SH413,Juguetes,Social,Reino Unido,6,53,28.18,0
+SH414,Deportes,Web,EEUU,3,49,69.96,0
+SH415,Hogar,Social,EEUU,2,63,55.66,2
+SH416,Deportes,Web,Espana,2,68,80.4,3
+SH417,Alimentacion,Movil,EEUU,10,74,31.13,4
+SH418,Electronica,Movil,EEUU,12,69,169.15,4
+SH419,Mascotas,Social,EEUU,8,58,54.17,2
+SH420,Alimentacion,Web,EEUU,5,59,31.37,4
+SH421,Deportes,Web,Canada,12,60,85.13,2
+SH422,Hogar,Movil,Reino Unido,6,65,95.59,0
+SH423,Belleza,Movil,Espana,7,57,36.85,10
+SH424,Belleza,Movil,Reino Unido,8,72,31.62,3
+SH425,Juguetes,Web,Espana,8,63,34.63,1
+SH426,Deportes,Web,EEUU,6,57,58.1,9
+SH427,Electronica,Social,Espana,6,58,152.6,1
+SH428,Hogar,Web,Canada,4,66,69.89,1
+SH429,Deportes,Movil,EEUU,9,58,68.0,4
+SH430,Deportes,POS,Mexico,9,69,78.88,2
+SH431,Mascotas,Web,EEUU,6,53,41.49,3
+SH432,Electronica,Movil,EEUU,9,66,153.15,5
+SH433,Mascotas,Web,EEUU,2,64,43.12,6
+SH434,Hogar,Social,EEUU,5,70,86.97,1
+SH435,Juguetes,Movil,EEUU,12,53,40.43,5
+SH436,Belleza,Social,Canada,9,42,28.99,2
+SH437,Belleza,Web,Mexico,9,68,43.59,2
+SH438,Hogar,Movil,EEUU,11,61,61.15,0
+SH439,Deportes,Social,Canada,8,62,77.39,1
+SH440,Mascotas,Web,EEUU,8,52,49.29,0
+SH441,Hogar,Web,Espana,6,59,70.86,6
+SH442,Juguetes,Web,EEUU,10,58,41.58,3
+SH443,Hogar,POS,EEUU,9,55,89.98,9
+SH444,Belleza,Movil,Canada,7,62,46.24,3
+SH445,Moda,Movil,Reino Unido,2,53,57.68,4
+SH446,Juguetes,Movil,Espana,10,60,42.18,3
+SH447,Belleza,Movil,Reino Unido,4,62,38.07,4
+SH448,Juguetes,Movil,Espana,5,61,43.57,6
+SH449,Electronica,Movil,EEUU,2,61,177.64,3
+SH450,Moda,Movil,EEUU,3,60,44.82,8
+SH451,Electronica,Web,EEUU,2,73,127.99,4
+SH452,Deportes,Social,EEUU,2,69,59.89,4
+SH453,Hogar,Social,EEUU,1,58,60.98,2
+SH454,Alimentacion,Web,Canada,4,59,29.37,3
+SH455,Deportes,Movil,EEUU,10,70,56.93,2
+SH456,Hogar,Web,Reino Unido,11,64,79.01,5
+SH457,Mascotas,POS,Canada,3,52,36.9,5
+SH458,Juguetes,POS,Reino Unido,6,64,32.67,6
+SH459,Hogar,POS,Reino Unido,10,70,81.95,1
+SH460,Belleza,Web,EEUU,9,59,37.73,3
+SH461,Hogar,Web,EEUU,11,64,71.7,2
+SH462,Alimentacion,Web,Reino Unido,6,61,36.46,2
+SH463,Belleza,Web,Reino Unido,3,72,50.85,2
+SH464,Juguetes,Web,EEUU,2,60,38.87,5
+SH465,Deportes,Web,EEUU,9,47,52.54,5
+SH466,Deportes,POS,Reino Unido,1,40,53.46,1
+SH467,Electronica,Web,Reino Unido,6,60,189.35,2
+SH468,Juguetes,Web,EEUU,5,63,41.26,9
+SH469,Moda,Social,Canada,12,54,64.2,3
+SH470,Electronica,Movil,Mexico,12,67,164.76,2
+SH471,Hogar,Social,EEUU,6,68,61.54,4
+SH472,Hogar,Movil,Espana,7,58,72.83,3
+SH473,Hogar,Social,EEUU,5,70,87.52,15
+SH474,Belleza,Movil,Canada,10,57,48.21,2
+SH475,Belleza,Movil,Canada,4,51,34.12,2
+SH476,Moda,Movil,EEUU,9,69,59.27,10
+SH477,Deportes,Movil,Mexico,11,54,55.55,4
+SH478,Electronica,Web,Canada,3,61,188.5,0
+SH479,Deportes,Movil,Mexico,3,66,59.21,3
+SH480,Deportes,Web,EEUU,5,65,77.48,4
+SH481,Mascotas,Social,Mexico,10,57,40.35,8
+SH482,Deportes,Web,Mexico,8,52,73.22,2
+SH483,Mascotas,Web,Canada,3,79,51.74,3
+SH484,Deportes,Web,EEUU,5,65,62.14,6
+SH485,Mascotas,Social,Reino Unido,8,62,55.98,1
+SH486,Deportes,Web,Canada,12,61,83.59,4
+SH487,Electronica,Movil,Mexico,6,54,179.83,1
+SH488,Belleza,Social,Canada,1,71,36.21,7
+SH489,Alimentacion,Web,EEUU,2,63,35.53,1
+SH490,Electronica,Social,EEUU,1,70,155.0,5
+SH491,Deportes,Web,Reino Unido,2,59,72.32,0
+SH492,Belleza,Web,Mexico,5,60,39.49,1
+SH493,Hogar,Movil,EEUU,4,61,79.21,8
+SH494,Deportes,POS,Espana,4,67,54.72,1
+SH495,Mascotas,Web,Mexico,10,59,45.08,3
+SH496,Deportes,Movil,EEUU,6,52,56.34,4
+SH497,Electronica,Web,EEUU,9,72,131.53,5
+SH498,Juguetes,Movil,Reino Unido,7,56,29.68,2
+SH499,Deportes,Movil,Reino Unido,3,79,57.68,4
+SH500,Alimentacion,Movil,EEUU,12,61,36.18,8
+SH501,Mascotas,Movil,Espana,6,67,48.83,12
+SH502,Deportes,Web,Canada,11,56,50.41,3
+SH503,Juguetes,Movil,Mexico,2,57,43.56,2
+SH504,Belleza,Movil,Mexico,11,61,49.17,4
+SH505,Juguetes,Movil,Espana,9,57,45.49,1
+SH506,Alimentacion,Web,Canada,3,61,36.9,3
+SH507,Deportes,Movil,EEUU,10,71,87.7,8
+SH508,Mascotas,Movil,Canada,9,59,49.8,2
+SH509,Deportes,Web,EEUU,11,62,86.56,11
+SH510,Electronica,Web,Reino Unido,3,72,187.7,6
+SH511,Alimentacion,Movil,EEUU,11,56,27.98,7
+SH512,Belleza,Movil,Canada,10,56,48.14,4
+SH513,Electronica,Web,EEUU,5,56,174.57,4
+SH514,Deportes,Social,EEUU,5,66,79.37,0
+SH515,Alimentacion,Movil,EEUU,4,65,38.18,4
+SH516,Hogar,Social,Reino Unido,6,53,70.14,4
+SH517,Hogar,Movil,Espana,11,56,70.8,9
+SH518,Moda,Movil,EEUU,11,51,60.66,4
+SH519,Moda,Movil,Espana,2,57,63.74,7
+SH520,Moda,POS,Mexico,2,63,68.21,11
+SH521,Moda,Movil,EEUU,1,68,68.09,8
+SH522,Alimentacion,Movil,Reino Unido,8,62,35.12,10
+SH523,Alimentacion,Movil,EEUU,4,52,39.25,2
+SH524,Alimentacion,Movil,EEUU,10,53,25.63,0
+SH525,Moda,Web,Canada,10,81,70.44,10
+SH526,Moda,Movil,EEUU,3,64,42.52,5
+SH527,Electronica,Movil,Mexico,9,59,154.67,2
+SH528,Deportes,POS,Mexico,10,62,52.97,3
+SH529,Electronica,Movil,Espana,12,60,155.71,3
+SH530,Hogar,Movil,Reino Unido,9,71,70.38,8
+SH531,Belleza,POS,Canada,5,57,30.63,1
+SH532,Mascotas,Movil,Mexico,12,65,51.44,2
+SH533,Electronica,Web,EEUU,4,48,169.42,9
+SH534,Moda,Web,EEUU,10,50,45.99,3
+SH535,Mascotas,Web,Reino Unido,5,60,52.67,5
+SH536,Juguetes,Web,EEUU,12,59,30.76,1
+SH537,Moda,Movil,EEUU,10,50,44.83,7
+SH538,Hogar,Social,EEUU,8,63,60.19,3
+SH539,Alimentacion,Movil,Reino Unido,3,61,32.98,3
+SH540,Mascotas,Web,EEUU,3,70,54.92,3
+SH541,Alimentacion,Movil,EEUU,12,61,32.95,5
+SH542,Hogar,Web,EEUU,10,54,87.99,1
+SH543,Electronica,POS,EEUU,7,65,157.68,2
+SH544,Mascotas,Web,Mexico,11,65,55.41,1
+SH545,Belleza,Movil,EEUU,10,56,50.67,1
+SH546,Belleza,Web,Reino Unido,5,61,37.56,1
+SH547,Deportes,Movil,Espana,10,65,55.27,3
+SH548,Mascotas,Movil,EEUU,10,60,37.8,12
+SH549,Moda,Social,Espana,6,61,59.32,4
+SH550,Deportes,Web,Reino Unido,1,54,70.56,9
+SH551,Electronica,POS,Canada,9,66,123.48,6
+SH552,Deportes,Movil,EEUU,5,62,83.46,7
+SH553,Juguetes,Social,EEUU,5,55,47.09,3
+SH554,Moda,Social,Mexico,9,59,48.48,11
+SH555,Juguetes,POS,Espana,10,50,31.34,5
+SH556,Hogar,Web,Mexico,2,68,62.98,3
+SH557,Alimentacion,Web,Mexico,10,55,29.28,0
+SH558,Hogar,Web,EEUU,4,67,89.84,0
+SH559,Electronica,Web,Espana,7,71,158.06,4
+SH560,Alimentacion,Movil,Canada,11,55,23.68,2
+SH561,Mascotas,POS,Espana,3,55,46.78,3
+SH562,Belleza,POS,EEUU,3,70,30.82,15
+SH563,Mascotas,Movil,EEUU,12,70,45.01,8
+SH564,Alimentacion,Movil,Espana,5,60,29.56,1
+SH565,Hogar,Social,Espana,12,58,81.23,2
+SH566,Juguetes,POS,Reino Unido,5,74,38.54,5
+SH567,Mascotas,Web,EEUU,8,63,57.47,9
+SH568,Electronica,Movil,EEUU,7,68,109.37,4
+SH569,Moda,Social,Mexico,12,77,64.88,16
+SH570,Mascotas,Web,Canada,7,63,34.8,1
+SH571,Belleza,Movil,Canada,7,68,35.62,3
+SH572,Alimentacion,POS,Canada,6,53,37.89,8
+SH573,Deportes,POS,EEUU,5,52,76.08,2
+SH574,Hogar,POS,Canada,6,66,61.22,4
+SH575,Belleza,Social,Canada,6,54,39.79,7
+SH576,Mascotas,Web,Espana,10,42,53.4,1
+SH577,Belleza,Web,Mexico,1,56,49.8,3
+SH578,Hogar,Movil,Mexico,7,61,80.64,1
+SH579,Alimentacion,Movil,Reino Unido,7,66,22.93,4
+SH580,Juguetes,Movil,Canada,10,60,37.49,2
+SH581,Juguetes,Movil,Reino Unido,8,50,30.21,5
+SH582,Juguetes,Movil,Espana,6,61,28.0,4
+SH583,Deportes,Movil,Reino Unido,2,72,72.54,3
+SH584,Belleza,Web,Reino Unido,5,75,46.2,3
+SH585,Alimentacion,Web,Espana,4,55,23.13,1
+SH586,Alimentacion,Web,Reino Unido,3,66,36.21,7
+SH587,Juguetes,Web,Espana,9,71,41.83,4
+SH588,Mascotas,Social,EEUU,6,70,54.2,3
+SH589,Belleza,Movil,Canada,10,52,34.28,4
+SH590,Deportes,Web,Reino Unido,2,70,64.65,2
+SH591,Hogar,Social,EEUU,12,71,59.03,4
+SH592,Alimentacion,Movil,Espana,6,60,26.68,5
+SH593,Hogar,Web,Reino Unido,4,60,66.72,4
+SH594,Electronica,Web,EEUU,5,63,134.83,2
+SH595,Moda,Web,Espana,11,64,46.01,8
+SH596,Alimentacion,Movil,Reino Unido,9,66,25.8,6
+SH597,Alimentacion,Web,Espana,3,64,38.28,2
+SH598,Moda,Web,EEUU,12,59,65.19,6
+SH599,Hogar,Web,Espana,2,60,68.47,4
+SH600,Hogar,Movil,EEUU,4,69,93.8,0
+SH601,Hogar,Web,Reino Unido,9,67,64.03,3
+SH602,Juguetes,Social,EEUU,7,60,35.54,7
+SH603,Belleza,Web,Reino Unido,6,71,47.02,0
+SH604,Electronica,Movil,Reino Unido,12,55,145.2,1
+SH605,Belleza,Movil,Reino Unido,10,59,34.06,2
+SH606,Belleza,Movil,Canada,12,55,37.06,2
+SH607,Juguetes,Web,Espana,4,49,37.52,1
+SH608,Juguetes,Social,Reino Unido,11,55,40.03,2
+SH609,Moda,Social,EEUU,3,66,53.28,13
+SH610,Mascotas,Web,Mexico,10,71,45.67,1
+SH611,Belleza,Web,Reino Unido,7,50,34.71,1
+SH612,Belleza,POS,Mexico,8,66,40.79,2
+SH613,Electronica,Movil,Mexico,2,61,126.43,9
+SH614,Belleza,Web,Mexico,11,59,48.23,4
+SH615,Hogar,Web,Espana,4,55,85.39,3
+SH616,Juguetes,Movil,Reino Unido,8,69,35.62,8
+SH617,Deportes,Movil,EEUU,2,64,78.27,2
+SH618,Mascotas,Movil,Canada,12,53,34.39,2
+SH619,Hogar,POS,Espana,4,65,68.47,0
+SH620,Moda,Movil,Canada,10,72,54.37,7
+SH621,Moda,Web,Mexico,10,68,55.3,7
+SH622,Electronica,Movil,EEUU,7,50,170.89,7
+SH623,Belleza,Movil,EEUU,2,68,50.37,2
+SH624,Alimentacion,Web,Canada,4,54,29.15,9
+SH625,Alimentacion,Web,Canada,8,64,28.64,13
+SH626,Alimentacion,Movil,EEUU,7,47,33.18,2
+SH627,Mascotas,Movil,EEUU,8,74,41.68,0
+SH628,Deportes,Web,Espana,3,65,54.94,4
+SH629,Mascotas,Movil,Canada,7,61,59.78,5
+SH630,Hogar,Movil,EEUU,2,63,88.0,11
+SH631,Mascotas,Movil,EEUU,6,68,59.7,6
+SH632,Alimentacion,Social,Canada,2,57,26.31,8
+SH633,Alimentacion,Social,EEUU,8,51,22.81,1
+SH634,Deportes,Movil,Reino Unido,7,55,66.33,0
+SH635,Moda,Web,Espana,11,69,69.91,5
+SH636,Mascotas,Movil,EEUU,6,53,37.88,5
+SH637,Electronica,Movil,Reino Unido,2,58,117.84,7
+SH638,Mascotas,Web,EEUU,3,61,36.03,9
+SH639,Deportes,Web,EEUU,10,65,78.95,6
+SH640,Juguetes,Web,Mexico,12,59,43.5,5
+SH641,Electronica,Movil,Canada,1,65,166.41,8
+SH642,Juguetes,Movil,Mexico,9,63,28.12,3
+SH643,Alimentacion,Web,EEUU,6,54,35.16,8
+SH644,Electronica,Social,EEUU,4,62,145.68,3
+SH645,Hogar,POS,Canada,7,60,60.63,7
+SH646,Deportes,Web,Canada,12,72,60.86,6
+SH647,Alimentacion,POS,Mexico,3,60,31.27,3
+SH648,Mascotas,Web,EEUU,11,57,42.97,2
+SH649,Alimentacion,POS,Espana,2,66,39.47,4
+SH650,Electronica,POS,Mexico,9,54,147.88,4
+SH651,Deportes,Web,Canada,1,60,63.83,3
+SH652,Hogar,Social,EEUU,1,52,82.27,1
+SH653,Juguetes,POS,Canada,1,63,40.66,3
+SH654,Electronica,POS,EEUU,10,52,108.2,1
+SH655,Deportes,POS,Espana,7,57,73.31,0
+SH656,Moda,Movil,Canada,9,64,48.18,8
+SH657,Alimentacion,Web,Mexico,2,64,29.07,24
+SH658,Hogar,Social,Reino Unido,12,59,83.67,4
+SH659,Electronica,Movil,Canada,10,59,154.82,2
+SH660,Deportes,Movil,Reino Unido,6,59,63.69,2
+SH661,Hogar,Movil,Canada,11,67,61.03,10
+SH662,Alimentacion,Movil,Mexico,2,69,31.35,4
+SH663,Deportes,Web,EEUU,4,70,61.8,4
+SH664,Deportes,Movil,Mexico,1,68,84.65,2
+SH665,Moda,Web,Espana,2,63,57.33,4
+SH666,Moda,Movil,Mexico,11,45,67.78,9
+SH667,Hogar,Social,Canada,5,49,70.39,1
+SH668,Juguetes,Movil,Espana,8,63,44.38,1
+SH669,Juguetes,Movil,EEUU,11,60,28.19,3
+SH670,Mascotas,Web,Espana,10,60,42.13,4
+SH671,Mascotas,POS,EEUU,5,59,36.28,4
+SH672,Hogar,Movil,EEUU,5,73,55.33,5
+SH673,Belleza,Movil,Canada,2,57,49.38,3
+SH674,Moda,Web,EEUU,10,70,63.08,9
+SH675,Electronica,Web,EEUU,12,69,160.51,2
+SH676,Electronica,Movil,Espana,7,57,152.73,7
+SH677,Belleza,POS,EEUU,6,60,41.56,9
+SH678,Electronica,Movil,Espana,11,61,161.65,4
+SH679,Moda,Web,EEUU,5,59,66.54,9
+SH680,Deportes,Social,Espana,5,58,72.48,4
+SH681,Juguetes,Movil,Espana,11,58,42.72,4
+SH682,Mascotas,Social,EEUU,5,64,41.67,7
+SH683,Hogar,Web,Espana,12,65,95.02,1
+SH684,Hogar,Movil,Mexico,2,60,55.34,10
+SH685,Electronica,POS,Espana,6,67,140.47,5
+SH686,Belleza,Web,EEUU,6,58,48.56,1
+SH687,Deportes,Movil,Canada,4,66,56.45,1
+SH688,Deportes,POS,Espana,12,64,54.94,3
+SH689,Moda,Web,EEUU,6,68,52.01,6
+SH690,Hogar,Web,Espana,11,62,71.98,7
+SH691,Electronica,Movil,EEUU,3,59,186.41,5
+SH692,Belleza,Web,Espana,5,61,47.53,4
+SH693,Mascotas,Web,EEUU,6,72,46.54,1
+SH694,Deportes,Movil,EEUU,7,62,86.96,1
+SH695,Mascotas,Social,Mexico,3,59,51.28,2
+SH696,Mascotas,Web,Mexico,4,52,57.44,1
+SH697,Juguetes,Web,Mexico,8,57,32.17,1
+SH698,Alimentacion,Social,Mexico,4,61,31.06,4
+SH699,Deportes,Movil,Canada,10,64,50.64,3
+SH400,Juguetes,Social,EEUU,6,61,27.19,10
+SH401,Hogar,Movil,EEUU,12,63,83.63,0
+SH402,Juguetes,POS,Canada,3,64,29.48,0
+SH403,Alimentacion,Movil,EEUU,11,61,32.09,1
+SH404,Mascotas,Web,Mexico,6,59,52.71,1
+SH405,Juguetes,Social,EEUU,2,45,27.68,7
+SH406,Deportes,Movil,EEUU,9,66,66.78,5
+SH407,Mascotas,Web,EEUU,3,63,52.4,3
+SH408,Electronica,Web,EEUU,2,54,182.74,3
+SH409,Juguetes,Movil,EEUU,7,66,33.28,7
+SH410,Deportes,Web,Reino Unido,10,51,87.01,3
+SH411,Alimentacion,Web,EEUU,4,54,37.28,6
+SH412,Hogar,Web,Reino Unido,8,54,81.33,3
+SH413,Alimentacion,Movil,Mexico,1,48,29.36,3
+SH414,Moda,Movil,Reino Unido,3,62,62.9,9
+SH415,Moda,Movil,Reino Unido,10,61,66.21,6
+SH416,Deportes,Web,EEUU,1,64,61.18,0
+SH417,Mascotas,Web,EEUU,5,65,60.61,3
+SH418,Alimentacion,Movil,EEUU,7,60,38.4,1
+SH419,Hogar,Movil,Mexico,1,54,74.39,1
+SH420,Mascotas,Movil,Reino Unido,12,65,53.43,2
+SH421,Deportes,Web,EEUU,7,46,69.67,2
+SH422,Juguetes,Web,Canada,5,59,42.98,5
+SH423,Mascotas,Web,Espana,12,59,56.2,1
+SH424,Hogar,Movil,Reino Unido,7,63,54.98,4
+SH425,Juguetes,Movil,Reino Unido,9,64,28.66,4
+SH426,Moda,Social,Mexico,2,46,51.1,5
+SH427,Juguetes,Movil,Reino Unido,2,52,46.27,0
+SH428,Belleza,Movil,Reino Unido,1,75,37.72,1
+SH429,Electronica,Movil,EEUU,7,63,182.55,3
+SH430,Alimentacion,Web,EEUU,11,58,30.59,15
+SH431,Mascotas,Movil,Mexico,11,66,41.88,5
+SH432,Juguetes,Web,Reino Unido,7,60,45.91,10
+SH433,Mascotas,Movil,EEUU,1,67,49.11,5
+SH434,Mascotas,Web,Reino Unido,8,67,43.79,0
+SH435,Electronica,Social,EEUU,8,65,111.73,2
+SH436,Moda,POS,Espana,8,57,43.99,4
+SH437,Moda,Web,EEUU,9,56,44.89,5
+SH438,Electronica,Movil,Espana,7,67,138.65,6
+SH439,Moda,Social,Canada,9,59,59.63,5
+SH440,Deportes,Web,EEUU,6,57,61.34,2
+SH441,Alimentacion,Social,EEUU,2,55,23.65,8
+SH442,Juguetes,Movil,Espana,1,63,32.56,7
+SH443,Hogar,POS,EEUU,11,64,71.16,5
+SH444,Juguetes,POS,EEUU,6,73,47.84,5
+SH445,Juguetes,Web,Espana,4,46,35.25,2
+SH446,Alimentacion,Movil,EEUU,4,66,24.06,12
+SH447,Hogar,Movil,EEUU,1,62,78.41,3
+SH448,Electronica,Web,EEUU,12,58,185.25,4
+SH449,Juguetes,Web,Espana,1,66,43.52,3
+SH450,Belleza,POS,EEUU,3,50,47.53,3
+SH451,Hogar,Web,EEUU,6,66,92.99,4
+SH452,Moda,Movil,EEUU,5,56,60.55,8
+SH453,Alimentacion,Social,EEUU,1,58,39.91,3
+SH454,Mascotas,Web,EEUU,4,58,35.09,2
+SH455,Moda,Movil,EEUU,10,63,66.8,11
+SH456,Belleza,POS,EEUU,4,49,48.0,4
+SH457,Deportes,Movil,EEUU,11,62,84.79,6
+SH458,Deportes,Web,Mexico,5,63,67.91,1
+SH459,Alimentacion,Web,EEUU,1,68,36.29,1
+SH460,Electronica,POS,EEUU,2,62,124.39,5
+SH461,Juguetes,Web,Mexico,10,69,39.67,2
+SH462,Hogar,Movil,Mexico,5,68,69.06,5
+SH463,Alimentacion,Web,Reino Unido,12,56,32.93,10
+SH464,Belleza,Movil,EEUU,10,57,43.93,3
+SH465,Moda,POS,EEUU,1,63,51.43,5
+SH466,Moda,Movil,EEUU,4,51,47.31,5
+SH467,Electronica,POS,EEUU,9,73,135.02,12
+SH468,Juguetes,Web,EEUU,1,68,40.94,5
+SH469,Moda,Movil,Reino Unido,12,67,61.82,3
+SH470,Electronica,Social,EEUU,2,71,170.27,2
+SH471,Moda,Movil,Reino Unido,10,63,44.49,6
+SH472,Juguetes,Web,EEUU,11,72,44.19,9
+SH473,Mascotas,Social,EEUU,7,69,52.5,3
+SH474,Alimentacion,Movil,Espana,10,58,23.03,5
+SH475,Mascotas,Movil,Mexico,11,57,43.13,4
+SH476,Mascotas,POS,EEUU,9,49,46.61,1
+SH477,Alimentacion,Web,Reino Unido,9,63,28.81,1
+SH478,Moda,Web,EEUU,5,63,44.2,6
+SH479,Alimentacion,Web,EEUU,4,54,26.13,0
+SH480,Mascotas,Movil,Espana,11,52,34.85,2
+SH481,Mascotas,Web,EEUU,3,49,36.68,2
+SH482,Hogar,Movil,Canada,5,65,65.18,0
+SH483,Alimentacion,Web,Canada,7,48,36.85,5
+SH484,Hogar,Movil,EEUU,5,58,76.12,1
+SH485,Moda,Web,EEUU,5,61,53.87,10
+SH486,Juguetes,Movil,EEUU,8,58,40.91,12
+SH487,Belleza,Web,Mexico,4,51,40.93,1
+SH488,Moda,Movil,Reino Unido,12,70,44.64,6
+SH489,Deportes,Movil,EEUU,3,63,58.07,1
+SH490,Belleza,Movil,EEUU,5,52,33.78,5
+SH491,Alimentacion,Social,Reino Unido,11,56,33.0,5
+SH492,Hogar,Movil,EEUU,6,58,73.39,2
+SH493,Moda,Web,Canada,9,59,52.71,11
+SH494,Juguetes,POS,Espana,8,65,38.69,3
+SH495,Deportes,Web,Canada,4,56,86.85,1
+SH496,Electronica,Web,EEUU,9,68,134.39,5
+SH497,Mascotas,Movil,EEUU,3,68,48.04,2
+SH498,Deportes,Web,EEUU,9,64,67.99,0
+SH499,Moda,Web,Canada,2,67,63.07,4
+SH500,Alimentacion,Movil,Mexico,9,53,35.28,1
+SH501,Hogar,Web,EEUU,2,60,84.62,0
+SH502,Mascotas,Social,Reino Unido,11,70,39.56,5
+SH503,Juguetes,POS,Reino Unido,8,65,36.43,2
+SH504,Deportes,Movil,EEUU,1,60,80.73,2
+SH505,Mascotas,Movil,EEUU,2,54,44.35,1
+SH506,Electronica,Movil,EEUU,3,57,190.68,4
+SH507,Belleza,POS,Reino Unido,12,63,36.97,5
+SH508,Hogar,Web,Canada,8,55,74.9,5
+SH509,Alimentacion,Web,Espana,4,64,30.8,8
+SH510,Deportes,Movil,Mexico,4,57,66.2,8
+SH511,Electronica,Movil,Espana,1,80,179.03,1
+SH512,Alimentacion,Web,Mexico,3,65,25.22,6
+SH513,Alimentacion,Movil,Espana,11,58,32.43,1
+SH514,Juguetes,Web,Espana,8,54,39.99,3
+SH515,Electronica,POS,Espana,5,59,179.5,3
+SH516,Mascotas,Web,Espana,1,57,50.4,0
+SH517,Deportes,Web,Espana,5,70,86.46,11
+SH518,Hogar,Web,Mexico,5,60,90.63,11
+SH519,Hogar,Web,Canada,2,51,68.65,2
+SH520,Moda,Web,Reino Unido,8,56,67.59,14
+SH521,Electronica,Web,Canada,8,51,188.51,3
+SH522,Deportes,Web,Espana,12,66,59.4,6
+SH523,Juguetes,Web,Canada,5,59,39.81,7
+SH524,Alimentacion,Movil,Espana,4,67,27.43,9
+SH525,Belleza,Movil,Espana,10,70,43.35,8
+SH526,Mascotas,Web,Mexico,5,57,36.69,8
+SH527,Moda,Web,EEUU,8,66,63.63,5
+SH528,Mascotas,Web,Reino Unido,9,62,45.37,4
+SH529,Electronica,Web,Espana,11,69,157.33,16
+SH530,Hogar,Web,Mexico,4,53,55.09,7
+SH531,Mascotas,Social,Mexico,8,63,52.7,17
+SH532,Hogar,POS,Reino Unido,2,63,74.83,0
+SH533,Alimentacion,POS,Reino Unido,10,75,33.44,3
+SH534,Deportes,Movil,EEUU,1,66,61.65,2
+SH535,Juguetes,Movil,Mexico,9,62,30.06,8
+SH536,Mascotas,Web,EEUU,3,61,45.78,4
+SH537,Electronica,Social,Espana,6,67,187.29,4
+SH538,Alimentacion,Social,Espana,1,58,26.49,4
+SH539,Hogar,Social,Canada,9,75,82.39,8
+SH540,Deportes,Social,EEUU,6,55,51.42,1
+SH541,Belleza,Movil,EEUU,8,65,44.89,2
+SH542,Moda,Social,Espana,5,46,48.01,6
+SH543,Deportes,Social,Canada,1,55,66.88,5
+SH544,Belleza,Web,EEUU,7,52,37.04,2
+SH545,Juguetes,POS,Reino Unido,9,62,29.37,14
+SH546,Alimentacion,Web,EEUU,8,62,28.55,3
+SH547,Mascotas,POS,Mexico,4,51,43.51,0
+SH548,Mascotas,Social,EEUU,9,66,48.09,7
+SH549,Deportes,Web,EEUU,7,58,86.94,7
+SH550,Moda,Movil,EEUU,3,63,55.31,10
+SH551,Hogar,Web,Canada,2,62,92.41,3
+SH552,Hogar,Social,Canada,4,53,73.39,3
+SH553,Juguetes,Social,Espana,1,61,29.26,2
+SH554,Belleza,Movil,Canada,9,65,33.96,11
+SH555,Hogar,Social,EEUU,1,69,71.12,3
+SH556,Electronica,Web,EEUU,1,65,135.33,5
+SH557,Belleza,Web,EEUU,2,56,48.19,5
+SH558,Moda,Movil,Mexico,4,54,61.88,6
+SH559,Electronica,Web,EEUU,1,61,156.58,3
+SH560,Moda,Movil,Mexico,8,65,55.97,11
+SH561,Moda,Web,EEUU,2,56,53.01,4
+SH562,Electronica,Movil,EEUU,10,53,159.42,2
+SH563,Belleza,Movil,EEUU,7,63,31.59,5
+SH564,Deportes,Social,EEUU,2,58,55.76,0
+SH565,Moda,Web,Espana,5,61,50.05,7
+SH566,Electronica,Social,Canada,2,62,122.38,5
+SH567,Hogar,Movil,EEUU,12,66,82.44,9
+SH568,Juguetes,Web,Reino Unido,8,72,27.52,11
+SH569,Mascotas,Movil,Reino Unido,10,68,38.46,2
+SH570,Juguetes,Movil,Mexico,5,62,45.95,2
+SH571,Electronica,Web,Mexico,2,70,191.79,4
+SH572,Hogar,Movil,Reino Unido,3,62,74.48,9
+SH573,Hogar,Web,Espana,6,60,74.81,1
+SH574,Juguetes,Movil,Espana,10,66,43.24,5
+SH575,Juguetes,Movil,Canada,6,72,27.76,1
+SH576,Juguetes,Movil,Reino Unido,12,62,35.97,0
+SH577,Alimentacion,Social,EEUU,5,62,24.25,1
+SH578,Deportes,Web,Espana,3,57,64.94,4
+SH579,Deportes,POS,Mexico,6,74,87.38,3
+SH580,Juguetes,Social,EEUU,2,66,42.83,2
+SH581,Electronica,POS,Espana,9,58,190.74,1
+SH582,Electronica,Social,Mexico,2,63,170.67,6
+SH583,Juguetes,Web,EEUU,8,66,39.77,5
+SH584,Hogar,Movil,Canada,5,52,85.68,4
+SH585,Belleza,Web,Mexico,5,68,43.56,2
+SH586,Deportes,Social,Mexico,8,63,67.37,0
+SH587,Electronica,Movil,EEUU,9,58,132.57,0
+SH588,Juguetes,Web,EEUU,12,69,37.92,7
+SH589,Juguetes,POS,Reino Unido,4,65,32.43,2
+SH590,Electronica,Web,EEUU,10,73,148.88,10
+SH591,Deportes,Movil,EEUU,11,60,55.13,11
+SH592,Juguetes,Movil,EEUU,12,72,38.87,6
+SH593,Mascotas,Web,EEUU,12,62,40.72,1
+SH594,Belleza,Movil,Reino Unido,10,47,35.38,5
+SH595,Deportes,Social,Reino Unido,4,51,68.71,2
+SH596,Deportes,Web,Reino Unido,9,58,55.76,1
+SH597,Mascotas,Movil,Espana,10,59,59.8,6
+SH598,Moda,Web,EEUU,4,57,54.58,9
+SH599,Electronica,Movil,EEUU,10,60,137.59,2
+SH600,Alimentacion,Web,EEUU,9,43,23.01,2
+SH601,Belleza,POS,EEUU,6,58,47.69,3
+SH602,Electronica,Social,EEUU,11,66,160.57,8
+SH603,Electronica,Web,EEUU,2,56,142.98,1
+SH604,Belleza,Web,EEUU,9,54,34.3,7
+SH605,Belleza,Movil,EEUU,10,58,45.49,8
+SH606,Electronica,Movil,Reino Unido,1,58,187.42,3
+SH607,Alimentacion,Movil,Reino Unido,5,64,29.16,5
+SH608,Moda,Web,Mexico,7,51,44.75,3
+SH609,Electronica,Web,Espana,3,62,117.17,3
+SH610,Moda,POS,Reino Unido,11,71,40.7,9
+SH611,Deportes,Movil,EEUU,8,57,78.14,7
+SH612,Electronica,Social,Reino Unido,4,57,190.44,8
+SH613,Alimentacion,Movil,EEUU,6,55,39.87,0
+SH614,Deportes,POS,Canada,2,40,79.69,1
+SH615,Alimentacion,Web,EEUU,2,79,25.34,1
+SH616,Mascotas,Web,Canada,9,61,60.21,1
+SH617,Hogar,POS,EEUU,12,66,67.77,3
+SH618,Alimentacion,POS,Reino Unido,4,56,28.34,2
+SH619,Hogar,Web,Espana,3,60,82.87,4
+SH620,Juguetes,Movil,Espana,9,53,28.03,2
+SH621,Juguetes,Movil,Reino Unido,7,52,44.34,5
+SH622,Deportes,Movil,Canada,2,56,87.9,6
+SH623,Mascotas,Web,EEUU,9,62,54.82,3
+SH624,Electronica,Social,Espana,3,62,173.66,2
+SH625,Alimentacion,Web,Canada,2,48,29.33,2
+SH626,Mascotas,Movil,EEUU,6,59,35.95,0
+SH627,Juguetes,Web,EEUU,9,58,43.65,1
+SH628,Electronica,Web,Mexico,7,77,158.16,4
+SH629,Alimentacion,Movil,Reino Unido,8,50,38.41,0
+SH630,Hogar,Web,Canada,3,62,58.87,1
+SH631,Belleza,Movil,Reino Unido,6,55,35.63,3
+SH632,Belleza,Web,EEUU,9,54,36.88,5
+SH633,Deportes,POS,Canada,7,58,75.81,5
+SH634,Electronica,Movil,EEUU,3,62,174.17,1
+SH635,Moda,Social,Canada,12,57,70.77,4
+SH636,Hogar,Web,Reino Unido,1,62,66.41,6
+SH637,Mascotas,Web,EEUU,11,63,47.33,3
+SH638,Electronica,Movil,Espana,9,67,110.43,10
+SH639,Juguetes,Movil,EEUU,2,49,32.31,12
+SH640,Alimentacion,Web,Reino Unido,4,65,29.05,4
+SH641,Deportes,Web,Reino Unido,5,54,72.36,2
+SH642,Juguetes,Movil,Reino Unido,12,60,36.89,3
+SH643,Hogar,Web,Reino Unido,7,49,69.31,0
+SH644,Belleza,Movil,Mexico,4,56,42.78,6
+SH645,Moda,Web,Canada,12,67,66.6,5
+SH646,Juguetes,Web,Espana,2,63,32.08,1
+SH647,Juguetes,Movil,Reino Unido,10,70,34.2,4
+SH648,Mascotas,Movil,EEUU,10,66,52.95,2
+SH649,Moda,Web,EEUU,5,48,65.01,4
+SH650,Electronica,Movil,Canada,1,66,177.33,2
+SH651,Moda,Social,EEUU,11,64,47.09,3
+SH652,Moda,Movil,EEUU,12,60,57.49,6
+SH653,Belleza,Movil,EEUU,5,55,48.96,0
+SH654,Deportes,POS,Reino Unido,3,59,64.59,8
+SH655,Moda,Movil,EEUU,4,80,54.04,18
+SH656,Juguetes,POS,Espana,2,66,47.68,3
+SH657,Hogar,Social,Canada,8,50,58.75,5
+SH658,Electronica,Web,Reino Unido,7,61,167.27,1
+SH659,Deportes,Movil,EEUU,5,79,82.23,4
+SH660,Alimentacion,Movil,Canada,8,54,25.14,3
+SH661,Electronica,POS,EEUU,8,68,168.01,1
+SH662,Moda,Movil,Reino Unido,1,53,55.3,2
+SH663,Moda,Web,EEUU,5,58,67.37,7
+SH664,Alimentacion,Movil,Mexico,11,58,38.38,3
+SH665,Moda,Web,EEUU,10,60,67.98,7
+SH666,Mascotas,Social,Reino Unido,11,59,35.91,5
+SH667,Hogar,Movil,EEUU,12,61,85.79,2
+SH668,Alimentacion,Movil,Reino Unido,1,62,38.63,15
+SH669,Moda,Social,Canada,4,56,60.07,3
+SH670,Juguetes,Movil,EEUU,6,55,39.62,6
+SH671,Mascotas,Movil,EEUU,7,52,35.4,3
+SH672,Hogar,Social,EEUU,10,67,89.95,4
+SH673,Belleza,Social,EEUU,9,73,29.84,7
+SH674,Juguetes,Social,Mexico,9,57,33.58,3
+SH675,Electronica,Web,EEUU,2,65,185.77,8
+SH676,Hogar,Movil,EEUU,9,61,93.89,13
+SH677,Hogar,Web,Mexico,10,53,95.66,3
+SH678,Belleza,Social,EEUU,10,62,39.47,2
+SH679,Hogar,Movil,EEUU,7,64,61.45,1
+SH680,Belleza,Movil,Reino Unido,2,63,39.73,6
+SH681,Moda,Web,Mexico,2,45,43.72,3
+SH682,Electronica,Web,Reino Unido,9,66,181.29,2
+SH683,Moda,Movil,Canada,11,71,58.16,8
+SH684,Hogar,Web,Mexico,10,58,70.99,4
+SH685,Alimentacion,Web,EEUU,6,45,23.89,1
+SH686,Belleza,Social,Mexico,8,60,37.88,9
+SH687,Moda,Social,Espana,3,53,67.79,6
+SH688,Moda,Web,Mexico,8,68,62.66,8
+SH689,Deportes,Web,EEUU,3,58,52.67,2
+SH690,Electronica,POS,EEUU,10,50,121.43,1
+SH691,Hogar,Movil,Reino Unido,10,58,70.48,4
+SH692,Moda,Movil,Canada,1,61,43.69,9
+SH693,Electronica,Web,Canada,12,51,186.46,9
+SH694,Hogar,Web,Mexico,10,78,81.4,1
+SH695,Hogar,Web,Reino Unido,5,62,57.98,2
+SH696,Deportes,Movil,EEUU,6,62,79.84,6
+SH697,Alimentacion,Web,EEUU,1,50,28.95,5
+SH698,Hogar,Web,EEUU,12,72,64.28,5
+SH699,Alimentacion,Movil,EEUU,2,56,32.47,5
+SH400,Deportes,POS,EEUU,12,56,50.01,2
+SH401,Electronica,Social,Espana,8,74,147.09,9
+SH402,Belleza,Movil,Reino Unido,12,50,47.7,4
+SH403,Electronica,Movil,Canada,5,56,185.96,3
+SH404,Deportes,Movil,EEUU,11,47,62.69,4
+SH405,Belleza,Web,Reino Unido,6,73,43.19,8
+SH406,Juguetes,Movil,Espana,5,55,31.76,1
+SH407,Hogar,Movil,Mexico,5,52,77.53,3
+SH408,Alimentacion,Movil,Canada,12,62,26.95,7
+SH409,Mascotas,Social,Espana,6,64,49.4,1
+SH410,Electronica,POS,Canada,6,58,122.42,8
+SH411,Belleza,Web,Canada,8,69,49.88,5
+SH412,Mascotas,Movil,Mexico,7,64,57.79,2
+SH413,Electronica,Web,EEUU,7,56,136.3,3
+SH414,Belleza,Movil,EEUU,5,59,46.2,3
+SH415,Juguetes,Web,EEUU,2,61,29.01,1
+SH416,Hogar,Web,Canada,12,68,85.1,1
+SH417,Moda,Social,Canada,6,57,49.4,5
+SH418,Hogar,Movil,Reino Unido,12,67,59.7,1
+SH419,Hogar,POS,Canada,6,65,82.48,3
+SH420,Alimentacion,Web,EEUU,8,59,30.72,4
+SH421,Mascotas,Web,Mexico,7,56,48.3,2
+SH422,Belleza,Movil,EEUU,12,66,40.46,4
+SH423,Belleza,Web,Mexico,2,57,30.13,6
+SH424,Deportes,Web,EEUU,7,50,51.48,3
+SH425,Moda,POS,Reino Unido,2,59,59.44,8
+SH426,Electronica,Web,Canada,11,61,160.4,10
+SH427,Belleza,Web,Espana,7,72,29.86,11
+SH428,Moda,Movil,EEUU,12,50,52.42,7
+SH429,Juguetes,Movil,Mexico,4,61,39.87,3
+SH430,Moda,Movil,Canada,2,63,61.19,14
+SH431,Moda,Movil,Reino Unido,8,57,66.59,6
+SH432,Juguetes,Social,Canada,2,65,35.84,3
+SH433,Belleza,Web,EEUU,5,46,41.08,0
+SH434,Alimentacion,Movil,Canada,4,57,32.62,4
+SH435,Moda,Movil,EEUU,3,69,50.33,5
+SH436,Belleza,Social,EEUU,2,62,30.01,10
+SH437,Moda,Movil,Reino Unido,8,54,40.63,6
+SH438,Mascotas,Movil,Canada,10,68,56.44,1
+SH439,Deportes,Web,EEUU,5,51,57.21,2
+SH440,Hogar,Web,EEUU,4,64,80.47,10
+SH441,Belleza,Web,EEUU,2,51,41.73,6
+SH442,Moda,Movil,EEUU,9,68,53.09,20
+SH443,Deportes,Web,Reino Unido,10,64,81.59,18
+SH444,Belleza,Movil,EEUU,7,76,44.44,2
+SH445,Deportes,Web,Mexico,6,60,50.38,5
+SH446,Mascotas,Social,EEUU,8,60,54.86,1
+SH447,Alimentacion,Social,EEUU,11,61,31.37,0
+SH448,Hogar,Web,Mexico,12,58,68.57,3
+SH449,Moda,Web,EEUU,3,59,63.4,5
+SH450,Electronica,Web,Canada,6,55,165.63,1
+SH451,Alimentacion,Social,Mexico,11,57,27.94,2
+SH452,Deportes,Web,Mexico,8,50,87.35,1
+SH453,Deportes,Movil,Reino Unido,10,52,74.48,3
+SH454,Hogar,Movil,EEUU,12,62,79.44,6
+SH455,Belleza,Social,Reino Unido,2,59,30.37,4
+SH456,Juguetes,Movil,Mexico,8,53,32.87,5
+SH457,Alimentacion,Movil,Mexico,7,58,30.32,4
+SH458,Juguetes,POS,EEUU,4,59,40.24,2
+SH459,Alimentacion,Web,EEUU,8,59,31.47,1
+SH460,Electronica,Social,EEUU,2,56,172.09,1
+SH461,Electronica,Web,EEUU,6,62,130.06,1
+SH462,Belleza,Movil,Reino Unido,5,68,44.53,1
+SH463,Juguetes,Social,EEUU,5,45,44.15,1
+SH464,Deportes,Movil,EEUU,8,70,78.95,1
+SH465,Hogar,Movil,EEUU,12,50,86.38,7
+SH466,Juguetes,Web,Canada,12,63,45.66,4
+SH467,Deportes,Movil,EEUU,9,65,52.74,5
+SH468,Juguetes,Movil,Canada,4,57,41.64,1
+SH469,Juguetes,Movil,EEUU,12,69,47.34,1
+SH470,Moda,Movil,Mexico,12,67,58.57,4
+SH471,Electronica,Web,EEUU,11,49,126.25,2
+SH472,Mascotas,Web,Canada,11,61,60.77,3
+SH473,Alimentacion,Web,EEUU,10,68,25.56,9
+SH474,Belleza,Movil,EEUU,10,62,36.32,1
+SH475,Electronica,Web,EEUU,9,56,122.45,2
+SH476,Deportes,Social,EEUU,8,71,67.38,2
+SH477,Alimentacion,Movil,EEUU,8,73,29.83,5
+SH478,Moda,Web,Canada,5,59,55.97,10
+SH479,Deportes,Movil,Reino Unido,11,50,85.23,7
+SH480,Electronica,Social,EEUU,8,57,148.18,2
+SH481,Belleza,Web,Canada,8,57,40.33,1
+SH482,Deportes,Web,Reino Unido,9,55,83.64,3
+SH483,Hogar,Web,EEUU,1,64,88.35,6
+SH484,Mascotas,Web,EEUU,12,66,40.58,16
+SH485,Electronica,Social,EEUU,7,44,109.09,2
+SH486,Alimentacion,POS,EEUU,12,65,33.52,11
+SH487,Moda,Web,Canada,2,53,67.11,4
+SH488,Alimentacion,Movil,Mexico,3,67,32.17,4
+SH489,Moda,Web,Mexico,12,61,47.15,10
+SH490,Mascotas,Movil,Mexico,9,58,53.92,2
+SH491,Electronica,Social,Canada,8,65,164.24,0
+SH492,Hogar,Movil,EEUU,5,62,77.73,1
+SH493,Moda,Web,EEUU,7,66,67.7,3
+SH494,Mascotas,Movil,EEUU,7,53,55.06,1
+SH495,Belleza,POS,EEUU,3,64,43.76,0
+SH496,Mascotas,Web,EEUU,7,55,51.88,5
+SH497,Mascotas,Web,Canada,7,58,51.81,5
+SH498,Alimentacion,Web,EEUU,4,53,31.69,0
+SH499,Mascotas,Movil,EEUU,5,58,46.54,4

@@ -1,0 +1,361 @@
+mes,juego,genero,estudio,plataforma,en_game_pass,jugadores_activos,horas_medias_jugador,gasto_medio_usd,ingresos_usd
+2023-01,Halo Infinite,Shooter,Xbox Game Studios,PC,True,2330127,31.0,1.85,4310734
+2023-01,Forza Horizon 5,Carreras,Xbox Game Studios,Cloud,True,1717795,32.6,4.58,7867501
+2023-01,Starfield,RPG,Bethesda,Xbox,True,2706118,44.1,2.74,7414763
+2023-01,Sea of Thieves,Aventura,Rare,PC,True,2438048,11.0,8.36,20382081
+2023-01,Minecraft,Sandbox,Mojang,Xbox,True,853816,11.7,4.76,4064164
+2023-01,Call of Duty MWIII,Shooter,Activision,Xbox,True,3364041,11.6,8.96,30141807
+2023-01,Diablo IV,RPG,Blizzard,PC,True,2667997,25.1,10.08,26893409
+2023-01,Age of Empires IV,Estrategia,World's Edge,Xbox,True,2705815,44.9,9.75,26381696
+2023-01,Flight Simulator,Simulacion,Asobo,Xbox,True,989800,22.7,2.11,2088477
+2023-01,Gears 5,Shooter,The Coalition,PC,True,1765407,34.1,12.22,21573273
+2023-01,Hellblade II,Aventura,Ninja Theory,Xbox,True,1512781,19.9,7.04,10649978
+2023-01,Fallout 76,RPG,Bethesda,PC,True,3335290,40.0,5.92,19744916
+2023-01,Overwatch 2,Shooter,Blizzard,PC,True,2152943,32.2,10.3,22175312
+2023-01,Candy Crush,Casual,King,Xbox,False,2864300,5.6,5.52,15810935
+2023-01,Pentiment,Narrativo,Obsidian,Xbox,True,1705248,36.5,3.19,5439741
+2023-02,Halo Infinite,Shooter,Xbox Game Studios,PC,True,2476078,18.3,12.17,30133869
+2023-02,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1626187,29.0,5.17,8407386
+2023-02,Starfield,RPG,Bethesda,PC,True,2368230,5.3,1.54,3647074
+2023-02,Sea of Thieves,Aventura,Rare,Xbox,True,2292300,11.3,6.26,14349798
+2023-02,Minecraft,Sandbox,Mojang,Xbox,True,861283,15.1,4.88,4203061
+2023-02,Call of Duty MWIII,Shooter,Activision,Xbox,True,2784201,24.3,2.26,6292294
+2023-02,Diablo IV,RPG,Blizzard,Xbox,True,2083058,47.9,8.55,17810145
+2023-02,Age of Empires IV,Estrategia,World's Edge,Xbox,True,2704204,42.3,8.74,23634742
+2023-02,Flight Simulator,Simulacion,Asobo,Xbox,True,882112,5.3,10.88,9597378
+2023-02,Gears 5,Shooter,The Coalition,Xbox,True,1335518,15.2,10.74,14343463
+2023-02,Hellblade II,Aventura,Ninja Theory,Xbox,True,1231345,31.0,8.77,10798895
+2023-02,Fallout 76,RPG,Bethesda,Xbox,True,2703892,35.5,7.97,21550019
+2023-02,Overwatch 2,Shooter,Blizzard,Xbox,True,2099656,5.5,9.27,19463811
+2023-02,Candy Crush,Casual,King,Xbox,False,2555594,9.3,7.26,18553612
+2023-02,Pentiment,Narrativo,Obsidian,PC,True,1455981,25.8,4.49,6537354
+2023-03,Halo Infinite,Shooter,Xbox Game Studios,PC,True,2043300,50.7,9.07,18532731
+2023-03,Forza Horizon 5,Carreras,Xbox Game Studios,Cloud,True,1566325,22.1,6.14,9617235
+2023-03,Starfield,RPG,Bethesda,Xbox,True,2003915,28.5,3.57,7153976
+2023-03,Sea of Thieves,Aventura,Rare,PC,True,1850296,24.2,0.75,1387722
+2023-03,Minecraft,Sandbox,Mojang,Xbox,True,751327,6.3,6.87,5161616
+2023-03,Call of Duty MWIII,Shooter,Activision,PC,True,2358197,19.8,12.13,28604929
+2023-03,Diablo IV,RPG,Blizzard,Xbox,True,2103893,9.1,11.03,23205939
+2023-03,Age of Empires IV,Estrategia,World's Edge,PC,True,1882147,31.3,4.77,8977841
+2023-03,Flight Simulator,Simulacion,Asobo,Xbox,True,882317,11.8,11.46,10111352
+2023-03,Gears 5,Shooter,The Coalition,Xbox,True,1424442,13.2,16.9,24073069
+2023-03,Hellblade II,Aventura,Ninja Theory,PC,True,1223807,19.0,11.91,14575541
+2023-03,Fallout 76,RPG,Bethesda,PC,True,2849502,51.8,10.77,30689136
+2023-03,Overwatch 2,Shooter,Blizzard,Xbox,True,2117903,38.4,12.16,25753700
+2023-03,Candy Crush,Casual,King,Cloud,False,2305912,41.6,3.52,8116810
+2023-03,Pentiment,Narrativo,Obsidian,Xbox,True,1209140,8.0,10.06,12163948
+2023-04,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,1747755,33.2,15.84,27684439
+2023-04,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1107611,33.4,11.68,12936896
+2023-04,Starfield,RPG,Bethesda,Xbox,True,1946560,4.9,3.14,6112198
+2023-04,Sea of Thieves,Aventura,Rare,PC,True,1854305,9.4,6.32,11719207
+2023-04,Minecraft,Sandbox,Mojang,PC,True,551633,8.1,9.75,5378421
+2023-04,Call of Duty MWIII,Shooter,Activision,Cloud,True,1804681,11.6,2.88,5197481
+2023-04,Diablo IV,RPG,Blizzard,PC,True,1701999,18.5,6.12,10416233
+2023-04,Age of Empires IV,Estrategia,World's Edge,Xbox,True,2195663,18.1,11.14,24459685
+2023-04,Flight Simulator,Simulacion,Asobo,Xbox,True,733704,21.2,1.72,1261970
+2023-04,Gears 5,Shooter,The Coalition,Cloud,True,1314038,41.1,11.03,14493839
+2023-04,Hellblade II,Aventura,Ninja Theory,Xbox,True,1093578,20.2,9.52,10410862
+2023-04,Fallout 76,RPG,Bethesda,Xbox,True,2449900,48.6,9.66,23666034
+2023-04,Overwatch 2,Shooter,Blizzard,PC,True,1579367,30.9,15.72,24827649
+2023-04,Candy Crush,Casual,King,PC,False,1791021,22.9,5.4,9671513
+2023-04,Pentiment,Narrativo,Obsidian,Xbox,True,970954,20.9,3.35,3252695
+2023-05,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,1384991,43.8,2.57,3559426
+2023-05,Forza Horizon 5,Carreras,Xbox Game Studios,Xbox,True,1068580,8.8,9.98,10664428
+2023-05,Starfield,RPG,Bethesda,Xbox,True,1721899,51.4,2.4,4132557
+2023-05,Sea of Thieves,Aventura,Rare,Xbox,True,1504086,9.1,0.74,1113023
+2023-05,Minecraft,Sandbox,Mojang,PC,True,608499,3.9,7.3,4442042
+2023-05,Call of Duty MWIII,Shooter,Activision,PC,True,2016254,21.9,9.45,19053600
+2023-05,Diablo IV,RPG,Blizzard,Xbox,True,1459340,6.0,2.59,3779690
+2023-05,Age of Empires IV,Estrategia,World's Edge,Xbox,True,2193977,32.1,5.29,11606138
+2023-05,Flight Simulator,Simulacion,Asobo,Cloud,True,541550,27.2,1.1,595705
+2023-05,Gears 5,Shooter,The Coalition,Cloud,True,854243,36.3,16.32,13941245
+2023-05,Hellblade II,Aventura,Ninja Theory,PC,True,952529,31.7,7.89,7515453
+2023-05,Fallout 76,RPG,Bethesda,PC,True,1864748,32.9,6.41,11953034
+2023-05,Overwatch 2,Shooter,Blizzard,Xbox,True,900056,21.0,11.78,10602659
+2023-05,Candy Crush,Casual,King,Xbox,False,1635249,28.1,5.29,8650467
+2023-05,Pentiment,Narrativo,Obsidian,Xbox,True,881306,17.5,4.27,3763176
+2023-06,Halo Infinite,Shooter,Xbox Game Studios,Cloud,True,1327184,18.4,17.12,22721390
+2023-06,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1369722,15.9,6.66,9122348
+2023-06,Starfield,RPG,Bethesda,PC,True,1829696,45.4,6.63,12130884
+2023-06,Sea of Thieves,Aventura,Rare,PC,True,1312479,38.0,2.83,3714315
+2023-06,Minecraft,Sandbox,Mojang,PC,True,550517,20.0,1.59,875322
+2023-06,Call of Duty MWIII,Shooter,Activision,Cloud,True,2103390,55.7,3.12,6562576
+2023-06,Diablo IV,RPG,Blizzard,PC,True,1440936,32.7,9.5,13688892
+2023-06,Age of Empires IV,Estrategia,World's Edge,Xbox,True,1352030,16.4,7.29,9856298
+2023-06,Flight Simulator,Simulacion,Asobo,Xbox,True,645484,19.2,7.08,4570026
+2023-06,Gears 5,Shooter,The Coalition,Xbox,True,1151740,33.2,14.54,16746299
+2023-06,Hellblade II,Aventura,Ninja Theory,Xbox,True,673792,37.3,1.88,1266728
+2023-06,Fallout 76,RPG,Bethesda,PC,True,2231990,39.4,5.31,11851866
+2023-06,Overwatch 2,Shooter,Blizzard,PC,True,1565372,18.6,16.25,25437295
+2023-06,Candy Crush,Casual,King,Xbox,False,1728745,22.4,4.12,7122429
+2023-06,Pentiment,Narrativo,Obsidian,Xbox,True,1153925,39.7,5.54,6392744
+2023-07,Halo Infinite,Shooter,Xbox Game Studios,PC,True,2018593,30.9,16.9,34114221
+2023-07,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1269066,17.8,11.85,15038432
+2023-07,Starfield,RPG,Bethesda,PC,True,2011136,10.2,10.28,20674478
+2023-07,Sea of Thieves,Aventura,Rare,Xbox,True,1078976,31.2,8.39,9052608
+2023-07,Minecraft,Sandbox,Mojang,Xbox,True,697493,26.0,3.9,2720222
+2023-07,Call of Duty MWIII,Shooter,Activision,PC,True,1736939,21.0,16.59,28815818
+2023-07,Diablo IV,RPG,Blizzard,Xbox,True,1291602,52.2,10.61,13703897
+2023-07,Age of Empires IV,Estrategia,World's Edge,PC,True,1787728,9.2,11.99,21434858
+2023-07,Flight Simulator,Simulacion,Asobo,Xbox,True,655044,5.1,10.82,7087576
+2023-07,Gears 5,Shooter,The Coalition,Xbox,True,1029045,8.8,14.15,14560986
+2023-07,Hellblade II,Aventura,Ninja Theory,Xbox,True,964118,27.2,0.92,886988
+2023-07,Fallout 76,RPG,Bethesda,Xbox,True,2128251,36.6,9.72,20686599
+2023-07,Overwatch 2,Shooter,Blizzard,Cloud,True,950050,6.2,14.57,13842228
+2023-07,Candy Crush,Casual,King,Xbox,False,1781927,39.2,10.14,18068739
+2023-07,Pentiment,Narrativo,Obsidian,PC,True,1008518,8.0,6.3,6353663
+2023-08,Halo Infinite,Shooter,Xbox Game Studios,PC,True,1864563,45.5,3.43,6395451
+2023-08,Forza Horizon 5,Carreras,Xbox Game Studios,Cloud,True,1108701,13.7,8.66,9601350
+2023-08,Starfield,RPG,Bethesda,Xbox,True,1622298,7.0,7.59,12313241
+2023-08,Sea of Thieves,Aventura,Rare,Xbox,True,1678089,36.8,2.49,4178441
+2023-08,Minecraft,Sandbox,Mojang,PC,True,608208,30.4,5.77,3509360
+2023-08,Call of Duty MWIII,Shooter,Activision,Cloud,True,2139173,35.8,3.25,6952312
+2023-08,Diablo IV,RPG,Blizzard,PC,True,1736309,31.9,8.55,14845441
+2023-08,Age of Empires IV,Estrategia,World's Edge,Xbox,True,2140262,11.3,6.35,13590663
+2023-08,Flight Simulator,Simulacion,Asobo,Xbox,True,888747,5.9,2.04,1813043
+2023-08,Gears 5,Shooter,The Coalition,PC,True,1456583,20.0,11.29,16444822
+2023-08,Hellblade II,Aventura,Ninja Theory,PC,True,1183166,18.1,3.0,3549498
+2023-08,Fallout 76,RPG,Bethesda,Xbox,True,1793763,6.2,5.31,9524881
+2023-08,Overwatch 2,Shooter,Blizzard,PC,True,1851530,29.4,10.51,19459580
+2023-08,Candy Crush,Casual,King,PC,False,1854119,36.9,4.14,7676052
+2023-08,Pentiment,Narrativo,Obsidian,Xbox,True,1440520,20.0,7.7,11092004
+2023-09,Halo Infinite,Shooter,Xbox Game Studios,Cloud,True,2152733,39.9,16.04,34529837
+2023-09,Forza Horizon 5,Carreras,Xbox Game Studios,Xbox,True,1418368,23.4,9.7,13758169
+2023-09,Starfield,RPG,Bethesda,Xbox,True,2040632,29.5,1.83,3734356
+2023-09,Sea of Thieves,Aventura,Rare,Xbox,True,2191495,6.4,3.73,8174276
+2023-09,Minecraft,Sandbox,Mojang,Xbox,True,712857,11.3,9.04,6444227
+2023-09,Call of Duty MWIII,Shooter,Activision,Xbox,True,1915648,51.4,7.17,13735196
+2023-09,Diablo IV,RPG,Blizzard,Cloud,True,1897680,9.7,4.7,8919096
+2023-09,Age of Empires IV,Estrategia,World's Edge,PC,True,2723977,41.9,4.08,11113826
+2023-09,Flight Simulator,Simulacion,Asobo,Xbox,True,664574,13.9,7.87,5230197
+2023-09,Gears 5,Shooter,The Coalition,Xbox,True,1583700,23.8,3.57,5653809
+2023-09,Hellblade II,Aventura,Ninja Theory,PC,True,1425362,39.5,6.89,9820744
+2023-09,Fallout 76,RPG,Bethesda,Xbox,True,2780786,11.9,5.65,15711440
+2023-09,Overwatch 2,Shooter,Blizzard,Xbox,True,2149877,37.6,8.23,17693487
+2023-09,Candy Crush,Casual,King,Xbox,False,2102380,13.2,10.93,22979013
+2023-09,Pentiment,Narrativo,Obsidian,PC,True,1176255,14.6,6.14,7222205
+2023-10,Halo Infinite,Shooter,Xbox Game Studios,PC,True,1765512,8.1,4.95,8739284
+2023-10,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1640923,28.4,8.21,13471977
+2023-10,Starfield,RPG,Bethesda,Xbox,True,2598459,23.0,6.7,17409675
+2023-10,Sea of Thieves,Aventura,Rare,PC,True,2269123,26.2,9.34,21193608
+2023-10,Minecraft,Sandbox,Mojang,PC,True,817204,28.4,7.25,5924729
+2023-10,Call of Duty MWIII,Shooter,Activision,Xbox,True,2441589,31.8,9.92,24220562
+2023-10,Diablo IV,RPG,Blizzard,Xbox,True,2307912,48.4,7.75,17886318
+2023-10,Age of Empires IV,Estrategia,World's Edge,Cloud,True,2604980,13.4,0.79,2057934
+2023-10,Flight Simulator,Simulacion,Asobo,Xbox,True,950524,11.5,7.38,7014867
+2023-10,Gears 5,Shooter,The Coalition,Cloud,True,1669914,30.8,11.68,19504595
+2023-10,Hellblade II,Aventura,Ninja Theory,Cloud,True,1645875,20.6,9.26,15240802
+2023-10,Fallout 76,RPG,Bethesda,PC,True,2017102,55.7,9.49,19142297
+2023-10,Overwatch 2,Shooter,Blizzard,PC,True,2214454,36.6,8.34,18468546
+2023-10,Candy Crush,Casual,King,Xbox,False,2524332,52.8,11.82,29837604
+2023-10,Pentiment,Narrativo,Obsidian,Xbox,True,1913281,32.4,4.48,8571498
+2023-11,Halo Infinite,Shooter,Xbox Game Studios,Cloud,True,2226476,41.9,9.2,20483579
+2023-11,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1766003,41.2,5.23,9236195
+2023-11,Starfield,RPG,Bethesda,Cloud,True,3086316,32.7,9.72,29998991
+2023-11,Sea of Thieves,Aventura,Rare,Xbox,True,2528423,5.5,4.79,12111146
+2023-11,Minecraft,Sandbox,Mojang,PC,True,801951,21.7,8.7,6976973
+2023-11,Call of Duty MWIII,Shooter,Activision,Xbox,True,2794694,44.9,14.57,40718691
+2023-11,Diablo IV,RPG,Blizzard,Xbox,True,2361119,34.0,10.37,24484804
+2023-11,Age of Empires IV,Estrategia,World's Edge,Xbox,True,2637624,37.3,0.84,2215604
+2023-11,Flight Simulator,Simulacion,Asobo,PC,True,932600,22.3,3.23,3012298
+2023-11,Gears 5,Shooter,The Coalition,PC,True,2024834,36.7,5.91,11966768
+2023-11,Hellblade II,Aventura,Ninja Theory,Xbox,True,1514149,13.1,10.7,16201394
+2023-11,Fallout 76,RPG,Bethesda,PC,True,3076765,22.6,8.75,26921693
+2023-11,Overwatch 2,Shooter,Blizzard,Xbox,True,2665142,17.0,7.79,20761456
+2023-11,Candy Crush,Casual,King,PC,False,2818448,54.2,8.56,24125914
+2023-11,Pentiment,Narrativo,Obsidian,Xbox,True,1764443,38.9,6.21,10957191
+2023-12,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,3019772,7.2,4.23,12773635
+2023-12,Forza Horizon 5,Carreras,Xbox Game Studios,Xbox,True,1628515,27.8,4.45,7246891
+2023-12,Starfield,RPG,Bethesda,Xbox,True,2371325,42.7,6.72,15935304
+2023-12,Sea of Thieves,Aventura,Rare,Cloud,True,2399869,14.7,4.24,10175444
+2023-12,Minecraft,Sandbox,Mojang,PC,True,867265,23.6,7.29,6322361
+2023-12,Call of Duty MWIII,Shooter,Activision,Xbox,True,2904070,17.7,6.31,18324681
+2023-12,Diablo IV,RPG,Blizzard,PC,True,3156043,31.1,9.61,30329573
+2023-12,Age of Empires IV,Estrategia,World's Edge,PC,True,2843256,27.4,11.94,33948476
+2023-12,Flight Simulator,Simulacion,Asobo,Xbox,True,955772,7.9,6.96,6652173
+2023-12,Gears 5,Shooter,The Coalition,Xbox,True,1723837,40.7,9.59,16531596
+2023-12,Hellblade II,Aventura,Ninja Theory,Xbox,True,1743842,38.4,1.68,2929654
+2023-12,Fallout 76,RPG,Bethesda,PC,True,2336589,7.8,5.73,13388654
+2023-12,Overwatch 2,Shooter,Blizzard,Xbox,True,2523424,5.9,2.68,6762776
+2023-12,Candy Crush,Casual,King,Xbox,False,3002027,39.2,2.88,8645837
+2023-12,Pentiment,Narrativo,Obsidian,Xbox,True,1746667,19.4,0.52,908266
+2024-01,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,2286928,4.0,9.52,21771554
+2024-01,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1467558,19.9,9.48,13912449
+2024-01,Starfield,RPG,Bethesda,Xbox,True,2721643,20.7,3.29,8954205
+2024-01,Sea of Thieves,Aventura,Rare,Cloud,True,2145123,14.4,4.3,9224028
+2024-01,Minecraft,Sandbox,Mojang,Xbox,True,793207,15.5,8.68,6885036
+2024-01,Call of Duty MWIII,Shooter,Activision,Xbox,True,3193365,12.0,16.6,53009859
+2024-01,Diablo IV,RPG,Blizzard,PC,True,2698859,5.4,1.77,4776980
+2024-01,Age of Empires IV,Estrategia,World's Edge,PC,True,2819847,32.0,7.29,20556684
+2024-01,Flight Simulator,Simulacion,Asobo,Xbox,True,978942,27.7,7.62,7459538
+2024-01,Gears 5,Shooter,The Coalition,Cloud,True,1691565,36.7,5.14,8694644
+2024-01,Hellblade II,Aventura,Ninja Theory,Xbox,True,1409172,25.2,11.82,16656413
+2024-01,Fallout 76,RPG,Bethesda,PC,True,2653014,21.3,9.69,25707705
+2024-01,Overwatch 2,Shooter,Blizzard,Xbox,True,2492872,22.3,6.23,15530592
+2024-01,Candy Crush,Casual,King,Xbox,False,2747783,21.5,0.72,1978403
+2024-01,Pentiment,Narrativo,Obsidian,Xbox,True,1524095,30.8,8.99,13701614
+2024-02,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,2416619,32.9,2.92,7056527
+2024-02,Forza Horizon 5,Carreras,Xbox Game Studios,Cloud,True,1419191,9.9,6.33,8983479
+2024-02,Starfield,RPG,Bethesda,PC,True,2530723,5.0,11.92,30166218
+2024-02,Sea of Thieves,Aventura,Rare,PC,True,2184180,45.5,10.62,23195991
+2024-02,Minecraft,Sandbox,Mojang,PC,True,734987,10.2,1.08,793785
+2024-02,Call of Duty MWIII,Shooter,Activision,Xbox,True,2958025,40.8,15.18,44902819
+2024-02,Diablo IV,RPG,Blizzard,Xbox,True,2566694,15.1,10.55,27078621
+2024-02,Age of Empires IV,Estrategia,World's Edge,PC,True,2171019,31.2,5.06,10985356
+2024-02,Flight Simulator,Simulacion,Asobo,Cloud,True,1017577,19.2,9.22,9382059
+2024-02,Gears 5,Shooter,The Coalition,PC,True,1572228,23.4,0.97,1525061
+2024-02,Hellblade II,Aventura,Ninja Theory,PC,True,1484473,18.0,1.58,2345467
+2024-02,Fallout 76,RPG,Bethesda,Cloud,True,2584189,40.7,2.22,5736899
+2024-02,Overwatch 2,Shooter,Blizzard,Cloud,True,1957957,12.6,15.57,30485390
+2024-02,Candy Crush,Casual,King,PC,False,2164521,27.7,8.94,19350817
+2024-02,Pentiment,Narrativo,Obsidian,PC,True,1615327,23.3,9.03,14586402
+2024-03,Halo Infinite,Shooter,Xbox Game Studios,Cloud,True,2195212,31.8,2.55,5597790
+2024-03,Forza Horizon 5,Carreras,Xbox Game Studios,Xbox,True,1303280,34.2,1.65,2150412
+2024-03,Starfield,RPG,Bethesda,Xbox,True,2756057,5.3,11.76,32411230
+2024-03,Sea of Thieves,Aventura,Rare,Xbox,True,2343469,45.1,5.04,11811083
+2024-03,Minecraft,Sandbox,Mojang,PC,True,1000936,19.0,5.21,5214876
+2024-03,Call of Duty MWIII,Shooter,Activision,Xbox,True,2394811,30.1,4.14,9914517
+2024-03,Diablo IV,RPG,Blizzard,PC,True,2139882,10.3,2.37,5071520
+2024-03,Age of Empires IV,Estrategia,World's Edge,Xbox,True,1640491,50.9,3.3,5413620
+2024-03,Flight Simulator,Simulacion,Asobo,Xbox,True,800926,28.6,3.7,2963426
+2024-03,Gears 5,Shooter,The Coalition,Xbox,True,1225162,23.7,8.83,10818180
+2024-03,Hellblade II,Aventura,Ninja Theory,PC,True,1333144,20.7,11.53,15371150
+2024-03,Fallout 76,RPG,Bethesda,Xbox,True,1869199,10.2,3.4,6355276
+2024-03,Overwatch 2,Shooter,Blizzard,Cloud,True,1815543,43.1,16.3,29593350
+2024-03,Candy Crush,Casual,King,Xbox,False,1909455,52.0,1.33,2539575
+2024-03,Pentiment,Narrativo,Obsidian,PC,True,1644011,24.7,1.62,2663297
+2024-04,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,1637204,30.4,3.6,5893934
+2024-04,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1203995,36.3,7.22,8692843
+2024-04,Starfield,RPG,Bethesda,PC,True,2117457,23.2,5.16,10926078
+2024-04,Sea of Thieves,Aventura,Rare,Xbox,True,1674370,13.4,11.33,18970612
+2024-04,Minecraft,Sandbox,Mojang,PC,True,633689,5.2,3.54,2243259
+2024-04,Call of Duty MWIII,Shooter,Activision,Xbox,True,1973710,27.1,8.51,16796272
+2024-04,Diablo IV,RPG,Blizzard,Xbox,True,2059111,45.2,10.56,21744212
+2024-04,Age of Empires IV,Estrategia,World's Edge,Xbox,True,1994754,16.2,3.32,6622583
+2024-04,Flight Simulator,Simulacion,Asobo,PC,True,633020,28.8,9.44,5975708
+2024-04,Gears 5,Shooter,The Coalition,Xbox,True,1592055,24.0,10.01,15936470
+2024-04,Hellblade II,Aventura,Ninja Theory,Xbox,True,1147677,7.6,11.45,13140901
+2024-04,Fallout 76,RPG,Bethesda,Xbox,True,2574601,13.0,6.88,17713254
+2024-04,Overwatch 2,Shooter,Blizzard,Cloud,True,1595411,5.0,2.8,4467150
+2024-04,Candy Crush,Casual,King,Xbox,False,2155546,34.6,5.85,12609944
+2024-04,Pentiment,Narrativo,Obsidian,PC,True,1204279,10.5,11.87,14294791
+2024-05,Halo Infinite,Shooter,Xbox Game Studios,Cloud,True,757930,26.8,3.39,2569382
+2024-05,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,937278,5.1,4.44,4161514
+2024-05,Starfield,RPG,Bethesda,Xbox,True,2383918,42.7,9.63,22957130
+2024-05,Sea of Thieves,Aventura,Rare,Xbox,True,1564305,24.2,7.85,12279794
+2024-05,Minecraft,Sandbox,Mojang,Xbox,True,476590,10.4,1.21,576673
+2024-05,Call of Duty MWIII,Shooter,Activision,Xbox,True,1980715,12.8,11.66,23095136
+2024-05,Diablo IV,RPG,Blizzard,Xbox,True,1784127,19.4,8.85,15789523
+2024-05,Age of Empires IV,Estrategia,World's Edge,Cloud,True,1570969,33.5,5.94,9331555
+2024-05,Flight Simulator,Simulacion,Asobo,PC,True,503591,7.7,8.3,4179805
+2024-05,Gears 5,Shooter,The Coalition,PC,True,1253727,20.8,16.15,20247691
+2024-05,Hellblade II,Aventura,Ninja Theory,Xbox,True,1112820,22.6,8.09,9002713
+2024-05,Fallout 76,RPG,Bethesda,Xbox,True,2311757,23.9,8.99,20782695
+2024-05,Overwatch 2,Shooter,Blizzard,Cloud,True,1526343,36.0,9.53,14546048
+2024-05,Candy Crush,Casual,King,Xbox,False,1943089,36.6,4.44,8627315
+2024-05,Pentiment,Narrativo,Obsidian,PC,True,1242066,8.1,1.55,1925202
+2024-06,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,1493816,36.3,1.09,1628259
+2024-06,Forza Horizon 5,Carreras,Xbox Game Studios,Xbox,True,1321775,33.4,10.4,13746460
+2024-06,Starfield,RPG,Bethesda,Xbox,True,1441234,10.8,3.66,5274916
+2024-06,Sea of Thieves,Aventura,Rare,Xbox,True,1611952,35.2,10.97,17683113
+2024-06,Minecraft,Sandbox,Mojang,PC,True,617160,22.4,11.46,7072653
+2024-06,Call of Duty MWIII,Shooter,Activision,Cloud,True,1899040,38.7,6.28,11925971
+2024-06,Diablo IV,RPG,Blizzard,Xbox,True,1615917,37.1,0.77,1244256
+2024-06,Age of Empires IV,Estrategia,World's Edge,Cloud,True,1603750,34.0,5.61,8997037
+2024-06,Flight Simulator,Simulacion,Asobo,Xbox,True,678642,12.0,6.76,4587619
+2024-06,Gears 5,Shooter,The Coalition,Cloud,True,1117711,16.3,4.96,5543846
+2024-06,Hellblade II,Aventura,Ninja Theory,PC,True,1062039,34.1,11.75,12478958
+2024-06,Fallout 76,RPG,Bethesda,Xbox,True,1757513,45.0,6.03,10597803
+2024-06,Overwatch 2,Shooter,Blizzard,Xbox,True,1706585,32.6,5.74,9795797
+2024-06,Candy Crush,Casual,King,PC,False,1773643,24.7,3.02,5356401
+2024-06,Pentiment,Narrativo,Obsidian,Xbox,True,1278547,9.7,0.59,754342
+2024-07,Halo Infinite,Shooter,Xbox Game Studios,PC,True,1766347,44.9,3.14,5546329
+2024-07,Forza Horizon 5,Carreras,Xbox Game Studios,Xbox,True,945183,18.3,11.98,11323292
+2024-07,Starfield,RPG,Bethesda,Cloud,True,1847498,25.9,7.63,14096409
+2024-07,Sea of Thieves,Aventura,Rare,PC,True,1860855,7.0,2.09,3889186
+2024-07,Minecraft,Sandbox,Mojang,Xbox,True,594435,27.7,8.13,4832756
+2024-07,Call of Duty MWIII,Shooter,Activision,PC,True,1516478,14.1,8.06,12222812
+2024-07,Diablo IV,RPG,Blizzard,Cloud,True,1636507,37.2,8.01,13108421
+2024-07,Age of Empires IV,Estrategia,World's Edge,Cloud,True,1978424,8.7,8.87,17548620
+2024-07,Flight Simulator,Simulacion,Asobo,Xbox,True,755203,16.1,5.38,4062992
+2024-07,Gears 5,Shooter,The Coalition,PC,True,1234846,17.0,14.33,17695343
+2024-07,Hellblade II,Aventura,Ninja Theory,PC,True,904394,18.4,4.2,3798454
+2024-07,Fallout 76,RPG,Bethesda,Xbox,True,1817248,30.5,10.77,19571760
+2024-07,Overwatch 2,Shooter,Blizzard,PC,True,1467620,8.0,3.4,4989908
+2024-07,Candy Crush,Casual,King,Xbox,False,1476469,6.7,0.51,752999
+2024-07,Pentiment,Narrativo,Obsidian,PC,True,1097324,4.5,8.0,8778592
+2024-08,Halo Infinite,Shooter,Xbox Game Studios,PC,True,1817730,11.1,15.6,28356588
+2024-08,Forza Horizon 5,Carreras,Xbox Game Studios,Xbox,True,1212043,35.0,1.57,1902907
+2024-08,Starfield,RPG,Bethesda,PC,True,2332854,17.4,9.15,21345614
+2024-08,Sea of Thieves,Aventura,Rare,Xbox,True,1708757,25.4,4.73,8082420
+2024-08,Minecraft,Sandbox,Mojang,Xbox,True,607443,23.9,1.87,1135918
+2024-08,Call of Duty MWIII,Shooter,Activision,Xbox,True,2081813,14.0,14.95,31123104
+2024-08,Diablo IV,RPG,Blizzard,Xbox,True,2053105,10.6,8.02,16465902
+2024-08,Age of Empires IV,Estrategia,World's Edge,PC,True,1890617,47.0,11.72,22158031
+2024-08,Flight Simulator,Simulacion,Asobo,Xbox,True,583047,9.0,8.04,4687697
+2024-08,Gears 5,Shooter,The Coalition,PC,True,1022305,25.4,10.25,10478626
+2024-08,Hellblade II,Aventura,Ninja Theory,PC,True,1404840,4.0,1.07,1503178
+2024-08,Fallout 76,RPG,Bethesda,PC,True,1570437,18.2,5.31,8339020
+2024-08,Overwatch 2,Shooter,Blizzard,Xbox,True,1270975,28.9,7.4,9405215
+2024-08,Candy Crush,Casual,King,PC,False,2034816,19.9,6.99,14223363
+2024-08,Pentiment,Narrativo,Obsidian,PC,True,1368794,3.2,2.94,4024254
+2024-09,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,2187700,12.4,16.11,35243847
+2024-09,Forza Horizon 5,Carreras,Xbox Game Studios,Xbox,True,1594329,39.5,1.18,1881308
+2024-09,Starfield,RPG,Bethesda,Xbox,True,2788809,14.2,8.31,23175002
+2024-09,Sea of Thieves,Aventura,Rare,Xbox,True,1704116,13.4,5.36,9134061
+2024-09,Minecraft,Sandbox,Mojang,Xbox,True,729896,27.0,4.18,3050965
+2024-09,Call of Duty MWIII,Shooter,Activision,PC,True,2242537,24.0,5.32,11930296
+2024-09,Diablo IV,RPG,Blizzard,Xbox,True,1953593,47.0,11.19,21860705
+2024-09,Age of Empires IV,Estrategia,World's Edge,Xbox,True,1779479,9.7,7.63,13577424
+2024-09,Flight Simulator,Simulacion,Asobo,PC,True,926463,24.8,9.93,9199777
+2024-09,Gears 5,Shooter,The Coalition,Xbox,True,1582314,4.9,7.67,12136348
+2024-09,Hellblade II,Aventura,Ninja Theory,Xbox,True,1205680,24.3,9.77,11779493
+2024-09,Fallout 76,RPG,Bethesda,Cloud,True,2086433,30.9,6.18,12894155
+2024-09,Overwatch 2,Shooter,Blizzard,Xbox,True,1856288,21.5,10.84,20122161
+2024-09,Candy Crush,Casual,King,PC,False,2342415,13.8,1.69,3958681
+2024-09,Pentiment,Narrativo,Obsidian,Xbox,True,1270194,17.2,5.2,6605008
+2024-10,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,2370608,49.2,16.84,39921038
+2024-10,Forza Horizon 5,Carreras,Xbox Game Studios,Xbox,True,1342162,20.7,7.03,9435398
+2024-10,Starfield,RPG,Bethesda,Xbox,True,2624688,32.6,4.19,10997442
+2024-10,Sea of Thieves,Aventura,Rare,PC,True,2172815,8.2,2.41,5236484
+2024-10,Minecraft,Sandbox,Mojang,PC,True,832445,8.5,6.97,5802141
+2024-10,Call of Duty MWIII,Shooter,Activision,PC,True,2773676,49.7,16.75,46459073
+2024-10,Diablo IV,RPG,Blizzard,Xbox,True,2469104,6.5,11.37,28073712
+2024-10,Age of Empires IV,Estrategia,World's Edge,Xbox,True,2473906,32.5,0.55,1360648
+2024-10,Flight Simulator,Simulacion,Asobo,PC,True,1047772,19.1,0.81,848695
+2024-10,Gears 5,Shooter,The Coalition,Xbox,True,1261003,22.7,8.78,11071606
+2024-10,Hellblade II,Aventura,Ninja Theory,Xbox,True,1484109,15.2,10.61,15746396
+2024-10,Fallout 76,RPG,Bethesda,PC,True,2930494,18.7,2.35,6886660
+2024-10,Overwatch 2,Shooter,Blizzard,Cloud,True,1604424,27.8,17.4,27916977
+2024-10,Candy Crush,Casual,King,PC,False,2293423,13.5,7.33,16810790
+2024-10,Pentiment,Narrativo,Obsidian,PC,True,1263296,34.8,6.04,7630307
+2024-11,Halo Infinite,Shooter,Xbox Game Studios,Xbox,True,1931665,33.6,8.08,15607853
+2024-11,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1668593,7.8,9.64,16085236
+2024-11,Starfield,RPG,Bethesda,Xbox,True,2854710,19.7,10.55,30117190
+2024-11,Sea of Thieves,Aventura,Rare,Xbox,True,2440459,25.4,8.44,20597473
+2024-11,Minecraft,Sandbox,Mojang,Xbox,True,841068,13.1,7.62,6408938
+2024-11,Call of Duty MWIII,Shooter,Activision,Xbox,True,3316534,33.0,4.45,14758576
+2024-11,Diablo IV,RPG,Blizzard,Cloud,True,2690186,20.6,1.61,4331199
+2024-11,Age of Empires IV,Estrategia,World's Edge,Xbox,True,2637918,43.8,11.71,30890019
+2024-11,Flight Simulator,Simulacion,Asobo,Xbox,True,1029656,28.3,7.79,8021020
+2024-11,Gears 5,Shooter,The Coalition,Cloud,True,1825957,4.6,9.97,18204791
+2024-11,Hellblade II,Aventura,Ninja Theory,Xbox,True,1904556,4.5,8.62,16417272
+2024-11,Fallout 76,RPG,Bethesda,PC,True,2882258,6.7,11.26,32454225
+2024-11,Overwatch 2,Shooter,Blizzard,PC,True,2300433,41.2,3.44,7913489
+2024-11,Candy Crush,Casual,King,Xbox,False,2529481,32.6,5.07,12824468
+2024-11,Pentiment,Narrativo,Obsidian,Xbox,True,1889577,41.0,4.07,7690578
+2024-12,Halo Infinite,Shooter,Xbox Game Studios,PC,True,2702524,51.0,2.38,6432007
+2024-12,Forza Horizon 5,Carreras,Xbox Game Studios,PC,True,1930845,35.4,11.72,22629503
+2024-12,Starfield,RPG,Bethesda,PC,True,2394390,10.7,9.65,23105863
+2024-12,Sea of Thieves,Aventura,Rare,PC,True,2458723,45.6,11.68,28717884
+2024-12,Minecraft,Sandbox,Mojang,Xbox,True,673617,15.4,4.94,3327667
+2024-12,Call of Duty MWIII,Shooter,Activision,PC,True,3141759,9.4,2.09,6566276
+2024-12,Diablo IV,RPG,Blizzard,Xbox,True,2355603,49.0,7.54,17761246
+2024-12,Age of Empires IV,Estrategia,World's Edge,Xbox,True,2755092,14.1,11.72,32289678
+2024-12,Flight Simulator,Simulacion,Asobo,Xbox,True,978722,30.2,11.74,11490196
+2024-12,Gears 5,Shooter,The Coalition,Xbox,True,1746505,9.2,1.84,3213569
+2024-12,Hellblade II,Aventura,Ninja Theory,PC,True,1705495,36.6,6.68,11392706
+2024-12,Fallout 76,RPG,Bethesda,PC,True,3136852,47.0,7.6,23840075
+2024-12,Overwatch 2,Shooter,Blizzard,Xbox,True,2555168,19.3,2.31,5902438
+2024-12,Candy Crush,Casual,King,PC,False,2988205,51.6,4.85,14492794
+2024-12,Pentiment,Narrativo,Obsidian,PC,True,1748685,10.3,4.19,7326990

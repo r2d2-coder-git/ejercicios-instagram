@@ -1,0 +1,1001 @@
+empleado,departamento,rol,nivel,salario_usd,antiguedad,ciudad,stock_options
+E00001,Ingenieria,Analyst,Junior,98177.0,2.4,Denver,13935.0
+E00002,Legal,Product Manager,Senior,199472.0,2.6,Londres,44686.0
+E00003,Producto,Recruiter,Mid,159257.0,1.3,Washington,15084.0
+E00004,Deployment,Account Exec,Mid,162468.0,5.8,Palo Alto,47765.0
+E00005,Ingenieria,Analyst,Junior,105295.0,1.8,Washington,8037.0
+E00006,Ingenieria,Data Scientist,Senior,192244.0,5.1,Denver,99888.0
+E00007,Ingenieria,Software Engineer,Staff,329367.0,3.9,Palo Alto,197483.0
+E00008,Marketing,Analyst,Junior,102401.0,5.8,Denver,36512.0
+E00009,Deployment,Data Scientist,Junior,111069.0,7.0,Nueva York,28844.0
+E00010,Producto,Recruiter,Junior,98129.0,4.5,Washington,20586.0
+E00011,Ingenieria,Recruiter,Senior,215542.0,1.7,Nueva York,26848.0
+E00012,Legal,Software Engineer,Senior,235874.0,3.5,Palo Alto,70419.0
+E00013,Marketing,Forward Deployed Eng,Mid,161759.0,0.9,Nueva York,8787.0
+E00014,Ingenieria,Software Engineer,Junior,94680.0,8.0,Denver,49618.0
+E00015,Ingenieria,Product Manager,Mid,151339.0,5.8,Londres,72964.0
+E00016,Ingenieria,Analyst,Mid,164072.0,1.7,Palo Alto,15812.0
+E00017,Ingenieria,Account Exec,Mid,180893.0,2.0,Palo Alto,19901.0
+E00018,Ventas,Forward Deployed Eng,Principal,376843.0,8.2,Nueva York,761211.0
+E00019,Ventas,Software Engineer,Junior,110084.0,1.9,Nueva York,11248.0
+E00020,Ingenieria,Data Scientist,Senior,178344.0,0.9,Denver,12639.0
+E00021,Deployment,Forward Deployed Eng,Mid,170503.0,1.2,Nueva York,10704.0
+E00022,Ingenieria,Analyst,Mid,124902.0,2.7,Denver,25733.0
+E00023,Ingenieria,Forward Deployed Eng,Senior,202885.0,2.4,Nueva York,40216.0
+E00024,Ingenieria,Analyst,Senior,206065.0,2.6,Londres,42627.0
+E00025,Ventas,Software Engineer,Principal,314193.0,5.6,Londres,303522.0
+E00026,Producto,Analyst,Junior,115544.0,2.2,Nueva York,11946.0
+E00027,Ingenieria,Forward Deployed Eng,Junior,120634.0,4.6,Palo Alto,19723.0
+E00028,Ventas,Data Scientist,Senior,179626.0,1.3,Denver,19017.0
+E00029,Deployment,Recruiter,Mid,145854.0,7.7,Londres,64571.0
+E00030,Ingenieria,Forward Deployed Eng,Junior,89867.0,1.4,Denver,8268.0
+E00031,Deployment,Analyst,Junior,120001.0,3.5,Palo Alto,21191.0
+E00032,Ingenieria,Recruiter,Junior,92571.0,3.1,Denver,15343.0
+E00033,Ingenieria,Analyst,Staff,247760.0,4.4,Denver,167137.0
+E00034,Operaciones,Data Scientist,Junior,105820.0,6.0,Nueva York,38601.0
+E00035,Legal,Analyst,Mid,136914.0,2.4,Denver,19688.0
+E00036,Marketing,Software Engineer,Junior,106824.0,6.1,Nueva York,25291.0
+E00037,Ingenieria,Account Exec,Mid,129023.0,7.4,Denver,64759.0
+E00038,Ingenieria,Forward Deployed Eng,Junior,89655.0,2.9,Denver,11653.0
+E00039,Deployment,Account Exec,Mid,158046.0,10.6,Palo Alto,98328.0
+E00040,Ventas,Analyst,Junior,101189.0,4.4,Denver,27423.0
+E00041,Ingenieria,Data Scientist,Senior,172285.0,2.6,Denver,55599.0
+E00042,Ventas,Forward Deployed Eng,Junior,123738.0,3.7,Nueva York,17523.0
+E00043,Ingenieria,Analyst,Mid,147688.0,10.6,Denver,133629.0
+E00044,Operaciones,Recruiter,Staff,255592.0,4.5,Londres,131234.0
+E00045,Ingenieria,Product Manager,Senior,167148.0,4.5,Denver,74355.0
+E00046,Deployment,Analyst,Mid,131613.0,4.8,Denver,49898.0
+E00047,Ingenieria,Account Exec,Mid,171647.0,6.5,Nueva York,69507.0
+E00048,Ventas,Forward Deployed Eng,Mid,131420.0,4.5,Denver,32568.0
+E00049,Ventas,Account Exec,Senior,165133.0,5.3,Denver,99833.0
+E00050,Ingenieria,Forward Deployed Eng,Principal,404543.0,3.6,Palo Alto,294163.0
+E00051,Legal,Analyst,Senior,192424.0,3.9,Denver,87270.0
+E00052,Producto,Software Engineer,Mid,150140.0,6.7,Londres,72553.0
+E00053,Operaciones,Recruiter,Senior,168304.0,1.9,Denver,33909.0
+E00054,Operaciones,Analyst,Mid,146648.0,3.5,Londres,26464.0
+E00055,Deployment,Account Exec,Junior,94174.0,2.8,Londres,13388.0
+E00056,Operaciones,Product Manager,Mid,159240.0,1.0,Palo Alto,7773.0
+E00057,Ingenieria,Product Manager,Principal,378335.0,1.1,Washington,104657.0
+E00058,Ingenieria,Data Scientist,Junior,112805.0,3.5,Palo Alto,17239.0
+E00059,Ingenieria,Forward Deployed Eng,Senior,188625.0,6.9,Washington,122869.0
+E00060,Ingenieria,Account Exec,Junior,85512.0,4.0,Denver,23196.0
+E00061,Ingenieria,Data Scientist,Mid,174010.0,2.2,Nueva York,21973.0
+E00062,Ingenieria,Account Exec,Junior,125699.0,8.5,Palo Alto,37656.0
+E00063,Marketing,Forward Deployed Eng,Mid,173047.0,2.5,Palo Alto,29680.0
+E00064,Ingenieria,Analyst,Senior,226811.0,1.5,Nueva York,36609.0
+E00065,Ingenieria,Analyst,Mid,150726.0,10.7,Nueva York,118107.0
+E00066,Ventas,Product Manager,Senior,178500.0,3.7,Denver,53885.0
+E00067,Ingenieria,Analyst,Senior,174644.0,9.8,Denver,203800.0
+E00068,Marketing,Analyst,Staff,264602.0,3.4,Nueva York,157485.0
+E00069,Ingenieria,Software Engineer,Junior,113684.0,3.5,Nueva York,13683.0
+E00070,Legal,Product Manager,Mid,160996.0,1.0,Washington,8372.0
+E00071,Producto,Data Scientist,Junior,90574.0,2.5,Londres,15369.0
+E00072,Ingenieria,Recruiter,Principal,337319.0,4.8,Washington,256346.0
+E00073,Ingenieria,Software Engineer,Staff,271154.0,5.5,Nueva York,253360.0
+E00074,Marketing,Data Scientist,Mid,127930.0,3.8,Denver,37402.0
+E00075,Producto,Forward Deployed Eng,Staff,259605.0,2.7,Denver,104551.0
+E00076,Producto,Software Engineer,Mid,140845.0,3.5,Londres,24649.0
+E00077,Producto,Data Scientist,Senior,214544.0,1.4,Nueva York,33366.0
+E00078,Ingenieria,Forward Deployed Eng,Junior,99951.0,8.8,Denver,40299.0
+E00079,Ingenieria,Product Manager,Senior,209452.0,6.0,Palo Alto,122935.0
+E00080,Ingenieria,Recruiter,Junior,104234.0,3.2,Washington,17702.0
+E00081,Marketing,Forward Deployed Eng,Staff,295799.0,2.4,Palo Alto,107671.0
+E00082,Deployment,Analyst,Senior,229361.0,11.2,Palo Alto,285284.0
+E00083,Ingenieria,Account Exec,Senior,247480.0,2.1,Palo Alto,42790.0
+E00084,Ingenieria,Forward Deployed Eng,Junior,100120.0,2.9,Denver,13628.0
+E00085,Ingenieria,Forward Deployed Eng,Mid,165303.0,9.0,Palo Alto,114500.0
+E00086,Ingenieria,Recruiter,Junior,126529.0,4.1,Palo Alto,22248.0
+E00087,Producto,Account Exec,Mid,126109.0,0.8,Denver,7031.0
+E00088,Deployment,Analyst,Junior,90383.0,4.2,Londres,16293.0
+E00089,Operaciones,Data Scientist,Staff,282267.0,2.2,Palo Alto,106087.0
+E00090,Ventas,Data Scientist,Mid,137226.0,0.9,Londres,8256.0
+E00091,Ingenieria,Forward Deployed Eng,Mid,142050.0,2.3,Londres,25214.0
+E00092,Producto,Account Exec,Mid,138108.0,1.4,Denver,13755.0
+E00093,Producto,Account Exec,Mid,175304.0,1.8,Nueva York,14748.0
+E00094,Deployment,Analyst,Senior,225443.0,4.1,Palo Alto,87003.0
+E00095,Producto,Recruiter,Mid,141786.0,1.0,Londres,7364.0
+E00096,Ventas,Product Manager,Staff,218412.0,6.4,Denver,242689.0
+E00097,Ventas,Data Scientist,Mid,146931.0,2.7,Nueva York,27755.0
+E00098,Ventas,Recruiter,Principal,387929.0,1.9,Nueva York,137032.0
+E00099,Ingenieria,Software Engineer,Staff,237033.0,2.7,Denver,124114.0
+E00100,Ingenieria,Data Scientist,Junior,101444.0,1.4,Denver,8377.0
+E00101,Ingenieria,Recruiter,Staff,268455.0,1.4,Nueva York,65114.0
+E00102,Deployment,Data Scientist,Junior,103169.0,2.5,Nueva York,9041.0
+E00103,Ingenieria,Product Manager,Senior,178165.0,4.2,Denver,68584.0
+E00104,Ventas,Software Engineer,Mid,153494.0,4.8,Nueva York,49054.0
+E00105,Operaciones,Product Manager,Staff,272977.0,2.4,Palo Alto,121046.0
+E00106,Ingenieria,Analyst,Staff,300937.0,2.9,Nueva York,139313.0
+E00107,Ventas,Software Engineer,Senior,166017.0,4.0,Denver,96442.0
+E00108,Producto,Forward Deployed Eng,Senior,193094.0,9.4,Londres,165802.0
+E00109,Ingenieria,Recruiter,Mid,129088.0,3.6,Denver,34476.0
+E00110,Ingenieria,Software Engineer,Junior,110996.0,2.0,Palo Alto,9824.0
+E00111,Ingenieria,Analyst,Mid,131753.0,1.6,Denver,12711.0
+E00112,Ingenieria,Analyst,Junior,100727.0,6.5,Denver,23356.0
+E00113,Operaciones,Product Manager,Senior,220144.0,0.4,Palo Alto,10145.0
+E00114,Marketing,Data Scientist,Mid,141771.0,2.3,Denver,19422.0
+E00115,Deployment,Software Engineer,Principal,310833.0,1.6,Londres,101276.0
+E00116,Marketing,Recruiter,Senior,189820.0,5.9,Denver,88503.0
+E00117,Marketing,Software Engineer,Staff,284216.0,8.0,Palo Alto,402273.0
+E00118,Ingenieria,Account Exec,Junior,98370.0,2.9,Denver,15194.0
+E00119,Operaciones,Data Scientist,Staff,243158.0,1.9,Denver,83617.0
+E00120,Ventas,Recruiter,Staff,260599.0,3.1,Denver,154621.0
+E00121,Marketing,Recruiter,Mid,164947.0,4.6,Palo Alto,41739.0
+E00122,Operaciones,Forward Deployed Eng,Senior,205477.0,5.1,Palo Alto,109436.0
+E00123,Ingenieria,Product Manager,Senior,203362.0,3.1,Palo Alto,44843.0
+E00124,Ingenieria,Forward Deployed Eng,Junior,126513.0,8.1,Palo Alto,32889.0
+E00125,Ingenieria,Recruiter,Mid,162801.0,2.2,Nueva York,26372.0
+E00126,Ventas,Data Scientist,Mid,142432.0,2.5,Denver,29002.0
+E00127,Marketing,Software Engineer,Junior,112443.0,2.6,Palo Alto,11835.0
+E00128,Marketing,Software Engineer,Mid,143899.0,4.2,Washington,38896.0
+E00129,Ingenieria,Data Scientist,Junior,107590.0,6.2,Palo Alto,31624.0
+E00130,Ventas,Recruiter,Junior,124522.0,1.1,Nueva York,3851.0
+E00131,Ventas,Analyst,Junior,98189.0,1.3,Denver,5491.0
+E00132,Ingenieria,Software Engineer,Principal,365111.0,4.3,Londres,266043.0
+E00133,Ingenieria,Analyst,Mid,135102.0,1.3,Londres,11054.0
+E00134,Ingenieria,Software Engineer,Principal,408917.0,2.8,Palo Alto,248544.0
+E00135,Operaciones,Software Engineer,Mid,153801.0,2.6,Washington,22563.0
+E00136,Ingenieria,Product Manager,Mid,130074.0,7.5,Denver,61118.0
+E00137,Ventas,Product Manager,Mid,144399.0,9.9,Denver,99253.0
+E00138,Producto,Account Exec,Mid,154427.0,2.3,Londres,28046.0
+E00139,Ingenieria,Forward Deployed Eng,Junior,107428.0,5.0,Londres,21120.0
+E00140,Legal,Data Scientist,Senior,188606.0,2.7,Denver,40345.0
+E00141,Legal,Data Scientist,Junior,90772.0,6.0,Denver,27415.0
+E00142,Ingenieria,Data Scientist,Senior,172138.0,1.3,Denver,29863.0
+E00143,Ventas,Account Exec,Senior,196681.0,7.4,Denver,152501.0
+E00144,Ingenieria,Product Manager,Junior,89980.0,2.1,Londres,12496.0
+E00145,Ingenieria,Recruiter,Junior,123881.0,1.0,Palo Alto,6379.0
+E00146,Ingenieria,Analyst,Senior,187425.0,2.2,Denver,51726.0
+E00147,Deployment,Analyst,Mid,172891.0,2.8,Palo Alto,29744.0
+E00148,Ventas,Recruiter,Junior,104312.0,1.4,Denver,6972.0
+E00149,Ingenieria,Account Exec,Principal,307960.0,3.3,Denver,179200.0
+E00150,Ingenieria,Recruiter,Junior,110351.0,5.5,Nueva York,35491.0
+E00151,Operaciones,Data Scientist,Senior,181326.0,1.8,Washington,33483.0
+E00152,Ingenieria,Forward Deployed Eng,Principal,332156.0,9.2,Londres,546022.0
+E00153,Ingenieria,Software Engineer,Junior,90460.0,14.4,Denver,79202.0
+E00154,Ventas,Analyst,Junior,96626.0,2.8,Londres,12188.0
+E00155,Legal,Product Manager,Junior,106425.0,5.2,Londres,27338.0
+E00156,Ingenieria,Product Manager,Mid,154096.0,4.5,Londres,47343.0
+E00157,Deployment,Account Exec,Junior,111286.0,3.1,Palo Alto,14995.0
+E00158,Producto,Product Manager,Senior,219263.0,2.9,Palo Alto,69697.0
+E00159,Ingenieria,Data Scientist,Junior,103144.0,0.7,Denver,3006.0
+E00160,Producto,Analyst,Mid,123169.0,3.1,Denver,30045.0
+E00161,Ingenieria,Recruiter,Principal,293911.0,5.9,Denver,452507.0
+E00162,Deployment,Data Scientist,Senior,167860.0,2.2,Denver,48320.0
+E00163,Deployment,Account Exec,Senior,229285.0,9.1,Palo Alto,213010.0
+E00164,Ventas,Data Scientist,Mid,150675.0,4.6,Nueva York,43097.0
+E00165,Ingenieria,Recruiter,Senior,246063.0,7.4,Palo Alto,160969.0
+E00166,Marketing,Forward Deployed Eng,Mid,133561.0,2.9,Denver,22921.0
+E00167,Ingenieria,Account Exec,Mid,148545.0,3.9,Washington,49124.0
+E00168,Ingenieria,Forward Deployed Eng,Junior,99205.0,5.1,Washington,23711.0
+E00169,Ingenieria,Software Engineer,Staff,250536.0,2.6,Londres,118322.0
+E00170,Deployment,Forward Deployed Eng,Mid,153309.0,7.1,Washington,50567.0
+E00171,Deployment,Software Engineer,Junior,124715.0,2.2,Palo Alto,9054.0
+E00172,Ingenieria,Software Engineer,Mid,156040.0,11.4,Washington,113116.0
+E00173,Ventas,Forward Deployed Eng,Mid,137103.0,1.3,Denver,15950.0
+E00174,Ingenieria,Account Exec,Staff,324262.0,4.9,Palo Alto,199205.0
+E00175,Deployment,Recruiter,Senior,191427.0,2.0,Denver,50317.0
+E00176,Ingenieria,Data Scientist,Senior,189254.0,1.6,Denver,31689.0
+E00177,Deployment,Data Scientist,Junior,86557.0,1.6,Denver,7954.0
+E00178,Ingenieria,Recruiter,Mid,146023.0,0.2,Nueva York,1544.0
+E00179,Operaciones,Analyst,Mid,133598.0,1.4,Londres,16542.0
+E00180,Ingenieria,Analyst,Junior,117728.0,6.1,Nueva York,25869.0
+E00181,Ingenieria,Software Engineer,Junior,93313.0,5.8,Denver,35953.0
+E00182,Ingenieria,Software Engineer,Senior,185311.0,1.2,Londres,29916.0
+E00183,Operaciones,Account Exec,Junior,122769.0,4.8,Nueva York,30384.0
+E00184,Marketing,Product Manager,Mid,182100.0,1.9,Palo Alto,19231.0
+E00185,Ingenieria,Forward Deployed Eng,Junior,123329.0,0.6,Nueva York,3319.0
+E00186,Deployment,Software Engineer,Junior,91464.0,6.2,Denver,36180.0
+E00187,Marketing,Data Scientist,Junior,98630.0,6.8,Denver,26473.0
+E00188,Deployment,Account Exec,Principal,335923.0,2.2,Washington,174995.0
+E00189,Ventas,Forward Deployed Eng,Senior,168862.0,7.4,Denver,106646.0
+E00190,Ingenieria,Account Exec,Principal,374771.0,3.2,Palo Alto,239650.0
+E00191,Ingenieria,Forward Deployed Eng,Mid,137274.0,3.7,Londres,29338.0
+E00192,Operaciones,Forward Deployed Eng,Junior,112403.0,3.1,Nueva York,12551.0
+E00193,Operaciones,Recruiter,Mid,143936.0,1.2,Denver,11028.0
+E00194,Deployment,Software Engineer,Mid,124737.0,2.8,Denver,26865.0
+E00195,Ingenieria,Account Exec,Staff,251276.0,1.2,Denver,51547.0
+E00196,Ingenieria,Account Exec,Junior,114717.0,5.0,Nueva York,18616.0
+E00197,Producto,Recruiter,Mid,161593.0,5.3,Palo Alto,53117.0
+E00198,Operaciones,Data Scientist,Junior,94864.0,0.6,Denver,2429.0
+E00199,Operaciones,Data Scientist,Mid,142558.0,5.2,Washington,54308.0
+E00200,Producto,Analyst,Senior,229324.0,3.2,Palo Alto,69276.0
+E00201,Deployment,Software Engineer,Mid,133214.0,0.7,Denver,7238.0
+E00202,Ingenieria,Software Engineer,Mid,157424.0,4.0,Palo Alto,45719.0
+E00203,Ingenieria,Product Manager,Mid,149577.0,2.6,Nueva York,23436.0
+E00204,Operaciones,Recruiter,Mid,136261.0,1.9,Denver,22022.0
+E00205,Deployment,Data Scientist,Senior,194487.0,1.3,Denver,24951.0
+E00206,Ingenieria,Forward Deployed Eng,Staff,244135.0,4.4,Londres,174330.0
+E00207,Ingenieria,Account Exec,Principal,418640.0,3.6,Palo Alto,293993.0
+E00208,Deployment,Software Engineer,Senior,232140.0,3.8,Palo Alto,54037.0
+E00209,Ingenieria,Account Exec,Mid,183315.0,7.2,Palo Alto,78653.0
+E00210,Ingenieria,Account Exec,Senior,191555.0,9.0,Denver,192807.0
+E00211,Ventas,Product Manager,Mid,136798.0,0.4,Denver,3544.0
+E00212,Deployment,Data Scientist,Junior,122479.0,4.4,Palo Alto,16532.0
+E00213,Deployment,Software Engineer,Staff,259123.0,2.3,Denver,69420.0
+E00214,Ingenieria,Account Exec,Junior,93091.0,4.9,Denver,30721.0
+E00215,Producto,Software Engineer,Staff,243270.0,1.8,Londres,80177.0
+E00216,Ingenieria,Forward Deployed Eng,Mid,133971.0,11.3,Washington,87718.0
+E00217,Ingenieria,Product Manager,Senior,201344.0,5.1,Londres,93231.0
+E00218,Producto,Forward Deployed Eng,Senior,200377.0,3.0,Londres,63329.0
+E00219,Deployment,Software Engineer,Staff,221014.0,7.5,Denver,360403.0
+E00220,Marketing,Analyst,Senior,201044.0,1.7,Washington,24691.0
+E00221,Deployment,Software Engineer,Senior,178703.0,5.2,Denver,87566.0
+E00222,Deployment,Data Scientist,Junior,96531.0,2.9,Washington,17891.0
+E00223,Ingenieria,Account Exec,Mid,162773.0,3.2,Washington,22576.0
+E00224,Ingenieria,Account Exec,Junior,107495.0,14.2,Nueva York,58280.0
+E00225,Ingenieria,Forward Deployed Eng,Senior,180862.0,4.5,Washington,114787.0
+E00226,Ingenieria,Product Manager,Mid,165073.0,1.8,Nueva York,19225.0
+E00227,Legal,Analyst,Senior,188599.0,3.1,Denver,53134.0
+E00228,Ingenieria,Recruiter,Junior,107646.0,1.9,Palo Alto,7032.0
+E00229,Operaciones,Account Exec,Junior,117619.0,2.1,Nueva York,7528.0
+E00230,Deployment,Data Scientist,Senior,181163.0,3.7,Denver,62667.0
+E00231,Producto,Forward Deployed Eng,Junior,104954.0,2.0,Nueva York,12289.0
+E00232,Ventas,Forward Deployed Eng,Junior,97656.0,7.5,Washington,35608.0
+E00233,Deployment,Recruiter,Junior,96292.0,2.9,Denver,16417.0
+E00234,Ventas,Data Scientist,Principal,322315.0,3.3,Londres,309615.0
+E00235,Ingenieria,Product Manager,Senior,215357.0,2.2,Washington,41572.0
+E00236,Producto,Data Scientist,Mid,157967.0,1.2,Washington,9777.0
+E00237,Ingenieria,Product Manager,Junior,114607.0,1.3,Washington,6567.0
+E00238,Ingenieria,Data Scientist,Mid,160639.0,4.0,Palo Alto,49794.0
+E00239,Deployment,Data Scientist,Senior,216601.0,2.7,Washington,63862.0
+E00240,Ingenieria,Software Engineer,Senior,186401.0,4.2,Londres,62118.0
+E00241,Operaciones,Forward Deployed Eng,Junior,92103.0,6.8,Denver,37928.0
+E00242,Legal,Data Scientist,Junior,108071.0,1.9,Palo Alto,9910.0
+E00243,Operaciones,Recruiter,Junior,103803.0,12.6,Nueva York,78402.0
+E00244,Ingenieria,Data Scientist,Senior,186912.0,1.5,Denver,23205.0
+E00245,Ingenieria,Account Exec,Senior,214183.0,1.3,Nueva York,26531.0
+E00246,Operaciones,Forward Deployed Eng,Junior,107765.0,6.2,Nueva York,38058.0
+E00247,Ventas,Account Exec,Junior,97165.0,3.4,Denver,16082.0
+E00248,Legal,Forward Deployed Eng,Junior,108365.0,1.8,Nueva York,8903.0
+E00249,Legal,Account Exec,Principal,341217.0,1.2,Londres,66805.0
+E00250,Marketing,Data Scientist,Junior,115406.0,1.5,Palo Alto,6502.0
+E00251,Ingenieria,Data Scientist,Senior,191648.0,3.5,Denver,62629.0
+E00252,Ingenieria,Software Engineer,Senior,191545.0,8.4,Denver,212868.0
+E00253,Marketing,Recruiter,Mid,167986.0,0.7,Palo Alto,6087.0
+E00254,Ingenieria,Account Exec,Junior,101382.0,3.8,Washington,18554.0
+E00255,Ingenieria,Product Manager,Junior,92389.0,5.6,Denver,30878.0
+E00256,Deployment,Software Engineer,Senior,229207.0,2.3,Nueva York,36676.0
+E00257,Operaciones,Account Exec,Senior,173814.0,8.6,Denver,170601.0
+E00258,Deployment,Account Exec,Senior,169526.0,4.1,Denver,93736.0
+E00259,Deployment,Software Engineer,Mid,129976.0,6.0,Londres,73207.0
+E00260,Ingenieria,Data Scientist,Junior,113241.0,5.8,Nueva York,31197.0
+E00261,Deployment,Account Exec,Principal,318856.0,7.3,Denver,603034.0
+E00262,Legal,Data Scientist,Senior,240341.0,3.0,Palo Alto,46546.0
+E00263,Ingenieria,Software Engineer,Junior,89704.0,9.6,Denver,60838.0
+E00264,Ventas,Data Scientist,Principal,390479.0,3.2,Palo Alto,187091.0
+E00265,Marketing,Forward Deployed Eng,Senior,229323.0,2.8,Nueva York,65229.0
+E00266,Producto,Product Manager,Mid,143738.0,2.7,Denver,23190.0
+E00267,Deployment,Analyst,Senior,175846.0,2.6,Denver,65528.0
+E00268,Producto,Account Exec,Senior,223161.0,2.6,Palo Alto,58863.0
+E00269,Ingenieria,Recruiter,Senior,190210.0,3.6,Washington,82965.0
+E00270,Ingenieria,Product Manager,Junior,113540.0,3.6,Washington,14966.0
+E00271,Marketing,Analyst,Mid,124703.0,3.6,Denver,34770.0
+E00272,Marketing,Data Scientist,Staff,273861.0,2.9,Londres,124200.0
+E00273,Marketing,Account Exec,Junior,123117.0,5.8,Palo Alto,33698.0
+E00274,Operaciones,Data Scientist,Mid,169816.0,3.9,Palo Alto,29733.0
+E00275,Ventas,Forward Deployed Eng,Mid,128501.0,4.6,Londres,58761.0
+E00276,Ventas,Software Engineer,Mid,147775.0,1.6,Washington,19746.0
+E00277,Producto,Account Exec,Senior,194347.0,1.2,Washington,20693.0
+E00278,Deployment,Analyst,Principal,357982.0,5.4,Nueva York,483431.0
+E00279,Producto,Analyst,Junior,122465.0,6.0,Palo Alto,30330.0
+E00280,Producto,Forward Deployed Eng,Junior,109149.0,1.5,Londres,7328.0
+E00281,Operaciones,Forward Deployed Eng,Junior,96182.0,1.3,Denver,5776.0
+E00282,Ingenieria,Account Exec,Staff,300370.0,7.6,Nueva York,318769.0
+E00283,Ingenieria,Data Scientist,Senior,205580.0,2.3,Palo Alto,52345.0
+E00284,Ingenieria,Recruiter,Junior,112123.0,2.0,Nueva York,9466.0
+E00285,Deployment,Analyst,Senior,166189.0,1.3,Denver,28016.0
+E00286,Ingenieria,Analyst,Staff,245414.0,1.3,Denver,58219.0
+E00287,Ventas,Forward Deployed Eng,Staff,287152.0,12.4,Washington,558830.0
+E00288,Ventas,Product Manager,Staff,247765.0,3.1,Denver,90666.0
+E00289,Ingenieria,Forward Deployed Eng,Junior,108699.0,2.7,Palo Alto,16414.0
+E00290,Deployment,Recruiter,Senior,174768.0,1.2,Denver,23399.0
+E00291,Ingenieria,Data Scientist,Mid,136368.0,0.7,Denver,6002.0
+E00292,Ingenieria,Data Scientist,Staff,235354.0,9.9,Denver,334643.0
+E00293,Marketing,Product Manager,Senior,192011.0,6.7,Denver,132634.0
+E00294,Ingenieria,Analyst,Senior,200895.0,3.8,Londres,93640.0
+E00295,Ingenieria,Forward Deployed Eng,Senior,184026.0,2.8,Denver,51912.0
+E00296,Ventas,Data Scientist,Junior,101855.0,3.7,Washington,21272.0
+E00297,Producto,Recruiter,Mid,154073.0,3.6,Nueva York,27291.0
+E00298,Ingenieria,Account Exec,Principal,368470.0,8.2,Palo Alto,606165.0
+E00299,Deployment,Software Engineer,Staff,279642.0,4.5,Nueva York,233102.0
+E00300,Ingenieria,Software Engineer,Junior,116688.0,2.3,Palo Alto,13366.0
+E00301,Ingenieria,Software Engineer,Junior,103258.0,1.8,Londres,7437.0
+E00302,Ventas,Analyst,Junior,98005.0,3.3,Denver,16514.0
+E00303,Ventas,Forward Deployed Eng,Senior,205655.0,2.8,Palo Alto,47050.0
+E00304,Deployment,Product Manager,Senior,185041.0,4.3,Londres,81333.0
+E00305,Producto,Data Scientist,Junior,97849.0,0.6,Washington,3504.0
+E00306,Legal,Account Exec,Mid,132021.0,3.7,Londres,43021.0
+E00307,Ventas,Recruiter,Staff,319638.0,1.5,Palo Alto,50212.0
+E00308,Ingenieria,Account Exec,Senior,171684.0,2.1,Londres,52640.0
+E00309,Producto,Recruiter,Mid,166022.0,3.1,Palo Alto,32722.0
+E00310,Ingenieria,Analyst,Mid,157552.0,9.0,Palo Alto,83516.0
+E00311,Ventas,Forward Deployed Eng,Mid,145242.0,4.8,Denver,48056.0
+E00312,Ingenieria,Software Engineer,Junior,115301.0,3.0,Nueva York,15946.0
+E00313,Ingenieria,Forward Deployed Eng,Mid,127747.0,1.0,Denver,10359.0
+E00314,Legal,Analyst,Senior,180087.0,3.3,Denver,65462.0
+E00315,Marketing,Product Manager,Staff,263667.0,1.5,Londres,60178.0
+E00316,Deployment,Product Manager,Senior,196492.0,6.7,Denver,107984.0
+E00317,Ventas,Analyst,Senior,169936.0,3.2,Denver,76009.0
+E00318,Ingenieria,Recruiter,Junior,102337.0,1.3,Denver,6663.0
+E00319,Ingenieria,Data Scientist,Mid,161399.0,3.0,Washington,23359.0
+E00320,Ingenieria,Data Scientist,Junior,128640.0,6.5,Palo Alto,37690.0
+E00321,Ventas,Recruiter,Junior,121966.0,6.3,Palo Alto,39673.0
+E00322,Producto,Product Manager,Senior,193907.0,2.8,Londres,71030.0
+E00323,Deployment,Product Manager,Principal,329496.0,5.5,Londres,380082.0
+E00324,Ingenieria,Product Manager,Junior,99796.0,3.9,Denver,15236.0
+E00325,Legal,Forward Deployed Eng,Mid,163014.0,2.6,Nueva York,26287.0
+E00326,Producto,Product Manager,Senior,195707.0,0.7,Londres,10746.0
+E00327,Deployment,Account Exec,Junior,112369.0,5.3,Nueva York,33400.0
+E00328,Deployment,Software Engineer,Mid,141250.0,1.8,Denver,14583.0
+E00329,Ventas,Product Manager,Senior,201265.0,3.8,Londres,64726.0
+E00330,Ingenieria,Recruiter,Senior,209090.0,0.7,Palo Alto,13216.0
+E00331,Ingenieria,Software Engineer,Junior,101326.0,3.6,Denver,16738.0
+E00332,Producto,Forward Deployed Eng,Mid,170110.0,3.0,Palo Alto,35304.0
+E00333,Ingenieria,Recruiter,Senior,192408.0,4.7,Denver,91536.0
+E00334,Ingenieria,Software Engineer,Mid,133145.0,2.7,Denver,21666.0
+E00335,Ingenieria,Recruiter,Junior,97337.0,3.5,Londres,15056.0
+E00336,Ingenieria,Forward Deployed Eng,Senior,194942.0,6.4,Denver,128700.0
+E00337,Marketing,Account Exec,Junior,112840.0,11.7,Palo Alto,46126.0
+E00338,Producto,Forward Deployed Eng,Senior,240490.0,13.5,Palo Alto,288088.0
+E00339,Ventas,Forward Deployed Eng,Junior,94696.0,15.0,Denver,77959.0
+E00340,Ingenieria,Recruiter,Principal,352992.0,3.3,Washington,279383.0
+E00341,Ventas,Analyst,Mid,129829.0,3.8,Denver,47980.0
+E00342,Ventas,Data Scientist,Mid,136972.0,11.3,Denver,140951.0
+E00343,Ingenieria,Product Manager,Junior,91679.0,8.0,Denver,50706.0
+E00344,Ventas,Product Manager,Mid,122560.0,2.1,Denver,17783.0
+E00345,Ingenieria,Account Exec,Staff,229056.0,1.7,Denver,52968.0
+E00346,Deployment,Account Exec,Principal,346090.0,0.5,Nueva York,33051.0
+E00347,Deployment,Product Manager,Mid,162707.0,4.4,Washington,54430.0
+E00348,Ingenieria,Data Scientist,Mid,147575.0,8.4,Denver,107791.0
+E00349,Ingenieria,Product Manager,Senior,211471.0,1.8,Nueva York,43761.0
+E00350,Deployment,Analyst,Staff,301154.0,1.9,Nueva York,58217.0
+E00351,Ventas,Data Scientist,Mid,137379.0,5.2,Londres,65960.0
+E00352,Marketing,Account Exec,Mid,174524.0,7.0,Palo Alto,66781.0
+E00353,Deployment,Software Engineer,Mid,143247.0,4.0,Denver,28223.0
+E00354,Ingenieria,Recruiter,Senior,196083.0,1.8,Denver,34756.0
+E00355,Ingenieria,Analyst,Junior,111725.0,2.9,Nueva York,10551.0
+E00356,Deployment,Analyst,Senior,199709.0,2.5,Londres,51316.0
+E00357,Ingenieria,Account Exec,Mid,128680.0,5.1,Denver,46060.0
+E00358,Deployment,Account Exec,Senior,247065.0,1.8,Palo Alto,35426.0
+E00359,Operaciones,Forward Deployed Eng,Junior,94589.0,1.1,Washington,5873.0
+E00360,Deployment,Analyst,Mid,144685.0,0.5,Londres,6106.0
+E00361,Ingenieria,Forward Deployed Eng,Mid,153237.0,2.1,Washington,23040.0
+E00362,Deployment,Forward Deployed Eng,Senior,196108.0,6.5,Londres,124856.0
+E00363,Ventas,Recruiter,Junior,109734.0,1.6,Palo Alto,9533.0
+E00364,Ventas,Forward Deployed Eng,Mid,176208.0,0.8,Nueva York,9947.0
+E00365,Operaciones,Data Scientist,Mid,151670.0,1.2,Nueva York,9262.0
+E00366,Ingenieria,Product Manager,Mid,138314.0,1.5,Denver,15287.0
+E00367,Legal,Software Engineer,Senior,212520.0,2.1,Palo Alto,36570.0
+E00368,Operaciones,Account Exec,Senior,207672.0,1.1,Nueva York,16021.0
+E00369,Ingenieria,Data Scientist,Senior,181673.0,5.9,Denver,129933.0
+E00370,Ingenieria,Software Engineer,Junior,98098.0,1.3,Londres,7915.0
+E00371,Ingenieria,Analyst,Staff,268429.0,4.2,Nueva York,134021.0
+E00372,Ingenieria,Analyst,Mid,138727.0,2.1,Washington,24936.0
+E00373,Ingenieria,Analyst,Junior,93445.0,1.7,Denver,10302.0
+E00374,Deployment,Data Scientist,Junior,99888.0,5.5,Denver,34337.0
+E00375,Ingenieria,Data Scientist,Mid,174894.0,3.1,Nueva York,26634.0
+E00376,Ingenieria,Account Exec,Senior,165029.0,7.6,Denver,188841.0
+E00377,Marketing,Product Manager,Senior,211382.0,2.2,Nueva York,39265.0
+E00378,Ingenieria,Forward Deployed Eng,Senior,173889.0,1.3,Londres,26816.0
+E00379,Marketing,Analyst,Mid,121948.0,2.5,Denver,18258.0
+E00380,Ingenieria,Recruiter,Mid,174208.0,2.0,Palo Alto,14527.0
+E00381,Ingenieria,Product Manager,Junior,121183.0,9.8,Palo Alto,55479.0
+E00382,Deployment,Recruiter,Mid,157377.0,1.9,Palo Alto,18367.0
+E00383,Deployment,Account Exec,Mid,140594.0,4.3,Washington,36712.0
+E00384,Marketing,Account Exec,Junior,90248.0,3.3,Londres,13435.0
+E00385,Producto,Account Exec,Junior,121637.0,1.3,Nueva York,7163.0
+E00386,Marketing,Software Engineer,Mid,177380.0,1.6,Nueva York,11204.0
+E00387,Ingenieria,Recruiter,Senior,208596.0,3.7,Palo Alto,87582.0
+E00388,Ingenieria,Product Manager,Principal,333096.0,3.7,Washington,207445.0
+E00389,Producto,Product Manager,Staff,309220.0,2.5,Nueva York,81489.0
+E00390,Marketing,Data Scientist,Senior,234423.0,3.0,Nueva York,55905.0
+E00391,Legal,Data Scientist,Mid,139471.0,0.7,Londres,6936.0
+E00392,Ventas,Analyst,Senior,163822.0,1.6,Denver,29216.0
+E00393,Ingenieria,Data Scientist,Senior,171589.0,6.5,Londres,116016.0
+E00394,Producto,Account Exec,Junior,96405.0,2.1,Denver,13423.0
+E00395,Ingenieria,Product Manager,Mid,132108.0,6.5,Denver,70522.0
+E00396,Operaciones,Recruiter,Staff,217375.0,7.1,Denver,202793.0
+E00397,Marketing,Account Exec,Mid,150973.0,7.1,Washington,68025.0
+E00398,Ventas,Software Engineer,Mid,127895.0,9.5,Londres,116375.0
+E00399,Producto,Data Scientist,Mid,171311.0,4.6,Nueva York,40520.0
+E00400,Producto,Account Exec,Junior,109587.0,9.3,Nueva York,35188.0
+E00401,Ingenieria,Account Exec,Mid,147104.0,6.2,Nueva York,71612.0
+E00402,Operaciones,Software Engineer,Mid,151124.0,0.6,Washington,6382.0
+E00403,Ventas,Forward Deployed Eng,Junior,116320.0,4.3,Palo Alto,22407.0
+E00404,Marketing,Product Manager,Junior,130003.0,13.5,Palo Alto,49420.0
+E00405,Ingenieria,Recruiter,Staff,242122.0,0.5,Denver,15686.0
+E00406,Operaciones,Analyst,Junior,95266.0,3.2,Londres,17176.0
+E00407,Ingenieria,Forward Deployed Eng,Mid,168786.0,1.3,Nueva York,10721.0
+E00408,Ingenieria,Data Scientist,Junior,113323.0,1.7,Palo Alto,8521.0
+E00409,Operaciones,Account Exec,Principal,345872.0,2.1,Denver,161741.0
+E00410,Ingenieria,Software Engineer,Junior,97251.0,4.3,Londres,18707.0
+E00411,Ingenieria,Software Engineer,Mid,136346.0,2.5,Denver,31726.0
+E00412,Legal,Product Manager,Staff,262113.0,4.2,Nueva York,202520.0
+E00413,Legal,Forward Deployed Eng,Staff,260099.0,10.9,Washington,494173.0
+E00414,Deployment,Analyst,Junior,126644.0,6.7,Palo Alto,25018.0
+E00415,Deployment,Product Manager,Senior,191003.0,3.7,Denver,56512.0
+E00416,Ventas,Account Exec,Mid,153068.0,2.7,Nueva York,26883.0
+E00417,Ingenieria,Product Manager,Mid,133984.0,4.6,Londres,36636.0
+E00418,Ingenieria,Recruiter,Junior,126286.0,0.6,Palo Alto,3861.0
+E00419,Deployment,Software Engineer,Junior,113495.0,2.3,Washington,9144.0
+E00420,Producto,Software Engineer,Senior,165433.0,4.7,Denver,93293.0
+E00421,Producto,Data Scientist,Mid,167064.0,3.6,Palo Alto,33065.0
+E00422,Producto,Data Scientist,Mid,156734.0,7.0,Nueva York,75854.0
+E00423,Ingenieria,Analyst,Senior,203012.0,6.3,Londres,97955.0
+E00424,Ventas,Account Exec,Senior,165007.0,4.5,Denver,86237.0
+E00425,Ingenieria,Recruiter,Junior,93987.0,2.5,Londres,10810.0
+E00426,Ventas,Forward Deployed Eng,Senior,226907.0,2.1,Nueva York,51771.0
+E00427,Ventas,Product Manager,Junior,108093.0,7.3,Palo Alto,26439.0
+E00428,Operaciones,Analyst,Senior,179731.0,4.5,Denver,112341.0
+E00429,Ingenieria,Account Exec,Senior,186812.0,1.6,Londres,38393.0
+E00430,Ingenieria,Data Scientist,Principal,309402.0,6.5,Denver,428289.0
+E00431,Ingenieria,Product Manager,Junior,92997.0,4.3,Denver,25232.0
+E00432,Producto,Data Scientist,Junior,95569.0,3.0,Denver,10781.0
+E00433,Deployment,Product Manager,Junior,92994.0,5.8,Londres,37123.0
+E00434,Ingenieria,Forward Deployed Eng,Junior,115642.0,4.9,Nueva York,24891.0
+E00435,Ingenieria,Account Exec,Junior,105843.0,8.2,Londres,36161.0
+E00436,Producto,Product Manager,Staff,252488.0,8.1,Denver,297286.0
+E00437,Ingenieria,Recruiter,Junior,106109.0,2.2,Nueva York,8138.0
+E00438,Marketing,Analyst,Junior,106003.0,3.3,Nueva York,21345.0
+E00439,Producto,Software Engineer,Senior,180237.0,2.6,Londres,37626.0
+E00440,Ingenieria,Recruiter,Mid,144374.0,10.8,Washington,118038.0
+E00441,Ingenieria,Recruiter,Senior,176704.0,5.9,Denver,113946.0
+E00442,Legal,Analyst,Junior,118097.0,3.3,Nueva York,20944.0
+E00443,Ingenieria,Software Engineer,Mid,123030.0,1.9,Denver,16104.0
+E00444,Ingenieria,Recruiter,Junior,107698.0,3.5,Palo Alto,17837.0
+E00445,Marketing,Product Manager,Junior,92946.0,0.4,Denver,1979.0
+E00446,Operaciones,Product Manager,Staff,249464.0,2.6,Denver,116659.0
+E00447,Legal,Product Manager,Junior,111469.0,1.5,Palo Alto,5556.0
+E00448,Producto,Software Engineer,Mid,166585.0,6.4,Nueva York,52242.0
+E00449,Ingenieria,Recruiter,Mid,128515.0,2.7,Denver,22376.0
+E00450,Ingenieria,Software Engineer,Mid,174509.0,3.7,Nueva York,42287.0
+E00451,Producto,Product Manager,Staff,323741.0,3.1,Palo Alto,100872.0
+E00452,Deployment,Analyst,Junior,91148.0,6.6,Denver,34455.0
+E00453,Ventas,Recruiter,Senior,178794.0,6.7,Londres,111106.0
+E00454,Operaciones,Recruiter,Principal,314323.0,5.0,Denver,456366.0
+E00455,Ingenieria,Data Scientist,Mid,159993.0,4.3,Palo Alto,54408.0
+E00456,Ventas,Data Scientist,Staff,297929.0,0.8,Nueva York,32355.0
+E00457,Ingenieria,Forward Deployed Eng,Junior,101195.0,2.9,Denver,13215.0
+E00458,Ventas,Account Exec,Mid,139673.0,7.5,Denver,63033.0
+E00459,Ingenieria,Data Scientist,Junior,126453.0,4.0,Palo Alto,14597.0
+E00460,Ingenieria,Software Engineer,Senior,193921.0,2.7,Washington,46499.0
+E00461,Ingenieria,Data Scientist,Principal,357605.0,2.3,Nueva York,188463.0
+E00462,Deployment,Forward Deployed Eng,Junior,119425.0,2.3,Nueva York,11732.0
+E00463,Producto,Recruiter,Senior,209972.0,3.7,Nueva York,93715.0
+E00464,Deployment,Forward Deployed Eng,Junior,98254.0,2.1,Denver,9847.0
+E00465,Legal,Recruiter,Mid,161009.0,7.1,Palo Alto,79259.0
+E00466,Ingenieria,Analyst,Mid,129878.0,0.7,Londres,6955.0
+E00467,Ingenieria,Analyst,Principal,351525.0,5.8,Denver,438282.0
+E00468,Marketing,Recruiter,Senior,167623.0,8.5,Denver,146313.0
+E00469,Ingenieria,Account Exec,Mid,148187.0,1.4,Denver,13622.0
+E00470,Legal,Data Scientist,Junior,130085.0,5.3,Palo Alto,26035.0
+E00471,Ingenieria,Software Engineer,Junior,110641.0,4.5,Washington,25290.0
+E00472,Legal,Software Engineer,Junior,98029.0,1.8,Denver,11379.0
+E00473,Ingenieria,Product Manager,Junior,120598.0,1.3,Palo Alto,5834.0
+E00474,Operaciones,Recruiter,Staff,257573.0,4.8,Denver,139261.0
+E00475,Ventas,Software Engineer,Mid,142246.0,11.0,Washington,109755.0
+E00476,Legal,Account Exec,Mid,134127.0,7.8,Denver,80081.0
+E00477,Ingenieria,Recruiter,Junior,121586.0,5.4,Palo Alto,21629.0
+E00478,Deployment,Account Exec,Staff,282885.0,4.7,Nueva York,217380.0
+E00479,Legal,Software Engineer,Senior,212867.0,4.0,Nueva York,103277.0
+E00480,Ventas,Software Engineer,Junior,114719.0,3.2,Palo Alto,20279.0
+E00481,Deployment,Product Manager,Senior,182312.0,5.0,Denver,81826.0
+E00482,Deployment,Software Engineer,Mid,180582.0,1.7,Palo Alto,20829.0
+E00483,Ventas,Recruiter,Junior,89329.0,6.2,Denver,34804.0
+E00484,Deployment,Analyst,Mid,146730.0,3.4,Denver,33058.0
+E00485,Deployment,Recruiter,Mid,175132.0,3.4,Palo Alto,34828.0
+E00486,Operaciones,Recruiter,Junior,101142.0,9.6,Denver,58068.0
+E00487,Ingenieria,Product Manager,Principal,323596.0,1.2,Denver,88927.0
+E00488,Ingenieria,Product Manager,Staff,304100.0,5.5,Nueva York,203263.0
+E00489,Legal,Software Engineer,Senior,178842.0,8.8,Washington,175287.0
+E00490,Operaciones,Forward Deployed Eng,Mid,172316.0,5.0,Nueva York,52374.0
+E00491,Ventas,Forward Deployed Eng,Mid,122584.0,4.1,Denver,33351.0
+E00492,Deployment,Product Manager,Senior,194037.0,3.3,Denver,81876.0
+E00493,Ingenieria,Software Engineer,Mid,163111.0,6.2,Washington,68480.0
+E00494,Ingenieria,Forward Deployed Eng,Junior,91087.0,4.9,Denver,26459.0
+E00495,Ventas,Software Engineer,Mid,127179.0,2.7,Denver,20512.0
+E00496,Ingenieria,Software Engineer,Senior,227464.0,3.3,Nueva York,70125.0
+E00497,Deployment,Software Engineer,Mid,153998.0,4.9,Nueva York,37856.0
+E00498,Ingenieria,Data Scientist,Junior,122335.0,1.6,Nueva York,5978.0
+E00499,Legal,Recruiter,Senior,165702.0,2.1,Denver,42688.0
+E00500,Legal,Software Engineer,Junior,87893.0,8.3,Denver,39079.0
+E00501,Deployment,Data Scientist,Junior,114514.0,2.6,Washington,13693.0
+E00502,Ventas,Product Manager,Junior,98303.0,1.3,Denver,4898.0
+E00503,Ingenieria,Forward Deployed Eng,Mid,173239.0,5.0,Nueva York,47929.0
+E00504,Marketing,Recruiter,Senior,208411.0,8.3,Nueva York,133609.0
+E00505,Deployment,Analyst,Mid,167718.0,1.1,Nueva York,14215.0
+E00506,Ingenieria,Forward Deployed Eng,Junior,96791.0,6.9,Denver,35766.0
+E00507,Operaciones,Recruiter,Staff,244951.0,8.8,Denver,391587.0
+E00508,Marketing,Analyst,Staff,298514.0,6.6,Nueva York,236346.0
+E00509,Operaciones,Forward Deployed Eng,Staff,255798.0,3.2,Londres,96876.0
+E00510,Producto,Recruiter,Junior,103017.0,7.1,Washington,45636.0
+E00511,Deployment,Forward Deployed Eng,Mid,128950.0,7.6,Denver,66253.0
+E00512,Ventas,Forward Deployed Eng,Principal,337189.0,1.3,Denver,93043.0
+E00513,Operaciones,Analyst,Senior,187160.0,5.9,Washington,128610.0
+E00514,Marketing,Forward Deployed Eng,Junior,118386.0,3.8,Nueva York,13582.0
+E00515,Ingenieria,Forward Deployed Eng,Junior,94430.0,3.7,Londres,21944.0
+E00516,Ingenieria,Analyst,Mid,138384.0,0.7,Denver,7154.0
+E00517,Ingenieria,Product Manager,Staff,302232.0,0.5,Nueva York,17339.0
+E00518,Marketing,Software Engineer,Mid,152886.0,3.8,Nueva York,28005.0
+E00519,Legal,Account Exec,Mid,147742.0,3.1,Nueva York,24722.0
+E00520,Ingenieria,Data Scientist,Junior,109986.0,3.1,Palo Alto,19174.0
+E00521,Deployment,Account Exec,Senior,183816.0,2.9,Denver,64474.0
+E00522,Ingenieria,Account Exec,Staff,308128.0,1.5,Nueva York,50996.0
+E00523,Legal,Recruiter,Mid,122715.0,6.2,Denver,45840.0
+E00524,Marketing,Software Engineer,Senior,235537.0,8.8,Palo Alto,196129.0
+E00525,Marketing,Recruiter,Principal,340829.0,0.9,Washington,70433.0
+E00526,Ventas,Software Engineer,Junior,118240.0,5.6,Palo Alto,26396.0
+E00527,Ventas,Analyst,Mid,153908.0,1.2,Londres,11018.0
+E00528,Ingenieria,Analyst,Junior,91807.0,2.8,Denver,11621.0
+E00529,Ingenieria,Software Engineer,Senior,214503.0,4.7,Nueva York,103566.0
+E00530,Marketing,Forward Deployed Eng,Mid,134056.0,2.0,Washington,25648.0
+E00531,Marketing,Product Manager,Senior,164938.0,1.7,Denver,27385.0
+E00532,Legal,Forward Deployed Eng,Senior,171309.0,3.4,Denver,71962.0
+E00533,Legal,Product Manager,Mid,152815.0,6.2,Palo Alto,59180.0
+E00534,Deployment,Recruiter,Staff,246306.0,2.3,Denver,89057.0
+E00535,Producto,Product Manager,Mid,159615.0,1.7,Nueva York,14492.0
+E00536,Operaciones,Recruiter,Junior,105506.0,2.4,Washington,14341.0
+E00537,Marketing,Analyst,Senior,210359.0,7.4,Palo Alto,146691.0
+E00538,Ingenieria,Account Exec,Senior,172654.0,3.5,Denver,71823.0
+E00539,Ventas,Analyst,Mid,174279.0,3.7,Palo Alto,32666.0
+E00540,Ingenieria,Analyst,Staff,314801.0,2.6,Nueva York,84145.0
+E00541,Legal,Account Exec,Staff,218420.0,3.0,Denver,90186.0
+E00542,Deployment,Product Manager,Junior,122901.0,5.7,Nueva York,32161.0
+E00543,Ingenieria,Product Manager,Principal,389904.0,3.8,Nueva York,233056.0
+E00544,Deployment,Recruiter,Junior,115457.0,10.4,Nueva York,57930.0
+E00545,Deployment,Forward Deployed Eng,Junior,95005.0,2.4,Denver,11211.0
+E00546,Ingenieria,Recruiter,Junior,104182.0,8.3,Nueva York,39403.0
+E00547,Ingenieria,Forward Deployed Eng,Staff,220314.0,1.0,Denver,39260.0
+E00548,Deployment,Analyst,Senior,183633.0,3.8,Denver,69968.0
+E00549,Ventas,Account Exec,Junior,96577.0,3.5,Londres,13307.0
+E00550,Producto,Analyst,Mid,175519.0,8.4,Nueva York,74405.0
+E00551,Ventas,Software Engineer,Senior,176637.0,2.7,Denver,59305.0
+E00552,Marketing,Product Manager,Junior,88222.0,10.2,Denver,56073.0
+E00553,Deployment,Forward Deployed Eng,Staff,250307.0,0.9,Denver,31382.0
+E00554,Deployment,Recruiter,Senior,172561.0,1.9,Denver,37090.0
+E00555,Marketing,Account Exec,Mid,135688.0,2.0,Denver,16321.0
+E00556,Ventas,Forward Deployed Eng,Principal,332661.0,1.1,Denver,68163.0
+E00557,Ingenieria,Recruiter,Mid,182259.0,3.5,Palo Alto,24984.0
+E00558,Ingenieria,Product Manager,Principal,406440.0,2.8,Nueva York,259990.0
+E00559,Producto,Analyst,Senior,223619.0,6.9,Nueva York,114047.0
+E00560,Deployment,Product Manager,Senior,223760.0,1.2,Nueva York,20076.0
+E00561,Producto,Data Scientist,Junior,103473.0,13.4,Denver,58140.0
+E00562,Ingenieria,Software Engineer,Staff,253220.0,9.8,Washington,304366.0
+E00563,Ingenieria,Data Scientist,Mid,127607.0,2.1,Londres,22755.0
+E00564,Ingenieria,Account Exec,Junior,95200.0,5.5,Londres,20490.0
+E00565,Ingenieria,Forward Deployed Eng,Junior,94122.0,2.2,Londres,8586.0
+E00566,Deployment,Account Exec,Mid,153306.0,5.4,Washington,58690.0
+E00567,Ingenieria,Analyst,Mid,173263.0,1.1,Palo Alto,9942.0
+E00568,Ventas,Recruiter,Senior,183365.0,5.2,Denver,116976.0
+E00569,Operaciones,Product Manager,Staff,260136.0,2.5,Nueva York,103445.0
+E00570,Ingenieria,Data Scientist,Junior,119216.0,0.9,Nueva York,3841.0
+E00571,Ventas,Data Scientist,Senior,208377.0,3.3,Nueva York,71973.0
+E00572,Producto,Analyst,Junior,122670.0,3.4,Palo Alto,13086.0
+E00573,Ingenieria,Data Scientist,Staff,242716.0,3.9,Denver,159408.0
+E00574,Deployment,Analyst,Senior,217923.0,10.3,Palo Alto,198232.0
+E00575,Marketing,Account Exec,Mid,137647.0,2.5,Washington,21518.0
+E00576,Operaciones,Product Manager,Senior,198479.0,3.0,Nueva York,63744.0
+E00577,Ingenieria,Forward Deployed Eng,Mid,179939.0,1.0,Palo Alto,12228.0
+E00578,Operaciones,Recruiter,Mid,146297.0,4.5,Denver,58470.0
+E00579,Ventas,Forward Deployed Eng,Staff,308987.0,3.1,Palo Alto,132018.0
+E00580,Ingenieria,Account Exec,Mid,130507.0,1.4,Londres,13200.0
+E00581,Ventas,Recruiter,Mid,158826.0,3.8,Nueva York,31735.0
+E00582,Legal,Data Scientist,Mid,148240.0,1.6,Londres,13668.0
+E00583,Ventas,Software Engineer,Staff,316789.0,12.4,Palo Alto,489886.0
+E00584,Ingenieria,Account Exec,Mid,149630.0,2.7,Nueva York,24850.0
+E00585,Deployment,Account Exec,Junior,85501.0,1.2,Denver,7490.0
+E00586,Ingenieria,Product Manager,Senior,225164.0,5.1,Nueva York,93940.0
+E00587,Ingenieria,Forward Deployed Eng,Staff,291396.0,1.2,Palo Alto,44355.0
+E00588,Ingenieria,Account Exec,Junior,112919.0,6.6,Palo Alto,30694.0
+E00589,Ingenieria,Account Exec,Junior,102894.0,1.1,Nueva York,6611.0
+E00590,Ingenieria,Data Scientist,Junior,105342.0,5.7,Washington,31078.0
+E00591,Ingenieria,Data Scientist,Mid,144481.0,6.9,Denver,73727.0
+E00592,Deployment,Recruiter,Mid,154724.0,9.3,Londres,83745.0
+E00593,Ingenieria,Analyst,Senior,182367.0,1.8,Denver,42867.0
+E00594,Ingenieria,Analyst,Senior,225651.0,6.3,Palo Alto,91100.0
+E00595,Operaciones,Software Engineer,Senior,165062.0,7.3,Denver,178482.0
+E00596,Ventas,Analyst,Mid,136320.0,2.0,Denver,20153.0
+E00597,Deployment,Product Manager,Staff,292799.0,0.8,Palo Alto,30046.0
+E00598,Ingenieria,Software Engineer,Mid,137893.0,1.1,Denver,10981.0
+E00599,Ingenieria,Recruiter,Principal,391098.0,1.1,Palo Alto,90787.0
+E00600,Ingenieria,Data Scientist,Senior,187716.0,2.7,Washington,38214.0
+E00601,Ingenieria,Analyst,Junior,87304.0,4.2,Denver,25682.0
+E00602,Ingenieria,Forward Deployed Eng,Senior,182004.0,2.3,Londres,44530.0
+E00603,Ingenieria,Data Scientist,Mid,155137.0,3.8,Palo Alto,34420.0
+E00604,Ingenieria,Product Manager,Senior,202042.0,8.0,Nueva York,125272.0
+E00605,Ingenieria,Data Scientist,Junior,104259.0,2.1,Denver,10119.0
+E00606,Ventas,Product Manager,Junior,93938.0,3.1,Denver,15466.0
+E00607,Ingenieria,Product Manager,Staff,241530.0,5.2,Denver,195975.0
+E00608,Ingenieria,Product Manager,Junior,102099.0,4.9,Denver,27126.0
+E00609,Ventas,Recruiter,Staff,263787.0,5.1,Denver,194318.0
+E00610,Deployment,Product Manager,Junior,115886.0,2.4,Nueva York,15322.0
+E00611,Ingenieria,Product Manager,Senior,200812.0,5.8,Londres,122910.0
+E00612,Producto,Forward Deployed Eng,Senior,182458.0,3.8,Londres,90021.0
+E00613,Deployment,Software Engineer,Mid,155706.0,1.2,Nueva York,9187.0
+E00614,Ingenieria,Account Exec,Mid,132373.0,3.5,Denver,32843.0
+E00615,Marketing,Software Engineer,Junior,98278.0,2.8,Denver,12630.0
+E00616,Operaciones,Product Manager,Junior,98462.0,0.5,Denver,2604.0
+E00617,Ingenieria,Forward Deployed Eng,Mid,130011.0,12.4,Denver,150867.0
+E00618,Ingenieria,Data Scientist,Senior,208494.0,3.5,Palo Alto,52290.0
+E00619,Marketing,Forward Deployed Eng,Staff,307944.0,11.7,Palo Alto,347979.0
+E00620,Producto,Product Manager,Staff,277700.0,4.6,Palo Alto,222675.0
+E00621,Ingenieria,Forward Deployed Eng,Senior,228532.0,1.5,Palo Alto,24831.0
+E00622,Ingenieria,Analyst,Senior,196311.0,1.3,Londres,28633.0
+E00623,Ingenieria,Forward Deployed Eng,Senior,196583.0,4.4,Londres,90264.0
+E00624,Ventas,Product Manager,Junior,99816.0,4.0,Denver,23995.0
+E00625,Deployment,Recruiter,Staff,283687.0,2.0,Washington,62004.0
+E00626,Ingenieria,Analyst,Senior,197998.0,3.8,Washington,59118.0
+E00627,Ventas,Forward Deployed Eng,Mid,141217.0,11.7,Denver,120989.0
+E00628,Producto,Account Exec,Junior,121580.0,11.9,Palo Alto,75436.0
+E00629,Ingenieria,Account Exec,Mid,158174.0,5.2,Palo Alto,49348.0
+E00630,Ingenieria,Forward Deployed Eng,Mid,134413.0,2.6,Washington,23300.0
+E00631,Producto,Recruiter,Staff,241141.0,4.1,Londres,174498.0
+E00632,Operaciones,Data Scientist,Mid,133462.0,1.7,Denver,21391.0
+E00633,Ventas,Product Manager,Mid,172702.0,5.4,Palo Alto,64916.0
+E00634,Ventas,Account Exec,Principal,410877.0,1.1,Nueva York,107026.0
+E00635,Ingenieria,Data Scientist,Junior,111536.0,4.2,Palo Alto,14984.0
+E00636,Ventas,Forward Deployed Eng,Mid,124890.0,6.8,Denver,52205.0
+E00637,Ventas,Data Scientist,Junior,108996.0,4.9,Londres,26109.0
+E00638,Ingenieria,Analyst,Senior,199068.0,1.7,Nueva York,40540.0
+E00639,Ingenieria,Software Engineer,Staff,250916.0,8.3,Londres,289221.0
+E00640,Ingenieria,Account Exec,Junior,101457.0,3.5,Londres,14762.0
+E00641,Ingenieria,Forward Deployed Eng,Staff,290383.0,3.6,Nueva York,168795.0
+E00642,Ingenieria,Product Manager,Junior,108918.0,5.4,Palo Alto,19813.0
+E00643,Ingenieria,Recruiter,Staff,262485.0,1.7,Nueva York,62671.0
+E00644,Ingenieria,Analyst,Senior,165797.0,2.6,Denver,52181.0
+E00645,Ingenieria,Forward Deployed Eng,Senior,219697.0,7.4,Nueva York,153359.0
+E00646,Operaciones,Product Manager,Junior,95843.0,0.9,Denver,5117.0
+E00647,Deployment,Recruiter,Principal,363551.0,4.6,Nueva York,314953.0
+E00648,Deployment,Recruiter,Senior,184960.0,1.9,Denver,40569.0
+E00649,Producto,Forward Deployed Eng,Mid,143642.0,2.7,Denver,28383.0
+E00650,Ventas,Analyst,Staff,217996.0,1.6,Denver,65828.0
+E00651,Ingenieria,Data Scientist,Junior,94964.0,2.3,Denver,12469.0
+E00652,Ventas,Data Scientist,Staff,298904.0,3.3,Nueva York,112948.0
+E00653,Deployment,Recruiter,Junior,108353.0,3.1,Nueva York,11637.0
+E00654,Producto,Data Scientist,Senior,216350.0,1.8,Palo Alto,27776.0
+E00655,Ventas,Software Engineer,Mid,138068.0,0.5,Denver,4174.0
+E00656,Ingenieria,Recruiter,Junior,102561.0,1.7,Denver,8501.0
+E00657,Ingenieria,Recruiter,Junior,100889.0,1.7,Denver,10236.0
+E00658,Ingenieria,Product Manager,Junior,96579.0,5.5,Denver,30821.0
+E00659,Deployment,Data Scientist,Mid,148277.0,1.6,Londres,18775.0
+E00660,Deployment,Analyst,Mid,131350.0,2.0,Denver,18212.0
+E00661,Ingenieria,Recruiter,Mid,173508.0,7.4,Palo Alto,69767.0
+E00662,Legal,Analyst,Junior,94357.0,2.6,Denver,12171.0
+E00663,Deployment,Software Engineer,Junior,89109.0,4.6,Denver,18748.0
+E00664,Ingenieria,Product Manager,Senior,234078.0,1.5,Palo Alto,22102.0
+E00665,Ingenieria,Forward Deployed Eng,Junior,115287.0,7.4,Nueva York,39018.0
+E00666,Ingenieria,Analyst,Staff,233214.0,3.4,Denver,175920.0
+E00667,Ingenieria,Recruiter,Staff,259744.0,1.0,Denver,32004.0
+E00668,Ingenieria,Software Engineer,Senior,203442.0,5.5,Palo Alto,80081.0
+E00669,Ingenieria,Account Exec,Mid,130026.0,2.9,Denver,33864.0
+E00670,Ingenieria,Software Engineer,Staff,218730.0,6.8,Denver,231622.0
+E00671,Ingenieria,Software Engineer,Junior,110070.0,8.0,Washington,47911.0
+E00672,Operaciones,Product Manager,Junior,118608.0,2.5,Nueva York,14030.0
+E00673,Ingenieria,Forward Deployed Eng,Junior,110155.0,3.8,Nueva York,24081.0
+E00674,Ventas,Account Exec,Senior,232905.0,3.6,Palo Alto,68066.0
+E00675,Ventas,Data Scientist,Junior,116279.0,8.9,Palo Alto,48825.0
+E00676,Legal,Data Scientist,Mid,177399.0,1.7,Palo Alto,16642.0
+E00677,Ingenieria,Analyst,Principal,380481.0,0.9,Nueva York,72789.0
+E00678,Ingenieria,Software Engineer,Staff,282947.0,2.9,Nueva York,112492.0
+E00679,Legal,Product Manager,Mid,146738.0,1.6,Denver,13011.0
+E00680,Marketing,Product Manager,Junior,112833.0,3.0,Palo Alto,15071.0
+E00681,Marketing,Data Scientist,Staff,277227.0,8.5,Palo Alto,345831.0
+E00682,Ingenieria,Analyst,Mid,144147.0,4.3,Londres,51014.0
+E00683,Ingenieria,Analyst,Junior,124701.0,4.6,Nueva York,26250.0
+E00684,Deployment,Analyst,Junior,115849.0,2.9,Palo Alto,15925.0
+E00685,Operaciones,Account Exec,Staff,218978.0,2.0,Denver,61443.0
+E00686,Deployment,Forward Deployed Eng,Senior,209058.0,3.6,Nueva York,81531.0
+E00687,Deployment,Account Exec,Staff,240285.0,2.0,Denver,80015.0
+E00688,Ingenieria,Recruiter,Staff,223772.0,4.6,Denver,227509.0
+E00689,Producto,Recruiter,Mid,139269.0,1.4,Denver,17527.0
+E00690,Ingenieria,Forward Deployed Eng,Mid,178127.0,1.7,Nueva York,12463.0
+E00691,Ingenieria,Data Scientist,Mid,133697.0,2.7,Denver,32194.0
+E00692,Ventas,Forward Deployed Eng,Mid,163847.0,2.2,Palo Alto,15898.0
+E00693,Ventas,Product Manager,Mid,138935.0,3.8,Londres,34971.0
+E00694,Ingenieria,Recruiter,Senior,166145.0,15.6,Denver,319919.0
+E00695,Ingenieria,Software Engineer,Senior,242247.0,7.3,Palo Alto,115174.0
+E00696,Deployment,Software Engineer,Staff,294890.0,6.2,Palo Alto,284651.0
+E00697,Ingenieria,Data Scientist,Mid,131956.0,0.7,Denver,4935.0
+E00698,Deployment,Product Manager,Senior,195036.0,5.2,Londres,83321.0
+E00699,Ingenieria,Account Exec,Senior,177913.0,5.3,Denver,111139.0
+E00700,Ventas,Product Manager,Mid,173753.0,4.7,Palo Alto,53046.0
+E00701,Ventas,Software Engineer,Senior,197054.0,1.8,Nueva York,44999.0
+E00702,Ingenieria,Software Engineer,Junior,121153.0,3.9,Nueva York,21904.0
+E00703,Ingenieria,Recruiter,Mid,176272.0,4.5,Nueva York,49638.0
+E00704,Ingenieria,Product Manager,Junior,97827.0,2.5,Denver,11708.0
+E00705,Ingenieria,Product Manager,Mid,147273.0,4.9,Denver,34338.0
+E00706,Legal,Software Engineer,Mid,150706.0,5.8,Nueva York,44782.0
+E00707,Ingenieria,Account Exec,Senior,223984.0,3.0,Palo Alto,61244.0
+E00708,Marketing,Data Scientist,Principal,342841.0,1.4,Londres,116033.0
+E00709,Ingenieria,Analyst,Senior,192090.0,0.7,Londres,13307.0
+E00710,Deployment,Data Scientist,Senior,185275.0,2.8,Londres,63751.0
+E00711,Producto,Product Manager,Mid,163285.0,1.5,Palo Alto,15197.0
+E00712,Deployment,Data Scientist,Senior,166566.0,2.4,Denver,35736.0
+E00713,Ventas,Software Engineer,Junior,97590.0,4.5,Londres,18342.0
+E00714,Ventas,Software Engineer,Junior,110738.0,4.5,Palo Alto,27090.0
+E00715,Ingenieria,Product Manager,Mid,141328.0,2.4,Denver,27239.0
+E00716,Operaciones,Product Manager,Mid,133495.0,1.7,Londres,21027.0
+E00717,Marketing,Analyst,Junior,90943.0,2.8,Londres,10787.0
+E00718,Legal,Analyst,Junior,119994.0,8.2,Palo Alto,53059.0
+E00719,Ingenieria,Recruiter,Junior,96809.0,0.6,Denver,2477.0
+E00720,Producto,Product Manager,Principal,429753.0,2.5,Palo Alto,132575.0
+E00721,Operaciones,Account Exec,Mid,143932.0,1.3,Londres,16880.0
+E00722,Ingenieria,Data Scientist,Mid,143911.0,6.3,Washington,54725.0
+E00723,Ingenieria,Product Manager,Junior,100757.0,4.5,Denver,24768.0
+E00724,Producto,Forward Deployed Eng,Senior,181450.0,3.7,Denver,59645.0
+E00725,Deployment,Recruiter,Junior,91357.0,1.6,Londres,8385.0
+E00726,Marketing,Forward Deployed Eng,Junior,120314.0,1.3,Palo Alto,8076.0
+E00727,Ingenieria,Software Engineer,Mid,182521.0,4.5,Palo Alto,40145.0
+E00728,Producto,Analyst,Junior,102333.0,3.2,Washington,17634.0
+E00729,Ingenieria,Data Scientist,Junior,91130.0,1.7,Denver,6908.0
+E00730,Ingenieria,Product Manager,Junior,105871.0,3.3,Nueva York,17735.0
+E00731,Ingenieria,Forward Deployed Eng,Junior,88377.0,2.8,Denver,12626.0
+E00732,Marketing,Data Scientist,Junior,117153.0,6.6,Palo Alto,27282.0
+E00733,Deployment,Software Engineer,Mid,144463.0,4.8,Londres,42620.0
+E00734,Ventas,Analyst,Senior,206128.0,3.0,Palo Alto,48438.0
+E00735,Ingenieria,Account Exec,Mid,161555.0,3.9,Washington,48405.0
+E00736,Marketing,Recruiter,Mid,170266.0,4.5,Nueva York,42224.0
+E00737,Ingenieria,Data Scientist,Junior,96646.0,3.4,Denver,14402.0
+E00738,Marketing,Data Scientist,Staff,255765.0,1.0,Denver,38762.0
+E00739,Ventas,Account Exec,Mid,154581.0,8.0,Palo Alto,71386.0
+E00740,Ingenieria,Data Scientist,Junior,118200.0,13.0,Palo Alto,74532.0
+E00741,Ventas,Software Engineer,Senior,184683.0,7.6,Denver,194975.0
+E00742,Ingenieria,Software Engineer,Junior,126556.0,6.8,Palo Alto,32736.0
+E00743,Producto,Account Exec,Mid,178317.0,2.5,Palo Alto,30416.0
+E00744,Ventas,Recruiter,Mid,154777.0,9.1,Nueva York,94596.0
+E00745,Ingenieria,Product Manager,Staff,313395.0,4.5,Nueva York,142981.0
+E00746,Operaciones,Forward Deployed Eng,Mid,149829.0,7.0,Nueva York,78006.0
+E00747,Ingenieria,Product Manager,Senior,193505.0,4.0,Denver,80645.0
+E00748,Ventas,Data Scientist,Principal,350140.0,1.3,Denver,106310.0
+E00749,Operaciones,Forward Deployed Eng,Junior,106639.0,3.1,Nueva York,19124.0
+E00750,Deployment,Account Exec,Junior,124024.0,6.0,Palo Alto,28928.0
+E00751,Ingenieria,Account Exec,Mid,122588.0,2.5,Denver,31018.0
+E00752,Operaciones,Recruiter,Mid,139069.0,4.0,Londres,46016.0
+E00753,Deployment,Forward Deployed Eng,Mid,142212.0,2.5,Londres,24829.0
+E00754,Ingenieria,Software Engineer,Staff,304839.0,1.9,Palo Alto,80707.0
+E00755,Ingenieria,Forward Deployed Eng,Senior,195694.0,0.2,Denver,3581.0
+E00756,Producto,Data Scientist,Senior,195511.0,0.4,Londres,10321.0
+E00757,Deployment,Software Engineer,Mid,161393.0,1.5,Nueva York,16506.0
+E00758,Ventas,Analyst,Staff,267608.0,2.3,Londres,66820.0
+E00759,Operaciones,Analyst,Principal,366276.0,7.3,Londres,490545.0
+E00760,Producto,Analyst,Staff,227912.0,1.6,Londres,68735.0
+E00761,Ingenieria,Account Exec,Junior,130210.0,1.5,Palo Alto,5503.0
+E00762,Ingenieria,Forward Deployed Eng,Senior,165101.0,10.9,Denver,155724.0
+E00763,Ingenieria,Analyst,Junior,121168.0,6.6,Nueva York,32010.0
+E00764,Producto,Product Manager,Junior,108992.0,18.8,Nueva York,84564.0
+E00765,Ingenieria,Recruiter,Junior,105614.0,5.3,Nueva York,25519.0
+E00766,Deployment,Product Manager,Senior,177835.0,1.6,Denver,27444.0
+E00767,Producto,Analyst,Senior,185182.0,0.3,Denver,4793.0
+E00768,Marketing,Recruiter,Junior,97375.0,4.3,Londres,23940.0
+E00769,Ingenieria,Data Scientist,Mid,147568.0,10.5,Nueva York,105918.0
+E00770,Marketing,Product Manager,Mid,151454.0,1.9,Washington,15582.0
+E00771,Ingenieria,Forward Deployed Eng,Mid,153158.0,5.0,Londres,44588.0
+E00772,Marketing,Forward Deployed Eng,Junior,111337.0,1.5,Nueva York,7913.0
+E00773,Ingenieria,Product Manager,Mid,152809.0,1.7,Nueva York,12637.0
+E00774,Ingenieria,Analyst,Senior,186829.0,2.7,Londres,42577.0
+E00775,Producto,Forward Deployed Eng,Junior,103703.0,7.7,Nueva York,28642.0
+E00776,Ingenieria,Data Scientist,Junior,121307.0,3.6,Nueva York,21373.0
+E00777,Ingenieria,Software Engineer,Mid,143811.0,4.2,Denver,48361.0
+E00778,Producto,Analyst,Principal,407040.0,2.2,Palo Alto,190078.0
+E00779,Producto,Data Scientist,Senior,209654.0,3.5,Nueva York,79086.0
+E00780,Deployment,Recruiter,Senior,190792.0,3.5,Denver,77114.0
+E00781,Deployment,Data Scientist,Mid,136477.0,4.9,Denver,48324.0
+E00782,Ventas,Analyst,Mid,143800.0,2.4,Denver,26049.0
+E00783,Ingenieria,Recruiter,Junior,97498.0,3.9,Denver,14099.0
+E00784,Ingenieria,Analyst,Senior,190239.0,0.3,Denver,6437.0
+E00785,Ingenieria,Forward Deployed Eng,Staff,305914.0,0.7,Palo Alto,32668.0
+E00786,Operaciones,Software Engineer,Senior,194600.0,3.5,Washington,70015.0
+E00787,Deployment,Analyst,Staff,327477.0,1.1,Palo Alto,40238.0
+E00788,Ventas,Analyst,Senior,181480.0,4.9,Denver,84913.0
+E00789,Ventas,Forward Deployed Eng,Junior,96997.0,3.0,Denver,16285.0
+E00790,Operaciones,Account Exec,Staff,271900.0,4.1,Nueva York,182972.0
+E00791,Ingenieria,Forward Deployed Eng,Junior,121734.0,6.3,Palo Alto,38511.0
+E00792,Deployment,Recruiter,Mid,143780.0,2.8,Londres,25351.0
+E00793,Ventas,Forward Deployed Eng,Junior,106814.0,0.8,Nueva York,4647.0
+E00794,Deployment,Forward Deployed Eng,Junior,90964.0,1.6,Londres,8295.0
+E00795,Ingenieria,Software Engineer,Mid,137818.0,6.6,Denver,81160.0
+E00796,Marketing,Forward Deployed Eng,Junior,120012.0,9.0,Nueva York,45751.0
+E00797,Operaciones,Analyst,Mid,135632.0,2.3,Denver,23243.0
+E00798,Deployment,Software Engineer,Mid,140385.0,3.4,Washington,35589.0
+E00799,Deployment,Product Manager,Junior,117797.0,0.6,Nueva York,3449.0
+E00800,Operaciones,Account Exec,Junior,87022.0,4.7,Denver,30052.0
+E00801,Producto,Software Engineer,Mid,133430.0,6.1,Denver,45392.0
+E00802,Ingenieria,Recruiter,Mid,125911.0,2.7,Denver,19766.0
+E00803,Deployment,Product Manager,Senior,202369.0,5.7,Nueva York,143928.0
+E00804,Deployment,Software Engineer,Senior,169283.0,6.5,Denver,132330.0
+E00805,Ventas,Software Engineer,Staff,281474.0,2.5,Nueva York,106894.0
+E00806,Producto,Account Exec,Senior,163841.0,1.1,Denver,21768.0
+E00807,Operaciones,Analyst,Mid,158689.0,4.3,Nueva York,32516.0
+E00808,Operaciones,Recruiter,Senior,189443.0,3.4,Londres,78938.0
+E00809,Ventas,Data Scientist,Junior,99417.0,2.4,Londres,13780.0
+E00810,Ingenieria,Data Scientist,Mid,138427.0,1.8,Londres,15966.0
+E00811,Legal,Software Engineer,Senior,192209.0,6.3,Denver,111352.0
+E00812,Marketing,Forward Deployed Eng,Mid,125424.0,9.2,Denver,110649.0
+E00813,Ingenieria,Recruiter,Senior,216246.0,3.7,Nueva York,55013.0
+E00814,Operaciones,Product Manager,Staff,273722.0,0.7,Palo Alto,34403.0
+E00815,Marketing,Forward Deployed Eng,Staff,274269.0,4.0,Palo Alto,136640.0
+E00816,Ventas,Forward Deployed Eng,Staff,243546.0,3.7,Denver,156257.0
+E00817,Deployment,Recruiter,Mid,136782.0,2.5,Denver,31540.0
+E00818,Ingenieria,Analyst,Mid,145207.0,1.9,Denver,21031.0
+E00819,Ingenieria,Software Engineer,Mid,143391.0,3.4,Londres,32254.0
+E00820,Ingenieria,Software Engineer,Mid,147414.0,5.3,Denver,59027.0
+E00821,Marketing,Software Engineer,Senior,196504.0,2.8,Nueva York,50758.0
+E00822,Ingenieria,Software Engineer,Senior,165528.0,2.3,Denver,39852.0
+E00823,Ingenieria,Data Scientist,Senior,196304.0,3.2,Nueva York,83073.0
+E00824,Ingenieria,Software Engineer,Mid,126502.0,4.3,Denver,49470.0
+E00825,Ventas,Data Scientist,Junior,100573.0,3.8,Londres,20650.0
+E00826,Operaciones,Data Scientist,Mid,145877.0,3.6,Londres,32874.0
+E00827,Ingenieria,Analyst,Junior,86366.0,2.0,Denver,7295.0
+E00828,Ingenieria,Software Engineer,Staff,287547.0,5.6,Washington,160974.0
+E00829,Producto,Account Exec,Mid,158662.0,7.5,Washington,77438.0
+E00830,Ventas,Product Manager,Junior,95692.0,3.5,Londres,20251.0
+E00831,Ingenieria,Forward Deployed Eng,Junior,91315.0,6.0,Londres,30673.0
+E00832,Ventas,Data Scientist,Senior,168116.0,4.1,Denver,98767.0
+E00833,Ingenieria,Recruiter,Senior,199884.0,1.5,Nueva York,21602.0
+E00834,Ingenieria,Recruiter,Mid,124829.0,5.4,Denver,49683.0
+E00835,Ventas,Product Manager,Junior,95353.0,3.4,Denver,14318.0
+E00836,Ventas,Recruiter,Mid,140952.0,5.8,Washington,56165.0
+E00837,Operaciones,Account Exec,Mid,131170.0,9.2,Denver,68395.0
+E00838,Ingenieria,Recruiter,Senior,237147.0,2.7,Nueva York,68714.0
+E00839,Deployment,Forward Deployed Eng,Senior,195967.0,1.6,Londres,26687.0
+E00840,Deployment,Forward Deployed Eng,Mid,154479.0,2.0,Londres,25068.0
+E00841,Ingenieria,Data Scientist,Junior,97029.0,5.3,Washington,25322.0
+E00842,Deployment,Software Engineer,Principal,312457.0,5.2,Denver,503613.0
+E00843,Ingenieria,Analyst,Mid,136478.0,5.5,Denver,56784.0
+E00844,Legal,Account Exec,Senior,205954.0,2.6,Palo Alto,65442.0
+E00845,Ingenieria,Data Scientist,Junior,85580.0,3.8,Denver,13361.0
+E00846,Ventas,Account Exec,Mid,139602.0,3.5,Denver,40213.0
+E00847,Ingenieria,Software Engineer,Junior,122118.0,8.7,Palo Alto,54020.0
+E00848,Legal,Recruiter,Mid,139221.0,2.4,Londres,18812.0
+E00849,Ventas,Recruiter,Principal,383205.0,2.2,Nueva York,125016.0
+E00850,Deployment,Analyst,Mid,132717.0,2.5,Denver,23869.0
+E00851,Ingenieria,Software Engineer,Junior,103147.0,7.0,Nueva York,44107.0
+E00852,Producto,Data Scientist,Junior,91872.0,5.9,Denver,30250.0
+E00853,Ingenieria,Analyst,Mid,126281.0,1.2,Denver,12198.0
+E00854,Operaciones,Software Engineer,Junior,91739.0,1.2,Londres,4708.0
+E00855,Ingenieria,Product Manager,Junior,124413.0,4.6,Nueva York,16111.0
+E00856,Ingenieria,Forward Deployed Eng,Senior,192756.0,3.3,Londres,78282.0
+E00857,Ingenieria,Analyst,Mid,141174.0,0.6,Denver,4515.0
+E00858,Ventas,Analyst,Junior,96067.0,1.2,Londres,6482.0
+E00859,Deployment,Data Scientist,Staff,281845.0,3.5,Nueva York,174828.0
+E00860,Ingenieria,Account Exec,Junior,108002.0,15.3,Nueva York,63127.0
+E00861,Producto,Product Manager,Principal,353047.0,5.4,Nueva York,445161.0
+E00862,Ventas,Data Scientist,Mid,132651.0,1.6,Londres,11956.0
+E00863,Ventas,Software Engineer,Staff,305137.0,8.5,Nueva York,361166.0
+E00864,Ventas,Software Engineer,Senior,223670.0,1.5,Nueva York,23951.0
+E00865,Ventas,Software Engineer,Staff,266478.0,2.2,Washington,100458.0
+E00866,Deployment,Software Engineer,Principal,334326.0,8.4,Londres,554865.0
+E00867,Ingenieria,Account Exec,Junior,128783.0,1.5,Palo Alto,7335.0
+E00868,Ingenieria,Product Manager,Principal,351186.0,9.3,Nueva York,739112.0
+E00869,Marketing,Recruiter,Mid,161345.0,0.5,Palo Alto,4014.0
+E00870,Operaciones,Forward Deployed Eng,Mid,130948.0,4.8,Denver,54959.0
+E00871,Ingenieria,Account Exec,Mid,171151.0,4.1,Nueva York,36145.0
+E00872,Ingenieria,Account Exec,Mid,163128.0,6.7,Washington,73527.0
+E00873,Deployment,Recruiter,Junior,99080.0,3.9,Washington,15502.0
+E00874,Ventas,Recruiter,Mid,145106.0,4.1,Denver,45628.0
+E00875,Ingenieria,Forward Deployed Eng,Mid,179909.0,2.1,Palo Alto,16315.0
+E00876,Ingenieria,Forward Deployed Eng,Senior,170088.0,2.9,Denver,55402.0
+E00877,Producto,Recruiter,Staff,258685.0,8.7,Washington,295217.0
+E00878,Deployment,Software Engineer,Mid,145817.0,4.7,Washington,54004.0
+E00879,Ingenieria,Account Exec,Mid,177494.0,5.3,Nueva York,45433.0
+E00880,Ingenieria,Data Scientist,Junior,93384.0,4.2,Londres,25810.0
+E00881,Ingenieria,Forward Deployed Eng,Junior,120821.0,3.0,Nueva York,18526.0
+E00882,Deployment,Forward Deployed Eng,Junior,110220.0,0.7,Nueva York,2863.0
+E00883,Ingenieria,Recruiter,Mid,141233.0,7.7,Denver,82260.0
+E00884,Ingenieria,Product Manager,Junior,116850.0,5.7,Palo Alto,21450.0
+E00885,Producto,Data Scientist,Principal,390018.0,3.6,Nueva York,252429.0
+E00886,Ingenieria,Data Scientist,Mid,172777.0,1.8,Nueva York,20304.0
+E00887,Deployment,Forward Deployed Eng,Mid,179016.0,6.0,Palo Alto,65739.0
+E00888,Ingenieria,Software Engineer,Mid,159383.0,1.7,Washington,18272.0
+E00889,Ingenieria,Product Manager,Junior,86633.0,5.4,Denver,23477.0
+E00890,Ingenieria,Data Scientist,Mid,175232.0,2.2,Palo Alto,20390.0
+E00891,Producto,Forward Deployed Eng,Senior,200447.0,4.4,Nueva York,67036.0
+E00892,Marketing,Data Scientist,Mid,159273.0,8.1,Nueva York,91645.0
+E00893,Marketing,Analyst,Mid,163574.0,3.9,Nueva York,39091.0
+E00894,Ingenieria,Product Manager,Principal,313775.0,5.0,Denver,421972.0
+E00895,Deployment,Product Manager,Staff,240941.0,10.8,Denver,366926.0
+E00896,Ingenieria,Analyst,Senior,237450.0,4.6,Nueva York,82309.0
+E00897,Ingenieria,Account Exec,Mid,150181.0,1.7,Nueva York,15309.0
+E00898,Operaciones,Analyst,Senior,186316.0,5.5,Denver,78699.0
+E00899,Ingenieria,Recruiter,Junior,111629.0,2.8,Nueva York,12665.0
+E00900,Ingenieria,Recruiter,Mid,156364.0,9.4,Palo Alto,111106.0
+E00901,Ingenieria,Forward Deployed Eng,Junior,106219.0,2.7,Nueva York,16718.0
+E00902,Ingenieria,Product Manager,Mid,154487.0,2.7,Londres,27295.0
+E00903,Ingenieria,Account Exec,Mid,145249.0,4.9,Denver,47692.0
+E00904,Deployment,Account Exec,Junior,102734.0,4.3,Denver,15448.0
+E00905,Ventas,Data Scientist,Principal,369031.0,5.4,Londres,497147.0
+E00906,Operaciones,Data Scientist,Staff,271199.0,2.5,Nueva York,70781.0
+E00907,Marketing,Analyst,Senior,209755.0,6.0,Nueva York,152022.0
+E00908,Ingenieria,Account Exec,Mid,146547.0,0.8,Londres,7948.0
+E00909,Ingenieria,Analyst,Staff,251184.0,2.3,Londres,83275.0
+E00910,Ingenieria,Analyst,Junior,102794.0,5.3,Washington,33245.0
+E00911,Deployment,Data Scientist,Senior,218602.0,0.7,Palo Alto,10005.0
+E00912,Ingenieria,Product Manager,Junior,120977.0,4.8,Palo Alto,25173.0
+E00913,Deployment,Analyst,Senior,228402.0,4.2,Palo Alto,86466.0
+E00914,Ventas,Software Engineer,Junior,88568.0,2.0,Denver,8316.0
+E00915,Deployment,Product Manager,Staff,286372.0,4.8,Nueva York,183808.0
+E00916,Ventas,Account Exec,Principal,323422.0,2.1,Denver,171889.0
+E00917,Ingenieria,Account Exec,Junior,105969.0,5.7,Washington,32384.0
+E00918,Operaciones,Analyst,Mid,152607.0,4.5,Nueva York,31519.0
+E00919,Producto,Product Manager,Principal,402606.0,6.6,Nueva York,624745.0
+E00920,Ingenieria,Data Scientist,Mid,152725.0,12.4,Palo Alto,99041.0
+E00921,Marketing,Data Scientist,Staff,233032.0,4.5,Denver,151227.0
+E00922,Ventas,Recruiter,Mid,142566.0,7.2,Denver,61782.0
+E00923,Operaciones,Account Exec,Mid,170906.0,1.3,Palo Alto,9395.0
+E00924,Producto,Forward Deployed Eng,Junior,90462.0,5.3,Denver,20507.0
+E00925,Ventas,Recruiter,Junior,118445.0,0.4,Nueva York,2584.0
+E00926,Ingenieria,Data Scientist,Senior,191547.0,5.5,Londres,97804.0
+E00927,Ingenieria,Product Manager,Mid,150149.0,1.4,Londres,10769.0
+E00928,Ventas,Data Scientist,Mid,169615.0,6.0,Nueva York,45852.0
+E00929,Deployment,Product Manager,Mid,137973.0,7.7,Denver,87139.0
+E00930,Ingenieria,Recruiter,Mid,141415.0,5.2,Londres,63063.0
+E00931,Ingenieria,Account Exec,Staff,233512.0,0.7,Londres,23917.0
+E00932,Marketing,Data Scientist,Principal,304725.0,2.5,Denver,133602.0
+E00933,Legal,Analyst,Mid,159379.0,11.8,Nueva York,98395.0
+E00934,Ventas,Product Manager,Staff,244766.0,5.1,Denver,149718.0
+E00935,Ingenieria,Account Exec,Senior,189518.0,5.8,Londres,88396.0
+E00936,Ingenieria,Forward Deployed Eng,Mid,142209.0,1.5,Washington,14384.0
+E00937,Ingenieria,Product Manager,Principal,288414.0,1.7,Denver,106839.0
+E00938,Operaciones,Recruiter,Junior,99675.0,3.0,Londres,15144.0
+E00939,Ingenieria,Forward Deployed Eng,Junior,109112.0,6.6,Nueva York,28119.0
+E00940,Deployment,Forward Deployed Eng,Staff,276387.0,1.9,Washington,96089.0
+E00941,Ingenieria,Software Engineer,Mid,152683.0,11.2,Palo Alto,139279.0
+E00942,Deployment,Data Scientist,Staff,256275.0,0.9,Londres,37443.0
+E00943,Deployment,Product Manager,Staff,261191.0,3.0,Denver,109519.0
+E00944,Marketing,Forward Deployed Eng,Junior,88814.0,8.4,Denver,39005.0
+E00945,Ingenieria,Software Engineer,Staff,238639.0,1.5,Denver,56827.0
+E00946,Ingenieria,Recruiter,Mid,136365.0,2.4,Washington,27277.0
+E00947,Ingenieria,Account Exec,Mid,145313.0,3.9,Londres,37868.0
+E00948,Operaciones,Analyst,Senior,190910.0,1.5,Londres,36421.0
+E00949,Marketing,Analyst,Staff,259109.0,0.8,Washington,40527.0
+E00950,Deployment,Product Manager,Junior,95406.0,1.9,Denver,8565.0
+E00951,Deployment,Forward Deployed Eng,Mid,182134.0,7.7,Palo Alto,79804.0
+E00952,Deployment,Analyst,Senior,169067.0,3.0,Denver,45422.0
+E00953,Ingenieria,Data Scientist,Senior,162812.0,1.5,Denver,24608.0
+E00954,Operaciones,Analyst,Senior,193020.0,1.5,Denver,28442.0
+E00955,Ventas,Analyst,Junior,120582.0,6.4,Palo Alto,26359.0
+E00956,Ingenieria,Analyst,Junior,102423.0,2.0,Denver,12259.0
+E00957,Ventas,Software Engineer,Mid,137618.0,4.7,Denver,37364.0
+E00958,Ingenieria,Forward Deployed Eng,Senior,191166.0,2.7,Denver,52563.0
+E00959,Ingenieria,Data Scientist,Junior,93664.0,4.4,Denver,23395.0
+E00960,Producto,Forward Deployed Eng,Junior,109722.0,6.4,Washington,35684.0
+E00961,Ingenieria,Product Manager,Principal,363756.0,6.7,Londres,467245.0
+E00962,Deployment,Product Manager,Junior,106007.0,1.6,Washington,9772.0
+E00963,Ingenieria,Product Manager,Principal,374463.0,3.0,Palo Alto,234223.0
+E00964,Ingenieria,Recruiter,Senior,171677.0,2.3,Denver,44330.0
+E00965,Ingenieria,Analyst,Staff,236812.0,7.3,Londres,216181.0
+E00966,Ingenieria,Recruiter,Junior,90190.0,1.6,Denver,7831.0
+E00967,Producto,Software Engineer,Junior,91322.0,4.6,Denver,27426.0
+E00968,Ingenieria,Product Manager,Senior,181985.0,4.4,Denver,94048.0
+E00969,Deployment,Data Scientist,Staff,244224.0,1.7,Denver,81552.0
+E00970,Ventas,Forward Deployed Eng,Senior,177354.0,0.8,Denver,15943.0
+E00971,Deployment,Analyst,Junior,121491.0,2.1,Palo Alto,8096.0
+E00972,Operaciones,Account Exec,Senior,197924.0,2.7,Nueva York,38242.0
+E00973,Producto,Data Scientist,Senior,165160.0,2.9,Denver,51152.0
+E00974,Ingenieria,Analyst,Senior,168186.0,2.7,Denver,60415.0
+E00975,Ingenieria,Recruiter,Senior,189683.0,5.4,Londres,126809.0
+E00976,Ingenieria,Recruiter,Staff,226272.0,6.0,Denver,210588.0
+E00977,Deployment,Data Scientist,Senior,172198.0,7.0,Denver,139635.0
+E00978,Ingenieria,Recruiter,Junior,97761.0,1.9,Londres,9050.0
+E00979,Ventas,Product Manager,Mid,143420.0,3.2,Denver,30282.0
+E00980,Deployment,Software Engineer,Junior,85763.0,8.7,Denver,36488.0
+E00981,Ingenieria,Forward Deployed Eng,Mid,173792.0,3.0,Palo Alto,23455.0
+E00982,Producto,Software Engineer,Mid,139560.0,2.3,Denver,18814.0
+E00983,Ingenieria,Analyst,Junior,120809.0,5.0,Nueva York,18330.0
+E00984,Ingenieria,Forward Deployed Eng,Mid,154019.0,5.5,Londres,45038.0
+E00985,Producto,Forward Deployed Eng,Junior,85883.0,3.1,Denver,10936.0
+E00986,Ventas,Software Engineer,Senior,201043.0,2.5,Nueva York,53818.0
+E00987,Deployment,Data Scientist,Principal,430894.0,1.4,Palo Alto,93432.0
+E00988,Ventas,Forward Deployed Eng,Junior,94212.0,2.6,Denver,16691.0
+E00989,Ingenieria,Software Engineer,Principal,388961.0,1.1,Nueva York,67339.0
+E00990,Marketing,Forward Deployed Eng,Mid,139402.0,7.1,Denver,64432.0
+E00991,Producto,Account Exec,Junior,123003.0,0.9,Palo Alto,4116.0
+E00992,Deployment,Data Scientist,Junior,103203.0,2.1,Denver,7403.0
+E00993,Ingenieria,Product Manager,Mid,185522.0,4.0,Palo Alto,48141.0
+E00994,Deployment,Forward Deployed Eng,Senior,187926.0,3.6,Denver,51782.0
+E00995,Ingenieria,Account Exec,Senior,180957.0,1.7,Londres,42980.0
+E00996,Ingenieria,Product Manager,Junior,102215.0,4.3,Denver,26558.0
+E00997,Operaciones,Product Manager,Junior,108044.0,1.1,Palo Alto,5617.0
+E00998,Ingenieria,Analyst,Mid,159674.0,4.0,Palo Alto,41046.0
+E00999,Legal,Forward Deployed Eng,Junior,123060.0,1.9,Nueva York,10377.0
+E01000,Ventas,Software Engineer,Junior,108441.0,1.0,Nueva York,4661.0

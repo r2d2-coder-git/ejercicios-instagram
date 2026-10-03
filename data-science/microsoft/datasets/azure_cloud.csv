@@ -1,0 +1,1501 @@
+mes,cliente_id,sector,nivel,region,servicio,uso_unidades,coste_usd
+2024-09,C1209,Industria,Pay-As-You-Go,Brazil South,Cognitive Services,456.3,875.87
+2024-11,C1080,Salud,Pay-As-You-Go,West Europe,Functions,311.6,0.01
+2024-04,C1125,Industria,Pay-As-You-Go,North Europe,Functions,147.2,0.0
+2024-04,C1148,Gaming,Enterprise,Southeast Asia,Cosmos DB,1231.8,303.17
+2024-04,C1099,Salud,Pay-As-You-Go,West US 2,Functions,88.0,0.0
+2024-07,C1029,Educacion,Pay-As-You-Go,West Europe,Blob Storage,307.6,7.56
+2024-09,C1056,Educacion,Pay-As-You-Go,West US 2,Cosmos DB,281.9,74.23
+2024-06,C1030,Gaming,Pay-As-You-Go,East US,Azure SQL,86.7,27.65
+2024-11,C1041,Industria,Free,North Europe,Cognitive Services,57.9,93.36
+2024-03,C1168,Educacion,Pay-As-You-Go,East US,Cosmos DB,374.3,86.5
+2024-08,C1175,Industria,Pay-As-You-Go,West US 2,Azure SQL,134.4,39.46
+2024-12,C1014,Gaming,Pay-As-You-Go,West US 2,Azure SQL,39.8,12.47
+2024-06,C1075,Finanzas,Pay-As-You-Go,Brazil South,Functions,109.5,0.0
+2024-12,C1016,Educacion,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),104.7,11.15
+2024-01,C1039,Gaming,Pay-As-You-Go,North Europe,Cosmos DB,267.7,68.31
+2024-11,C1093,Gaming,Free,West Europe,Blob Storage,85.7,1.85
+2024-12,C1105,Retail,Enterprise,Brazil South,Functions,530.9,0.01
+2024-05,C1013,Retail,Free,Southeast Asia,Azure SQL,49.3,15.53
+2024-04,C1146,Industria,Pay-As-You-Go,Southeast Asia,Functions,562.7,0.01
+2024-01,C1013,Retail,Free,Southeast Asia,Azure SQL,75.8,24.72
+2024-10,C1082,Educacion,Enterprise,Brazil South,Cognitive Services,671.2,1289.52
+2024-10,C1036,Industria,Pay-As-You-Go,East US,Blob Storage,547.6,12.02
+2024-10,C1057,Finanzas,Enterprise,West US 2,Azure SQL,487.6,142.31
+2024-10,C1081,Finanzas,Pay-As-You-Go,East US,Azure SQL,88.0,27.5
+2024-12,C1075,Finanzas,Pay-As-You-Go,West US 2,Virtual Machines,571.9,69.13
+2024-04,C1117,Educacion,Enterprise,West US 2,Functions,996.9,0.02
+2024-12,C1006,Salud,Free,Southeast Asia,Cosmos DB,92.6,25.0
+2024-12,C1007,Retail,Enterprise,East US,Azure SQL,322.1,98.77
+2024-10,C1042,Finanzas,Enterprise,Brazil South,Blob Storage,233.0,5.85
+2024-11,C1053,Finanzas,Pay-As-You-Go,West Europe,Cognitive Services,287.9,481.89
+2024-09,C1069,Gaming,Enterprise,Brazil South,Cosmos DB,851.8,254.87
+2024-05,C1003,Salud,Free,North Europe,Virtual Machines,53.7,7.72
+2024-11,C1138,Finanzas,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),566.6,59.72
+2024-09,C1104,Gaming,Enterprise,Southeast Asia,Cognitive Services,665.2,1007.77
+2024-02,C1217,Retail,Pay-As-You-Go,Southeast Asia,Azure SQL,195.7,65.21
+2024-03,C1160,Retail,Enterprise,East US,Kubernetes (AKS),812.8,86.49
+2024-04,C1046,Salud,Free,Southeast Asia,Azure SQL,91.4,32.54
+2024-04,C1141,Finanzas,Free,West US 2,Kubernetes (AKS),51.2,4.78
+2024-09,C1066,Industria,Pay-As-You-Go,East US,Virtual Machines,277.0,30.96
+2024-01,C1014,Gaming,Pay-As-You-Go,West US 2,Cognitive Services,129.2,207.22
+2024-12,C1111,Finanzas,Pay-As-You-Go,East US,Cosmos DB,77.5,20.02
+2024-04,C1153,Educacion,Free,Brazil South,Blob Storage,107.2,2.35
+2024-11,C1066,Industria,Pay-As-You-Go,West Europe,Cognitive Services,173.0,290.75
+2024-07,C1075,Finanzas,Pay-As-You-Go,Southeast Asia,Blob Storage,156.1,3.05
+2024-09,C1105,Retail,Enterprise,West US 2,Kubernetes (AKS),682.9,74.77
+2024-03,C1056,Educacion,Pay-As-You-Go,West US 2,Functions,844.8,0.02
+2024-03,C1104,Gaming,Enterprise,Brazil South,Functions,1311.3,0.03
+2024-03,C1115,Salud,Enterprise,Southeast Asia,Virtual Machines,1364.0,169.68
+2024-06,C1160,Retail,Enterprise,North Europe,Functions,1051.6,0.02
+2024-08,C1194,Salud,Pay-As-You-Go,Brazil South,Azure SQL,130.3,46.75
+2024-05,C1019,Industria,Pay-As-You-Go,Brazil South,Blob Storage,217.1,4.77
+2024-05,C1060,Finanzas,Pay-As-You-Go,Southeast Asia,Blob Storage,116.5,2.57
+2024-10,C1065,Gaming,Enterprise,West US 2,Blob Storage,678.3,12.51
+2024-11,C1171,Retail,Free,West US 2,Azure SQL,26.1,8.51
+2024-05,C1020,Retail,Enterprise,Southeast Asia,Blob Storage,1321.5,27.34
+2024-06,C1208,Finanzas,Pay-As-You-Go,Brazil South,Cosmos DB,278.3,76.01
+2024-01,C1007,Retail,Enterprise,Southeast Asia,Virtual Machines,562.4,72.66
+2024-04,C1058,Retail,Free,East US,Azure SQL,58.8,19.23
+2024-03,C1173,Educacion,Pay-As-You-Go,North Europe,Kubernetes (AKS),279.3,32.27
+2024-08,C1043,Gaming,Pay-As-You-Go,West US 2,Virtual Machines,679.9,83.4
+2024-06,C1095,Educacion,Pay-As-You-Go,Brazil South,Functions,552.9,0.01
+2024-05,C1208,Finanzas,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),211.0,22.6
+2024-04,C1033,Gaming,Pay-As-You-Go,East US,Azure SQL,69.6,22.63
+2024-01,C1062,Industria,Pay-As-You-Go,East US,Functions,367.3,0.01
+2024-07,C1002,Industria,Pay-As-You-Go,West US 2,Cognitive Services,114.1,176.34
+2024-04,C1148,Gaming,Enterprise,North Europe,Cosmos DB,692.5,205.25
+2024-03,C1160,Retail,Enterprise,Brazil South,Virtual Machines,1438.7,219.01
+2024-09,C1077,Finanzas,Pay-As-You-Go,East US,Virtual Machines,366.5,45.15
+2024-10,C1210,Retail,Free,West US 2,Cosmos DB,53.1,12.23
+2024-02,C1105,Retail,Enterprise,Southeast Asia,Cosmos DB,2105.9,579.2
+2024-03,C1158,Educacion,Pay-As-You-Go,North Europe,Kubernetes (AKS),564.6,63.8
+2024-07,C1131,Salud,Pay-As-You-Go,West Europe,Functions,336.5,0.01
+2024-07,C1159,Industria,Pay-As-You-Go,East US,Cognitive Services,360.5,489.27
+2024-03,C1031,Retail,Enterprise,Brazil South,Azure SQL,283.6,97.16
+2024-06,C1075,Finanzas,Pay-As-You-Go,West Europe,Virtual Machines,220.6,31.02
+2024-11,C1155,Salud,Pay-As-You-Go,West US 2,Cognitive Services,193.1,296.53
+2024-06,C1148,Gaming,Enterprise,West Europe,Azure SQL,594.3,216.99
+2024-05,C1068,Gaming,Pay-As-You-Go,Southeast Asia,Cosmos DB,140.9,39.39
+2024-04,C1152,Educacion,Pay-As-You-Go,West Europe,Virtual Machines,169.9,23.48
+2024-08,C1198,Finanzas,Pay-As-You-Go,West US 2,Virtual Machines,177.7,22.26
+2024-09,C1155,Salud,Pay-As-You-Go,Brazil South,Cosmos DB,238.1,76.26
+2024-01,C1216,Finanzas,Enterprise,Southeast Asia,Cosmos DB,865.7,249.56
+2024-02,C1101,Gaming,Pay-As-You-Go,West US 2,Blob Storage,91.7,1.71
+2024-07,C1183,Salud,Pay-As-You-Go,Southeast Asia,Cosmos DB,217.0,61.3
+2024-07,C1095,Educacion,Pay-As-You-Go,Southeast Asia,Virtual Machines,58.3,7.41
+2024-01,C1076,Educacion,Pay-As-You-Go,Southeast Asia,Azure SQL,222.3,65.74
+2024-05,C1205,Industria,Enterprise,East US,Blob Storage,252.9,4.59
+2024-08,C1188,Finanzas,Pay-As-You-Go,Brazil South,Kubernetes (AKS),384.3,46.6
+2024-07,C1010,Gaming,Pay-As-You-Go,West Europe,Cosmos DB,858.8,231.22
+2024-08,C1069,Gaming,Enterprise,East US,Functions,809.0,0.01
+2024-09,C1193,Industria,Pay-As-You-Go,East US,Cognitive Services,140.2,211.83
+2024-02,C1135,Salud,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),196.3,20.08
+2024-03,C1057,Finanzas,Enterprise,West US 2,Kubernetes (AKS),2787.8,284.1
+2024-12,C1200,Gaming,Free,West Europe,Functions,37.6,0.0
+2024-09,C1029,Educacion,Pay-As-You-Go,North Europe,Blob Storage,144.0,2.91
+2024-04,C1079,Gaming,Pay-As-You-Go,West Europe,Blob Storage,601.6,12.56
+2024-04,C1163,Finanzas,Pay-As-You-Go,West Europe,Azure SQL,209.3,67.24
+2024-01,C1048,Finanzas,Pay-As-You-Go,East US,Functions,52.5,0.0
+2024-10,C1176,Gaming,Pay-As-You-Go,Southeast Asia,Virtual Machines,376.6,46.54
+2024-04,C1187,Finanzas,Pay-As-You-Go,West Europe,Kubernetes (AKS),109.8,12.94
+2024-08,C1147,Industria,Pay-As-You-Go,West US 2,Virtual Machines,24.0,2.94
+2024-06,C1028,Gaming,Pay-As-You-Go,East US,Kubernetes (AKS),146.2,14.21
+2024-10,C1017,Gaming,Pay-As-You-Go,Brazil South,Cognitive Services,555.7,912.82
+2024-09,C1145,Finanzas,Enterprise,East US,Azure SQL,229.8,65.44
+2024-04,C1003,Salud,Free,West Europe,Azure SQL,97.0,32.85
+2024-01,C1092,Educacion,Pay-As-You-Go,West US 2,Blob Storage,95.9,1.78
+2024-01,C1111,Finanzas,Pay-As-You-Go,Brazil South,Kubernetes (AKS),151.9,19.67
+2024-10,C1162,Gaming,Pay-As-You-Go,West US 2,Blob Storage,236.7,5.02
+2024-01,C1121,Educacion,Enterprise,North Europe,Kubernetes (AKS),527.8,56.36
+2024-07,C1045,Salud,Enterprise,North Europe,Functions,1026.8,0.02
+2024-04,C1087,Retail,Pay-As-You-Go,Brazil South,Blob Storage,73.9,1.81
+2024-11,C1056,Educacion,Pay-As-You-Go,West Europe,Cosmos DB,488.8,130.91
+2024-06,C1098,Finanzas,Pay-As-You-Go,Brazil South,Kubernetes (AKS),307.1,35.53
+2024-02,C1035,Finanzas,Enterprise,North Europe,Kubernetes (AKS),1239.8,122.81
+2024-01,C1046,Salud,Free,Brazil South,Kubernetes (AKS),118.1,14.56
+2024-04,C1003,Salud,Free,Brazil South,Cosmos DB,23.2,7.03
+2024-07,C1072,Educacion,Free,North Europe,Cognitive Services,53.7,91.6
+2024-02,C1023,Industria,Pay-As-You-Go,West Europe,Kubernetes (AKS),456.3,50.83
+2024-01,C1219,Educacion,Free,West Europe,Cosmos DB,20.6,5.3
+2024-09,C1008,Educacion,Pay-As-You-Go,North Europe,Cognitive Services,416.5,676.08
+2024-08,C1046,Salud,Free,Southeast Asia,Azure SQL,33.8,11.71
+2024-12,C1029,Educacion,Pay-As-You-Go,West Europe,Kubernetes (AKS),268.6,30.71
+2024-12,C1137,Gaming,Pay-As-You-Go,West US 2,Virtual Machines,137.1,15.66
+2024-04,C1095,Educacion,Pay-As-You-Go,West Europe,Cosmos DB,84.7,23.82
+2024-02,C1062,Industria,Pay-As-You-Go,West US 2,Cosmos DB,226.0,62.9
+2024-10,C1070,Salud,Pay-As-You-Go,West Europe,Cognitive Services,26.8,45.79
+2024-11,C1176,Gaming,Pay-As-You-Go,Brazil South,Cognitive Services,258.0,506.54
+2024-07,C1157,Finanzas,Free,West US 2,Kubernetes (AKS),44.9,4.12
+2024-10,C1195,Salud,Enterprise,West US 2,Azure SQL,1415.9,406.13
+2024-04,C1011,Industria,Pay-As-You-Go,West US 2,Azure SQL,283.3,78.43
+2024-10,C1121,Educacion,Enterprise,West Europe,Blob Storage,1842.5,39.35
+2024-01,C1195,Salud,Enterprise,West Europe,Cosmos DB,416.1,125.29
+2024-09,C1021,Gaming,Pay-As-You-Go,Southeast Asia,Cognitive Services,413.8,642.73
+2024-12,C1006,Salud,Free,East US,Functions,37.7,0.0
+2024-05,C1052,Educacion,Enterprise,East US,Virtual Machines,725.4,93.27
+2024-01,C1018,Salud,Enterprise,North Europe,Functions,2428.8,0.05
+2024-04,C1115,Salud,Enterprise,West US 2,Functions,412.0,0.01
+2024-03,C1068,Gaming,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),581.0,59.66
+2024-08,C1144,Educacion,Pay-As-You-Go,West US 2,Cognitive Services,324.5,459.31
+2024-03,C1111,Finanzas,Pay-As-You-Go,West Europe,Kubernetes (AKS),16.7,1.86
+2024-10,C1191,Industria,Pay-As-You-Go,North Europe,Azure SQL,267.1,96.41
+2024-03,C1217,Retail,Pay-As-You-Go,West US 2,Blob Storage,379.8,8.22
+2024-12,C1030,Gaming,Pay-As-You-Go,Brazil South,Functions,134.1,0.0
+2024-02,C1077,Finanzas,Pay-As-You-Go,West US 2,Functions,714.6,0.01
+2024-05,C1185,Industria,Free,Southeast Asia,Virtual Machines,18.3,2.5
+2024-11,C1117,Educacion,Enterprise,West Europe,Cosmos DB,1795.8,498.31
+2024-06,C1170,Industria,Enterprise,West US 2,Cosmos DB,1135.1,260.97
+2024-09,C1210,Retail,Free,Brazil South,Functions,17.6,0.0
+2024-03,C1081,Finanzas,Pay-As-You-Go,Southeast Asia,Functions,160.9,0.0
+2024-07,C1178,Gaming,Pay-As-You-Go,East US,Cognitive Services,74.3,113.78
+2024-11,C1144,Educacion,Pay-As-You-Go,Brazil South,Kubernetes (AKS),377.5,49.05
+2024-10,C1072,Educacion,Free,Southeast Asia,Kubernetes (AKS),76.4,8.84
+2024-08,C1184,Retail,Free,North Europe,Cosmos DB,14.5,4.21
+2024-12,C1163,Finanzas,Pay-As-You-Go,Brazil South,Virtual Machines,332.7,45.51
+2024-05,C1135,Salud,Pay-As-You-Go,Brazil South,Blob Storage,70.9,1.57
+2024-12,C1208,Finanzas,Pay-As-You-Go,Brazil South,Cognitive Services,32.8,56.91
+2024-10,C1052,Educacion,Enterprise,Brazil South,Blob Storage,478.0,11.38
+2024-02,C1101,Gaming,Pay-As-You-Go,Southeast Asia,Virtual Machines,105.6,15.02
+2024-03,C1083,Gaming,Pay-As-You-Go,East US,Virtual Machines,195.7,21.26
+2024-01,C1202,Gaming,Pay-As-You-Go,North Europe,Cosmos DB,163.1,44.62
+2024-04,C1189,Educacion,Free,Southeast Asia,Cognitive Services,4.5,7.82
+2024-03,C1153,Educacion,Free,Brazil South,Cosmos DB,61.5,17.3
+2024-09,C1212,Gaming,Pay-As-You-Go,West Europe,Functions,103.0,0.0
+2024-12,C1077,Finanzas,Pay-As-You-Go,Southeast Asia,Functions,16.3,0.0
+2024-01,C1053,Finanzas,Pay-As-You-Go,West US 2,Virtual Machines,133.8,16.88
+2024-01,C1171,Retail,Free,North Europe,Azure SQL,37.5,13.58
+2024-12,C1157,Finanzas,Free,West Europe,Functions,42.6,0.0
+2024-09,C1179,Salud,Pay-As-You-Go,West Europe,Functions,612.0,0.01
+2024-08,C1144,Educacion,Pay-As-You-Go,West US 2,Blob Storage,175.2,3.31
+2024-04,C1040,Finanzas,Pay-As-You-Go,West US 2,Cognitive Services,197.4,327.96
+2024-02,C1208,Finanzas,Pay-As-You-Go,West Europe,Azure SQL,30.5,9.41
+2024-09,C1126,Finanzas,Free,West Europe,Azure SQL,29.9,10.75
+2024-05,C1127,Educacion,Pay-As-You-Go,Brazil South,Azure SQL,406.0,156.35
+2024-06,C1204,Retail,Pay-As-You-Go,West Europe,Azure SQL,264.5,92.21
+2024-02,C1116,Salud,Enterprise,East US,Cognitive Services,750.7,1192.56
+2024-02,C1202,Gaming,Pay-As-You-Go,North Europe,Cognitive Services,826.4,1391.71
+2024-09,C1176,Gaming,Pay-As-You-Go,East US,Virtual Machines,119.9,14.31
+2024-06,C1026,Salud,Enterprise,East US,Functions,256.2,0.0
+2024-04,C1164,Gaming,Pay-As-You-Go,North Europe,Blob Storage,389.9,8.81
+2024-11,C1154,Educacion,Pay-As-You-Go,North Europe,Azure SQL,425.2,150.38
+2024-03,C1020,Retail,Enterprise,West US 2,Blob Storage,606.7,11.39
+2024-05,C1047,Retail,Free,North Europe,Virtual Machines,69.9,9.69
+2024-02,C1043,Gaming,Pay-As-You-Go,Brazil South,Kubernetes (AKS),203.1,22.21
+2024-01,C1082,Educacion,Enterprise,West US 2,Virtual Machines,332.5,41.56
+2024-11,C1209,Industria,Pay-As-You-Go,Brazil South,Cognitive Services,222.6,402.93
+2024-07,C1172,Gaming,Free,North Europe,Virtual Machines,59.4,8.04
+2024-08,C1014,Gaming,Pay-As-You-Go,Brazil South,Cosmos DB,249.0,74.11
+2024-04,C1044,Salud,Pay-As-You-Go,North Europe,Virtual Machines,272.6,38.73
+2024-09,C1010,Gaming,Pay-As-You-Go,West Europe,Cognitive Services,205.3,320.37
+2024-11,C1000,Gaming,Enterprise,West Europe,Azure SQL,1009.8,322.6
+2024-05,C1076,Educacion,Pay-As-You-Go,Brazil South,Functions,34.2,0.0
+2024-08,C1190,Finanzas,Pay-As-You-Go,East US,Blob Storage,439.4,9.18
+2024-11,C1089,Finanzas,Pay-As-You-Go,Brazil South,Cosmos DB,240.4,77.41
+2024-11,C1008,Educacion,Pay-As-You-Go,East US,Cognitive Services,77.7,126.94
+2024-08,C1051,Salud,Pay-As-You-Go,East US,Functions,180.9,0.0
+2024-02,C1173,Educacion,Pay-As-You-Go,West US 2,Blob Storage,267.6,5.24
+2024-08,C1017,Gaming,Pay-As-You-Go,North Europe,Kubernetes (AKS),420.6,47.17
+2024-03,C1107,Finanzas,Pay-As-You-Go,Southeast Asia,Functions,591.6,0.01
+2024-07,C1169,Retail,Pay-As-You-Go,East US,Kubernetes (AKS),246.2,24.84
+2024-04,C1021,Gaming,Pay-As-You-Go,West US 2,Kubernetes (AKS),319.5,32.94
+2024-08,C1218,Industria,Free,Southeast Asia,Kubernetes (AKS),19.0,2.11
+2024-05,C1109,Gaming,Pay-As-You-Go,North Europe,Blob Storage,157.4,3.26
+2024-04,C1037,Retail,Pay-As-You-Go,Southeast Asia,Azure SQL,417.7,146.95
+2024-04,C1058,Retail,Free,Southeast Asia,Kubernetes (AKS),63.1,6.78
+2024-10,C1162,Gaming,Pay-As-You-Go,Brazil South,Blob Storage,114.3,2.68
+2024-08,C1134,Salud,Enterprise,West Europe,Blob Storage,349.9,8.26
+2024-02,C1065,Gaming,Enterprise,West Europe,Cognitive Services,1793.9,3107.18
+2024-06,C1103,Salud,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),345.9,37.6
+2024-03,C1032,Retail,Pay-As-You-Go,West US 2,Kubernetes (AKS),84.1,7.84
+2024-07,C1187,Finanzas,Pay-As-You-Go,Brazil South,Cosmos DB,59.4,16.23
+2024-01,C1043,Gaming,Pay-As-You-Go,Brazil South,Functions,395.7,0.01
+2024-10,C1092,Educacion,Pay-As-You-Go,North Europe,Azure SQL,191.9,58.88
+2024-07,C1184,Retail,Free,West US 2,Cognitive Services,67.6,111.04
+2024-12,C1018,Salud,Enterprise,Brazil South,Virtual Machines,1484.4,210.4
+2024-03,C1077,Finanzas,Pay-As-You-Go,West Europe,Kubernetes (AKS),260.6,31.24
+2024-03,C1020,Retail,Enterprise,West US 2,Cosmos DB,1900.1,532.69
+2024-10,C1217,Retail,Pay-As-You-Go,Southeast Asia,Functions,757.4,0.02
+2024-04,C1025,Gaming,Pay-As-You-Go,West Europe,Virtual Machines,36.4,5.02
+2024-11,C1172,Gaming,Free,Brazil South,Kubernetes (AKS),31.7,3.58
+2024-02,C1004,Salud,Enterprise,East US,Cognitive Services,1822.4,2531.79
+2024-10,C1014,Gaming,Pay-As-You-Go,Southeast Asia,Azure SQL,489.4,155.73
+2024-08,C1097,Educacion,Pay-As-You-Go,West US 2,Blob Storage,620.5,13.85
+2024-06,C1069,Gaming,Enterprise,East US,Cognitive Services,325.7,477.79
+2024-05,C1016,Educacion,Pay-As-You-Go,West US 2,Cognitive Services,455.8,698.46
+2024-02,C1142,Gaming,Enterprise,North Europe,Virtual Machines,962.9,128.72
+2024-04,C1053,Finanzas,Pay-As-You-Go,East US,Cosmos DB,537.4,128.64
+2024-01,C1097,Educacion,Pay-As-You-Go,Southeast Asia,Virtual Machines,294.8,40.12
+2024-01,C1110,Finanzas,Pay-As-You-Go,North Europe,Virtual Machines,951.0,120.1
+2024-10,C1018,Salud,Enterprise,West Europe,Kubernetes (AKS),295.2,33.45
+2024-12,C1175,Industria,Pay-As-You-Go,West US 2,Azure SQL,667.7,190.76
+2024-09,C1044,Salud,Pay-As-You-Go,West Europe,Virtual Machines,221.9,28.63
+2024-04,C1065,Gaming,Enterprise,West Europe,Blob Storage,175.1,3.75
+2024-06,C1094,Salud,Pay-As-You-Go,East US,Virtual Machines,311.7,35.12
+2024-10,C1212,Gaming,Pay-As-You-Go,Southeast Asia,Blob Storage,138.3,2.84
+2024-09,C1185,Industria,Free,West US 2,Kubernetes (AKS),81.3,8.98
+2024-09,C1079,Gaming,Pay-As-You-Go,Southeast Asia,Blob Storage,177.6,3.95
+2024-11,C1130,Finanzas,Pay-As-You-Go,Brazil South,Cosmos DB,485.5,143.73
+2024-10,C1067,Industria,Enterprise,North Europe,Cognitive Services,1990.2,3055.26
+2024-10,C1064,Salud,Pay-As-You-Go,East US,Blob Storage,173.6,3.34
+2024-12,C1031,Retail,Enterprise,Southeast Asia,Cosmos DB,446.5,125.84
+2024-05,C1176,Gaming,Pay-As-You-Go,West Europe,Virtual Machines,141.9,18.04
+2024-09,C1129,Salud,Pay-As-You-Go,Southeast Asia,Cosmos DB,389.9,103.51
+2024-07,C1213,Gaming,Free,East US,Azure SQL,86.4,26.43
+2024-01,C1086,Finanzas,Pay-As-You-Go,North Europe,Cognitive Services,127.6,225.99
+2024-05,C1133,Educacion,Enterprise,Southeast Asia,Cognitive Services,1954.6,3047.97
+2024-05,C1176,Gaming,Pay-As-You-Go,East US,Azure SQL,57.8,17.28
+2024-11,C1023,Industria,Pay-As-You-Go,North Europe,Cosmos DB,38.2,10.86
+2024-10,C1086,Finanzas,Pay-As-You-Go,North Europe,Kubernetes (AKS),217.9,24.43
+2024-10,C1132,Educacion,Pay-As-You-Go,North Europe,Functions,369.4,0.01
+2024-06,C1017,Gaming,Pay-As-You-Go,North Europe,Azure SQL,66.4,23.5
+2024-09,C1122,Finanzas,Free,West US 2,Virtual Machines,94.8,12.1
+2024-03,C1078,Finanzas,Free,West Europe,Functions,20.5,0.0
+2024-11,C1039,Gaming,Pay-As-You-Go,Brazil South,Cosmos DB,639.5,176.64
+2024-06,C1219,Educacion,Free,Brazil South,Cosmos DB,59.7,16.64
+2024-09,C1213,Gaming,Free,West US 2,Kubernetes (AKS),68.1,7.52
+2024-08,C1054,Educacion,Enterprise,North Europe,Kubernetes (AKS),2784.1,291.47
+2024-03,C1091,Gaming,Pay-As-You-Go,North Europe,Kubernetes (AKS),201.0,22.06
+2024-05,C1093,Gaming,Free,North Europe,Cosmos DB,96.1,26.88
+2024-08,C1040,Finanzas,Pay-As-You-Go,West US 2,Functions,173.8,0.0
+2024-10,C1016,Educacion,Pay-As-You-Go,Brazil South,Virtual Machines,67.2,9.23
+2024-10,C1117,Educacion,Enterprise,West US 2,Functions,157.0,0.0
+2024-02,C1160,Retail,Enterprise,West US 2,Cognitive Services,1995.1,2888.86
+2024-05,C1156,Retail,Enterprise,West US 2,Cognitive Services,1122.3,1743.46
+2024-08,C1213,Gaming,Free,Brazil South,Virtual Machines,78.3,10.5
+2024-12,C1163,Finanzas,Pay-As-You-Go,North Europe,Virtual Machines,236.2,28.86
+2024-10,C1007,Retail,Enterprise,Southeast Asia,Cognitive Services,624.6,943.78
+2024-05,C1112,Educacion,Enterprise,Brazil South,Cosmos DB,3353.6,950.75
+2024-02,C1044,Salud,Pay-As-You-Go,West Europe,Kubernetes (AKS),223.9,25.95
+2024-09,C1103,Salud,Pay-As-You-Go,Brazil South,Kubernetes (AKS),70.1,8.15
+2024-08,C1188,Finanzas,Pay-As-You-Go,Brazil South,Cosmos DB,377.8,102.46
+2024-03,C1086,Finanzas,Pay-As-You-Go,Southeast Asia,Cognitive Services,275.3,420.35
+2024-01,C1120,Gaming,Pay-As-You-Go,West US 2,Virtual Machines,383.9,43.73
+2024-03,C1148,Gaming,Enterprise,Brazil South,Blob Storage,634.2,14.92
+2024-12,C1079,Gaming,Pay-As-You-Go,West US 2,Cognitive Services,678.9,1064.62
+2024-07,C1002,Industria,Pay-As-You-Go,Brazil South,Kubernetes (AKS),129.2,16.81
+2024-11,C1083,Gaming,Pay-As-You-Go,West US 2,Virtual Machines,526.8,64.06
+2024-12,C1076,Educacion,Pay-As-You-Go,Brazil South,Functions,425.0,0.01
+2024-10,C1025,Gaming,Pay-As-You-Go,East US,Cognitive Services,438.6,652.63
+2024-03,C1194,Salud,Pay-As-You-Go,East US,Kubernetes (AKS),549.2,55.2
+2024-11,C1059,Industria,Pay-As-You-Go,West US 2,Azure SQL,244.9,79.46
+2024-10,C1189,Educacion,Free,West Europe,Cognitive Services,80.0,141.11
+2024-11,C1022,Retail,Pay-As-You-Go,West US 2,Azure SQL,148.9,49.23
+2024-10,C1115,Salud,Enterprise,West Europe,Kubernetes (AKS),866.0,104.6
+2024-06,C1057,Finanzas,Enterprise,East US,Cosmos DB,538.2,143.43
+2024-02,C1124,Educacion,Pay-As-You-Go,East US,Blob Storage,142.3,3.01
+2024-05,C1072,Educacion,Free,Southeast Asia,Azure SQL,62.0,21.48
+2024-02,C1059,Industria,Pay-As-You-Go,Brazil South,Functions,330.7,0.01
+2024-11,C1166,Gaming,Enterprise,East US,Blob Storage,1366.2,28.58
+2024-01,C1172,Gaming,Free,Southeast Asia,Blob Storage,125.2,2.57
+2024-12,C1041,Industria,Free,East US,Functions,81.6,0.0
+2024-05,C1037,Retail,Pay-As-You-Go,North Europe,Azure SQL,316.4,113.47
+2024-10,C1175,Industria,Pay-As-You-Go,North Europe,Blob Storage,492.7,11.77
+2024-01,C1074,Finanzas,Enterprise,West Europe,Cosmos DB,2142.0,547.84
+2024-11,C1168,Educacion,Pay-As-You-Go,West US 2,Functions,92.6,0.0
+2024-07,C1215,Industria,Pay-As-You-Go,West Europe,Cosmos DB,346.3,98.88
+2024-08,C1209,Industria,Pay-As-You-Go,Brazil South,Virtual Machines,150.7,20.27
+2024-07,C1091,Gaming,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),333.8,33.75
+2024-11,C1202,Gaming,Pay-As-You-Go,East US,Kubernetes (AKS),303.5,27.65
+2024-10,C1066,Industria,Pay-As-You-Go,West Europe,Kubernetes (AKS),100.6,11.64
+2024-07,C1051,Salud,Pay-As-You-Go,West Europe,Cognitive Services,250.1,456.45
+2024-04,C1188,Finanzas,Pay-As-You-Go,West US 2,Functions,51.8,0.0
+2024-05,C1113,Industria,Enterprise,Brazil South,Azure SQL,1467.0,560.57
+2024-12,C1181,Retail,Pay-As-You-Go,East US,Functions,377.1,0.01
+2024-09,C1073,Finanzas,Pay-As-You-Go,East US,Blob Storage,310.1,6.1
+2024-03,C1177,Gaming,Enterprise,North Europe,Functions,1132.6,0.02
+2024-03,C1072,Educacion,Free,North Europe,Azure SQL,32.0,9.74
+2024-12,C1193,Industria,Pay-As-You-Go,North Europe,Cognitive Services,354.8,641.84
+2024-09,C1101,Gaming,Pay-As-You-Go,East US,Cosmos DB,156.3,37.07
+2024-06,C1143,Industria,Pay-As-You-Go,East US,Cosmos DB,245.0,58.88
+2024-03,C1167,Gaming,Pay-As-You-Go,North Europe,Blob Storage,350.0,6.97
+2024-04,C1118,Gaming,Free,West Europe,Blob Storage,77.5,1.73
+2024-10,C1159,Industria,Pay-As-You-Go,West Europe,Blob Storage,375.8,8.17
+2024-04,C1135,Salud,Pay-As-You-Go,North Europe,Functions,363.9,0.01
+2024-06,C1056,Educacion,Pay-As-You-Go,West Europe,Cognitive Services,117.2,190.87
+2024-09,C1127,Educacion,Pay-As-You-Go,West US 2,Blob Storage,152.1,2.99
+2024-06,C1212,Gaming,Pay-As-You-Go,West Europe,Cognitive Services,178.2,306.2
+2024-06,C1029,Educacion,Pay-As-You-Go,Brazil South,Blob Storage,867.2,21.78
+2024-07,C1164,Gaming,Pay-As-You-Go,West US 2,Cosmos DB,424.9,98.75
+2024-03,C1165,Educacion,Enterprise,West US 2,Blob Storage,1657.4,35.88
+2024-09,C1042,Finanzas,Enterprise,East US,Blob Storage,376.1,7.28
+2024-08,C1144,Educacion,Pay-As-You-Go,Brazil South,Azure SQL,235.2,79.16
+2024-10,C1075,Finanzas,Pay-As-You-Go,East US,Cognitive Services,183.7,290.7
+2024-06,C1109,Gaming,Pay-As-You-Go,Brazil South,Kubernetes (AKS),749.9,91.49
+2024-07,C1122,Finanzas,Free,West Europe,Azure SQL,13.9,4.68
+2024-07,C1169,Retail,Pay-As-You-Go,West Europe,Cognitive Services,321.5,561.65
+2024-12,C1174,Industria,Pay-As-You-Go,West US 2,Kubernetes (AKS),145.3,15.47
+2024-01,C1205,Industria,Enterprise,Brazil South,Virtual Machines,2087.2,277.88
+2024-12,C1136,Industria,Pay-As-You-Go,West Europe,Virtual Machines,117.6,16.6
+2024-03,C1114,Finanzas,Pay-As-You-Go,North Europe,Cognitive Services,202.9,343.7
+2024-03,C1010,Gaming,Pay-As-You-Go,East US,Blob Storage,361.8,6.84
+2024-12,C1108,Educacion,Pay-As-You-Go,Brazil South,Kubernetes (AKS),103.8,13.7
+2024-08,C1044,Salud,Pay-As-You-Go,East US,Blob Storage,604.7,13.19
+2024-12,C1211,Salud,Enterprise,Brazil South,Virtual Machines,346.2,45.88
+2024-08,C1134,Salud,Enterprise,West Europe,Cosmos DB,906.2,241.44
+2024-05,C1082,Educacion,Enterprise,East US,Blob Storage,1304.5,26.55
+2024-09,C1087,Retail,Pay-As-You-Go,North Europe,Virtual Machines,176.6,21.99
+2024-02,C1193,Industria,Pay-As-You-Go,East US,Cosmos DB,492.4,122.59
+2024-01,C1105,Retail,Enterprise,West US 2,Cosmos DB,396.3,96.02
+2024-06,C1191,Industria,Pay-As-You-Go,West Europe,Functions,268.0,0.01
+2024-05,C1038,Retail,Enterprise,North Europe,Blob Storage,2279.1,51.86
+2024-02,C1094,Salud,Pay-As-You-Go,Southeast Asia,Cosmos DB,84.2,24.37
+2024-05,C1097,Educacion,Pay-As-You-Go,East US,Cosmos DB,321.9,82.53
+2024-09,C1189,Educacion,Free,West Europe,Azure SQL,49.4,16.41
+2024-10,C1142,Gaming,Enterprise,East US,Cognitive Services,1438.8,2228.99
+2024-09,C1114,Finanzas,Pay-As-You-Go,North Europe,Azure SQL,227.7,76.42
+2024-08,C1200,Gaming,Free,Southeast Asia,Kubernetes (AKS),38.9,4.34
+2024-03,C1113,Industria,Enterprise,West US 2,Blob Storage,797.8,16.19
+2024-07,C1021,Gaming,Pay-As-You-Go,North Europe,Azure SQL,388.4,136.89
+2024-03,C1011,Industria,Pay-As-You-Go,West Europe,Cosmos DB,214.1,59.35
+2024-10,C1214,Industria,Pay-As-You-Go,Southeast Asia,Blob Storage,263.4,6.22
+2024-01,C1002,Industria,Pay-As-You-Go,West US 2,Functions,167.4,0.0
+2024-05,C1213,Gaming,Free,West US 2,Cognitive Services,50.0,69.28
+2024-02,C1054,Educacion,Enterprise,West Europe,Cognitive Services,768.5,1166.49
+2024-09,C1177,Gaming,Enterprise,Southeast Asia,Cognitive Services,162.1,246.67
+2024-08,C1086,Finanzas,Pay-As-You-Go,East US,Cognitive Services,311.7,489.72
+2024-07,C1144,Educacion,Pay-As-You-Go,East US,Kubernetes (AKS),157.1,16.99
+2024-05,C1175,Industria,Pay-As-You-Go,West US 2,Azure SQL,391.0,128.85
+2024-08,C1087,Retail,Pay-As-You-Go,Brazil South,Functions,127.2,0.0
+2024-05,C1109,Gaming,Pay-As-You-Go,North Europe,Kubernetes (AKS),264.8,31.9
+2024-02,C1155,Salud,Pay-As-You-Go,Southeast Asia,Blob Storage,561.3,11.09
+2024-06,C1140,Gaming,Free,Southeast Asia,Cosmos DB,30.4,8.73
+2024-08,C1157,Finanzas,Free,West US 2,Cosmos DB,27.8,6.69
+2024-10,C1045,Salud,Enterprise,East US,Blob Storage,799.5,14.56
+2024-10,C1085,Industria,Pay-As-You-Go,West Europe,Kubernetes (AKS),111.0,11.31
+2024-09,C1145,Finanzas,Enterprise,Brazil South,Virtual Machines,1408.7,220.99
+2024-08,C1077,Finanzas,Pay-As-You-Go,West Europe,Azure SQL,140.3,45.18
+2024-01,C1133,Educacion,Enterprise,West Europe,Cognitive Services,1003.2,1522.94
+2024-06,C1112,Educacion,Enterprise,East US,Azure SQL,666.2,182.5
+2024-01,C1106,Salud,Pay-As-You-Go,West US 2,Cognitive Services,113.1,185.79
+2024-11,C1208,Finanzas,Pay-As-You-Go,East US,Kubernetes (AKS),165.8,15.15
+2024-02,C1099,Salud,Pay-As-You-Go,Brazil South,Blob Storage,123.6,2.72
+2024-10,C1198,Finanzas,Pay-As-You-Go,West Europe,Cosmos DB,36.4,10.68
+2024-10,C1208,Finanzas,Pay-As-You-Go,Brazil South,Cosmos DB,206.7,57.49
+2024-08,C1017,Gaming,Pay-As-You-Go,Brazil South,Cognitive Services,408.3,719.1
+2024-09,C1011,Industria,Pay-As-You-Go,West US 2,Azure SQL,429.7,142.96
+2024-07,C1090,Educacion,Free,West US 2,Virtual Machines,124.5,15.57
+2024-10,C1038,Retail,Enterprise,Southeast Asia,Cognitive Services,1020.5,1801.29
+2024-12,C1092,Educacion,Pay-As-You-Go,Brazil South,Kubernetes (AKS),373.4,46.71
+2024-12,C1077,Finanzas,Pay-As-You-Go,Brazil South,Azure SQL,492.1,159.67
+2024-02,C1102,Salud,Enterprise,Brazil South,Blob Storage,1657.7,41.14
+2024-11,C1176,Gaming,Pay-As-You-Go,East US,Cognitive Services,272.0,445.69
+2024-10,C1125,Industria,Pay-As-You-Go,West US 2,Cognitive Services,303.3,499.95
+2024-09,C1111,Finanzas,Pay-As-You-Go,East US,Kubernetes (AKS),240.8,26.27
+2024-08,C1108,Educacion,Pay-As-You-Go,Brazil South,Blob Storage,220.5,4.99
+2024-07,C1088,Educacion,Free,West US 2,Functions,35.9,0.0
+2024-03,C1008,Educacion,Pay-As-You-Go,North Europe,Virtual Machines,439.1,55.64
+2024-10,C1200,Gaming,Free,Brazil South,Cognitive Services,84.0,162.99
+2024-10,C1039,Gaming,Pay-As-You-Go,Southeast Asia,Azure SQL,618.7,205.37
+2024-03,C1174,Industria,Pay-As-You-Go,North Europe,Kubernetes (AKS),324.3,33.92
+2024-09,C1144,Educacion,Pay-As-You-Go,Southeast Asia,Functions,119.5,0.0
+2024-05,C1065,Gaming,Enterprise,Brazil South,Kubernetes (AKS),2685.6,293.4
+2024-08,C1099,Salud,Pay-As-You-Go,North Europe,Kubernetes (AKS),437.4,45.24
+2024-11,C1018,Salud,Enterprise,Southeast Asia,Functions,224.7,0.0
+2024-05,C1177,Gaming,Enterprise,Southeast Asia,Kubernetes (AKS),1597.4,178.02
+2024-11,C1105,Retail,Enterprise,North Europe,Functions,439.0,0.01
+2024-06,C1190,Finanzas,Pay-As-You-Go,North Europe,Kubernetes (AKS),165.2,18.75
+2024-02,C1085,Industria,Pay-As-You-Go,West Europe,Cosmos DB,459.3,132.77
+2024-11,C1202,Gaming,Pay-As-You-Go,East US,Cognitive Services,596.5,838.05
+2024-12,C1140,Gaming,Free,West Europe,Blob Storage,12.8,0.27
+2024-07,C1086,Finanzas,Pay-As-You-Go,West Europe,Virtual Machines,144.1,18.13
+2024-08,C1159,Industria,Pay-As-You-Go,North Europe,Azure SQL,169.6,51.93
+2024-04,C1084,Retail,Enterprise,West US 2,Kubernetes (AKS),287.3,29.56
+2024-12,C1071,Gaming,Pay-As-You-Go,North Europe,Functions,354.7,0.01
+2024-10,C1022,Retail,Pay-As-You-Go,West Europe,Azure SQL,151.5,51.21
+2024-03,C1093,Gaming,Free,East US,Cognitive Services,33.2,45.7
+2024-08,C1096,Gaming,Enterprise,East US,Virtual Machines,791.1,102.29
+2024-04,C1145,Finanzas,Enterprise,Southeast Asia,Kubernetes (AKS),546.6,56.8
+2024-03,C1149,Industria,Pay-As-You-Go,Southeast Asia,Functions,642.5,0.01
+2024-01,C1125,Industria,Pay-As-You-Go,East US,Kubernetes (AKS),74.1,7.55
+2024-11,C1195,Salud,Enterprise,West US 2,Virtual Machines,375.7,42.42
+2024-10,C1105,Retail,Enterprise,East US,Functions,133.9,0.0
+2024-03,C1106,Salud,Pay-As-You-Go,Brazil South,Virtual Machines,66.9,9.2
+2024-08,C1035,Finanzas,Enterprise,West Europe,Functions,498.6,0.01
+2024-01,C1039,Gaming,Pay-As-You-Go,West US 2,Blob Storage,68.4,1.37
+2024-06,C1179,Salud,Pay-As-You-Go,North Europe,Cognitive Services,457.0,699.93
+2024-06,C1002,Industria,Pay-As-You-Go,Southeast Asia,Cosmos DB,115.7,28.43
+2024-01,C1007,Retail,Enterprise,East US,Virtual Machines,479.1,51.97
+2024-10,C1120,Gaming,Pay-As-You-Go,West Europe,Cosmos DB,189.5,51.14
+2024-06,C1121,Educacion,Enterprise,Brazil South,Functions,700.2,0.02
+2024-12,C1046,Salud,Free,North Europe,Cosmos DB,22.9,6.69
+2024-03,C1039,Gaming,Pay-As-You-Go,West US 2,Virtual Machines,55.0,6.77
+2024-06,C1064,Salud,Pay-As-You-Go,West Europe,Virtual Machines,822.7,117.73
+2024-03,C1127,Educacion,Pay-As-You-Go,West Europe,Functions,391.2,0.01
+2024-05,C1207,Retail,Enterprise,North Europe,Blob Storage,504.2,11.51
+2024-08,C1084,Retail,Enterprise,West US 2,Functions,361.6,0.01
+2024-09,C1132,Educacion,Pay-As-You-Go,West Europe,Cognitive Services,141.1,227.22
+2024-08,C1104,Gaming,Enterprise,Southeast Asia,Functions,398.6,0.01
+2024-04,C1147,Industria,Pay-As-You-Go,East US,Kubernetes (AKS),274.2,29.08
+2024-03,C1001,Salud,Enterprise,West US 2,Cosmos DB,2373.6,624.21
+2024-12,C1059,Industria,Pay-As-You-Go,Brazil South,Cosmos DB,147.6,46.01
+2024-06,C1075,Finanzas,Pay-As-You-Go,East US,Blob Storage,23.4,0.5
+2024-02,C1153,Educacion,Free,West US 2,Virtual Machines,38.9,5.24
+2024-03,C1197,Gaming,Free,East US,Blob Storage,18.4,0.35
+2024-03,C1088,Educacion,Free,North Europe,Cosmos DB,110.6,28.38
+2024-05,C1136,Industria,Pay-As-You-Go,Southeast Asia,Blob Storage,936.2,21.05
+2024-06,C1011,Industria,Pay-As-You-Go,West Europe,Azure SQL,407.1,141.19
+2024-08,C1077,Finanzas,Pay-As-You-Go,West Europe,Azure SQL,255.1,80.2
+2024-03,C1203,Educacion,Pay-As-You-Go,East US,Virtual Machines,394.2,51.16
+2024-02,C1092,Educacion,Pay-As-You-Go,West US 2,Kubernetes (AKS),83.4,9.3
+2024-08,C1171,Retail,Free,North Europe,Functions,108.5,0.0
+2024-10,C1131,Salud,Pay-As-You-Go,West Europe,Cosmos DB,1038.6,268.59
+2024-06,C1041,Industria,Free,Southeast Asia,Cosmos DB,32.0,8.19
+2024-02,C1084,Retail,Enterprise,West US 2,Virtual Machines,1822.4,231.66
+2024-12,C1160,Retail,Enterprise,West US 2,Virtual Machines,321.5,37.19
+2024-02,C1087,Retail,Pay-As-You-Go,Brazil South,Azure SQL,331.6,129.95
+2024-09,C1112,Educacion,Enterprise,Brazil South,Cosmos DB,1001.4,270.42
+2024-08,C1178,Gaming,Pay-As-You-Go,West Europe,Azure SQL,131.0,48.12
+2024-06,C1135,Salud,Pay-As-You-Go,Brazil South,Azure SQL,26.2,9.64
+2024-10,C1088,Educacion,Free,West Europe,Cosmos DB,57.9,16.97
+2024-12,C1127,Educacion,Pay-As-You-Go,West Europe,Cognitive Services,350.6,562.15
+2024-04,C1009,Gaming,Pay-As-You-Go,East US,Kubernetes (AKS),237.4,26.07
+2024-05,C1061,Gaming,Enterprise,West US 2,Virtual Machines,928.6,115.53
+2024-02,C1044,Salud,Pay-As-You-Go,Southeast Asia,Cognitive Services,222.0,355.96
+2024-08,C1144,Educacion,Pay-As-You-Go,East US,Functions,214.0,0.0
+2024-07,C1094,Salud,Pay-As-You-Go,North Europe,Virtual Machines,209.6,25.16
+2024-09,C1140,Gaming,Free,North Europe,Cognitive Services,116.6,182.53
+2024-10,C1127,Educacion,Pay-As-You-Go,West US 2,Cosmos DB,125.8,33.6
+2024-09,C1079,Gaming,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),360.1,42.62
+2024-01,C1056,Educacion,Pay-As-You-Go,West US 2,Cognitive Services,318.3,532.65
+2024-02,C1075,Finanzas,Pay-As-You-Go,East US,Blob Storage,361.5,6.91
+2024-06,C1158,Educacion,Pay-As-You-Go,East US,Azure SQL,185.5,56.97
+2024-03,C1179,Salud,Pay-As-You-Go,Southeast Asia,Cognitive Services,97.1,144.67
+2024-03,C1127,Educacion,Pay-As-You-Go,Southeast Asia,Cosmos DB,176.7,46.33
+2024-05,C1089,Finanzas,Pay-As-You-Go,West US 2,Cosmos DB,170.6,44.13
+2024-03,C1135,Salud,Pay-As-You-Go,Brazil South,Cosmos DB,401.6,121.56
+2024-06,C1074,Finanzas,Enterprise,East US,Blob Storage,615.6,13.33
+2024-05,C1090,Educacion,Free,West Europe,Functions,49.5,0.0
+2024-09,C1015,Educacion,Free,East US,Azure SQL,30.8,9.97
+2024-05,C1219,Educacion,Free,East US,Cognitive Services,33.2,47.41
+2024-11,C1097,Educacion,Pay-As-You-Go,West US 2,Virtual Machines,66.5,8.09
+2024-02,C1115,Salud,Enterprise,Southeast Asia,Cognitive Services,774.7,1337.57
+2024-09,C1207,Retail,Enterprise,Brazil South,Azure SQL,1798.6,695.22
+2024-03,C1109,Gaming,Pay-As-You-Go,Brazil South,Kubernetes (AKS),104.8,13.7
+2024-03,C1048,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,265.8,79.47
+2024-06,C1089,Finanzas,Pay-As-You-Go,East US,Functions,288.6,0.01
+2024-04,C1138,Finanzas,Pay-As-You-Go,East US,Functions,122.2,0.0
+2024-05,C1086,Finanzas,Pay-As-You-Go,Brazil South,Functions,242.8,0.01
+2024-02,C1183,Salud,Pay-As-You-Go,East US,Kubernetes (AKS),634.3,62.39
+2024-05,C1179,Salud,Pay-As-You-Go,East US,Cognitive Services,284.8,445.01
+2024-05,C1115,Salud,Enterprise,Brazil South,Azure SQL,1585.9,624.62
+2024-11,C1107,Finanzas,Pay-As-You-Go,Brazil South,Azure SQL,319.2,106.2
+2024-04,C1113,Industria,Enterprise,West Europe,Cosmos DB,754.7,224.95
+2024-07,C1016,Educacion,Pay-As-You-Go,Southeast Asia,Virtual Machines,219.5,27.25
+2024-12,C1113,Industria,Enterprise,North Europe,Cognitive Services,111.8,185.51
+2024-07,C1042,Finanzas,Enterprise,North Europe,Functions,1414.6,0.03
+2024-06,C1161,Finanzas,Pay-As-You-Go,West Europe,Cognitive Services,540.7,852.17
+2024-02,C1062,Industria,Pay-As-You-Go,North Europe,Kubernetes (AKS),141.3,16.33
+2024-11,C1184,Retail,Free,East US,Functions,51.9,0.0
+2024-11,C1124,Educacion,Pay-As-You-Go,North Europe,Kubernetes (AKS),426.4,47.29
+2024-05,C1193,Industria,Pay-As-You-Go,West US 2,Virtual Machines,147.4,16.29
+2024-03,C1166,Gaming,Enterprise,East US,Cosmos DB,1952.1,536.02
+2024-08,C1103,Salud,Pay-As-You-Go,West Europe,Azure SQL,108.5,39.84
+2024-11,C1044,Salud,Pay-As-You-Go,North Europe,Cosmos DB,277.6,81.68
+2024-12,C1073,Finanzas,Pay-As-You-Go,West US 2,Virtual Machines,28.7,3.47
+2024-11,C1104,Gaming,Enterprise,Southeast Asia,Blob Storage,782.4,17.98
+2024-05,C1172,Gaming,Free,West US 2,Kubernetes (AKS),73.6,7.08
+2024-06,C1162,Gaming,Pay-As-You-Go,East US,Kubernetes (AKS),188.7,18.53
+2024-02,C1171,Retail,Free,Brazil South,Cosmos DB,1.7,0.5
+2024-10,C1080,Salud,Pay-As-You-Go,Brazil South,Blob Storage,365.8,8.52
+2024-09,C1131,Salud,Pay-As-You-Go,West Europe,Kubernetes (AKS),103.7,11.54
+2024-04,C1126,Finanzas,Free,East US,Azure SQL,24.4,7.34
+2024-12,C1207,Retail,Enterprise,East US,Kubernetes (AKS),1035.5,113.84
+2024-06,C1110,Finanzas,Pay-As-You-Go,West US 2,Azure SQL,18.8,5.36
+2024-01,C1143,Industria,Pay-As-You-Go,West Europe,Azure SQL,510.3,172.64
+2024-05,C1191,Industria,Pay-As-You-Go,West US 2,Kubernetes (AKS),697.0,69.54
+2024-10,C1153,Educacion,Free,East US,Functions,126.5,0.0
+2024-02,C1154,Educacion,Pay-As-You-Go,East US,Virtual Machines,456.9,52.19
+2024-04,C1080,Salud,Pay-As-You-Go,East US,Virtual Machines,248.5,27.21
+2024-04,C1016,Educacion,Pay-As-You-Go,North Europe,Azure SQL,97.0,31.76
+2024-10,C1155,Salud,Pay-As-You-Go,West US 2,Kubernetes (AKS),390.3,39.38
+2024-04,C1098,Finanzas,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),382.2,41.85
+2024-05,C1188,Finanzas,Pay-As-You-Go,North Europe,Cognitive Services,260.6,432.94
+2024-11,C1179,Salud,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),109.7,12.71
+2024-12,C1020,Retail,Enterprise,Southeast Asia,Virtual Machines,207.0,27.64
+2024-09,C1119,Gaming,Enterprise,West Europe,Functions,1059.0,0.02
+2024-04,C1139,Industria,Pay-As-You-Go,West Europe,Functions,516.1,0.01
+2024-02,C1076,Educacion,Pay-As-You-Go,West Europe,Kubernetes (AKS),127.3,13.21
+2024-04,C1001,Salud,Enterprise,East US,Virtual Machines,155.2,18.91
+2024-11,C1112,Educacion,Enterprise,West US 2,Functions,1841.4,0.04
+2024-11,C1195,Salud,Enterprise,North Europe,Virtual Machines,1496.0,211.83
+2024-11,C1149,Industria,Pay-As-You-Go,Southeast Asia,Functions,313.2,0.01
+2024-09,C1175,Industria,Pay-As-You-Go,West Europe,Cognitive Services,197.7,310.13
+2024-10,C1081,Finanzas,Pay-As-You-Go,Brazil South,Functions,118.6,0.0
+2024-06,C1024,Gaming,Pay-As-You-Go,Southeast Asia,Functions,220.4,0.0
+2024-07,C1019,Industria,Pay-As-You-Go,Brazil South,Azure SQL,273.1,96.9
+2024-07,C1070,Salud,Pay-As-You-Go,Brazil South,Cognitive Services,7.9,14.47
+2024-06,C1128,Gaming,Pay-As-You-Go,North Europe,Kubernetes (AKS),243.9,28.83
+2024-07,C1105,Retail,Enterprise,West US 2,Virtual Machines,813.0,103.22
+2024-03,C1204,Retail,Pay-As-You-Go,Southeast Asia,Cosmos DB,381.6,108.05
+2024-05,C1015,Educacion,Free,Brazil South,Blob Storage,72.0,1.74
+2024-11,C1200,Gaming,Free,North Europe,Cosmos DB,10.7,2.69
+2024-01,C1136,Industria,Pay-As-You-Go,North Europe,Blob Storage,365.8,8.21
+2024-09,C1030,Gaming,Pay-As-You-Go,East US,Blob Storage,406.2,8.26
+2024-12,C1020,Retail,Enterprise,West US 2,Azure SQL,2846.7,934.5
+2024-05,C1173,Educacion,Pay-As-You-Go,East US,Cosmos DB,200.3,54.76
+2024-08,C1204,Retail,Pay-As-You-Go,East US,Cognitive Services,286.8,449.83
+2024-12,C1028,Gaming,Pay-As-You-Go,North Europe,Cognitive Services,487.8,879.03
+2024-09,C1196,Finanzas,Pay-As-You-Go,Southeast Asia,Virtual Machines,96.3,12.26
+2024-08,C1084,Retail,Enterprise,East US,Cosmos DB,1407.5,386.75
+2024-03,C1174,Industria,Pay-As-You-Go,West US 2,Blob Storage,540.7,10.94
+2024-12,C1180,Gaming,Free,East US,Cognitive Services,46.3,71.37
+2024-09,C1052,Educacion,Enterprise,West Europe,Cognitive Services,520.0,886.21
+2024-03,C1189,Educacion,Free,West US 2,Virtual Machines,32.9,4.35
+2024-05,C1073,Finanzas,Pay-As-You-Go,West Europe,Cognitive Services,635.5,1067.66
+2024-12,C1179,Salud,Pay-As-You-Go,Southeast Asia,Virtual Machines,268.7,34.25
+2024-09,C1073,Finanzas,Pay-As-You-Go,East US,Azure SQL,168.2,48.15
+2024-05,C1012,Finanzas,Pay-As-You-Go,Southeast Asia,Virtual Machines,214.9,27.07
+2024-04,C1187,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,201.4,4.56
+2024-04,C1108,Educacion,Pay-As-You-Go,Southeast Asia,Virtual Machines,313.8,41.57
+2024-03,C1152,Educacion,Pay-As-You-Go,Southeast Asia,Cosmos DB,266.5,66.28
+2024-07,C1051,Salud,Pay-As-You-Go,Southeast Asia,Cosmos DB,501.2,147.28
+2024-11,C1167,Gaming,Pay-As-You-Go,Brazil South,Kubernetes (AKS),208.0,22.82
+2024-06,C1068,Gaming,Pay-As-You-Go,North Europe,Blob Storage,399.5,8.5
+2024-12,C1096,Gaming,Enterprise,Brazil South,Functions,1827.7,0.05
+2024-05,C1125,Industria,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),24.3,2.65
+2024-03,C1073,Finanzas,Pay-As-You-Go,Southeast Asia,Blob Storage,210.2,4.58
+2024-03,C1143,Industria,Pay-As-You-Go,West Europe,Cosmos DB,107.1,28.6
+2024-11,C1092,Educacion,Pay-As-You-Go,Southeast Asia,Cognitive Services,177.5,264.62
+2024-08,C1094,Salud,Pay-As-You-Go,North Europe,Blob Storage,156.4,3.36
+2024-01,C1006,Salud,Free,West US 2,Cosmos DB,32.9,7.8
+2024-02,C1147,Industria,Pay-As-You-Go,East US,Cosmos DB,63.0,14.89
+2024-03,C1148,Gaming,Enterprise,North Europe,Blob Storage,1266.2,26.81
+2024-07,C1136,Industria,Pay-As-You-Go,North Europe,Blob Storage,117.2,2.69
+2024-12,C1193,Industria,Pay-As-You-Go,Southeast Asia,Blob Storage,303.2,6.49
+2024-07,C1113,Industria,Enterprise,East US,Cognitive Services,4170.8,6686.32
+2024-02,C1142,Gaming,Enterprise,East US,Virtual Machines,331.5,42.06
+2024-05,C1167,Gaming,Pay-As-You-Go,West Europe,Kubernetes (AKS),131.0,15.95
+2024-05,C1007,Retail,Enterprise,West Europe,Functions,2432.8,0.06
+2024-07,C1069,Gaming,Enterprise,West Europe,Azure SQL,384.6,123.3
+2024-07,C1116,Salud,Enterprise,Brazil South,Kubernetes (AKS),629.3,70.82
+2024-05,C1105,Retail,Enterprise,East US,Blob Storage,1382.5,29.47
+2024-02,C1170,Industria,Enterprise,Brazil South,Kubernetes (AKS),1424.0,184.01
+2024-11,C1083,Gaming,Pay-As-You-Go,North Europe,Virtual Machines,283.5,40.66
+2024-09,C1191,Industria,Pay-As-You-Go,West US 2,Blob Storage,236.4,4.79
+2024-02,C1107,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,160.3,48.78
+2024-08,C1083,Gaming,Pay-As-You-Go,North Europe,Cognitive Services,330.9,535.25
+2024-04,C1140,Gaming,Free,West Europe,Cognitive Services,84.9,139.83
+2024-03,C1085,Industria,Pay-As-You-Go,East US,Cognitive Services,100.4,157.31
+2024-03,C1012,Finanzas,Pay-As-You-Go,North Europe,Virtual Machines,560.8,78.95
+2024-08,C1134,Salud,Enterprise,North Europe,Virtual Machines,719.4,98.97
+2024-09,C1093,Gaming,Free,West Europe,Blob Storage,15.1,0.32
+2024-06,C1017,Gaming,Pay-As-You-Go,North Europe,Functions,415.6,0.01
+2024-12,C1014,Gaming,Pay-As-You-Go,East US,Virtual Machines,619.1,73.89
+2024-08,C1052,Educacion,Enterprise,East US,Blob Storage,482.0,9.41
+2024-11,C1073,Finanzas,Pay-As-You-Go,West US 2,Cosmos DB,172.0,42.69
+2024-05,C1155,Salud,Pay-As-You-Go,East US,Virtual Machines,497.0,64.1
+2024-05,C1038,Retail,Enterprise,West US 2,Cosmos DB,309.0,73.27
+2024-09,C1086,Finanzas,Pay-As-You-Go,West Europe,Blob Storage,527.5,10.88
+2024-01,C1151,Retail,Pay-As-You-Go,East US,Azure SQL,235.1,65.28
+2024-12,C1106,Salud,Pay-As-You-Go,West Europe,Cognitive Services,94.8,143.8
+2024-04,C1021,Gaming,Pay-As-You-Go,East US,Virtual Machines,343.6,38.72
+2024-03,C1148,Gaming,Enterprise,West Europe,Blob Storage,185.8,4.56
+2024-01,C1098,Finanzas,Pay-As-You-Go,Brazil South,Virtual Machines,327.1,47.15
+2024-08,C1020,Retail,Enterprise,Brazil South,Kubernetes (AKS),1322.0,147.31
+2024-05,C1038,Retail,Enterprise,North Europe,Virtual Machines,2297.1,327.19
+2024-12,C1051,Salud,Pay-As-You-Go,West Europe,Azure SQL,436.3,154.86
+2024-01,C1078,Finanzas,Free,Brazil South,Kubernetes (AKS),98.5,10.99
+2024-05,C1179,Salud,Pay-As-You-Go,East US,Cognitive Services,137.7,188.48
+2024-02,C1159,Industria,Pay-As-You-Go,Brazil South,Functions,740.7,0.02
+2024-02,C1102,Salud,Enterprise,West US 2,Kubernetes (AKS),122.6,13.04
+2024-05,C1206,Gaming,Pay-As-You-Go,West Europe,Azure SQL,877.2,299.86
+2024-07,C1202,Gaming,Pay-As-You-Go,North Europe,Blob Storage,207.9,4.29
+2024-07,C1130,Finanzas,Pay-As-You-Go,West US 2,Cosmos DB,496.9,117.57
+2024-09,C1175,Industria,Pay-As-You-Go,Southeast Asia,Virtual Machines,355.0,48.01
+2024-11,C1016,Educacion,Pay-As-You-Go,Southeast Asia,Functions,86.1,0.0
+2024-05,C1136,Industria,Pay-As-You-Go,North Europe,Kubernetes (AKS),398.5,40.36
+2024-12,C1061,Gaming,Enterprise,East US,Virtual Machines,2269.8,249.24
+2024-07,C1199,Educacion,Enterprise,East US,Virtual Machines,2147.8,282.69
+2024-12,C1146,Industria,Pay-As-You-Go,East US,Cosmos DB,323.2,87.29
+2024-04,C1083,Gaming,Pay-As-You-Go,West US 2,Virtual Machines,548.3,71.59
+2024-03,C1211,Salud,Enterprise,West US 2,Virtual Machines,1284.5,156.69
+2024-04,C1195,Salud,Enterprise,West Europe,Kubernetes (AKS),771.2,84.26
+2024-03,C1072,Educacion,Free,North Europe,Functions,2.6,0.0
+2024-12,C1091,Gaming,Pay-As-You-Go,Southeast Asia,Cognitive Services,211.5,358.56
+2024-07,C1067,Industria,Enterprise,East US,Cosmos DB,2375.9,581.28
+2024-10,C1106,Salud,Pay-As-You-Go,North Europe,Blob Storage,474.2,9.6
+2024-04,C1070,Salud,Pay-As-You-Go,Southeast Asia,Cosmos DB,418.3,104.87
+2024-05,C1037,Retail,Pay-As-You-Go,West US 2,Functions,646.7,0.01
+2024-05,C1164,Gaming,Pay-As-You-Go,Brazil South,Cognitive Services,324.0,602.66
+2024-08,C1147,Industria,Pay-As-You-Go,Southeast Asia,Cognitive Services,143.7,224.14
+2024-12,C1159,Industria,Pay-As-You-Go,North Europe,Cosmos DB,87.4,22.14
+2024-10,C1080,Salud,Pay-As-You-Go,Brazil South,Functions,350.1,0.01
+2024-10,C1135,Salud,Pay-As-You-Go,West US 2,Cosmos DB,59.6,16.14
+2024-02,C1195,Salud,Enterprise,North Europe,Functions,1279.0,0.03
+2024-06,C1173,Educacion,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),143.9,16.82
+2024-07,C1037,Retail,Pay-As-You-Go,West US 2,Cosmos DB,104.9,24.63
+2024-08,C1062,Industria,Pay-As-You-Go,North Europe,Cosmos DB,374.5,97.08
+2024-09,C1124,Educacion,Pay-As-You-Go,Brazil South,Kubernetes (AKS),457.2,51.16
+2024-01,C1171,Retail,Free,West US 2,Blob Storage,35.8,0.67
+2024-04,C1172,Gaming,Free,East US,Cognitive Services,28.9,45.86
+2024-05,C1063,Industria,Pay-As-You-Go,Brazil South,Azure SQL,390.2,136.81
+2024-08,C1186,Finanzas,Pay-As-You-Go,East US,Cognitive Services,378.9,539.25
+2024-02,C1209,Industria,Pay-As-You-Go,West Europe,Virtual Machines,291.0,42.48
+2024-10,C1146,Industria,Pay-As-You-Go,East US,Azure SQL,179.7,50.76
+2024-07,C1054,Educacion,Enterprise,Brazil South,Azure SQL,1853.8,656.04
+2024-05,C1044,Salud,Pay-As-You-Go,East US,Kubernetes (AKS),411.9,43.05
+2024-07,C1133,Educacion,Enterprise,North Europe,Cosmos DB,808.1,225.81
+2024-06,C1110,Finanzas,Pay-As-You-Go,Brazil South,Kubernetes (AKS),453.1,48.99
+2024-01,C1132,Educacion,Pay-As-You-Go,West Europe,Functions,150.5,0.0
+2024-11,C1055,Industria,Pay-As-You-Go,West Europe,Cognitive Services,393.9,654.4
+2024-10,C1088,Educacion,Free,North Europe,Blob Storage,20.4,0.42
+2024-08,C1118,Gaming,Free,West Europe,Cosmos DB,22.7,6.64
+2024-06,C1199,Educacion,Enterprise,North Europe,Blob Storage,271.4,5.57
+2024-11,C1138,Finanzas,Pay-As-You-Go,Brazil South,Azure SQL,187.1,70.65
+2024-06,C1014,Gaming,Pay-As-You-Go,West US 2,Cognitive Services,83.6,134.09
+2024-09,C1085,Industria,Pay-As-You-Go,East US,Cognitive Services,320.7,434.63
+2024-12,C1172,Gaming,Free,West Europe,Cognitive Services,99.1,177.16
+2024-09,C1011,Industria,Pay-As-You-Go,East US,Functions,126.3,0.0
+2024-03,C1182,Educacion,Free,West Europe,Functions,21.0,0.0
+2024-06,C1215,Industria,Pay-As-You-Go,Brazil South,Virtual Machines,666.7,94.65
+2024-03,C1165,Educacion,Enterprise,West US 2,Functions,1544.9,0.03
+2024-05,C1014,Gaming,Pay-As-You-Go,North Europe,Functions,238.2,0.01
+2024-01,C1074,Finanzas,Enterprise,North Europe,Functions,1215.7,0.03
+2024-01,C1111,Finanzas,Pay-As-You-Go,Brazil South,Virtual Machines,152.3,23.94
+2024-03,C1218,Industria,Free,Brazil South,Cognitive Services,62.7,105.31
+2024-10,C1005,Gaming,Free,East US,Azure SQL,13.9,3.82
+2024-08,C1076,Educacion,Pay-As-You-Go,Brazil South,Functions,256.8,0.01
+2024-12,C1214,Industria,Pay-As-You-Go,North Europe,Functions,233.4,0.01
+2024-02,C1072,Educacion,Free,West US 2,Functions,30.1,0.0
+2024-11,C1038,Retail,Enterprise,Brazil South,Kubernetes (AKS),103.2,11.41
+2024-01,C1029,Educacion,Pay-As-You-Go,Southeast Asia,Blob Storage,42.3,0.83
+2024-12,C1183,Salud,Pay-As-You-Go,West US 2,Cognitive Services,536.6,758.35
+2024-09,C1188,Finanzas,Pay-As-You-Go,West Europe,Cognitive Services,138.2,224.66
+2024-07,C1037,Retail,Pay-As-You-Go,West US 2,Functions,443.0,0.01
+2024-06,C1068,Gaming,Pay-As-You-Go,North Europe,Cosmos DB,422.1,109.59
+2024-07,C1210,Retail,Free,Southeast Asia,Cosmos DB,50.4,14.46
+2024-07,C1088,Educacion,Free,West Europe,Cognitive Services,67.0,102.53
+2024-05,C1027,Gaming,Pay-As-You-Go,North Europe,Virtual Machines,171.7,24.07
+2024-07,C1037,Retail,Pay-As-You-Go,Southeast Asia,Cosmos DB,216.5,59.57
+2024-03,C1162,Gaming,Pay-As-You-Go,Southeast Asia,Blob Storage,98.2,2.18
+2024-01,C1200,Gaming,Free,West US 2,Virtual Machines,25.7,3.26
+2024-03,C1163,Finanzas,Pay-As-You-Go,West US 2,Functions,62.1,0.0
+2024-05,C1130,Finanzas,Pay-As-You-Go,West US 2,Cognitive Services,654.2,902.83
+2024-01,C1044,Salud,Pay-As-You-Go,East US,Azure SQL,242.0,72.77
+2024-01,C1118,Gaming,Free,North Europe,Kubernetes (AKS),15.0,1.63
+2024-03,C1050,Educacion,Pay-As-You-Go,West Europe,Cognitive Services,428.9,699.28
+2024-01,C1067,Industria,Enterprise,Southeast Asia,Blob Storage,688.1,15.57
+2024-07,C1076,Educacion,Pay-As-You-Go,North Europe,Virtual Machines,315.7,41.0
+2024-02,C1141,Finanzas,Free,West US 2,Functions,7.1,0.0
+2024-01,C1153,Educacion,Free,West US 2,Blob Storage,15.2,0.32
+2024-07,C1216,Finanzas,Enterprise,Brazil South,Cognitive Services,1042.7,1811.65
+2024-07,C1085,Industria,Pay-As-You-Go,Brazil South,Cosmos DB,372.7,120.22
+2024-01,C1077,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,353.8,9.13
+2024-12,C1066,Industria,Pay-As-You-Go,East US,Functions,300.1,0.01
+2024-06,C1125,Industria,Pay-As-You-Go,West US 2,Azure SQL,300.7,85.92
+2024-01,C1004,Salud,Enterprise,North Europe,Blob Storage,724.7,16.05
+2024-11,C1041,Industria,Free,West US 2,Azure SQL,22.0,7.14
+2024-05,C1122,Finanzas,Free,Brazil South,Blob Storage,41.5,1.08
+2024-07,C1157,Finanzas,Free,West Europe,Blob Storage,87.5,1.89
+2024-09,C1102,Salud,Enterprise,East US,Functions,1275.9,0.03
+2024-11,C1153,Educacion,Free,East US,Cosmos DB,88.0,20.14
+2024-07,C1162,Gaming,Pay-As-You-Go,West US 2,Kubernetes (AKS),858.5,81.59
+2024-05,C1099,Salud,Pay-As-You-Go,North Europe,Azure SQL,502.2,154.92
+2024-10,C1003,Salud,Free,Brazil South,Kubernetes (AKS),24.3,2.74
+2024-05,C1024,Gaming,Pay-As-You-Go,West US 2,Kubernetes (AKS),505.3,53.94
+2024-04,C1123,Educacion,Pay-As-You-Go,North Europe,Cognitive Services,280.2,504.66
+2024-10,C1093,Gaming,Free,East US,Cognitive Services,47.4,75.95
+2024-11,C1058,Retail,Free,West Europe,Virtual Machines,47.7,5.81
+2024-12,C1013,Retail,Free,West US 2,Kubernetes (AKS),59.4,6.43
+2024-08,C1081,Finanzas,Pay-As-You-Go,Brazil South,Kubernetes (AKS),294.3,32.71
+2024-01,C1130,Finanzas,Pay-As-You-Go,West US 2,Azure SQL,117.2,33.08
+2024-08,C1207,Retail,Enterprise,Brazil South,Virtual Machines,1028.6,139.35
+2024-01,C1149,Industria,Pay-As-You-Go,North Europe,Blob Storage,265.5,5.79
+2024-06,C1157,Finanzas,Free,West Europe,Azure SQL,18.2,6.56
+2024-06,C1213,Gaming,Free,East US,Functions,41.8,0.0
+2024-02,C1098,Finanzas,Pay-As-You-Go,North Europe,Blob Storage,54.0,1.11
+2024-03,C1076,Educacion,Pay-As-You-Go,Southeast Asia,Virtual Machines,527.0,61.96
+2024-06,C1183,Salud,Pay-As-You-Go,West US 2,Blob Storage,90.1,1.96
+2024-03,C1101,Gaming,Pay-As-You-Go,Brazil South,Cognitive Services,174.8,330.62
+2024-05,C1015,Educacion,Free,Southeast Asia,Cognitive Services,86.3,132.75
+2024-07,C1124,Educacion,Pay-As-You-Go,Southeast Asia,Functions,238.2,0.0
+2024-07,C1217,Retail,Pay-As-You-Go,East US,Kubernetes (AKS),186.8,18.17
+2024-02,C1061,Gaming,Enterprise,Southeast Asia,Cognitive Services,1169.7,1955.86
+2024-12,C1153,Educacion,Free,Brazil South,Cognitive Services,106.6,193.02
+2024-01,C1153,Educacion,Free,West US 2,Blob Storage,33.9,0.66
+2024-01,C1114,Finanzas,Pay-As-You-Go,East US,Cognitive Services,233.1,355.58
+2024-09,C1096,Gaming,Enterprise,Brazil South,Virtual Machines,302.9,41.65
+2024-02,C1036,Industria,Pay-As-You-Go,West Europe,Kubernetes (AKS),213.9,22.15
+2024-07,C1004,Salud,Enterprise,West Europe,Kubernetes (AKS),284.4,33.87
+2024-01,C1017,Gaming,Pay-As-You-Go,Brazil South,Blob Storage,315.2,7.18
+2024-05,C1173,Educacion,Pay-As-You-Go,West Europe,Azure SQL,353.0,112.76
+2024-10,C1086,Finanzas,Pay-As-You-Go,North Europe,Azure SQL,763.3,271.04
+2024-10,C1001,Salud,Enterprise,East US,Functions,227.8,0.0
+2024-12,C1059,Industria,Pay-As-You-Go,Southeast Asia,Azure SQL,292.5,97.83
+2024-08,C1050,Educacion,Pay-As-You-Go,Southeast Asia,Cognitive Services,454.4,776.88
+2024-02,C1207,Retail,Enterprise,Brazil South,Kubernetes (AKS),747.6,90.19
+2024-02,C1036,Industria,Pay-As-You-Go,East US,Virtual Machines,196.3,21.41
+2024-10,C1209,Industria,Pay-As-You-Go,East US,Kubernetes (AKS),225.4,24.39
+2024-01,C1014,Gaming,Pay-As-You-Go,West US 2,Functions,405.0,0.01
+2024-10,C1017,Gaming,Pay-As-You-Go,North Europe,Blob Storage,247.9,5.25
+2024-01,C1147,Industria,Pay-As-You-Go,West Europe,Azure SQL,771.1,251.99
+2024-05,C1167,Gaming,Pay-As-You-Go,East US,Cognitive Services,592.4,808.63
+2024-11,C1000,Gaming,Enterprise,West Europe,Blob Storage,669.7,14.81
+2024-04,C1007,Retail,Enterprise,North Europe,Cosmos DB,1459.1,374.18
+2024-02,C1194,Salud,Pay-As-You-Go,Brazil South,Virtual Machines,209.4,29.67
+2024-02,C1091,Gaming,Pay-As-You-Go,Brazil South,Azure SQL,566.2,208.87
+2024-03,C1210,Retail,Free,West US 2,Cosmos DB,74.6,18.54
+2024-04,C1010,Gaming,Pay-As-You-Go,North Europe,Virtual Machines,96.3,13.43
+2024-06,C1180,Gaming,Free,East US,Cognitive Services,147.1,212.5
+2024-03,C1179,Salud,Pay-As-You-Go,East US,Cognitive Services,462.4,637.2
+2024-01,C1112,Educacion,Enterprise,Brazil South,Blob Storage,356.9,7.97
+2024-07,C1091,Gaming,Pay-As-You-Go,East US,Cosmos DB,287.9,66.51
+2024-06,C1150,Finanzas,Pay-As-You-Go,Southeast Asia,Functions,124.6,0.0
+2024-07,C1027,Gaming,Pay-As-You-Go,Southeast Asia,Azure SQL,416.5,125.16
+2024-08,C1039,Gaming,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),128.9,13.04
+2024-01,C1007,Retail,Enterprise,Southeast Asia,Blob Storage,1550.6,35.7
+2024-04,C1080,Salud,Pay-As-You-Go,Brazil South,Cognitive Services,596.0,1102.21
+2024-01,C1152,Educacion,Pay-As-You-Go,East US,Virtual Machines,440.7,53.22
+2024-11,C1210,Retail,Free,North Europe,Cognitive Services,42.3,66.55
+2024-09,C1197,Gaming,Free,West Europe,Functions,35.5,0.0
+2024-11,C1130,Finanzas,Pay-As-You-Go,East US,Azure SQL,191.2,56.24
+2024-03,C1153,Educacion,Free,Brazil South,Functions,4.8,0.0
+2024-11,C1027,Gaming,Pay-As-You-Go,West US 2,Cognitive Services,262.2,369.92
+2024-10,C1084,Retail,Enterprise,North Europe,Virtual Machines,947.1,118.98
+2024-06,C1011,Industria,Pay-As-You-Go,North Europe,Functions,416.1,0.01
+2024-04,C1050,Educacion,Pay-As-You-Go,East US,Cosmos DB,483.7,111.75
+2024-02,C1182,Educacion,Free,West US 2,Blob Storage,24.3,0.52
+2024-10,C1104,Gaming,Enterprise,West Europe,Cosmos DB,1082.0,278.08
+2024-03,C1177,Gaming,Enterprise,West US 2,Cognitive Services,1650.6,2500.06
+2024-03,C1079,Gaming,Pay-As-You-Go,North Europe,Blob Storage,899.4,20.99
+2024-01,C1038,Retail,Enterprise,Brazil South,Azure SQL,437.7,162.73
+2024-10,C1060,Finanzas,Pay-As-You-Go,Brazil South,Kubernetes (AKS),116.6,14.0
+2024-06,C1055,Industria,Pay-As-You-Go,West US 2,Azure SQL,63.2,20.44
+2024-02,C1209,Industria,Pay-As-You-Go,East US,Cognitive Services,278.5,418.32
+2024-09,C1057,Finanzas,Enterprise,West US 2,Cosmos DB,438.7,105.92
+2024-09,C1210,Retail,Free,West Europe,Virtual Machines,46.0,6.0
+2024-01,C1104,Gaming,Enterprise,Brazil South,Functions,1273.5,0.03
+2024-01,C1048,Finanzas,Pay-As-You-Go,East US,Cognitive Services,116.4,185.07
+2024-07,C1115,Salud,Enterprise,West US 2,Virtual Machines,467.8,55.76
+2024-01,C1189,Educacion,Free,East US,Virtual Machines,44.7,4.88
+2024-09,C1136,Industria,Pay-As-You-Go,Southeast Asia,Functions,383.2,0.01
+2024-04,C1102,Salud,Enterprise,East US,Kubernetes (AKS),358.6,37.8
+2024-04,C1148,Gaming,Enterprise,West US 2,Azure SQL,1664.9,486.88
+2024-07,C1217,Retail,Pay-As-You-Go,East US,Cognitive Services,66.2,90.96
+2024-06,C1149,Industria,Pay-As-You-Go,West US 2,Blob Storage,315.8,6.83
+2024-08,C1186,Finanzas,Pay-As-You-Go,West Europe,Blob Storage,191.7,3.89
+2024-10,C1210,Retail,Free,North Europe,Kubernetes (AKS),39.6,4.01
+2024-08,C1117,Educacion,Enterprise,West US 2,Blob Storage,3472.5,73.13
+2024-09,C1071,Gaming,Pay-As-You-Go,West US 2,Cognitive Services,357.6,514.94
+2024-01,C1154,Educacion,Pay-As-You-Go,West US 2,Kubernetes (AKS),171.2,18.31
+2024-01,C1059,Industria,Pay-As-You-Go,North Europe,Azure SQL,1190.9,425.91
+2024-07,C1152,Educacion,Pay-As-You-Go,West Europe,Cosmos DB,175.5,50.93
+2024-01,C1068,Gaming,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),500.6,52.36
+2024-04,C1181,Retail,Pay-As-You-Go,West US 2,Kubernetes (AKS),8.1,0.9
+2024-08,C1196,Finanzas,Pay-As-You-Go,West Europe,Azure SQL,327.7,106.33
+2024-06,C1219,Educacion,Free,Brazil South,Blob Storage,87.3,2.29
+2024-08,C1208,Finanzas,Pay-As-You-Go,North Europe,Virtual Machines,285.9,36.52
+2024-10,C1079,Gaming,Pay-As-You-Go,Brazil South,Cosmos DB,324.5,97.68
+2024-04,C1151,Retail,Pay-As-You-Go,Brazil South,Cognitive Services,101.3,190.39
+2024-07,C1015,Educacion,Free,Southeast Asia,Azure SQL,171.9,60.59
+2024-06,C1001,Salud,Enterprise,West Europe,Cosmos DB,81.0,23.61
+2024-09,C1201,Retail,Pay-As-You-Go,Southeast Asia,Functions,114.9,0.0
+2024-08,C1047,Retail,Free,West Europe,Kubernetes (AKS),99.8,10.86
+2024-10,C1198,Finanzas,Pay-As-You-Go,East US,Blob Storage,249.8,4.56
+2024-04,C1112,Educacion,Enterprise,West US 2,Functions,329.8,0.01
+2024-11,C1157,Finanzas,Free,West US 2,Kubernetes (AKS),85.2,8.15
+2024-08,C1185,Industria,Free,North Europe,Blob Storage,40.6,0.85
+2024-12,C1144,Educacion,Pay-As-You-Go,North Europe,Virtual Machines,392.2,48.37
+2024-01,C1054,Educacion,Enterprise,West Europe,Blob Storage,161.1,3.84
+2024-05,C1181,Retail,Pay-As-You-Go,Brazil South,Blob Storage,75.3,1.86
+2024-12,C1056,Educacion,Pay-As-You-Go,Brazil South,Kubernetes (AKS),449.2,55.74
+2024-06,C1064,Salud,Pay-As-You-Go,North Europe,Azure SQL,560.9,191.61
+2024-08,C1196,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,265.8,6.31
+2024-08,C1178,Gaming,Pay-As-You-Go,West US 2,Blob Storage,203.0,4.0
+2024-01,C1193,Industria,Pay-As-You-Go,Southeast Asia,Cognitive Services,348.0,538.95
+2024-03,C1147,Industria,Pay-As-You-Go,West Europe,Functions,378.8,0.01
+2024-07,C1209,Industria,Pay-As-You-Go,Brazil South,Kubernetes (AKS),197.4,25.21
+2024-12,C1086,Finanzas,Pay-As-You-Go,West US 2,Functions,140.8,0.0
+2024-02,C1063,Industria,Pay-As-You-Go,West US 2,Azure SQL,148.4,47.45
+2024-02,C1047,Retail,Free,North Europe,Functions,2.7,0.0
+2024-02,C1012,Finanzas,Pay-As-You-Go,East US,Functions,685.4,0.01
+2024-12,C1128,Gaming,Pay-As-You-Go,Brazil South,Kubernetes (AKS),282.0,31.97
+2024-03,C1165,Educacion,Enterprise,Brazil South,Cosmos DB,144.1,42.04
+2024-10,C1185,Industria,Free,Brazil South,Kubernetes (AKS),79.2,9.61
+2024-01,C1149,Industria,Pay-As-You-Go,East US,Functions,312.2,0.01
+2024-10,C1008,Educacion,Pay-As-You-Go,North Europe,Virtual Machines,306.7,37.12
+2024-03,C1141,Finanzas,Free,East US,Kubernetes (AKS),28.0,2.71
+2024-12,C1178,Gaming,Pay-As-You-Go,East US,Blob Storage,151.4,3.28
+2024-09,C1034,Educacion,Pay-As-You-Go,North Europe,Cognitive Services,159.1,279.65
+2024-01,C1179,Salud,Pay-As-You-Go,West US 2,Azure SQL,247.2,80.05
+2024-04,C1104,Gaming,Enterprise,East US,Kubernetes (AKS),833.9,84.26
+2024-08,C1031,Retail,Enterprise,West Europe,Cognitive Services,2882.8,4958.53
+2024-06,C1047,Retail,Free,North Europe,Blob Storage,97.0,1.95
+2024-03,C1079,Gaming,Pay-As-You-Go,North Europe,Cognitive Services,197.9,314.94
+2024-05,C1100,Industria,Enterprise,North Europe,Kubernetes (AKS),2095.0,217.42
+2024-04,C1001,Salud,Enterprise,Brazil South,Functions,1084.4,0.03
+2024-09,C1140,Gaming,Free,East US,Functions,55.0,0.0
+2024-10,C1176,Gaming,Pay-As-You-Go,North Europe,Virtual Machines,158.1,21.73
+2024-05,C1031,Retail,Enterprise,West US 2,Cognitive Services,595.2,884.14
+2024-11,C1204,Retail,Pay-As-You-Go,East US,Functions,59.4,0.0
+2024-07,C1199,Educacion,Enterprise,North Europe,Cosmos DB,2302.5,678.74
+2024-04,C1186,Finanzas,Pay-As-You-Go,Brazil South,Cognitive Services,89.1,154.99
+2024-06,C1087,Retail,Pay-As-You-Go,Southeast Asia,Virtual Machines,656.2,90.46
+2024-12,C1027,Gaming,Pay-As-You-Go,North Europe,Functions,169.6,0.0
+2024-02,C1081,Finanzas,Pay-As-You-Go,East US,Cosmos DB,1089.8,289.66
+2024-05,C1086,Finanzas,Pay-As-You-Go,West Europe,Blob Storage,87.0,2.07
+2024-09,C1197,Gaming,Free,North Europe,Cognitive Services,75.9,135.19
+2024-06,C1045,Salud,Enterprise,North Europe,Cognitive Services,825.9,1313.2
+2024-12,C1028,Gaming,Pay-As-You-Go,East US,Virtual Machines,201.5,26.38
+2024-06,C1175,Industria,Pay-As-You-Go,North Europe,Kubernetes (AKS),408.7,44.89
+2024-05,C1110,Finanzas,Pay-As-You-Go,North Europe,Cognitive Services,192.6,331.99
+2024-02,C1201,Retail,Pay-As-You-Go,North Europe,Blob Storage,262.3,5.29
+2024-12,C1219,Educacion,Free,East US,Cosmos DB,83.4,21.1
+2024-06,C1066,Industria,Pay-As-You-Go,Southeast Asia,Blob Storage,40.3,0.9
+2024-08,C1031,Retail,Enterprise,West US 2,Cognitive Services,1022.5,1468.04
+2024-09,C1034,Educacion,Pay-As-You-Go,Brazil South,Cosmos DB,381.2,116.07
+2024-08,C1181,Retail,Pay-As-You-Go,West US 2,Blob Storage,187.9,4.13
+2024-08,C1199,Educacion,Enterprise,North Europe,Kubernetes (AKS),987.7,115.28
+2024-12,C1211,Salud,Enterprise,West US 2,Blob Storage,520.3,10.51
+2024-01,C1146,Industria,Pay-As-You-Go,East US,Kubernetes (AKS),196.6,21.43
+2024-07,C1039,Gaming,Pay-As-You-Go,Brazil South,Cosmos DB,245.7,79.41
+2024-06,C1115,Salud,Enterprise,West US 2,Cosmos DB,1039.8,264.77
+2024-10,C1039,Gaming,Pay-As-You-Go,East US,Functions,354.8,0.01
+2024-03,C1037,Retail,Pay-As-You-Go,North Europe,Cosmos DB,107.3,31.29
+2024-07,C1041,Industria,Free,Southeast Asia,Functions,62.2,0.0
+2024-06,C1172,Gaming,Free,Brazil South,Kubernetes (AKS),165.7,21.05
+2024-03,C1087,Retail,Pay-As-You-Go,Brazil South,Cognitive Services,216.2,411.44
+2024-09,C1098,Finanzas,Pay-As-You-Go,West Europe,Blob Storage,115.6,2.74
+2024-10,C1126,Finanzas,Free,Brazil South,Kubernetes (AKS),33.3,4.36
+2024-09,C1017,Gaming,Pay-As-You-Go,East US,Virtual Machines,276.5,35.89
+2024-03,C1094,Salud,Pay-As-You-Go,East US,Cosmos DB,627.4,156.93
+2024-10,C1151,Retail,Pay-As-You-Go,East US,Kubernetes (AKS),951.0,100.82
+2024-03,C1085,Industria,Pay-As-You-Go,West Europe,Kubernetes (AKS),211.9,22.64
+2024-09,C1001,Salud,Enterprise,West US 2,Cognitive Services,93.8,131.24
+2024-08,C1037,Retail,Pay-As-You-Go,West Europe,Azure SQL,207.7,67.52
+2024-02,C1119,Gaming,Enterprise,West US 2,Cosmos DB,577.4,161.05
+2024-05,C1147,Industria,Pay-As-You-Go,West Europe,Functions,321.8,0.01
+2024-10,C1162,Gaming,Pay-As-You-Go,West US 2,Functions,160.2,0.0
+2024-09,C1002,Industria,Pay-As-You-Go,West Europe,Functions,480.1,0.01
+2024-09,C1011,Industria,Pay-As-You-Go,East US,Azure SQL,82.4,23.16
+2024-12,C1093,Gaming,Free,West US 2,Blob Storage,52.8,1.09
+2024-04,C1049,Retail,Free,Brazil South,Virtual Machines,89.2,11.82
+2024-05,C1110,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,201.0,5.02
+2024-10,C1054,Educacion,Enterprise,East US,Virtual Machines,711.7,90.19
+2024-02,C1020,Retail,Enterprise,Brazil South,Functions,1168.6,0.03
+2024-09,C1163,Finanzas,Pay-As-You-Go,Southeast Asia,Virtual Machines,92.1,12.22
+2024-02,C1105,Retail,Enterprise,Brazil South,Kubernetes (AKS),1022.8,117.15
+2024-11,C1137,Gaming,Pay-As-You-Go,Southeast Asia,Cognitive Services,238.3,386.87
+2024-12,C1061,Gaming,Enterprise,West US 2,Cosmos DB,612.0,147.63
+2024-02,C1045,Salud,Enterprise,East US,Kubernetes (AKS),1797.8,195.63
+2024-01,C1096,Gaming,Enterprise,Brazil South,Cosmos DB,65.0,19.91
+2024-02,C1123,Educacion,Pay-As-You-Go,Brazil South,Cognitive Services,213.1,400.72
+2024-07,C1150,Finanzas,Pay-As-You-Go,East US,Azure SQL,104.3,33.87
+2024-08,C1001,Salud,Enterprise,North Europe,Cosmos DB,712.6,211.56
+2024-08,C1189,Educacion,Free,Brazil South,Cosmos DB,103.1,29.58
+2024-06,C1191,Industria,Pay-As-You-Go,West Europe,Azure SQL,402.1,128.46
+2024-10,C1029,Educacion,Pay-As-You-Go,Southeast Asia,Cosmos DB,352.8,94.53
+2024-05,C1195,Salud,Enterprise,North Europe,Kubernetes (AKS),1708.9,189.99
+2024-08,C1130,Finanzas,Pay-As-You-Go,North Europe,Cognitive Services,566.8,1001.72
+2024-02,C1125,Industria,Pay-As-You-Go,Southeast Asia,Blob Storage,58.6,1.14
+2024-09,C1215,Industria,Pay-As-You-Go,East US,Cosmos DB,358.8,90.54
+2024-07,C1041,Industria,Free,North Europe,Functions,178.8,0.0
+2024-04,C1020,Retail,Enterprise,Southeast Asia,Kubernetes (AKS),102.3,10.25
+2024-03,C1136,Industria,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),399.0,41.51
+2024-05,C1050,Educacion,Pay-As-You-Go,East US,Kubernetes (AKS),95.9,10.22
+2024-10,C1080,Salud,Pay-As-You-Go,North Europe,Blob Storage,247.2,5.37
+2024-05,C1015,Educacion,Free,West Europe,Azure SQL,24.2,8.27
+2024-12,C1127,Educacion,Pay-As-You-Go,North Europe,Functions,652.6,0.01
+2024-03,C1213,Gaming,Free,North Europe,Azure SQL,20.4,7.17
+2024-04,C1167,Gaming,Pay-As-You-Go,East US,Kubernetes (AKS),362.8,37.58
+2024-01,C1034,Educacion,Pay-As-You-Go,East US,Cognitive Services,86.4,125.47
+2024-03,C1200,Gaming,Free,North Europe,Kubernetes (AKS),85.1,9.59
+2024-08,C1154,Educacion,Pay-As-You-Go,North Europe,Cognitive Services,423.5,688.12
+2024-07,C1098,Finanzas,Pay-As-You-Go,Southeast Asia,Blob Storage,97.0,2.2
+2024-12,C1188,Finanzas,Pay-As-You-Go,West Europe,Azure SQL,314.1,100.92
+2024-04,C1092,Educacion,Pay-As-You-Go,West US 2,Kubernetes (AKS),680.0,74.13
+2024-11,C1028,Gaming,Pay-As-You-Go,North Europe,Blob Storage,571.5,12.55
+2024-01,C1005,Gaming,Free,West Europe,Kubernetes (AKS),12.8,1.38
+2024-06,C1184,Retail,Free,Brazil South,Cosmos DB,39.1,11.9
+2024-11,C1014,Gaming,Pay-As-You-Go,North Europe,Cosmos DB,370.6,106.75
+2024-09,C1127,Educacion,Pay-As-You-Go,West US 2,Kubernetes (AKS),76.7,7.75
+2024-11,C1084,Retail,Enterprise,East US,Functions,259.2,0.01
+2024-02,C1187,Finanzas,Pay-As-You-Go,Brazil South,Cognitive Services,386.7,663.9
+2024-04,C1099,Salud,Pay-As-You-Go,West Europe,Cognitive Services,390.9,706.64
+2024-02,C1199,Educacion,Enterprise,West Europe,Virtual Machines,1430.0,181.48
+2024-10,C1046,Salud,Free,Brazil South,Cognitive Services,60.6,116.35
+2024-05,C1153,Educacion,Free,Southeast Asia,Azure SQL,31.7,10.52
+2024-07,C1124,Educacion,Pay-As-You-Go,Southeast Asia,Blob Storage,641.3,12.77
+2024-06,C1124,Educacion,Pay-As-You-Go,West US 2,Functions,80.2,0.0
+2024-01,C1161,Finanzas,Pay-As-You-Go,East US,Azure SQL,264.5,71.94
+2024-12,C1201,Retail,Pay-As-You-Go,West US 2,Azure SQL,431.6,142.56
+2024-02,C1005,Gaming,Free,East US,Virtual Machines,82.2,10.46
+2024-08,C1095,Educacion,Pay-As-You-Go,West Europe,Azure SQL,163.3,58.12
+2024-09,C1116,Salud,Enterprise,Brazil South,Cognitive Services,1304.9,2510.29
+2024-07,C1121,Educacion,Enterprise,North Europe,Kubernetes (AKS),4377.0,458.18
+2024-04,C1183,Salud,Pay-As-You-Go,East US,Kubernetes (AKS),226.6,22.58
+2024-03,C1200,Gaming,Free,Southeast Asia,Virtual Machines,16.9,2.09
+2024-01,C1177,Gaming,Enterprise,West US 2,Cosmos DB,995.2,231.77
+2024-07,C1213,Gaming,Free,West Europe,Functions,30.7,0.0
+2024-02,C1217,Retail,Pay-As-You-Go,North Europe,Cognitive Services,1245.6,2180.19
+2024-03,C1205,Industria,Enterprise,East US,Cosmos DB,932.5,226.97
+2024-12,C1212,Gaming,Pay-As-You-Go,West Europe,Blob Storage,86.7,1.88
+2024-03,C1168,Educacion,Pay-As-You-Go,Brazil South,Cognitive Services,262.1,482.43
+2024-12,C1061,Gaming,Enterprise,West Europe,Azure SQL,1613.9,502.33
+2024-09,C1196,Finanzas,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),359.1,35.73
+2024-04,C1134,Salud,Enterprise,Brazil South,Cognitive Services,34.2,60.79
+2024-12,C1022,Retail,Pay-As-You-Go,Brazil South,Cosmos DB,444.9,135.74
+2024-07,C1110,Finanzas,Pay-As-You-Go,Southeast Asia,Cosmos DB,349.5,90.91
+2024-03,C1040,Finanzas,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),49.5,5.72
+2024-04,C1218,Industria,Free,West Europe,Kubernetes (AKS),19.8,2.22
+2024-12,C1068,Gaming,Pay-As-You-Go,West US 2,Azure SQL,227.6,67.37
+2024-03,C1130,Finanzas,Pay-As-You-Go,Southeast Asia,Functions,119.3,0.0
+2024-04,C1213,Gaming,Free,Southeast Asia,Azure SQL,23.5,7.06
+2024-02,C1031,Retail,Enterprise,Brazil South,Blob Storage,1927.0,42.84
+2024-01,C1032,Retail,Pay-As-You-Go,East US,Cosmos DB,321.9,84.49
+2024-05,C1133,Educacion,Enterprise,Brazil South,Functions,76.6,0.0
+2024-02,C1114,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,75.3,1.93
+2024-11,C1020,Retail,Enterprise,North Europe,Cognitive Services,966.6,1719.67
+2024-11,C1124,Educacion,Pay-As-You-Go,Brazil South,Cosmos DB,303.3,87.73
+2024-08,C1204,Retail,Pay-As-You-Go,Southeast Asia,Cognitive Services,393.9,646.47
+2024-11,C1036,Industria,Pay-As-You-Go,West Europe,Cosmos DB,32.8,8.39
+2024-02,C1071,Gaming,Pay-As-You-Go,Brazil South,Kubernetes (AKS),220.5,23.91
+2024-02,C1000,Gaming,Enterprise,North Europe,Blob Storage,1681.5,39.72
+2024-06,C1212,Gaming,Pay-As-You-Go,Brazil South,Functions,326.0,0.01
+2024-02,C1087,Retail,Pay-As-You-Go,West US 2,Azure SQL,227.7,68.22
+2024-05,C1021,Gaming,Pay-As-You-Go,East US,Azure SQL,144.2,43.88
+2024-10,C1100,Industria,Enterprise,East US,Kubernetes (AKS),403.2,42.38
+2024-12,C1041,Industria,Free,East US,Kubernetes (AKS),54.1,5.66
+2024-08,C1068,Gaming,Pay-As-You-Go,West US 2,Cognitive Services,956.3,1378.79
+2024-04,C1196,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,215.1,67.27
+2024-08,C1163,Finanzas,Pay-As-You-Go,Southeast Asia,Functions,493.0,0.01
+2024-01,C1088,Educacion,Free,Brazil South,Blob Storage,60.3,1.43
+2024-11,C1041,Industria,Free,East US,Functions,112.2,0.0
+2024-05,C1103,Salud,Pay-As-You-Go,East US,Azure SQL,44.1,12.48
+2024-07,C1184,Retail,Free,North Europe,Cosmos DB,182.1,47.04
+2024-06,C1042,Finanzas,Enterprise,West Europe,Kubernetes (AKS),2962.6,321.65
+2024-07,C1126,Finanzas,Free,Southeast Asia,Virtual Machines,58.7,8.34
+2024-02,C1049,Retail,Free,North Europe,Azure SQL,158.8,53.7
+2024-06,C1129,Salud,Pay-As-You-Go,East US,Cognitive Services,531.4,725.43
+2024-02,C1062,Industria,Pay-As-You-Go,East US,Virtual Machines,480.8,61.97
+2024-02,C1133,Educacion,Enterprise,Southeast Asia,Cognitive Services,564.8,823.67
+2024-02,C1003,Salud,Free,Brazil South,Functions,101.6,0.0
+2024-11,C1208,Finanzas,Pay-As-You-Go,Southeast Asia,Virtual Machines,264.9,34.22
+2024-02,C1116,Salud,Enterprise,West Europe,Functions,672.8,0.01
+2024-10,C1215,Industria,Pay-As-You-Go,West US 2,Cosmos DB,555.8,155.13
+2024-08,C1088,Educacion,Free,West Europe,Kubernetes (AKS),26.8,3.16
+2024-02,C1011,Industria,Pay-As-You-Go,East US,Functions,193.0,0.0
+2024-01,C1068,Gaming,Pay-As-You-Go,Brazil South,Blob Storage,25.3,0.58
+2024-06,C1107,Finanzas,Pay-As-You-Go,West Europe,Azure SQL,90.3,29.04
+2024-01,C1214,Industria,Pay-As-You-Go,West Europe,Virtual Machines,303.2,38.86
+2024-01,C1190,Finanzas,Pay-As-You-Go,North Europe,Blob Storage,40.7,0.89
+2024-05,C1140,Gaming,Free,East US,Cosmos DB,74.4,18.99
+2024-08,C1041,Industria,Free,North Europe,Cosmos DB,47.4,13.23
+2024-11,C1068,Gaming,Pay-As-You-Go,East US,Virtual Machines,180.3,23.68
+2024-12,C1208,Finanzas,Pay-As-You-Go,Southeast Asia,Cognitive Services,273.3,445.18
+2024-04,C1215,Industria,Pay-As-You-Go,North Europe,Blob Storage,211.9,4.68
+2024-04,C1105,Retail,Enterprise,West Europe,Virtual Machines,598.6,88.2
+2024-08,C1061,Gaming,Enterprise,North Europe,Virtual Machines,1109.9,148.09
+2024-08,C1096,Gaming,Enterprise,East US,Kubernetes (AKS),1596.5,170.17
+2024-01,C1177,Gaming,Enterprise,North Europe,Kubernetes (AKS),249.0,24.83
+2024-09,C1069,Gaming,Enterprise,North Europe,Virtual Machines,302.8,37.04
+2024-10,C1103,Salud,Pay-As-You-Go,Southeast Asia,Virtual Machines,176.5,24.43
+2024-01,C1093,Gaming,Free,East US,Cognitive Services,129.2,203.33
+2024-08,C1208,Finanzas,Pay-As-You-Go,West Europe,Virtual Machines,264.3,38.6
+2024-11,C1058,Retail,Free,East US,Kubernetes (AKS),119.4,12.96
+2024-03,C1011,Industria,Pay-As-You-Go,Southeast Asia,Azure SQL,263.8,91.14
+2024-05,C1138,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,365.4,8.95
+2024-07,C1092,Educacion,Pay-As-You-Go,West US 2,Kubernetes (AKS),230.0,24.95
+2024-11,C1073,Finanzas,Pay-As-You-Go,East US,Azure SQL,217.7,64.09
+2024-04,C1196,Finanzas,Pay-As-You-Go,Southeast Asia,Virtual Machines,466.5,63.09
+2024-06,C1161,Finanzas,Pay-As-You-Go,North Europe,Blob Storage,23.7,0.56
+2024-06,C1170,Industria,Enterprise,Brazil South,Cosmos DB,1978.8,639.48
+2024-11,C1156,Retail,Enterprise,North Europe,Virtual Machines,2190.0,273.36
+2024-04,C1012,Finanzas,Pay-As-You-Go,East US,Virtual Machines,258.0,33.04
+2024-03,C1177,Gaming,Enterprise,East US,Functions,277.8,0.01
+2024-01,C1052,Educacion,Enterprise,Southeast Asia,Azure SQL,121.5,40.89
+2024-08,C1215,Industria,Pay-As-You-Go,Southeast Asia,Functions,93.1,0.0
+2024-02,C1149,Industria,Pay-As-You-Go,West US 2,Cosmos DB,137.2,34.36
+2024-04,C1156,Retail,Enterprise,North Europe,Virtual Machines,2236.9,275.6
+2024-04,C1022,Retail,Pay-As-You-Go,West Europe,Azure SQL,21.8,6.63
+2024-05,C1177,Gaming,Enterprise,West Europe,Kubernetes (AKS),560.5,64.15
+2024-02,C1159,Industria,Pay-As-You-Go,Brazil South,Cognitive Services,240.9,451.18
+2024-01,C1190,Finanzas,Pay-As-You-Go,East US,Kubernetes (AKS),261.3,27.71
+2024-11,C1088,Educacion,Free,North Europe,Azure SQL,234.0,81.78
+2024-10,C1066,Industria,Pay-As-You-Go,Southeast Asia,Cognitive Services,344.2,514.95
+2024-03,C1031,Retail,Enterprise,North Europe,Virtual Machines,412.2,54.25
+2024-11,C1190,Finanzas,Pay-As-You-Go,West Europe,Cognitive Services,305.4,494.85
+2024-08,C1068,Gaming,Pay-As-You-Go,West Europe,Functions,516.6,0.01
+2024-05,C1133,Educacion,Enterprise,Brazil South,Virtual Machines,185.2,25.74
+2024-01,C1065,Gaming,Enterprise,North Europe,Kubernetes (AKS),869.1,101.74
+2024-11,C1137,Gaming,Pay-As-You-Go,East US,Cognitive Services,289.5,419.74
+2024-03,C1172,Gaming,Free,East US,Kubernetes (AKS),54.8,5.86
+2024-10,C1193,Industria,Pay-As-You-Go,Brazil South,Virtual Machines,469.0,65.19
+2024-07,C1079,Gaming,Pay-As-You-Go,East US,Kubernetes (AKS),295.1,29.52
+2024-09,C1079,Gaming,Pay-As-You-Go,Southeast Asia,Cognitive Services,162.1,265.32
+2024-12,C1083,Gaming,Pay-As-You-Go,Southeast Asia,Azure SQL,254.3,82.9
+2024-03,C1007,Retail,Enterprise,Brazil South,Azure SQL,2087.1,754.12
+2024-01,C1084,Retail,Enterprise,West Europe,Cosmos DB,2136.2,646.36
+2024-06,C1117,Educacion,Enterprise,East US,Blob Storage,805.6,16.93
+2024-11,C1036,Industria,Pay-As-You-Go,Southeast Asia,Cognitive Services,575.1,928.84
+2024-09,C1130,Finanzas,Pay-As-You-Go,West Europe,Cognitive Services,220.7,383.12
+2024-08,C1086,Finanzas,Pay-As-You-Go,East US,Virtual Machines,206.7,26.98
+2024-06,C1139,Industria,Pay-As-You-Go,West US 2,Virtual Machines,184.1,20.85
+2024-02,C1019,Industria,Pay-As-You-Go,West Europe,Kubernetes (AKS),296.0,34.65
+2024-08,C1010,Gaming,Pay-As-You-Go,East US,Cognitive Services,147.3,220.5
+2024-04,C1080,Salud,Pay-As-You-Go,Brazil South,Kubernetes (AKS),210.1,25.37
+2024-06,C1075,Finanzas,Pay-As-You-Go,West Europe,Cognitive Services,405.5,646.67
+2024-07,C1027,Gaming,Pay-As-You-Go,East US,Azure SQL,151.7,45.56
+2024-11,C1174,Industria,Pay-As-You-Go,West US 2,Blob Storage,292.8,6.29
+2024-06,C1117,Educacion,Enterprise,West US 2,Blob Storage,838.0,16.11
+2024-04,C1146,Industria,Pay-As-You-Go,Southeast Asia,Cognitive Services,302.4,526.14
+2024-07,C1102,Salud,Enterprise,West US 2,Cognitive Services,759.1,1223.18
+2024-05,C1115,Salud,Enterprise,Brazil South,Cognitive Services,310.6,602.25
+2024-01,C1052,Educacion,Enterprise,West Europe,Cognitive Services,391.9,647.7
+2024-04,C1205,Industria,Enterprise,West Europe,Azure SQL,5189.9,1779.42
+2024-12,C1122,Finanzas,Free,West US 2,Cosmos DB,19.3,4.46
+2024-08,C1029,Educacion,Pay-As-You-Go,East US,Functions,262.0,0.01
+2024-05,C1193,Industria,Pay-As-You-Go,West US 2,Blob Storage,68.8,1.52
+2024-12,C1146,Industria,Pay-As-You-Go,North Europe,Azure SQL,100.7,35.52
+2024-01,C1034,Educacion,Pay-As-You-Go,North Europe,Cognitive Services,445.7,712.89
+2024-07,C1077,Finanzas,Pay-As-You-Go,West US 2,Virtual Machines,480.5,58.9
+2024-10,C1209,Industria,Pay-As-You-Go,West Europe,Cosmos DB,302.6,87.81
+2024-12,C1039,Gaming,Pay-As-You-Go,West US 2,Virtual Machines,248.9,32.79
+2024-07,C1206,Gaming,Pay-As-You-Go,Brazil South,Cognitive Services,562.6,971.29
+2024-04,C1115,Salud,Enterprise,West US 2,Cognitive Services,1431.2,2396.92
+2024-01,C1008,Educacion,Pay-As-You-Go,West Europe,Blob Storage,735.0,15.15
+2024-04,C1123,Educacion,Pay-As-You-Go,West Europe,Virtual Machines,204.1,29.57
+2024-03,C1219,Educacion,Free,East US,Virtual Machines,42.3,5.05
+2024-06,C1172,Gaming,Free,North Europe,Blob Storage,37.6,0.86
+2024-10,C1183,Salud,Pay-As-You-Go,West US 2,Virtual Machines,600.2,72.73
+2024-12,C1202,Gaming,Pay-As-You-Go,West US 2,Virtual Machines,212.8,25.27
+2024-06,C1141,Finanzas,Free,Brazil South,Functions,36.8,0.0
+2024-07,C1015,Educacion,Free,West Europe,Blob Storage,24.0,0.49
+2024-02,C1021,Gaming,Pay-As-You-Go,North Europe,Kubernetes (AKS),173.1,19.83
+2024-08,C1153,Educacion,Free,North Europe,Cosmos DB,24.2,7.09
+2024-10,C1137,Gaming,Pay-As-You-Go,North Europe,Virtual Machines,288.7,37.18
+2024-03,C1024,Gaming,Pay-As-You-Go,East US,Blob Storage,600.2,11.56
+2024-03,C1196,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,272.6,93.5
+2024-12,C1164,Gaming,Pay-As-You-Go,East US,Functions,1265.7,0.03
+2024-09,C1001,Salud,Enterprise,Brazil South,Kubernetes (AKS),481.7,61.86
+2024-05,C1167,Gaming,Pay-As-You-Go,West US 2,Azure SQL,1350.9,431.44
+2024-09,C1086,Finanzas,Pay-As-You-Go,Brazil South,Virtual Machines,187.4,27.89
+2024-07,C1188,Finanzas,Pay-As-You-Go,West US 2,Azure SQL,118.2,37.46
+2024-11,C1012,Finanzas,Pay-As-You-Go,West Europe,Kubernetes (AKS),254.9,25.8
+2024-07,C1077,Finanzas,Pay-As-You-Go,Brazil South,Azure SQL,219.3,72.73
+2024-09,C1010,Gaming,Pay-As-You-Go,East US,Cognitive Services,55.2,83.91
+2024-05,C1144,Educacion,Pay-As-You-Go,East US,Cosmos DB,337.8,90.83
+2024-01,C1143,Industria,Pay-As-You-Go,East US,Cognitive Services,223.3,323.94
+2024-03,C1218,Industria,Free,Southeast Asia,Cognitive Services,106.5,170.7
+2024-11,C1097,Educacion,Pay-As-You-Go,Brazil South,Blob Storage,47.7,1.07
+2024-03,C1100,Industria,Enterprise,Brazil South,Kubernetes (AKS),674.3,74.18
+2024-04,C1135,Salud,Pay-As-You-Go,Brazil South,Cognitive Services,129.5,222.2
+2024-04,C1020,Retail,Enterprise,West US 2,Cosmos DB,1334.0,369.33
+2024-02,C1022,Retail,Pay-As-You-Go,West US 2,Azure SQL,222.1,61.24
+2024-08,C1186,Finanzas,Pay-As-You-Go,Southeast Asia,Functions,185.1,0.0
+2024-10,C1166,Gaming,Enterprise,North Europe,Virtual Machines,1409.3,170.81
+2024-09,C1069,Gaming,Enterprise,West Europe,Cosmos DB,1060.0,269.42
+2024-12,C1145,Finanzas,Enterprise,East US,Virtual Machines,1356.7,163.32
+2024-01,C1147,Industria,Pay-As-You-Go,Brazil South,Cosmos DB,58.6,19.33
+2024-09,C1161,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,289.0,89.82
+2024-09,C1055,Industria,Pay-As-You-Go,East US,Azure SQL,250.0,76.23
+2024-06,C1167,Gaming,Pay-As-You-Go,East US,Blob Storage,404.3,7.34
+2024-08,C1118,Gaming,Free,Brazil South,Blob Storage,63.9,1.5
+2024-02,C1006,Salud,Free,Southeast Asia,Functions,48.4,0.0
+2024-11,C1015,Educacion,Free,West US 2,Cosmos DB,41.7,10.8
+2024-12,C1154,Educacion,Pay-As-You-Go,East US,Blob Storage,473.0,9.5
+2024-07,C1187,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,48.1,1.27
+2024-05,C1074,Finanzas,Enterprise,Southeast Asia,Blob Storage,756.6,17.46
+2024-06,C1111,Finanzas,Pay-As-You-Go,East US,Cognitive Services,34.6,54.23
+2024-11,C1169,Retail,Pay-As-You-Go,West US 2,Functions,342.3,0.01
+2024-04,C1112,Educacion,Enterprise,Southeast Asia,Cognitive Services,176.1,292.25
+2024-05,C1038,Retail,Enterprise,East US,Cosmos DB,694.7,179.82
+2024-07,C1079,Gaming,Pay-As-You-Go,West US 2,Cosmos DB,541.7,141.8
+2024-05,C1194,Salud,Pay-As-You-Go,North Europe,Blob Storage,410.3,8.17
+2024-06,C1133,Educacion,Enterprise,West US 2,Azure SQL,3404.9,1052.87
+2024-09,C1215,Industria,Pay-As-You-Go,North Europe,Cognitive Services,203.6,350.72
+2024-12,C1206,Gaming,Pay-As-You-Go,West US 2,Cosmos DB,85.7,19.86
+2024-07,C1196,Finanzas,Pay-As-You-Go,East US,Azure SQL,273.9,80.23
+2024-01,C1114,Finanzas,Pay-As-You-Go,West US 2,Blob Storage,55.8,1.19
+2024-06,C1026,Salud,Enterprise,Southeast Asia,Kubernetes (AKS),1533.6,178.59
+2024-09,C1160,Retail,Enterprise,East US,Azure SQL,1967.2,555.25
+2024-07,C1104,Gaming,Enterprise,East US,Kubernetes (AKS),731.7,77.05
+2024-01,C1080,Salud,Pay-As-You-Go,Southeast Asia,Cosmos DB,43.0,11.23
+2024-06,C1036,Industria,Pay-As-You-Go,North Europe,Azure SQL,371.4,117.11
+2024-06,C1219,Educacion,Free,Brazil South,Functions,48.8,0.0
+2024-03,C1075,Finanzas,Pay-As-You-Go,East US,Cosmos DB,1215.1,283.41
+2024-03,C1006,Salud,Free,North Europe,Azure SQL,14.4,5.19
+2024-06,C1155,Salud,Pay-As-You-Go,East US,Azure SQL,92.2,28.32
+2024-08,C1053,Finanzas,Pay-As-You-Go,North Europe,Virtual Machines,245.7,33.15
+2024-07,C1109,Gaming,Pay-As-You-Go,Brazil South,Virtual Machines,500.1,67.99
+2024-07,C1184,Retail,Free,North Europe,Cognitive Services,18.0,28.97
+2024-01,C1011,Industria,Pay-As-You-Go,Brazil South,Blob Storage,235.4,5.65
+2024-11,C1057,Finanzas,Enterprise,East US,Virtual Machines,459.6,49.69
+2024-08,C1152,Educacion,Pay-As-You-Go,North Europe,Kubernetes (AKS),78.0,8.02
+2024-08,C1031,Retail,Enterprise,North Europe,Virtual Machines,396.6,48.35
+2024-07,C1000,Gaming,Enterprise,West Europe,Cognitive Services,1426.1,2312.32
+2024-12,C1020,Retail,Enterprise,West Europe,Blob Storage,443.5,9.84
+2024-01,C1095,Educacion,Pay-As-You-Go,Brazil South,Cognitive Services,55.1,103.94
+2024-09,C1163,Finanzas,Pay-As-You-Go,Southeast Asia,Virtual Machines,137.5,19.13
+2024-11,C1064,Salud,Pay-As-You-Go,East US,Azure SQL,345.6,100.58
+2024-03,C1210,Retail,Free,West Europe,Blob Storage,113.6,2.54
+2024-11,C1012,Finanzas,Pay-As-You-Go,North Europe,Azure SQL,527.4,160.15
+2024-12,C1067,Industria,Enterprise,East US,Azure SQL,1446.3,448.23
+2024-04,C1203,Educacion,Pay-As-You-Go,West US 2,Azure SQL,481.3,133.8
+2024-09,C1067,Industria,Enterprise,Brazil South,Cosmos DB,398.6,123.04
+2024-09,C1210,Retail,Free,Southeast Asia,Cognitive Services,115.2,189.86
+2024-07,C1089,Finanzas,Pay-As-You-Go,Brazil South,Functions,562.8,0.01
+2024-11,C1168,Educacion,Pay-As-You-Go,Brazil South,Azure SQL,189.5,67.38
+2024-03,C1070,Salud,Pay-As-You-Go,West US 2,Kubernetes (AKS),178.4,16.61
+2024-10,C1105,Retail,Enterprise,West Europe,Cosmos DB,3117.2,796.86
+2024-03,C1080,Salud,Pay-As-You-Go,West US 2,Azure SQL,178.5,54.2
+2024-02,C1089,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,470.1,11.65
+2024-05,C1168,Educacion,Pay-As-You-Go,North Europe,Azure SQL,528.1,163.24
+2024-01,C1217,Retail,Pay-As-You-Go,Brazil South,Kubernetes (AKS),154.3,19.43
+2024-12,C1040,Finanzas,Pay-As-You-Go,West US 2,Cognitive Services,369.3,620.43
+2024-06,C1153,Educacion,Free,West Europe,Azure SQL,89.5,32.16
+2024-07,C1082,Educacion,Enterprise,East US,Blob Storage,1520.1,32.01
+2024-09,C1208,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,1103.3,25.64
+2024-04,C1174,Industria,Pay-As-You-Go,Brazil South,Kubernetes (AKS),202.5,25.31
+2024-08,C1160,Retail,Enterprise,Brazil South,Functions,2949.9,0.07
+2024-06,C1191,Industria,Pay-As-You-Go,Brazil South,Azure SQL,205.2,70.81
+2024-04,C1037,Retail,Pay-As-You-Go,West Europe,Functions,211.6,0.0
+2024-05,C1111,Finanzas,Pay-As-You-Go,West US 2,Cognitive Services,348.6,532.96
+2024-03,C1209,Industria,Pay-As-You-Go,North Europe,Azure SQL,463.2,164.54
+2024-01,C1172,Gaming,Free,West US 2,Functions,23.9,0.0
+2024-06,C1004,Salud,Enterprise,North Europe,Blob Storage,1216.1,27.58
+2024-01,C1132,Educacion,Pay-As-You-Go,Brazil South,Cosmos DB,339.0,100.08
+2024-08,C1025,Gaming,Pay-As-You-Go,West US 2,Virtual Machines,119.6,14.33
+2024-07,C1129,Salud,Pay-As-You-Go,West US 2,Virtual Machines,839.3,100.0
+2024-11,C1042,Finanzas,Enterprise,West US 2,Virtual Machines,445.5,53.09
+2024-04,C1108,Educacion,Pay-As-You-Go,West Europe,Azure SQL,166.5,54.18
+2024-08,C1007,Retail,Enterprise,Southeast Asia,Blob Storage,1187.6,24.41
+2024-05,C1045,Salud,Enterprise,Brazil South,Blob Storage,921.2,20.35
+2024-07,C1088,Educacion,Free,Brazil South,Functions,78.4,0.0
+2024-09,C1105,Retail,Enterprise,West US 2,Cosmos DB,1555.6,357.57
+2024-02,C1196,Finanzas,Pay-As-You-Go,West US 2,Functions,146.9,0.0
+2024-10,C1185,Industria,Free,Brazil South,Functions,23.1,0.0
+2024-07,C1014,Gaming,Pay-As-You-Go,West US 2,Cognitive Services,117.8,176.09
+2024-04,C1057,Finanzas,Enterprise,West US 2,Blob Storage,1630.1,30.11
+2024-02,C1159,Industria,Pay-As-You-Go,West US 2,Azure SQL,373.9,106.65
+2024-08,C1110,Finanzas,Pay-As-You-Go,Southeast Asia,Functions,56.1,0.0
+2024-07,C1216,Finanzas,Enterprise,West US 2,Functions,729.2,0.01
+2024-06,C1081,Finanzas,Pay-As-You-Go,Brazil South,Cosmos DB,286.8,82.64
+2024-06,C1145,Finanzas,Enterprise,East US,Kubernetes (AKS),471.9,49.77
+2024-05,C1063,Industria,Pay-As-You-Go,West US 2,Functions,973.0,0.02
+2024-12,C1001,Salud,Enterprise,West US 2,Blob Storage,994.0,21.53
+2024-01,C1166,Gaming,Enterprise,Southeast Asia,Virtual Machines,1235.2,174.88
+2024-02,C1025,Gaming,Pay-As-You-Go,Brazil South,Functions,273.1,0.01
+2024-08,C1056,Educacion,Pay-As-You-Go,North Europe,Kubernetes (AKS),50.8,5.25
+2024-08,C1209,Industria,Pay-As-You-Go,Brazil South,Functions,866.5,0.02
+2024-12,C1183,Salud,Pay-As-You-Go,East US,Kubernetes (AKS),157.6,14.21
+2024-02,C1023,Industria,Pay-As-You-Go,West US 2,Kubernetes (AKS),324.5,32.25
+2024-10,C1213,Gaming,Free,Southeast Asia,Cosmos DB,56.1,15.36
+2024-08,C1158,Educacion,Pay-As-You-Go,North Europe,Cognitive Services,187.0,286.27
+2024-12,C1174,Industria,Pay-As-You-Go,Southeast Asia,Virtual Machines,702.1,97.71
+2024-11,C1032,Retail,Pay-As-You-Go,Southeast Asia,Blob Storage,378.7,8.57
+2024-05,C1050,Educacion,Pay-As-You-Go,North Europe,Functions,542.4,0.01
+2024-02,C1103,Salud,Pay-As-You-Go,West US 2,Azure SQL,373.0,103.45
+2024-03,C1074,Finanzas,Enterprise,Brazil South,Azure SQL,429.8,166.68
+2024-04,C1194,Salud,Pay-As-You-Go,Southeast Asia,Cognitive Services,168.3,287.43
+2024-11,C1151,Retail,Pay-As-You-Go,Southeast Asia,Cognitive Services,244.8,376.14
+2024-11,C1008,Educacion,Pay-As-You-Go,West US 2,Kubernetes (AKS),128.4,12.53
+2024-10,C1029,Educacion,Pay-As-You-Go,East US,Cosmos DB,460.5,122.74
+2024-05,C1147,Industria,Pay-As-You-Go,North Europe,Cognitive Services,528.3,839.71
+2024-09,C1076,Educacion,Pay-As-You-Go,West US 2,Cosmos DB,461.1,122.49
+2024-04,C1074,Finanzas,Enterprise,West Europe,Functions,615.1,0.01
+2024-02,C1187,Finanzas,Pay-As-You-Go,Southeast Asia,Functions,181.7,0.0
+2024-10,C1043,Gaming,Pay-As-You-Go,Brazil South,Kubernetes (AKS),129.0,16.3
+2024-01,C1140,Gaming,Free,North Europe,Blob Storage,140.3,3.29
+2024-09,C1052,Educacion,Enterprise,Southeast Asia,Cosmos DB,1615.3,454.88
+2024-05,C1090,Educacion,Free,Southeast Asia,Cosmos DB,36.3,10.39
+2024-06,C1187,Finanzas,Pay-As-You-Go,Southeast Asia,Cosmos DB,167.5,43.78
+2024-10,C1104,Gaming,Enterprise,West US 2,Virtual Machines,974.7,112.17
+2024-09,C1063,Industria,Pay-As-You-Go,Brazil South,Functions,569.2,0.01
+2024-11,C1094,Salud,Pay-As-You-Go,West Europe,Kubernetes (AKS),291.2,34.8
+2024-08,C1067,Industria,Enterprise,West Europe,Cognitive Services,901.4,1457.02
+2024-12,C1011,Industria,Pay-As-You-Go,East US,Azure SQL,318.6,86.74
+2024-03,C1093,Gaming,Free,West Europe,Cosmos DB,73.8,18.94
+2024-07,C1052,Educacion,Enterprise,Brazil South,Blob Storage,3555.0,87.24
+2024-02,C1079,Gaming,Pay-As-You-Go,West US 2,Cognitive Services,204.2,284.95
+2024-01,C1156,Retail,Enterprise,Brazil South,Functions,2585.5,0.06
+2024-04,C1011,Industria,Pay-As-You-Go,Brazil South,Cognitive Services,283.9,544.11
+2024-12,C1029,Educacion,Pay-As-You-Go,North Europe,Blob Storage,170.8,3.84
+2024-02,C1131,Salud,Pay-As-You-Go,East US,Blob Storage,95.9,2.03
+2024-01,C1191,Industria,Pay-As-You-Go,West Europe,Kubernetes (AKS),516.1,57.08
+2024-06,C1101,Gaming,Pay-As-You-Go,West US 2,Azure SQL,444.7,140.81
+2024-09,C1140,Gaming,Free,Southeast Asia,Blob Storage,73.9,1.53
+2024-04,C1199,Educacion,Enterprise,North Europe,Kubernetes (AKS),1601.7,187.11
+2024-11,C1192,Industria,Enterprise,West Europe,Virtual Machines,245.9,32.82
+2024-12,C1165,Educacion,Enterprise,Southeast Asia,Blob Storage,2445.0,52.94
+2024-06,C1159,Industria,Pay-As-You-Go,North Europe,Blob Storage,341.8,7.15
+2024-12,C1058,Retail,Free,Southeast Asia,Kubernetes (AKS),12.1,1.24
+2024-06,C1212,Gaming,Pay-As-You-Go,North Europe,Blob Storage,120.2,2.84
+2024-12,C1167,Gaming,Pay-As-You-Go,West Europe,Azure SQL,140.9,50.57
+2024-10,C1087,Retail,Pay-As-You-Go,East US,Azure SQL,296.5,96.29
+2024-10,C1199,Educacion,Enterprise,Brazil South,Functions,1768.5,0.05
+2024-11,C1204,Retail,Pay-As-You-Go,West US 2,Blob Storage,200.4,4.45
+2024-12,C1193,Industria,Pay-As-You-Go,West US 2,Functions,272.9,0.01
+2024-07,C1036,Industria,Pay-As-You-Go,Southeast Asia,Blob Storage,17.1,0.36
+2024-02,C1149,Industria,Pay-As-You-Go,West Europe,Virtual Machines,289.5,35.47
+2024-08,C1097,Educacion,Pay-As-You-Go,East US,Blob Storage,102.3,1.99
+2024-10,C1102,Salud,Enterprise,Brazil South,Blob Storage,459.4,10.95
+2024-07,C1003,Salud,Free,West US 2,Blob Storage,21.0,0.39
+2024-11,C1122,Finanzas,Free,West US 2,Azure SQL,80.5,25.71
+2024-08,C1057,Finanzas,Enterprise,Southeast Asia,Cosmos DB,267.3,68.91
+2024-08,C1148,Gaming,Enterprise,East US,Functions,1321.4,0.03
+2024-02,C1180,Gaming,Free,North Europe,Blob Storage,40.3,0.93
+2024-11,C1103,Salud,Pay-As-You-Go,West Europe,Cosmos DB,43.8,12.46
+2024-05,C1056,Educacion,Pay-As-You-Go,West Europe,Virtual Machines,295.2,37.26
+2024-10,C1155,Salud,Pay-As-You-Go,East US,Azure SQL,1033.9,324.02
+2024-11,C1042,Finanzas,Enterprise,West US 2,Cognitive Services,1636.4,2286.29
+2024-01,C1195,Salud,Enterprise,West US 2,Kubernetes (AKS),379.9,38.02
+2024-05,C1213,Gaming,Free,West Europe,Cosmos DB,26.2,7.17
+2024-11,C1108,Educacion,Pay-As-You-Go,East US,Functions,168.4,0.0
+2024-10,C1056,Educacion,Pay-As-You-Go,North Europe,Azure SQL,353.8,105.11
+2024-01,C1216,Finanzas,Enterprise,West US 2,Cognitive Services,1063.3,1493.19
+2024-02,C1146,Industria,Pay-As-You-Go,East US,Kubernetes (AKS),201.9,19.13
+2024-04,C1100,Industria,Enterprise,Brazil South,Azure SQL,689.6,264.48
+2024-12,C1051,Salud,Pay-As-You-Go,Southeast Asia,Virtual Machines,303.3,42.1
+2024-02,C1038,Retail,Enterprise,Southeast Asia,Cognitive Services,3190.9,4683.32
+2024-12,C1015,Educacion,Free,Brazil South,Cognitive Services,101.4,186.26
+2024-09,C1133,Educacion,Enterprise,North Europe,Azure SQL,1972.6,595.84
+2024-01,C1127,Educacion,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),118.5,13.06
+2024-09,C1137,Gaming,Pay-As-You-Go,West Europe,Cognitive Services,295.8,546.54
+2024-11,C1072,Educacion,Free,North Europe,Blob Storage,26.3,0.56
+2024-09,C1119,Gaming,Enterprise,West US 2,Blob Storage,298.4,5.59
+2024-04,C1007,Retail,Enterprise,North Europe,Cognitive Services,408.0,659.08
+2024-03,C1100,Industria,Enterprise,West Europe,Kubernetes (AKS),896.4,98.33
+2024-08,C1130,Finanzas,Pay-As-You-Go,East US,Blob Storage,278.7,5.92
+2024-11,C1189,Educacion,Free,Brazil South,Blob Storage,14.0,0.34
+2024-08,C1086,Finanzas,Pay-As-You-Go,Brazil South,Cosmos DB,694.0,213.75
+2024-12,C1011,Industria,Pay-As-You-Go,West US 2,Kubernetes (AKS),482.2,48.96
+2024-05,C1109,Gaming,Pay-As-You-Go,Brazil South,Functions,354.8,0.01
+2024-03,C1008,Educacion,Pay-As-You-Go,Brazil South,Kubernetes (AKS),788.9,94.12
+2024-11,C1090,Educacion,Free,North Europe,Functions,52.9,0.0
+2024-03,C1159,Industria,Pay-As-You-Go,Southeast Asia,Functions,679.0,0.01
+2024-02,C1039,Gaming,Pay-As-You-Go,West US 2,Azure SQL,257.0,84.6
+2024-04,C1202,Gaming,Pay-As-You-Go,East US,Cosmos DB,257.4,64.36
+2024-06,C1113,Industria,Enterprise,North Europe,Virtual Machines,401.1,50.11
+2024-12,C1206,Gaming,Pay-As-You-Go,West Europe,Cognitive Services,223.9,354.3
+2024-12,C1018,Salud,Enterprise,North Europe,Kubernetes (AKS),2302.2,248.79
+2024-05,C1091,Gaming,Pay-As-You-Go,West Europe,Blob Storage,667.1,14.05
+2024-08,C1109,Gaming,Pay-As-You-Go,North Europe,Virtual Machines,283.3,39.58
+2024-04,C1172,Gaming,Free,West US 2,Kubernetes (AKS),5.9,0.57
+2024-11,C1133,Educacion,Enterprise,East US,Virtual Machines,273.4,30.57
+2024-10,C1029,Educacion,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),365.2,40.63
+2024-02,C1066,Industria,Pay-As-You-Go,North Europe,Azure SQL,784.0,235.14
+2024-04,C1124,Educacion,Pay-As-You-Go,West US 2,Cognitive Services,375.1,626.23
+2024-08,C1120,Gaming,Pay-As-You-Go,West Europe,Cognitive Services,334.3,549.69
+2024-12,C1069,Gaming,Enterprise,North Europe,Virtual Machines,641.6,92.17
+2024-06,C1103,Salud,Pay-As-You-Go,North Europe,Azure SQL,122.4,43.91
+2024-04,C1074,Finanzas,Enterprise,East US,Virtual Machines,909.9,102.79
+2024-02,C1135,Salud,Pay-As-You-Go,West US 2,Functions,341.5,0.01
+2024-10,C1029,Educacion,Pay-As-You-Go,West Europe,Cognitive Services,89.8,159.87
+2024-10,C1123,Educacion,Pay-As-You-Go,North Europe,Cosmos DB,59.0,15.6
+2024-05,C1181,Retail,Pay-As-You-Go,Southeast Asia,Blob Storage,250.3,5.62
+2024-02,C1176,Gaming,Pay-As-You-Go,Southeast Asia,Virtual Machines,393.3,51.13
+2024-07,C1199,Educacion,Enterprise,West Europe,Blob Storage,351.7,7.84
+2024-08,C1152,Educacion,Pay-As-You-Go,Brazil South,Functions,1002.7,0.02
+2024-02,C1129,Salud,Pay-As-You-Go,Brazil South,Cognitive Services,71.2,137.34
+2024-08,C1089,Finanzas,Pay-As-You-Go,Brazil South,Blob Storage,406.7,9.53
+2024-03,C1210,Retail,Free,North Europe,Functions,138.1,0.0
+2024-03,C1028,Gaming,Pay-As-You-Go,North Europe,Functions,161.0,0.0
+2024-11,C1011,Industria,Pay-As-You-Go,East US,Cosmos DB,255.7,62.0
+2024-04,C1064,Salud,Pay-As-You-Go,North Europe,Cognitive Services,90.3,140.32
+2024-01,C1107,Finanzas,Pay-As-You-Go,Southeast Asia,Kubernetes (AKS),390.8,38.76
+2024-10,C1076,Educacion,Pay-As-You-Go,East US,Functions,475.6,0.01
+2024-02,C1174,Industria,Pay-As-You-Go,North Europe,Functions,72.9,0.0
+2024-07,C1152,Educacion,Pay-As-You-Go,East US,Cognitive Services,87.9,126.74
+2024-02,C1207,Retail,Enterprise,Brazil South,Blob Storage,2024.1,46.64
+2024-12,C1099,Salud,Pay-As-You-Go,East US,Functions,500.4,0.01
+2024-12,C1085,Industria,Pay-As-You-Go,Brazil South,Blob Storage,128.6,3.09
+2024-10,C1024,Gaming,Pay-As-You-Go,Southeast Asia,Azure SQL,173.2,55.0
+2024-04,C1174,Industria,Pay-As-You-Go,East US,Cognitive Services,710.2,1040.55
+2024-11,C1105,Retail,Enterprise,North Europe,Functions,900.8,0.02
+2024-07,C1196,Finanzas,Pay-As-You-Go,East US,Blob Storage,390.3,7.89
+2024-02,C1146,Industria,Pay-As-You-Go,West US 2,Kubernetes (AKS),53.8,5.19
+2024-06,C1163,Finanzas,Pay-As-You-Go,East US,Virtual Machines,135.6,17.64
+2024-01,C1114,Finanzas,Pay-As-You-Go,North Europe,Virtual Machines,694.0,88.83
+2024-01,C1164,Gaming,Pay-As-You-Go,Brazil South,Virtual Machines,275.4,37.33
+2024-06,C1190,Finanzas,Pay-As-You-Go,East US,Kubernetes (AKS),117.3,12.45
+2024-12,C1000,Gaming,Enterprise,Southeast Asia,Cognitive Services,889.8,1464.43
+2024-08,C1165,Educacion,Enterprise,West US 2,Cognitive Services,219.0,365.53
+2024-11,C1087,Retail,Pay-As-You-Go,Southeast Asia,Azure SQL,248.6,79.78
+2024-11,C1142,Gaming,Enterprise,East US,Virtual Machines,496.1,54.69
+2024-11,C1064,Salud,Pay-As-You-Go,East US,Cognitive Services,156.3,213.52
+2024-04,C1064,Salud,Pay-As-You-Go,Southeast Asia,Azure SQL,116.9,40.65
+2024-10,C1210,Retail,Free,West US 2,Cosmos DB,33.7,8.37
+2024-11,C1168,Educacion,Pay-As-You-Go,West US 2,Cosmos DB,165.4,42.35
+2024-06,C1009,Gaming,Pay-As-You-Go,Southeast Asia,Azure SQL,144.2,49.38
+2024-11,C1215,Industria,Pay-As-You-Go,Brazil South,Azure SQL,689.4,244.76
+2024-11,C1078,Finanzas,Free,North Europe,Blob Storage,19.3,0.41
+2024-11,C1165,Educacion,Enterprise,West Europe,Blob Storage,2268.8,46.27
+2024-03,C1151,Retail,Pay-As-You-Go,North Europe,Virtual Machines,107.0,15.47
+2024-06,C1056,Educacion,Pay-As-You-Go,East US,Kubernetes (AKS),316.0,29.46
+2024-06,C1154,Educacion,Pay-As-You-Go,Brazil South,Azure SQL,29.8,9.86
+2024-11,C1018,Salud,Enterprise,Southeast Asia,Kubernetes (AKS),723.5,71.14
+2024-08,C1042,Finanzas,Enterprise,North Europe,Virtual Machines,580.1,74.06
+2024-06,C1098,Finanzas,Pay-As-You-Go,North Europe,Kubernetes (AKS),95.5,9.63
+2024-06,C1047,Retail,Free,North Europe,Blob Storage,68.8,1.63
+2024-11,C1140,Gaming,Free,West US 2,Cognitive Services,23.8,38.11
+2024-10,C1124,Educacion,Pay-As-You-Go,West Europe,Virtual Machines,167.5,22.33
+2024-12,C1075,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,414.6,126.28
+2024-11,C1024,Gaming,Pay-As-You-Go,East US,Azure SQL,100.5,32.65
+2024-12,C1058,Retail,Free,East US,Kubernetes (AKS),82.2,7.74
+2024-07,C1081,Finanzas,Pay-As-You-Go,West Europe,Blob Storage,64.8,1.33
+2024-06,C1012,Finanzas,Pay-As-You-Go,West US 2,Blob Storage,210.4,4.52
+2024-09,C1071,Gaming,Pay-As-You-Go,East US,Functions,438.0,0.01
+2024-05,C1152,Educacion,Pay-As-You-Go,West US 2,Functions,513.1,0.01
+2024-06,C1172,Gaming,Free,Southeast Asia,Cosmos DB,31.4,9.03
+2024-05,C1219,Educacion,Free,East US,Kubernetes (AKS),96.0,9.5
+2024-09,C1015,Educacion,Free,North Europe,Blob Storage,106.1,2.15
+2024-11,C1099,Salud,Pay-As-You-Go,West Europe,Cosmos DB,343.2,96.49
+2024-10,C1113,Industria,Enterprise,East US,Kubernetes (AKS),1092.8,107.39
+2024-05,C1140,Gaming,Free,Brazil South,Kubernetes (AKS),31.3,3.97
+2024-09,C1028,Gaming,Pay-As-You-Go,West Europe,Functions,1008.9,0.02
+2024-05,C1153,Educacion,Free,North Europe,Azure SQL,138.7,47.73
+2024-10,C1188,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,162.0,50.88
+2024-06,C1107,Finanzas,Pay-As-You-Go,North Europe,Kubernetes (AKS),509.0,55.99
+2024-12,C1170,Industria,Enterprise,West US 2,Cognitive Services,807.8,1235.25
+2024-04,C1175,Industria,Pay-As-You-Go,Brazil South,Azure SQL,174.6,64.9
+2024-01,C1061,Gaming,Enterprise,West US 2,Cosmos DB,174.1,43.31
+2024-09,C1115,Salud,Enterprise,East US,Azure SQL,597.2,162.02
+2024-05,C1032,Retail,Pay-As-You-Go,East US,Cosmos DB,473.4,123.85
+2024-11,C1200,Gaming,Free,West US 2,Blob Storage,15.0,0.28
+2024-06,C1140,Gaming,Free,North Europe,Azure SQL,57.2,18.93
+2024-07,C1048,Finanzas,Pay-As-You-Go,West Europe,Kubernetes (AKS),310.1,31.31
+2024-08,C1108,Educacion,Pay-As-You-Go,West Europe,Virtual Machines,726.4,93.75
+2024-09,C1066,Industria,Pay-As-You-Go,West US 2,Cosmos DB,525.7,138.35
+2024-02,C1042,Finanzas,Enterprise,West Europe,Cosmos DB,1509.4,462.62
+2024-04,C1152,Educacion,Pay-As-You-Go,East US,Cognitive Services,218.8,321.89
+2024-07,C1012,Finanzas,Pay-As-You-Go,East US,Functions,402.1,0.01
+2024-07,C1034,Educacion,Pay-As-You-Go,West US 2,Blob Storage,346.4,7.58
+2024-04,C1192,Industria,Enterprise,North Europe,Cognitive Services,283.0,468.56
+2024-07,C1160,Retail,Enterprise,North Europe,Virtual Machines,315.0,39.16
+2024-12,C1080,Salud,Pay-As-You-Go,West Europe,Azure SQL,91.4,31.88
+2024-10,C1170,Industria,Enterprise,North Europe,Azure SQL,1322.0,417.37
+2024-09,C1012,Finanzas,Pay-As-You-Go,Southeast Asia,Cognitive Services,296.5,455.8
+2024-06,C1108,Educacion,Pay-As-You-Go,Brazil South,Cognitive Services,202.7,395.84
+2024-05,C1042,Finanzas,Enterprise,North Europe,Cognitive Services,2906.8,4929.59
+2024-08,C1042,Finanzas,Enterprise,East US,Blob Storage,2259.6,45.93
+2024-06,C1046,Salud,Free,West US 2,Kubernetes (AKS),25.6,2.4
+2024-06,C1059,Industria,Pay-As-You-Go,West US 2,Cosmos DB,288.7,66.74
+2024-01,C1128,Gaming,Pay-As-You-Go,Southeast Asia,Functions,64.5,0.0
+2024-07,C1150,Finanzas,Pay-As-You-Go,West US 2,Cosmos DB,84.6,21.9
+2024-04,C1161,Finanzas,Pay-As-You-Go,Brazil South,Functions,399.9,0.01
+2024-05,C1111,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,171.0,58.8
+2024-09,C1066,Industria,Pay-As-You-Go,Southeast Asia,Functions,725.5,0.02
+2024-09,C1040,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,210.0,67.09
+2024-08,C1056,Educacion,Pay-As-You-Go,Brazil South,Kubernetes (AKS),242.0,30.31
+2024-07,C1067,Industria,Enterprise,West Europe,Azure SQL,214.4,72.09
+2024-02,C1075,Finanzas,Pay-As-You-Go,East US,Cosmos DB,496.6,117.91
+2024-02,C1012,Finanzas,Pay-As-You-Go,West Europe,Functions,162.6,0.0
+2024-09,C1115,Salud,Enterprise,West US 2,Functions,1129.5,0.02
+2024-01,C1183,Salud,Pay-As-You-Go,West Europe,Virtual Machines,319.7,39.24
+2024-09,C1044,Salud,Pay-As-You-Go,West US 2,Kubernetes (AKS),179.3,19.91
+2024-02,C1158,Educacion,Pay-As-You-Go,East US,Cognitive Services,262.4,374.44
+2024-04,C1176,Gaming,Pay-As-You-Go,West Europe,Cosmos DB,330.4,84.87
+2024-03,C1152,Educacion,Pay-As-You-Go,Brazil South,Azure SQL,91.4,30.41
+2024-04,C1003,Salud,Free,West US 2,Cognitive Services,56.6,77.99
+2024-04,C1217,Retail,Pay-As-You-Go,West US 2,Functions,144.7,0.0
+2024-05,C1099,Salud,Pay-As-You-Go,Brazil South,Cognitive Services,220.9,420.42
+2024-10,C1066,Industria,Pay-As-You-Go,Brazil South,Kubernetes (AKS),295.5,37.47
+2024-09,C1139,Industria,Pay-As-You-Go,Brazil South,Azure SQL,94.3,31.23
+2024-06,C1200,Gaming,Free,West Europe,Kubernetes (AKS),35.0,3.75
+2024-10,C1047,Retail,Free,West Europe,Azure SQL,35.4,10.92
+2024-11,C1079,Gaming,Pay-As-You-Go,West Europe,Functions,659.3,0.02
+2024-05,C1071,Gaming,Pay-As-You-Go,East US,Kubernetes (AKS),39.7,3.85
+2024-01,C1141,Finanzas,Free,West US 2,Cosmos DB,24.6,6.82
+2024-01,C1216,Finanzas,Enterprise,North Europe,Functions,225.7,0.01
+2024-10,C1085,Industria,Pay-As-You-Go,East US,Cosmos DB,250.8,64.38
+2024-09,C1091,Gaming,Pay-As-You-Go,West US 2,Kubernetes (AKS),269.4,30.16
+2024-04,C1114,Finanzas,Pay-As-You-Go,West US 2,Azure SQL,433.3,143.0
+2024-04,C1040,Finanzas,Pay-As-You-Go,West US 2,Virtual Machines,216.7,26.56
+2024-02,C1081,Finanzas,Pay-As-You-Go,West Europe,Cosmos DB,72.3,20.22
+2024-07,C1046,Salud,Free,Brazil South,Functions,103.3,0.0
+2024-02,C1131,Salud,Pay-As-You-Go,Southeast Asia,Cosmos DB,191.9,54.53
+2024-07,C1077,Finanzas,Pay-As-You-Go,West Europe,Kubernetes (AKS),106.1,11.48
+2024-09,C1072,Educacion,Free,North Europe,Azure SQL,95.9,28.6
+2024-08,C1134,Salud,Enterprise,North Europe,Cognitive Services,1639.3,2497.02
+2024-03,C1142,Gaming,Enterprise,West Europe,Cosmos DB,1246.4,336.2
+2024-06,C1031,Retail,Enterprise,West Europe,Kubernetes (AKS),1126.7,117.52
+2024-03,C1002,Industria,Pay-As-You-Go,Brazil South,Cognitive Services,790.4,1461.5
+2024-09,C1207,Retail,Enterprise,West US 2,Azure SQL,4144.7,1361.62
+2024-11,C1168,Educacion,Pay-As-You-Go,West US 2,Kubernetes (AKS),87.6,8.51
+2024-04,C1045,Salud,Enterprise,West US 2,Functions,356.4,0.01
+2024-12,C1022,Retail,Pay-As-You-Go,North Europe,Kubernetes (AKS),72.6,8.3
+2024-07,C1128,Gaming,Pay-As-You-Go,Southeast Asia,Blob Storage,182.9,3.86
+2024-03,C1182,Educacion,Free,Brazil South,Blob Storage,47.2,1.02
+2024-08,C1121,Educacion,Enterprise,North Europe,Virtual Machines,1145.6,136.18
+2024-02,C1170,Industria,Enterprise,East US,Kubernetes (AKS),462.3,47.21
+2024-02,C1119,Gaming,Enterprise,West Europe,Azure SQL,1148.1,348.89
+2024-06,C1184,Retail,Free,West Europe,Kubernetes (AKS),39.7,4.3
+2024-04,C1106,Salud,Pay-As-You-Go,West Europe,Azure SQL,269.4,87.14
+2024-06,C1124,Educacion,Pay-As-You-Go,West US 2,Cognitive Services,347.8,495.97
+2024-10,C1147,Industria,Pay-As-You-Go,West Europe,Cosmos DB,63.0,17.23
+2024-05,C1010,Gaming,Pay-As-You-Go,Brazil South,Cosmos DB,799.8,232.05
+2024-12,C1145,Finanzas,Enterprise,Southeast Asia,Functions,343.8,0.01
+2024-09,C1163,Finanzas,Pay-As-You-Go,West Europe,Azure SQL,65.7,22.14
+2024-09,C1176,Gaming,Pay-As-You-Go,West Europe,Azure SQL,55.4,19.79
+2024-12,C1067,Industria,Enterprise,North Europe,Azure SQL,1609.1,575.25
+2024-09,C1024,Gaming,Pay-As-You-Go,East US,Blob Storage,922.7,18.4
+2024-02,C1197,Gaming,Free,West US 2,Functions,150.2,0.0
+2024-01,C1094,Salud,Pay-As-You-Go,West Europe,Cognitive Services,201.6,360.12
+2024-07,C1100,Industria,Enterprise,East US,Cosmos DB,581.7,135.22
+2024-05,C1103,Salud,Pay-As-You-Go,Southeast Asia,Cognitive Services,200.5,347.58
+2024-12,C1172,Gaming,Free,Southeast Asia,Cosmos DB,70.3,18.06
+2024-12,C1101,Gaming,Pay-As-You-Go,East US,Cognitive Services,103.8,140.75
+2024-01,C1178,Gaming,Pay-As-You-Go,East US,Cosmos DB,239.6,60.87
+2024-11,C1026,Salud,Enterprise,West Europe,Cosmos DB,4543.1,1204.99
+2024-08,C1062,Industria,Pay-As-You-Go,Southeast Asia,Azure SQL,453.3,156.65
+2024-05,C1205,Industria,Enterprise,West Europe,Blob Storage,1873.5,39.55
+2024-11,C1099,Salud,Pay-As-You-Go,West US 2,Azure SQL,206.6,66.15
+2024-07,C1011,Industria,Pay-As-You-Go,Brazil South,Cosmos DB,140.8,43.46
+2024-02,C1048,Finanzas,Pay-As-You-Go,West Europe,Kubernetes (AKS),136.0,13.92
+2024-01,C1028,Gaming,Pay-As-You-Go,Brazil South,Functions,61.4,0.0
+2024-03,C1069,Gaming,Enterprise,North Europe,Blob Storage,944.5,18.94
+2024-05,C1181,Retail,Pay-As-You-Go,Brazil South,Azure SQL,523.4,170.12
+2024-04,C1193,Industria,Pay-As-You-Go,Southeast Asia,Azure SQL,218.8,70.92
+2024-11,C1181,Retail,Pay-As-You-Go,Southeast Asia,Virtual Machines,283.4,39.19
+2024-02,C1186,Finanzas,Pay-As-You-Go,Brazil South,Kubernetes (AKS),87.2,10.34
+2024-07,C1000,Gaming,Enterprise,Brazil South,Azure SQL,2123.4,717.72
+2024-01,C1212,Gaming,Pay-As-You-Go,North Europe,Azure SQL,269.4,89.31
+2024-06,C1111,Finanzas,Pay-As-You-Go,East US,Cognitive Services,807.7,1239.45
+2024-10,C1146,Industria,Pay-As-You-Go,North Europe,Cognitive Services,488.7,745.15
+2024-07,C1013,Retail,Free,Southeast Asia,Virtual Machines,45.4,5.37
+2024-11,C1042,Finanzas,Enterprise,Brazil South,Blob Storage,1478.2,33.59
+2024-05,C1044,Salud,Pay-As-You-Go,West US 2,Virtual Machines,490.6,55.98
+2024-12,C1166,Gaming,Enterprise,West Europe,Cognitive Services,1020.4,1835.9
+2024-06,C1162,Gaming,Pay-As-You-Go,Southeast Asia,Virtual Machines,129.5,16.95
+2024-08,C1111,Finanzas,Pay-As-You-Go,Southeast Asia,Azure SQL,295.7,86.55
+2024-02,C1190,Finanzas,Pay-As-You-Go,East US,Cognitive Services,190.3,280.65
+2024-08,C1039,Gaming,Pay-As-You-Go,East US,Azure SQL,721.3,216.84
+2024-06,C1021,Gaming,Pay-As-You-Go,North Europe,Virtual Machines,588.6,79.55
+2024-05,C1140,Gaming,Free,Brazil South,Cosmos DB,21.7,6.85
+2024-09,C1029,Educacion,Pay-As-You-Go,West US 2,Blob Storage,248.6,5.14
+2024-04,C1189,Educacion,Free,Brazil South,Blob Storage,3.9,0.09
+2024-07,C1070,Salud,Pay-As-You-Go,East US,Virtual Machines,412.3,47.57
+2024-06,C1178,Gaming,Pay-As-You-Go,Southeast Asia,Virtual Machines,108.0,14.46
+2024-03,C1153,Educacion,Free,West Europe,Kubernetes (AKS),89.9,11.06
+2024-01,C1048,Finanzas,Pay-As-You-Go,East US,Cosmos DB,128.2,32.59
+2024-11,C1025,Gaming,Pay-As-You-Go,Southeast Asia,Azure SQL,590.2,203.19
+2024-04,C1091,Gaming,Pay-As-You-Go,North Europe,Blob Storage,692.1,13.76
+2024-10,C1092,Educacion,Pay-As-You-Go,North Europe,Virtual Machines,918.2,117.62
+2024-03,C1119,Gaming,Enterprise,East US,Virtual Machines,525.4,67.35
+2024-08,C1168,Educacion,Pay-As-You-Go,West US 2,Cognitive Services,124.0,179.49
+2024-10,C1085,Industria,Pay-As-You-Go,North Europe,Functions,619.7,0.01
+2024-04,C1126,Finanzas,Free,West Europe,Kubernetes (AKS),93.4,10.66
+2024-07,C1148,Gaming,Enterprise,Southeast Asia,Virtual Machines,228.6,26.81
+2024-12,C1210,Retail,Free,East US,Cognitive Services,79.4,115.93
+2024-03,C1058,Retail,Free,Southeast Asia,Cognitive Services,30.1,51.91
+2024-07,C1031,Retail,Enterprise,East US,Cosmos DB,346.8,83.17
+2024-11,C1183,Salud,Pay-As-You-Go,Brazil South,Azure SQL,479.4,164.85
+2024-02,C1016,Educacion,Pay-As-You-Go,Southeast Asia,Cosmos DB,118.2,32.11
+2024-07,C1197,Gaming,Free,East US,Functions,42.5,0.0
+2024-09,C1180,Gaming,Free,Brazil South,Functions,128.2,0.0
+2024-12,C1096,Gaming,Enterprise,East US,Functions,1389.8,0.03
+2024-01,C1100,Industria,Enterprise,West Europe,Functions,3970.0,0.08
+2024-12,C1110,Finanzas,Pay-As-You-Go,North Europe,Virtual Machines,88.6,12.32
+2024-03,C1191,Industria,Pay-As-You-Go,West US 2,Cognitive Services,621.9,919.2
+2024-10,C1054,Educacion,Enterprise,West US 2,Functions,1128.6,0.02
+2024-04,C1136,Industria,Pay-As-You-Go,West US 2,Cognitive Services,929.2,1439.1
+2024-01,C1103,Salud,Pay-As-You-Go,East US,Blob Storage,70.8,1.51
+2024-09,C1014,Gaming,Pay-As-You-Go,West Europe,Virtual Machines,655.2,87.14
+2024-09,C1001,Salud,Enterprise,West Europe,Cognitive Services,1691.1,2647.67
+2024-10,C1010,Gaming,Pay-As-You-Go,East US,Cognitive Services,276.9,416.16
+2024-11,C1014,Gaming,Pay-As-You-Go,North Europe,Blob Storage,384.6,9.04
+2024-07,C1188,Finanzas,Pay-As-You-Go,East US,Blob Storage,122.3,2.63
+2024-12,C1123,Educacion,Pay-As-You-Go,East US,Blob Storage,155.0,3.38
+2024-10,C1028,Gaming,Pay-As-You-Go,East US,Blob Storage,458.3,8.68

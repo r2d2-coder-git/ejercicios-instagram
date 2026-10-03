@@ -1,0 +1,1301 @@
+producto_id,categoria,pais_vendedor,hecho_a_mano,precio_usd,ventas,resenas,rating,envio_dias
+ET300000,Joyeria,Alemania,True,22.62,106,44,5.0,1
+ET300001,Papeleria,Alemania,False,12.72,7,1,5.0,7
+ET300002,Juguetes,Reino Unido,False,37.94,26,8,4.4,10
+ET300003,Arte,EEUU,True,39.57,102,18,4.7,5
+ET300004,Arte,Alemania,True,22.86,20,8,4.8,8
+ET300005,Velas,Alemania,True,34.29,17,8,4.2,14
+ET300006,Joyeria,EEUU,True,77.63,119,11,5.0,4
+ET300007,Papeleria,Alemania,False,12.76,23,9,4.5,5
+ET300008,Decoracion,EEUU,False,19.35,111,20,4.6,2
+ET300009,Joyeria,Reino Unido,True,24.73,53,27,4.6,8
+ET300010,Boda,Canada,False,49.05,22,3,4.9,3
+ET300011,Ceramica,Alemania,True,44.49,56,18,4.4,12
+ET300012,Papeleria,Reino Unido,False,9.61,47,24,4.1,5
+ET300013,Papeleria,EEUU,True,18.91,101,40,4.7,10
+ET300014,Papeleria,Reino Unido,True,18.5,18,5,4.0,3
+ET300015,Velas,EEUU,False,9.9,34,5,4.5,5
+ET300016,Boda,Reino Unido,True,72.75,30,10,5.0,3
+ET300017,Decoracion,Reino Unido,True,95.46,71,29,4.8,8
+ET300018,Velas,Alemania,False,19.28,10,8,4.9,1
+ET300019,Boda,EEUU,True,48.06,101,56,4.8,2
+ET300020,Boda,EEUU,True,51.96,55,17,5.0,8
+ET300021,Arte,Reino Unido,True,76.74,7,4,4.4,8
+ET300022,Decoracion,EEUU,True,21.02,125,41,4.7,5
+ET300023,Ceramica,EEUU,True,51.26,386,161,4.5,7
+ET300024,Velas,EEUU,True,15.4,99,65,4.9,6
+ET300025,Juguetes,Reino Unido,False,46.07,159,33,4.6,11
+ET300026,Arte,EEUU,True,55.96,36,10,5.0,7
+ET300027,Velas,Reino Unido,True,35.08,5,2,4.4,12
+ET300028,Boda,Espana,False,35.37,4,2,5.0,4
+ET300029,Arte,Reino Unido,True,75.89,43,18,4.8,3
+ET300030,Boda,EEUU,False,62.5,17,9,4.6,6
+ET300031,Ropa,EEUU,True,24.72,12,8,4.8,2
+ET300032,Joyeria,EEUU,False,30.06,30,20,4.7,10
+ET300033,Boda,Reino Unido,True,89.33,65,29,4.7,6
+ET300034,Velas,Canada,True,15.81,6,2,4.5,6
+ET300035,Joyeria,EEUU,False,14.23,20,12,4.4,8
+ET300036,Velas,EEUU,True,17.87,174,43,4.5,2
+ET300037,Velas,EEUU,True,12.55,10,2,4.1,6
+ET300038,Ropa,EEUU,True,30.52,86,29,4.9,14
+ET300039,Juguetes,Australia,True,21.29,19,8,4.2,9
+ET300040,Decoracion,EEUU,True,21.23,60,16,4.5,9
+ET300041,Papeleria,EEUU,True,7.86,110,60,4.8,8
+ET300042,Papeleria,EEUU,True,18.19,74,25,4.9,7
+ET300043,Arte,EEUU,True,48.68,90,23,4.1,14
+ET300044,Joyeria,EEUU,True,10.04,9,1,4.6,14
+ET300045,Ceramica,EEUU,True,65.7,112,63,4.7,6
+ET300046,Boda,EEUU,True,61.33,12,3,4.6,13
+ET300047,Ceramica,EEUU,True,36.08,44,15,5.0,2
+ET300048,Papeleria,Canada,True,8.86,43,5,4.4,5
+ET300049,Velas,Reino Unido,True,25.15,56,19,4.0,5
+ET300050,Papeleria,EEUU,True,17.25,47,9,4.8,10
+ET300051,Decoracion,Espana,True,108.93,13,6,4.4,9
+ET300052,Arte,EEUU,True,70.98,7,1,4.1,7
+ET300053,Boda,Australia,True,64.23,86,36,4.6,4
+ET300054,Boda,Australia,True,51.45,40,3,5.0,8
+ET300055,Joyeria,EEUU,True,38.82,117,61,4.2,4
+ET300056,Boda,EEUU,False,70.62,31,9,5.0,7
+ET300057,Decoracion,Alemania,True,69.29,7,1,4.3,5
+ET300058,Papeleria,EEUU,True,12.18,95,74,4.6,13
+ET300059,Papeleria,EEUU,True,12.6,22,7,4.2,11
+ET300060,Ceramica,Reino Unido,True,39.63,48,13,4.6,3
+ET300061,Papeleria,Reino Unido,True,20.58,16,2,4.6,14
+ET300062,Arte,Espana,True,109.26,202,79,4.2,10
+ET300063,Ceramica,Alemania,True,39.95,12,6,5.0,5
+ET300064,Arte,Espana,True,50.62,22,8,4.5,8
+ET300065,Ropa,Alemania,False,39.69,37,22,4.5,3
+ET300066,Ceramica,Canada,False,43.51,9,3,4.9,1
+ET300067,Arte,Reino Unido,True,87.81,47,26,5.0,6
+ET300068,Joyeria,Australia,True,11.38,195,41,4.9,11
+ET300069,Boda,Australia,False,39.51,19,5,4.2,5
+ET300070,Velas,Espana,True,13.16,51,19,4.7,6
+ET300071,Decoracion,Alemania,False,16.6,1,0,4.0,14
+ET300072,Boda,Reino Unido,True,37.41,31,11,4.9,14
+ET300073,Decoracion,EEUU,False,29.13,23,4,4.1,7
+ET300074,Papeleria,Espana,False,13.84,13,6,4.4,1
+ET300075,Boda,EEUU,True,85.84,108,16,4.6,10
+ET300076,Ropa,EEUU,True,31.73,23,19,4.7,11
+ET300077,Ropa,EEUU,True,23.17,27,12,4.5,13
+ET300078,Juguetes,Reino Unido,True,21.5,21,11,5.0,14
+ET300079,Papeleria,Reino Unido,True,22.82,4,1,4.8,9
+ET300080,Ceramica,EEUU,False,32.49,9,1,4.8,2
+ET300081,Arte,EEUU,True,41.68,95,26,4.2,4
+ET300082,Decoracion,EEUU,True,52.51,3,1,5.0,11
+ET300083,Velas,EEUU,False,16.47,14,7,4.4,9
+ET300084,Juguetes,EEUU,True,28.5,21,3,5.0,7
+ET300085,Papeleria,Canada,True,14.92,225,117,5.0,6
+ET300086,Joyeria,EEUU,False,37.07,77,53,4.8,10
+ET300087,Ropa,EEUU,True,23.13,17,6,4.9,6
+ET300088,Papeleria,EEUU,True,14.93,139,9,3.7,3
+ET300089,Velas,Reino Unido,True,16.55,14,8,4.5,14
+ET300090,Arte,Espana,False,36.89,100,27,4.9,5
+ET300091,Velas,EEUU,True,9.63,7,2,4.9,4
+ET300092,Velas,EEUU,True,23.68,107,68,4.2,1
+ET300093,Arte,Canada,True,52.14,21,4,4.5,7
+ET300094,Ceramica,EEUU,True,31.89,10,1,3.8,14
+ET300095,Ropa,Alemania,False,33.68,26,8,4.7,3
+ET300096,Ropa,Australia,True,54.96,44,33,4.0,4
+ET300097,Papeleria,Canada,False,6.02,19,5,4.9,3
+ET300098,Juguetes,Australia,True,12.09,60,26,5.0,2
+ET300099,Decoracion,EEUU,True,29.04,17,6,4.5,9
+ET300100,Velas,EEUU,False,32.29,65,26,4.8,5
+ET300101,Decoracion,EEUU,True,47.03,53,15,4.5,11
+ET300102,Velas,EEUU,True,24.47,30,8,4.7,6
+ET300103,Joyeria,EEUU,False,17.75,20,8,4.3,9
+ET300104,Velas,Reino Unido,True,11.5,39,3,4.8,2
+ET300105,Velas,Reino Unido,True,21.53,60,32,4.1,5
+ET300106,Velas,EEUU,False,18.42,319,119,4.1,6
+ET300107,Juguetes,Canada,True,27.4,93,27,4.6,1
+ET300108,Boda,EEUU,True,51.02,96,11,4.5,6
+ET300109,Papeleria,EEUU,True,16.77,989,294,4.7,7
+ET300110,Ropa,EEUU,True,37.29,58,6,4.4,6
+ET300111,Velas,Canada,True,24.57,56,27,5.0,8
+ET300112,Juguetes,Reino Unido,True,30.38,71,44,4.6,12
+ET300113,Boda,Alemania,True,28.77,10,3,4.7,11
+ET300114,Boda,EEUU,True,22.39,20,8,4.7,1
+ET300115,Juguetes,EEUU,True,32.84,18,4,4.9,9
+ET300116,Joyeria,Australia,True,45.03,67,17,4.8,13
+ET300117,Decoracion,EEUU,True,27.92,27,6,4.7,13
+ET300118,Ropa,EEUU,True,16.63,38,11,4.8,5
+ET300119,Decoracion,EEUU,True,43.7,109,26,4.1,11
+ET300120,Arte,EEUU,True,87.07,85,26,4.1,12
+ET300121,Papeleria,Reino Unido,False,30.79,27,9,4.6,6
+ET300122,Juguetes,EEUU,True,27.05,15,8,4.5,13
+ET300123,Boda,Reino Unido,True,47.4,115,32,4.8,9
+ET300124,Velas,Australia,False,12.59,77,51,4.6,11
+ET300125,Juguetes,EEUU,True,22.1,5,0,4.8,11
+ET300126,Joyeria,EEUU,True,24.84,23,11,4.2,11
+ET300127,Papeleria,Alemania,True,9.99,39,9,4.6,14
+ET300128,Juguetes,Reino Unido,True,49.93,78,24,4.2,13
+ET300129,Juguetes,Espana,True,44.93,90,36,4.7,6
+ET300130,Juguetes,EEUU,False,34.66,45,27,4.0,8
+ET300131,Boda,Canada,True,38.05,63,11,4.7,10
+ET300132,Joyeria,Australia,False,39.42,35,5,4.2,12
+ET300133,Juguetes,EEUU,False,28.41,15,5,4.5,6
+ET300134,Velas,Alemania,True,21.49,24,8,4.9,5
+ET300135,Ropa,Canada,True,57.7,33,7,4.7,11
+ET300136,Juguetes,Alemania,True,28.37,31,2,4.1,14
+ET300137,Joyeria,EEUU,False,37.65,4,2,4.4,13
+ET300138,Arte,EEUU,True,77.41,21,7,4.1,3
+ET300139,Arte,EEUU,True,68.76,35,16,4.1,13
+ET300140,Ceramica,Australia,True,23.52,24,15,4.6,12
+ET300141,Decoracion,EEUU,True,43.43,25,8,4.8,3
+ET300142,Ropa,EEUU,True,28.02,56,28,4.7,1
+ET300143,Arte,Espana,True,35.96,10,3,4.8,3
+ET300144,Ceramica,EEUU,True,94.06,5,1,4.6,14
+ET300145,Velas,Reino Unido,False,35.94,22,13,4.5,11
+ET300146,Joyeria,EEUU,True,48.23,76,23,4.3,9
+ET300147,Ropa,Canada,True,38.76,211,100,4.5,9
+ET300148,Velas,EEUU,True,30.9,78,26,4.2,6
+ET300149,Joyeria,Reino Unido,True,28.14,6,1,4.3,13
+ET300150,Velas,Reino Unido,True,19.52,25,14,4.6,3
+ET300151,Ropa,EEUU,True,22.6,43,6,4.6,5
+ET300152,Ceramica,EEUU,True,56.26,40,5,5.0,3
+ET300153,Ropa,EEUU,True,35.86,59,36,4.2,12
+ET300154,Arte,Canada,True,35.63,12,2,4.6,8
+ET300155,Juguetes,EEUU,True,21.55,35,9,4.2,10
+ET300156,Decoracion,EEUU,True,40.68,52,18,4.5,13
+ET300157,Juguetes,EEUU,True,45.15,82,18,4.5,3
+ET300158,Boda,Reino Unido,True,78.65,13,7,4.9,14
+ET300159,Velas,Canada,True,18.08,22,9,4.5,2
+ET300160,Ceramica,EEUU,True,53.02,1,0,4.5,11
+ET300161,Juguetes,Espana,False,22.39,16,8,4.5,10
+ET300162,Arte,Canada,False,55.32,18,7,4.2,12
+ET300163,Arte,Alemania,False,38.91,10,4,4.4,3
+ET300164,Arte,Canada,True,56.48,39,15,4.5,14
+ET300165,Velas,EEUU,True,13.36,31,2,4.6,12
+ET300166,Ropa,Australia,True,21.23,2,0,4.8,2
+ET300167,Decoracion,Alemania,False,51.53,41,12,4.5,8
+ET300168,Arte,Reino Unido,False,70.17,11,3,4.5,12
+ET300169,Joyeria,EEUU,False,13.7,56,12,4.1,7
+ET300170,Joyeria,EEUU,False,26.66,8,3,4.8,6
+ET300171,Joyeria,Canada,True,41.7,34,14,4.4,4
+ET300172,Papeleria,EEUU,False,22.91,24,3,4.8,8
+ET300173,Papeleria,Canada,False,22.61,46,37,5.0,14
+ET300174,Papeleria,EEUU,True,15.24,37,10,4.5,9
+ET300175,Boda,Reino Unido,False,39.23,25,9,4.3,11
+ET300176,Papeleria,EEUU,True,9.72,6,2,4.6,11
+ET300177,Decoracion,EEUU,False,48.21,6,2,4.7,11
+ET300178,Ceramica,EEUU,False,55.86,17,10,4.5,6
+ET300179,Boda,Alemania,True,92.04,32,12,4.4,11
+ET300180,Ceramica,Reino Unido,True,74.53,16,3,4.8,5
+ET300181,Decoracion,Australia,True,39.84,65,23,4.7,9
+ET300182,Boda,Alemania,False,33.44,24,12,4.5,5
+ET300183,Papeleria,Alemania,False,13.2,11,1,4.1,14
+ET300184,Boda,Reino Unido,True,59.99,24,16,4.7,11
+ET300185,Boda,Alemania,False,50.73,42,15,4.4,9
+ET300186,Decoracion,Australia,True,33.33,47,16,4.7,7
+ET300187,Arte,Alemania,True,66.39,261,18,4.6,8
+ET300188,Ropa,EEUU,True,28.61,15,4,4.0,11
+ET300189,Ropa,Canada,True,27.22,30,12,4.6,4
+ET300190,Papeleria,EEUU,True,16.99,52,23,4.8,12
+ET300191,Juguetes,EEUU,True,18.73,32,9,4.8,4
+ET300192,Juguetes,Canada,True,24.26,19,3,4.6,2
+ET300193,Arte,Alemania,True,66.93,6,2,4.0,11
+ET300194,Ceramica,EEUU,False,30.43,18,2,5.0,10
+ET300195,Joyeria,EEUU,True,23.1,10,5,4.7,5
+ET300196,Arte,Espana,False,106.64,4,0,4.2,10
+ET300197,Decoracion,EEUU,True,26.39,13,7,4.4,11
+ET300198,Arte,EEUU,True,25.73,10,2,4.7,12
+ET300199,Ceramica,Alemania,True,22.79,62,30,4.8,14
+ET300200,Arte,Espana,True,60.7,64,12,4.5,12
+ET300201,Ceramica,Reino Unido,True,48.6,12,2,4.8,7
+ET300202,Boda,Reino Unido,True,52.47,24,9,4.1,4
+ET300203,Papeleria,EEUU,True,24.38,4,1,4.3,2
+ET300204,Boda,EEUU,True,18.88,19,10,4.0,9
+ET300205,Ropa,Alemania,True,41.01,51,17,4.3,10
+ET300206,Papeleria,Espana,True,28.01,82,21,5.0,10
+ET300207,Ceramica,EEUU,False,30.57,15,2,5.0,1
+ET300208,Ropa,EEUU,True,30.07,105,30,4.7,10
+ET300209,Velas,EEUU,False,13.32,6,0,4.4,12
+ET300210,Ropa,EEUU,False,24.47,8,2,4.5,11
+ET300211,Papeleria,EEUU,False,13.16,72,40,4.7,8
+ET300212,Velas,EEUU,False,31.86,208,80,4.1,1
+ET300213,Boda,Alemania,True,114.7,56,23,4.4,7
+ET300214,Papeleria,EEUU,True,13.11,31,12,5.0,10
+ET300215,Ropa,Canada,True,74.99,2,0,4.3,8
+ET300216,Joyeria,Reino Unido,False,28.4,3,0,4.4,9
+ET300217,Joyeria,Alemania,True,56.47,38,11,4.6,8
+ET300218,Boda,Australia,True,52.99,22,10,4.7,8
+ET300219,Ceramica,EEUU,False,50.58,9,2,4.4,5
+ET300220,Decoracion,EEUU,True,48.61,35,6,4.6,9
+ET300221,Boda,Alemania,True,196.15,37,15,4.8,4
+ET300222,Papeleria,EEUU,False,21.09,93,44,5.0,7
+ET300223,Decoracion,EEUU,True,31.65,38,19,4.6,6
+ET300224,Papeleria,EEUU,True,22.1,127,73,4.6,10
+ET300225,Ropa,Espana,False,30.28,33,10,5.0,13
+ET300226,Velas,EEUU,True,14.8,29,10,4.4,9
+ET300227,Juguetes,Reino Unido,True,31.64,106,23,4.2,2
+ET300228,Boda,EEUU,True,55.69,11,3,4.7,10
+ET300229,Decoracion,Canada,True,46.95,732,494,4.9,5
+ET300230,Boda,EEUU,True,55.31,50,24,4.7,1
+ET300231,Velas,Espana,False,20.59,50,30,4.6,3
+ET300232,Joyeria,Alemania,False,33.19,59,9,4.2,14
+ET300233,Papeleria,EEUU,True,6.91,261,48,4.6,6
+ET300234,Boda,EEUU,True,71.81,79,37,5.0,3
+ET300235,Papeleria,Alemania,True,10.13,5,2,4.2,2
+ET300236,Juguetes,Alemania,True,12.36,155,84,4.5,10
+ET300237,Arte,EEUU,True,58.61,22,15,4.5,11
+ET300238,Ropa,EEUU,True,36.2,37,11,4.4,5
+ET300239,Juguetes,EEUU,True,16.67,8,2,4.7,2
+ET300240,Decoracion,EEUU,False,58.56,59,17,4.7,5
+ET300241,Juguetes,EEUU,True,12.86,16,11,4.7,10
+ET300242,Joyeria,EEUU,False,23.79,36,20,4.3,2
+ET300243,Juguetes,EEUU,True,17.41,24,16,4.1,4
+ET300244,Juguetes,Espana,False,21.59,275,25,4.7,1
+ET300245,Joyeria,Alemania,True,31.3,293,168,4.4,7
+ET300246,Papeleria,Espana,True,10.02,34,5,5.0,3
+ET300247,Arte,Canada,False,80.16,35,15,5.0,3
+ET300248,Velas,Canada,False,18.46,21,8,5.0,2
+ET300249,Joyeria,EEUU,True,13.14,111,19,4.3,11
+ET300250,Decoracion,Canada,True,19.19,23,10,4.8,7
+ET300251,Boda,EEUU,True,54.73,20,5,4.9,14
+ET300252,Decoracion,Reino Unido,True,38.45,97,23,4.8,6
+ET300253,Ropa,Australia,True,33.58,18,4,4.5,4
+ET300254,Juguetes,Espana,False,21.76,31,6,5.0,3
+ET300255,Decoracion,EEUU,True,45.97,5,2,4.6,14
+ET300256,Papeleria,Alemania,True,21.91,71,30,4.6,9
+ET300257,Joyeria,EEUU,True,17.95,280,96,4.1,5
+ET300258,Decoracion,EEUU,True,26.28,73,13,4.8,10
+ET300259,Juguetes,EEUU,True,14.21,165,48,4.5,8
+ET300260,Velas,EEUU,True,20.21,13,7,4.7,2
+ET300261,Decoracion,Canada,True,69.11,42,12,4.7,10
+ET300262,Ropa,EEUU,True,29.45,11,4,4.7,2
+ET300263,Ceramica,EEUU,False,17.65,25,8,4.6,3
+ET300264,Ceramica,Australia,False,24.28,77,15,4.8,10
+ET300265,Juguetes,Reino Unido,False,15.77,37,11,4.5,7
+ET300266,Boda,EEUU,True,44.0,7,1,4.2,4
+ET300267,Arte,Reino Unido,True,50.96,7,2,4.8,1
+ET300268,Juguetes,Reino Unido,True,22.34,7,3,4.4,9
+ET300269,Juguetes,Reino Unido,True,19.42,56,26,4.2,10
+ET300270,Ropa,Canada,True,53.25,320,167,4.3,3
+ET300271,Joyeria,Espana,True,21.37,148,24,4.7,6
+ET300272,Decoracion,EEUU,True,29.75,4,1,4.6,5
+ET300273,Ceramica,Reino Unido,True,58.13,158,15,4.0,13
+ET300274,Arte,EEUU,True,32.46,92,48,4.5,12
+ET300275,Boda,Espana,True,64.28,6,1,5.0,4
+ET300276,Boda,EEUU,True,57.3,23,7,4.5,8
+ET300277,Velas,EEUU,True,16.97,110,36,4.6,13
+ET300278,Joyeria,Australia,True,52.85,60,26,4.9,5
+ET300279,Joyeria,Reino Unido,True,21.83,7,2,4.8,2
+ET300280,Ropa,EEUU,True,79.8,64,32,4.9,5
+ET300281,Boda,EEUU,False,50.26,3,1,3.8,9
+ET300282,Papeleria,EEUU,True,9.0,25,7,5.0,14
+ET300283,Boda,Australia,True,56.56,115,23,4.8,5
+ET300284,Arte,EEUU,False,39.01,33,11,5.0,1
+ET300285,Ceramica,EEUU,True,35.53,19,11,4.4,3
+ET300286,Decoracion,Reino Unido,False,49.23,88,22,4.1,6
+ET300287,Juguetes,EEUU,False,27.47,96,40,4.6,2
+ET300288,Boda,EEUU,True,42.88,139,53,4.5,1
+ET300289,Boda,Espana,True,81.64,86,27,4.8,10
+ET300290,Velas,EEUU,True,28.6,108,50,4.9,12
+ET300291,Ropa,Espana,False,62.17,74,25,4.6,4
+ET300292,Ceramica,Alemania,True,59.32,44,13,4.5,8
+ET300293,Ropa,EEUU,True,60.38,36,12,4.8,9
+ET300294,Boda,Alemania,True,25.92,25,13,4.5,10
+ET300295,Boda,Alemania,True,48.43,8,2,4.5,14
+ET300296,Velas,Canada,False,12.73,11,2,4.9,13
+ET300297,Arte,Reino Unido,True,62.93,24,11,5.0,5
+ET300298,Ropa,EEUU,False,27.85,43,12,4.9,14
+ET300299,Joyeria,EEUU,False,26.2,161,84,4.5,1
+ET300300,Arte,Alemania,True,127.39,31,14,4.0,14
+ET300301,Velas,EEUU,True,16.82,99,42,4.6,2
+ET300302,Joyeria,EEUU,False,33.04,108,53,4.4,2
+ET300303,Ceramica,Reino Unido,False,43.74,25,15,4.6,2
+ET300304,Boda,EEUU,False,56.69,63,26,4.4,2
+ET300305,Decoracion,Alemania,True,42.1,25,7,4.6,7
+ET300306,Ropa,Alemania,True,41.87,141,80,4.3,9
+ET300307,Boda,Espana,True,87.66,66,31,4.2,11
+ET300308,Ropa,EEUU,False,67.65,8,3,5.0,1
+ET300309,Joyeria,EEUU,True,31.69,39,6,4.3,5
+ET300310,Juguetes,Espana,True,27.85,202,98,4.6,2
+ET300311,Papeleria,EEUU,True,9.47,27,9,4.9,3
+ET300312,Decoracion,Canada,True,40.55,54,4,4.9,11
+ET300313,Ropa,Reino Unido,True,50.98,60,3,4.8,9
+ET300314,Ropa,EEUU,True,49.49,10,2,4.7,3
+ET300315,Juguetes,EEUU,True,23.94,58,5,4.8,5
+ET300316,Papeleria,Canada,False,21.38,7,2,5.0,13
+ET300317,Papeleria,EEUU,False,18.25,16,2,4.7,9
+ET300318,Ceramica,Espana,True,77.58,108,33,4.0,4
+ET300319,Papeleria,Reino Unido,True,16.84,49,15,4.4,14
+ET300320,Ropa,EEUU,False,30.36,23,4,4.8,3
+ET300321,Joyeria,Canada,True,32.03,54,16,4.4,5
+ET300322,Juguetes,EEUU,True,6.81,30,9,5.0,10
+ET300323,Ceramica,EEUU,True,55.94,33,17,4.6,8
+ET300324,Ceramica,Australia,True,11.15,68,44,4.6,1
+ET300325,Ropa,Canada,True,17.57,14,7,4.9,12
+ET300326,Ropa,Reino Unido,False,41.93,34,6,4.5,4
+ET300327,Joyeria,Espana,True,33.89,23,12,4.7,10
+ET300328,Decoracion,Reino Unido,True,26.38,5,2,4.9,5
+ET300329,Boda,Reino Unido,False,41.37,12,1,4.2,11
+ET300330,Boda,EEUU,False,95.16,185,55,4.5,13
+ET300331,Arte,EEUU,False,49.44,50,24,4.8,11
+ET300332,Ropa,EEUU,True,85.84,7,1,4.6,13
+ET300333,Velas,Reino Unido,True,17.99,6,3,5.0,8
+ET300334,Boda,Alemania,True,64.75,29,12,4.1,1
+ET300335,Velas,Reino Unido,True,34.37,184,86,4.1,8
+ET300336,Ceramica,Reino Unido,True,50.58,26,16,4.8,7
+ET300337,Ropa,Alemania,True,23.44,139,75,4.9,11
+ET300338,Decoracion,Australia,True,40.2,48,9,4.5,4
+ET300339,Ceramica,EEUU,False,47.32,55,14,4.7,10
+ET300340,Juguetes,Espana,False,12.75,7,2,4.8,7
+ET300341,Ropa,Alemania,True,31.6,92,21,4.4,10
+ET300342,Juguetes,EEUU,True,16.35,22,9,4.4,6
+ET300343,Boda,EEUU,True,79.6,85,36,4.7,6
+ET300344,Ceramica,EEUU,True,48.67,13,2,4.9,3
+ET300345,Ropa,Canada,True,31.26,40,15,4.3,12
+ET300346,Ceramica,Reino Unido,True,46.0,48,12,4.5,1
+ET300347,Ceramica,Reino Unido,False,52.48,27,8,4.5,4
+ET300348,Decoracion,Alemania,True,53.75,51,20,4.7,6
+ET300349,Decoracion,EEUU,False,28.16,24,13,4.6,3
+ET300350,Boda,EEUU,True,36.26,16,3,4.4,13
+ET300351,Joyeria,Espana,True,43.56,193,100,5.0,5
+ET300352,Ropa,Australia,True,29.68,104,44,4.4,4
+ET300353,Arte,Alemania,True,34.04,14,5,4.5,4
+ET300354,Ceramica,EEUU,True,57.32,61,18,4.1,3
+ET300355,Ceramica,EEUU,False,57.77,14,5,4.4,10
+ET300356,Decoracion,EEUU,True,22.77,8,1,4.8,7
+ET300357,Ceramica,EEUU,True,52.61,103,31,4.7,4
+ET300358,Joyeria,EEUU,True,37.58,5,2,4.8,13
+ET300359,Papeleria,Espana,True,17.42,91,39,4.8,10
+ET300360,Velas,Canada,True,23.18,25,11,5.0,6
+ET300361,Ceramica,EEUU,True,27.37,26,20,4.4,8
+ET300362,Ropa,EEUU,False,39.96,51,14,4.1,10
+ET300363,Ceramica,EEUU,True,42.53,62,28,4.3,3
+ET300364,Decoracion,Reino Unido,True,34.62,13,3,4.4,12
+ET300365,Boda,Canada,True,77.91,72,46,4.3,4
+ET300366,Boda,EEUU,False,99.39,37,12,4.6,1
+ET300367,Ropa,Espana,True,71.74,8,2,5.0,8
+ET300368,Joyeria,EEUU,True,47.38,27,3,5.0,13
+ET300369,Papeleria,EEUU,True,14.36,151,59,4.8,11
+ET300370,Arte,Australia,True,69.09,209,38,5.0,5
+ET300371,Juguetes,EEUU,True,29.9,72,50,4.5,6
+ET300372,Arte,EEUU,False,62.98,8,2,4.1,9
+ET300373,Arte,Canada,True,63.22,56,12,4.9,4
+ET300374,Velas,EEUU,False,25.02,84,30,4.0,12
+ET300375,Joyeria,EEUU,True,27.34,73,20,4.4,5
+ET300376,Papeleria,EEUU,False,11.2,78,5,4.8,4
+ET300377,Papeleria,EEUU,False,12.71,49,17,4.6,2
+ET300378,Arte,Reino Unido,True,77.32,30,6,4.5,10
+ET300379,Ropa,EEUU,True,35.04,16,5,4.2,1
+ET300380,Joyeria,Alemania,True,32.08,4,2,4.6,12
+ET300381,Ceramica,Espana,False,62.75,48,26,4.9,14
+ET300382,Ceramica,EEUU,True,41.32,40,23,4.6,2
+ET300383,Ropa,EEUU,True,47.36,61,23,4.4,2
+ET300384,Joyeria,EEUU,True,32.58,7,2,4.2,14
+ET300385,Decoracion,EEUU,False,25.63,67,11,4.4,2
+ET300386,Joyeria,EEUU,True,49.86,317,140,4.7,6
+ET300387,Velas,Alemania,True,14.73,36,21,4.7,13
+ET300388,Ceramica,EEUU,False,24.76,30,12,4.4,2
+ET300389,Decoracion,Reino Unido,True,27.65,46,35,3.9,10
+ET300390,Papeleria,Canada,False,9.97,309,116,4.7,6
+ET300391,Decoracion,Alemania,True,42.89,10,5,4.3,7
+ET300392,Arte,EEUU,True,53.77,41,8,4.8,14
+ET300393,Juguetes,EEUU,False,19.23,13,6,4.4,10
+ET300394,Papeleria,Australia,True,19.22,18,6,4.3,5
+ET300395,Velas,EEUU,True,20.62,31,11,4.6,14
+ET300396,Joyeria,Canada,True,31.77,145,73,5.0,9
+ET300397,Decoracion,Canada,True,49.48,240,73,4.8,2
+ET300398,Ropa,Reino Unido,True,44.78,54,25,4.6,6
+ET300399,Ropa,EEUU,True,15.06,21,8,4.7,4
+ET300400,Ceramica,EEUU,True,41.49,513,112,4.1,9
+ET300401,Papeleria,Reino Unido,True,6.27,20,3,4.3,13
+ET300402,Ropa,Reino Unido,True,35.51,17,9,3.8,1
+ET300403,Ceramica,Alemania,True,47.91,4,1,5.0,11
+ET300404,Boda,Canada,True,83.56,153,60,5.0,13
+ET300405,Boda,Espana,True,88.45,96,36,4.7,14
+ET300406,Arte,Australia,False,65.07,473,206,4.6,10
+ET300407,Decoracion,Alemania,True,34.38,7,3,4.1,5
+ET300408,Ceramica,EEUU,True,58.28,164,55,4.5,3
+ET300409,Joyeria,EEUU,True,22.67,35,7,5.0,14
+ET300410,Decoracion,Canada,False,41.98,80,41,4.6,6
+ET300411,Ropa,Reino Unido,True,51.93,5,1,4.4,5
+ET300412,Ropa,EEUU,True,28.0,166,91,4.1,11
+ET300413,Decoracion,Reino Unido,True,57.97,78,31,5.0,11
+ET300414,Joyeria,EEUU,True,36.71,31,7,4.6,12
+ET300415,Papeleria,EEUU,False,10.24,67,25,4.1,13
+ET300416,Ceramica,Alemania,False,70.86,14,7,4.3,13
+ET300417,Decoracion,EEUU,True,55.54,17,2,4.2,3
+ET300418,Ropa,Reino Unido,False,36.46,19,2,4.6,3
+ET300419,Boda,Reino Unido,True,40.54,4,0,4.7,3
+ET300420,Ceramica,Reino Unido,True,34.04,85,33,4.4,9
+ET300421,Papeleria,EEUU,False,12.1,122,60,4.8,9
+ET300422,Papeleria,Reino Unido,True,18.64,15,3,4.6,13
+ET300423,Juguetes,EEUU,True,15.01,48,9,4.9,12
+ET300424,Arte,Canada,True,71.48,24,14,4.5,12
+ET300425,Decoracion,EEUU,False,25.56,47,29,5.0,2
+ET300426,Velas,Australia,True,16.59,16,7,4.4,10
+ET300427,Velas,Alemania,True,18.81,12,7,4.3,12
+ET300428,Joyeria,EEUU,True,74.46,105,15,4.3,14
+ET300429,Papeleria,EEUU,True,8.65,30,6,4.5,5
+ET300430,Joyeria,EEUU,True,50.45,306,48,4.1,11
+ET300431,Papeleria,Alemania,False,15.93,34,13,4.7,6
+ET300432,Velas,Canada,False,21.22,11,4,4.0,3
+ET300433,Decoracion,Canada,False,44.04,127,25,4.6,5
+ET300434,Arte,Espana,False,71.68,66,30,4.2,4
+ET300435,Decoracion,Reino Unido,True,39.5,73,24,4.5,13
+ET300436,Juguetes,Canada,True,39.36,122,44,4.8,3
+ET300437,Ceramica,Reino Unido,True,39.99,16,6,5.0,2
+ET300438,Joyeria,Canada,True,44.04,28,10,4.3,9
+ET300439,Arte,Reino Unido,False,46.37,27,9,4.6,9
+ET300440,Ceramica,Alemania,True,46.86,8,1,4.4,8
+ET300441,Ropa,EEUU,False,22.8,24,4,4.3,3
+ET300442,Decoracion,EEUU,True,50.38,144,19,4.4,7
+ET300443,Boda,EEUU,True,98.04,42,10,4.8,14
+ET300444,Boda,Australia,True,53.32,7,3,4.5,2
+ET300445,Juguetes,Reino Unido,True,20.33,5,1,5.0,12
+ET300446,Ropa,EEUU,True,22.41,206,64,4.7,2
+ET300447,Ceramica,EEUU,True,43.79,29,12,4.3,4
+ET300448,Boda,Reino Unido,True,29.08,16,5,4.5,13
+ET300449,Ropa,Espana,False,24.29,24,6,4.4,5
+ET300450,Ceramica,Australia,True,52.56,6,2,4.8,8
+ET300451,Ceramica,Espana,True,81.35,158,66,4.1,6
+ET300452,Boda,Espana,False,169.19,21,10,4.2,9
+ET300453,Joyeria,EEUU,True,22.14,149,41,4.4,6
+ET300454,Juguetes,EEUU,False,39.06,35,11,4.8,7
+ET300455,Boda,Reino Unido,False,60.63,159,54,5.0,12
+ET300456,Decoracion,Canada,True,39.53,43,10,5.0,8
+ET300457,Juguetes,EEUU,True,26.16,84,25,4.8,8
+ET300458,Velas,Alemania,True,18.45,73,34,4.6,12
+ET300459,Joyeria,EEUU,False,29.26,65,14,4.8,6
+ET300460,Papeleria,EEUU,False,12.74,48,22,4.3,12
+ET300461,Decoracion,EEUU,True,24.01,25,4,4.0,11
+ET300462,Papeleria,Espana,True,8.09,272,113,4.7,13
+ET300463,Arte,Alemania,True,77.92,12,4,4.3,7
+ET300464,Joyeria,Reino Unido,True,25.07,33,17,4.6,8
+ET300465,Ceramica,Alemania,False,37.82,33,9,4.6,2
+ET300466,Decoracion,Alemania,True,42.14,51,13,4.7,2
+ET300467,Juguetes,EEUU,True,30.24,20,3,4.9,2
+ET300468,Decoracion,Alemania,True,45.14,46,18,4.8,9
+ET300469,Ceramica,EEUU,False,36.92,27,12,4.7,5
+ET300470,Papeleria,Reino Unido,False,24.5,5,1,4.5,5
+ET300471,Velas,EEUU,True,33.85,33,13,4.6,9
+ET300472,Arte,EEUU,True,73.12,9,3,4.4,6
+ET300473,Boda,Reino Unido,True,81.19,4,1,4.5,2
+ET300474,Juguetes,EEUU,True,36.16,38,13,5.0,8
+ET300475,Velas,Reino Unido,True,28.29,56,26,4.7,8
+ET300476,Velas,Canada,True,23.01,59,21,4.7,2
+ET300477,Joyeria,Canada,True,35.57,61,47,4.4,4
+ET300478,Juguetes,EEUU,True,27.08,3,1,4.9,4
+ET300479,Joyeria,EEUU,True,18.05,7,2,4.8,10
+ET300480,Ropa,EEUU,True,46.32,290,42,4.8,4
+ET300481,Velas,Espana,False,10.47,10,3,4.7,1
+ET300482,Ropa,Espana,True,25.47,64,32,4.9,4
+ET300483,Velas,EEUU,False,30.32,15,3,5.0,7
+ET300484,Boda,Canada,True,76.97,36,14,4.7,11
+ET300485,Ropa,Reino Unido,True,63.45,16,5,4.6,1
+ET300486,Arte,Australia,True,53.82,61,44,4.9,13
+ET300487,Boda,EEUU,True,34.69,38,10,4.3,5
+ET300488,Papeleria,Reino Unido,True,13.62,20,12,4.4,5
+ET300489,Juguetes,Reino Unido,True,22.92,10,3,4.6,1
+ET300490,Ceramica,EEUU,False,49.54,44,17,4.1,4
+ET300491,Velas,EEUU,True,28.33,8,2,4.8,7
+ET300492,Papeleria,EEUU,True,12.98,52,11,4.3,9
+ET300493,Juguetes,Reino Unido,True,25.33,595,137,4.5,11
+ET300494,Ropa,Canada,True,23.57,146,46,4.5,8
+ET300495,Arte,Canada,False,71.84,72,30,4.6,2
+ET300496,Decoracion,EEUU,False,42.05,30,17,4.5,6
+ET300497,Arte,Espana,True,44.45,3,0,4.6,11
+ET300498,Ceramica,EEUU,True,43.68,7,4,4.6,9
+ET300499,Arte,Australia,True,55.74,135,83,4.5,9
+ET300500,Decoracion,EEUU,True,37.7,13,5,4.4,8
+ET300501,Juguetes,Alemania,False,44.68,15,5,4.9,8
+ET300502,Ceramica,Espana,False,46.15,27,12,4.0,14
+ET300503,Velas,Alemania,True,16.33,10,1,4.5,9
+ET300504,Ropa,Alemania,True,15.13,8,1,4.5,9
+ET300505,Boda,EEUU,True,38.46,31,9,4.7,5
+ET300506,Boda,Canada,True,49.51,12,3,4.2,7
+ET300507,Ropa,Reino Unido,True,26.6,14,6,4.5,10
+ET300508,Ropa,EEUU,True,60.83,14,4,4.6,13
+ET300509,Ropa,Australia,False,32.77,58,39,4.9,11
+ET300510,Ceramica,EEUU,True,80.36,25,4,4.7,10
+ET300511,Papeleria,EEUU,True,15.37,27,10,4.2,11
+ET300512,Velas,Espana,True,18.27,63,19,4.5,1
+ET300513,Velas,EEUU,True,17.37,28,15,4.9,4
+ET300514,Ceramica,EEUU,False,48.07,24,16,4.2,4
+ET300515,Joyeria,EEUU,True,55.69,55,12,4.6,10
+ET300516,Velas,Alemania,False,7.12,69,8,4.6,11
+ET300517,Joyeria,Espana,False,12.57,28,8,4.5,3
+ET300518,Boda,EEUU,True,44.26,36,14,5.0,3
+ET300519,Juguetes,Canada,True,22.13,14,3,4.5,7
+ET300520,Arte,Reino Unido,False,79.07,12,3,4.7,14
+ET300521,Decoracion,Canada,True,50.75,77,23,4.4,1
+ET300522,Decoracion,Canada,True,36.02,54,30,4.8,13
+ET300523,Velas,Australia,False,27.06,54,8,4.9,3
+ET300524,Ropa,EEUU,False,52.85,45,11,4.4,4
+ET300525,Ropa,EEUU,True,37.67,34,11,4.6,9
+ET300526,Ceramica,Reino Unido,True,70.55,71,28,4.3,11
+ET300527,Decoracion,EEUU,True,46.84,92,51,4.3,13
+ET300528,Ceramica,Reino Unido,False,38.34,90,30,4.9,1
+ET300529,Ceramica,EEUU,True,63.45,29,8,4.4,1
+ET300530,Juguetes,EEUU,True,23.0,152,24,3.9,7
+ET300531,Decoracion,Australia,True,42.02,42,15,5.0,8
+ET300532,Decoracion,EEUU,False,75.71,66,18,4.4,4
+ET300533,Ropa,Reino Unido,False,13.13,45,2,4.5,9
+ET300534,Juguetes,Alemania,True,12.48,43,24,5.0,4
+ET300535,Decoracion,EEUU,True,26.12,14,7,4.6,14
+ET300536,Boda,EEUU,False,47.56,71,45,4.6,3
+ET300537,Decoracion,EEUU,False,37.93,757,377,4.2,10
+ET300538,Boda,Reino Unido,True,30.1,21,9,4.1,8
+ET300539,Joyeria,EEUU,True,18.88,35,14,4.6,2
+ET300540,Papeleria,Canada,True,10.63,20,8,4.7,9
+ET300541,Joyeria,EEUU,True,74.83,19,6,4.7,3
+ET300542,Decoracion,EEUU,True,86.35,181,64,4.5,8
+ET300543,Decoracion,EEUU,True,35.62,15,8,4.6,9
+ET300544,Velas,EEUU,True,15.56,19,8,4.0,2
+ET300545,Joyeria,EEUU,False,17.68,5,1,4.7,4
+ET300546,Arte,Australia,True,27.97,14,0,4.6,5
+ET300547,Juguetes,EEUU,True,21.0,5,1,5.0,13
+ET300548,Boda,Reino Unido,True,36.9,66,31,4.6,4
+ET300549,Papeleria,Reino Unido,True,14.5,720,452,4.3,13
+ET300550,Velas,Canada,True,9.49,22,8,4.6,8
+ET300551,Arte,Canada,True,44.24,5,0,4.5,14
+ET300552,Velas,EEUU,True,19.1,89,29,4.7,12
+ET300553,Ropa,Canada,True,40.52,14,6,4.6,5
+ET300554,Ceramica,EEUU,False,56.72,138,44,4.2,8
+ET300555,Boda,Alemania,True,32.43,24,9,4.1,11
+ET300556,Papeleria,EEUU,False,21.11,16,4,4.7,2
+ET300557,Velas,Canada,False,13.07,27,6,5.0,10
+ET300558,Velas,Canada,False,23.19,76,38,4.6,7
+ET300559,Velas,Canada,True,17.92,25,6,4.8,1
+ET300560,Boda,EEUU,True,31.71,19,1,4.9,13
+ET300561,Joyeria,Canada,True,24.67,26,6,4.7,4
+ET300562,Boda,Alemania,True,63.66,8,2,4.4,13
+ET300563,Decoracion,Reino Unido,True,53.67,51,26,4.7,3
+ET300564,Ceramica,EEUU,False,45.37,4,1,5.0,8
+ET300565,Ropa,EEUU,True,64.59,20,8,4.8,6
+ET300566,Ropa,EEUU,False,52.37,76,16,4.8,13
+ET300567,Ropa,Alemania,True,31.59,46,14,4.5,14
+ET300568,Juguetes,EEUU,True,29.7,63,35,4.5,11
+ET300569,Juguetes,Canada,True,47.68,30,12,4.6,12
+ET300570,Ceramica,Alemania,True,105.15,119,58,4.6,11
+ET300571,Arte,Canada,True,36.71,91,32,5.0,5
+ET300572,Ropa,Canada,True,24.16,54,22,3.9,13
+ET300573,Joyeria,Canada,True,50.71,91,39,4.6,8
+ET300574,Joyeria,Reino Unido,True,18.34,75,20,4.6,5
+ET300575,Arte,EEUU,True,35.35,20,2,4.2,3
+ET300576,Ceramica,Espana,False,39.52,7,1,4.8,10
+ET300577,Boda,Australia,True,65.07,52,12,4.4,4
+ET300578,Ceramica,Reino Unido,True,46.07,60,25,4.5,10
+ET300579,Joyeria,Australia,True,21.58,109,44,5.0,1
+ET300580,Joyeria,Australia,True,21.38,11,2,4.9,9
+ET300581,Velas,Reino Unido,True,13.54,12,3,4.8,9
+ET300582,Joyeria,Alemania,True,19.7,54,23,4.7,8
+ET300583,Joyeria,Canada,False,69.75,30,12,4.6,10
+ET300584,Arte,EEUU,True,67.58,4,1,5.0,14
+ET300585,Ceramica,EEUU,True,68.44,50,19,4.8,12
+ET300586,Papeleria,Reino Unido,True,12.33,4,2,4.4,7
+ET300587,Joyeria,Alemania,True,25.99,11,1,4.2,13
+ET300588,Velas,EEUU,True,13.53,146,36,4.8,14
+ET300589,Velas,Alemania,True,6.23,246,93,4.6,3
+ET300590,Velas,Canada,True,10.37,8,2,4.2,6
+ET300591,Ceramica,Canada,True,23.27,23,11,4.7,11
+ET300592,Ropa,EEUU,False,14.23,34,25,4.5,8
+ET300593,Ceramica,Reino Unido,True,29.76,234,131,4.8,2
+ET300594,Ropa,EEUU,True,59.46,19,7,4.7,7
+ET300595,Velas,EEUU,True,17.68,19,1,4.4,6
+ET300596,Juguetes,EEUU,True,36.87,181,41,4.8,11
+ET300597,Velas,EEUU,True,21.22,21,8,4.5,8
+ET300598,Juguetes,EEUU,True,30.09,73,25,4.5,2
+ET300599,Juguetes,Reino Unido,False,15.34,6,3,4.4,1
+ET300600,Juguetes,Reino Unido,True,27.13,27,14,4.9,5
+ET300601,Velas,EEUU,True,24.09,5,2,4.5,3
+ET300602,Papeleria,Espana,False,11.91,10,2,5.0,13
+ET300603,Decoracion,Reino Unido,False,52.54,83,12,5.0,4
+ET300604,Velas,Australia,True,22.58,31,7,4.4,9
+ET300605,Boda,Canada,True,44.15,23,6,3.7,2
+ET300606,Ropa,EEUU,True,22.34,14,4,4.9,7
+ET300607,Boda,Espana,False,34.25,25,8,4.5,14
+ET300608,Ceramica,Espana,True,49.69,46,9,4.3,10
+ET300609,Velas,Canada,False,20.52,97,36,4.4,5
+ET300610,Velas,Reino Unido,True,13.11,1,0,4.5,11
+ET300611,Boda,Reino Unido,False,55.59,13,2,5.0,8
+ET300612,Velas,Reino Unido,True,22.61,39,13,4.6,4
+ET300613,Arte,Alemania,True,76.83,29,6,5.0,14
+ET300614,Papeleria,Reino Unido,True,27.9,51,8,4.7,14
+ET300615,Juguetes,EEUU,True,36.67,44,28,4.5,8
+ET300616,Ropa,EEUU,True,23.45,23,9,4.5,1
+ET300617,Ropa,EEUU,True,68.63,18,4,4.8,6
+ET300618,Joyeria,EEUU,True,22.64,25,11,4.8,8
+ET300619,Decoracion,EEUU,True,63.79,117,56,4.9,14
+ET300620,Arte,Espana,False,61.65,14,5,4.5,11
+ET300621,Boda,EEUU,False,46.64,30,17,4.7,4
+ET300622,Decoracion,EEUU,True,20.38,40,8,4.8,8
+ET300623,Arte,EEUU,True,56.02,184,59,4.5,3
+ET300624,Juguetes,Reino Unido,True,11.79,23,12,4.3,7
+ET300625,Ropa,Canada,False,51.54,95,24,4.4,8
+ET300626,Arte,Reino Unido,True,110.06,128,79,4.5,8
+ET300627,Arte,Australia,True,43.62,30,9,4.8,6
+ET300628,Boda,Australia,False,62.06,26,8,5.0,7
+ET300629,Arte,Alemania,False,44.89,23,6,4.2,12
+ET300630,Papeleria,Alemania,True,11.67,24,7,4.4,8
+ET300631,Ropa,EEUU,True,47.71,84,18,4.5,1
+ET300632,Arte,Reino Unido,True,59.08,42,18,4.8,11
+ET300633,Arte,EEUU,False,120.33,42,20,4.4,9
+ET300634,Decoracion,Alemania,True,34.63,9,2,4.5,10
+ET300635,Papeleria,EEUU,True,22.37,11,7,4.2,10
+ET300636,Ropa,EEUU,True,36.39,349,157,4.7,3
+ET300637,Ropa,EEUU,True,48.12,27,2,4.6,14
+ET300638,Velas,Canada,True,15.05,14,4,4.4,14
+ET300639,Ceramica,Canada,True,47.06,159,99,4.5,3
+ET300640,Papeleria,EEUU,False,14.32,45,12,4.9,4
+ET300641,Ceramica,Reino Unido,False,34.36,62,7,4.3,4
+ET300642,Velas,EEUU,True,23.46,28,16,4.3,14
+ET300643,Boda,Alemania,False,71.34,23,8,5.0,14
+ET300644,Papeleria,EEUU,True,19.02,27,10,4.6,4
+ET300645,Ropa,EEUU,True,64.72,7,1,4.8,9
+ET300646,Boda,Canada,True,98.21,30,13,4.7,4
+ET300647,Boda,Reino Unido,False,47.34,45,12,4.6,1
+ET300648,Ceramica,Alemania,False,55.72,253,19,4.5,4
+ET300649,Velas,Reino Unido,False,14.03,36,17,4.8,2
+ET300650,Boda,Australia,False,55.52,2,0,4.9,12
+ET300651,Juguetes,EEUU,False,17.31,29,8,4.9,11
+ET300652,Decoracion,EEUU,True,80.29,674,332,4.2,3
+ET300653,Velas,Australia,False,20.82,85,23,5.0,8
+ET300654,Boda,EEUU,True,50.41,13,2,4.5,3
+ET300655,Boda,Alemania,True,88.66,63,33,4.4,8
+ET300656,Papeleria,EEUU,True,6.3,14,8,4.5,13
+ET300657,Juguetes,Reino Unido,True,9.83,7,3,4.8,13
+ET300658,Joyeria,EEUU,True,38.5,22,7,4.8,12
+ET300659,Ropa,Reino Unido,True,35.86,36,17,4.5,4
+ET300660,Decoracion,Alemania,True,46.43,4,1,4.9,3
+ET300661,Papeleria,EEUU,True,8.82,9,1,4.6,3
+ET300662,Joyeria,EEUU,False,27.74,33,11,4.4,2
+ET300663,Decoracion,EEUU,True,93.6,21,6,4.4,9
+ET300664,Juguetes,EEUU,True,30.59,51,22,4.7,10
+ET300665,Papeleria,EEUU,True,16.05,8,5,4.6,13
+ET300666,Boda,Australia,True,46.14,72,24,4.2,2
+ET300667,Velas,EEUU,True,15.37,9,4,4.9,4
+ET300668,Ceramica,EEUU,False,20.48,201,79,4.5,11
+ET300669,Decoracion,Reino Unido,True,46.56,5,2,5.0,10
+ET300670,Ceramica,EEUU,True,67.32,9,4,4.2,6
+ET300671,Juguetes,EEUU,False,11.71,52,9,4.5,3
+ET300672,Juguetes,Canada,True,16.89,206,68,4.4,7
+ET300673,Joyeria,Canada,False,17.62,46,10,4.3,3
+ET300674,Juguetes,Alemania,True,14.95,61,24,4.5,8
+ET300675,Papeleria,EEUU,False,15.32,33,18,5.0,13
+ET300676,Juguetes,Canada,False,9.56,10,3,4.6,3
+ET300677,Joyeria,Espana,False,35.8,19,6,4.4,2
+ET300678,Boda,Espana,True,74.36,8,4,4.1,11
+ET300679,Ceramica,Australia,False,43.41,8,2,4.1,1
+ET300680,Papeleria,EEUU,False,5.56,51,28,4.4,14
+ET300681,Decoracion,Australia,True,28.19,9,3,4.4,11
+ET300682,Ceramica,Alemania,False,78.6,47,22,4.5,6
+ET300683,Ceramica,Alemania,False,15.8,7,3,3.9,6
+ET300684,Decoracion,Canada,True,36.55,45,10,4.6,6
+ET300685,Velas,Australia,False,11.23,19,3,4.9,6
+ET300686,Arte,Reino Unido,True,82.78,155,60,5.0,12
+ET300687,Juguetes,Alemania,True,16.79,47,15,4.0,12
+ET300688,Boda,Canada,True,64.65,128,44,4.4,3
+ET300689,Velas,Alemania,True,22.57,14,8,4.3,3
+ET300690,Ceramica,Alemania,False,100.05,35,18,4.6,8
+ET300691,Velas,EEUU,True,16.6,11,4,4.2,10
+ET300692,Ceramica,EEUU,True,55.79,21,1,5.0,11
+ET300693,Ceramica,EEUU,True,26.5,24,11,4.6,5
+ET300694,Joyeria,Alemania,True,45.08,14,4,4.6,7
+ET300695,Ropa,Canada,False,25.82,8,3,5.0,2
+ET300696,Papeleria,Alemania,False,11.99,6,0,4.6,7
+ET300697,Juguetes,Alemania,True,21.81,2,0,4.7,10
+ET300698,Joyeria,Reino Unido,True,14.99,10,3,4.4,5
+ET300699,Joyeria,EEUU,True,30.68,66,26,4.2,5
+ET300700,Boda,Canada,True,80.99,5,1,4.4,7
+ET300701,Juguetes,Espana,True,24.73,7,4,5.0,13
+ET300702,Decoracion,Canada,True,22.24,237,74,4.8,9
+ET300703,Decoracion,Espana,True,39.97,16,7,4.7,13
+ET300704,Decoracion,Australia,True,56.51,47,10,4.3,1
+ET300705,Juguetes,EEUU,True,10.38,67,28,4.9,12
+ET300706,Joyeria,Alemania,True,18.22,68,30,4.2,1
+ET300707,Juguetes,Reino Unido,False,31.24,6,2,4.1,5
+ET300708,Boda,Reino Unido,False,61.27,25,10,4.4,6
+ET300709,Boda,EEUU,True,64.85,5,2,5.0,4
+ET300710,Papeleria,EEUU,False,31.56,488,185,5.0,14
+ET300711,Boda,EEUU,False,66.34,5,2,4.5,13
+ET300712,Papeleria,Canada,True,19.52,10,3,4.4,8
+ET300713,Papeleria,EEUU,True,44.36,10,2,4.1,7
+ET300714,Ceramica,EEUU,True,44.07,6,2,4.6,11
+ET300715,Velas,Reino Unido,False,13.08,146,96,4.6,10
+ET300716,Boda,EEUU,True,65.26,475,82,4.8,7
+ET300717,Boda,Espana,True,65.56,19,11,4.9,12
+ET300718,Ropa,Reino Unido,True,28.35,7,1,4.5,3
+ET300719,Juguetes,EEUU,True,14.56,2,0,4.8,4
+ET300720,Decoracion,Australia,False,105.81,25,6,4.4,1
+ET300721,Ceramica,Espana,True,54.7,23,11,4.8,2
+ET300722,Velas,Canada,False,13.43,16,8,4.4,3
+ET300723,Decoracion,Alemania,False,60.58,42,15,4.7,9
+ET300724,Velas,EEUU,False,17.23,51,28,4.7,12
+ET300725,Decoracion,Alemania,True,37.96,47,23,4.6,9
+ET300726,Papeleria,EEUU,False,18.78,23,9,4.8,7
+ET300727,Joyeria,Reino Unido,True,16.7,9,2,4.1,4
+ET300728,Boda,EEUU,True,63.33,68,27,4.3,2
+ET300729,Juguetes,Alemania,False,47.29,33,10,4.5,9
+ET300730,Papeleria,EEUU,True,18.07,87,24,4.2,2
+ET300731,Arte,EEUU,True,51.62,78,18,4.5,12
+ET300732,Ceramica,EEUU,True,39.19,6,1,4.5,6
+ET300733,Papeleria,Alemania,False,12.73,6,1,5.0,5
+ET300734,Decoracion,EEUU,True,37.94,14,2,4.6,1
+ET300735,Papeleria,Reino Unido,True,12.9,10,2,4.9,4
+ET300736,Papeleria,EEUU,False,21.64,76,15,4.7,1
+ET300737,Arte,Alemania,True,30.0,48,27,4.4,11
+ET300738,Papeleria,EEUU,True,21.18,110,25,4.6,7
+ET300739,Ceramica,Australia,True,41.24,51,23,4.8,12
+ET300740,Velas,EEUU,False,20.93,41,3,5.0,8
+ET300741,Papeleria,EEUU,True,9.56,123,70,4.6,14
+ET300742,Juguetes,EEUU,True,37.43,55,7,4.1,11
+ET300743,Ropa,EEUU,True,57.6,35,18,4.1,3
+ET300744,Velas,Reino Unido,False,26.42,168,63,4.5,2
+ET300745,Arte,EEUU,True,32.73,37,17,3.9,13
+ET300746,Boda,Espana,True,76.63,23,8,5.0,4
+ET300747,Ropa,Reino Unido,False,41.15,13,5,4.8,11
+ET300748,Ropa,EEUU,True,18.42,71,20,4.4,9
+ET300749,Decoracion,Reino Unido,True,41.59,129,60,4.3,10
+ET300750,Ceramica,EEUU,True,55.54,31,20,4.9,4
+ET300751,Decoracion,EEUU,False,52.46,139,6,4.3,5
+ET300752,Joyeria,EEUU,True,30.06,3,1,4.3,8
+ET300753,Ceramica,EEUU,True,53.93,31,14,4.4,1
+ET300754,Boda,EEUU,True,99.16,31,8,4.6,5
+ET300755,Arte,Australia,False,97.98,14,5,4.8,8
+ET300756,Papeleria,Canada,False,4.76,455,253,5.0,3
+ET300757,Arte,Australia,True,52.85,30,10,4.9,5
+ET300758,Decoracion,EEUU,True,39.32,21,6,4.6,14
+ET300759,Papeleria,Espana,False,7.44,34,6,4.9,5
+ET300760,Decoracion,EEUU,True,43.61,3,1,4.4,13
+ET300761,Boda,EEUU,True,90.63,14,1,4.1,13
+ET300762,Ceramica,Alemania,True,31.08,97,27,4.4,10
+ET300763,Ceramica,EEUU,True,54.91,16,4,4.4,3
+ET300764,Arte,EEUU,True,41.6,13,2,4.4,3
+ET300765,Velas,Alemania,True,13.76,139,54,4.3,14
+ET300766,Juguetes,Canada,True,39.73,144,54,4.5,1
+ET300767,Boda,Reino Unido,True,44.27,58,9,4.8,8
+ET300768,Decoracion,EEUU,True,50.53,20,5,5.0,9
+ET300769,Arte,EEUU,True,28.38,25,9,4.1,12
+ET300770,Juguetes,Australia,True,46.34,13,3,4.2,13
+ET300771,Ceramica,EEUU,False,61.08,11,5,4.4,4
+ET300772,Joyeria,EEUU,True,26.03,10,4,4.8,8
+ET300773,Papeleria,EEUU,False,18.88,16,5,4.5,9
+ET300774,Velas,Espana,True,10.24,10,4,4.4,14
+ET300775,Ceramica,Alemania,False,77.03,5,1,4.8,8
+ET300776,Arte,Reino Unido,True,52.71,42,11,4.9,2
+ET300777,Decoracion,Australia,True,38.71,42,6,4.6,13
+ET300778,Ropa,EEUU,True,28.75,215,25,4.4,8
+ET300779,Velas,Espana,True,14.27,15,8,4.7,3
+ET300780,Velas,EEUU,True,23.77,45,12,4.5,3
+ET300781,Juguetes,EEUU,False,24.37,46,31,4.5,3
+ET300782,Decoracion,EEUU,False,54.51,25,7,4.4,11
+ET300783,Decoracion,Australia,True,41.85,75,15,4.9,14
+ET300784,Boda,Espana,False,67.53,77,27,4.7,7
+ET300785,Juguetes,Reino Unido,False,18.61,47,9,4.9,2
+ET300786,Joyeria,EEUU,False,68.31,24,13,5.0,13
+ET300787,Papeleria,EEUU,True,8.01,22,9,4.7,9
+ET300788,Boda,Reino Unido,True,91.08,7,1,4.4,8
+ET300789,Joyeria,EEUU,True,48.39,13,1,4.9,1
+ET300790,Joyeria,EEUU,True,19.91,16,4,4.7,14
+ET300791,Boda,Canada,False,134.16,9,2,5.0,2
+ET300792,Papeleria,Canada,True,22.34,53,8,4.7,9
+ET300793,Velas,Espana,True,26.54,123,94,4.8,9
+ET300794,Arte,Reino Unido,True,60.68,12,1,4.7,8
+ET300795,Ropa,EEUU,False,32.09,45,14,4.6,8
+ET300796,Ceramica,Reino Unido,True,44.14,10,3,4.5,6
+ET300797,Boda,EEUU,True,64.3,23,3,4.7,9
+ET300798,Ropa,Canada,False,61.3,15,1,4.8,6
+ET300799,Arte,Alemania,False,64.51,64,38,4.9,7
+ET300800,Joyeria,EEUU,True,19.45,15,3,4.7,10
+ET300801,Ropa,EEUU,False,48.67,100,21,4.5,11
+ET300802,Boda,Espana,False,79.5,25,5,4.5,3
+ET300803,Ceramica,Reino Unido,True,62.37,16,8,4.2,14
+ET300804,Papeleria,Reino Unido,False,20.21,8,1,5.0,2
+ET300805,Velas,Alemania,True,16.15,43,15,4.4,4
+ET300806,Boda,Reino Unido,True,37.93,88,42,4.9,5
+ET300807,Joyeria,EEUU,True,19.79,44,16,4.7,5
+ET300808,Arte,Alemania,True,31.19,388,110,4.7,5
+ET300809,Ceramica,Australia,True,52.77,159,93,4.6,5
+ET300810,Joyeria,EEUU,True,27.08,23,3,4.4,7
+ET300811,Velas,EEUU,True,15.1,23,15,4.3,11
+ET300812,Papeleria,Canada,True,4.6,55,23,5.0,12
+ET300813,Ropa,Canada,True,21.25,13,2,4.6,5
+ET300814,Velas,EEUU,True,28.18,119,38,4.9,4
+ET300815,Velas,Reino Unido,True,13.8,49,12,5.0,10
+ET300816,Joyeria,Canada,True,32.34,43,16,4.5,1
+ET300817,Joyeria,Reino Unido,True,16.05,70,19,4.7,7
+ET300818,Juguetes,EEUU,False,39.12,220,41,4.6,4
+ET300819,Ceramica,EEUU,True,45.31,39,15,4.3,9
+ET300820,Joyeria,EEUU,False,31.44,29,18,4.5,2
+ET300821,Juguetes,Australia,True,55.78,174,33,4.8,12
+ET300822,Decoracion,Reino Unido,False,77.03,95,51,4.5,4
+ET300823,Juguetes,EEUU,False,19.46,23,9,4.5,8
+ET300824,Juguetes,Espana,False,17.35,33,21,4.5,9
+ET300825,Joyeria,EEUU,True,24.58,41,7,5.0,7
+ET300826,Papeleria,Reino Unido,True,18.39,49,17,4.0,7
+ET300827,Ceramica,EEUU,True,46.02,7,3,4.8,4
+ET300828,Velas,Alemania,True,15.37,6,3,4.5,11
+ET300829,Joyeria,Canada,False,50.35,12,5,4.4,8
+ET300830,Ropa,Alemania,False,33.44,11,3,4.5,4
+ET300831,Ropa,EEUU,True,87.81,16,10,4.8,4
+ET300832,Boda,EEUU,True,57.03,66,28,4.8,7
+ET300833,Decoracion,EEUU,True,85.78,27,14,4.7,12
+ET300834,Velas,Australia,True,20.77,41,24,4.9,14
+ET300835,Papeleria,EEUU,True,22.05,8,3,5.0,6
+ET300836,Velas,Canada,True,13.47,19,10,4.8,6
+ET300837,Decoracion,Canada,False,29.85,63,24,4.4,2
+ET300838,Joyeria,EEUU,True,33.65,63,35,4.7,8
+ET300839,Ceramica,EEUU,True,71.28,14,1,4.7,4
+ET300840,Ropa,EEUU,True,35.57,39,25,4.4,12
+ET300841,Juguetes,Reino Unido,False,13.15,371,68,4.1,8
+ET300842,Ceramica,Australia,True,27.86,32,11,4.0,4
+ET300843,Joyeria,EEUU,True,15.82,15,11,4.6,13
+ET300844,Joyeria,Australia,True,13.81,27,6,4.7,12
+ET300845,Joyeria,EEUU,True,29.25,36,22,4.2,5
+ET300846,Decoracion,EEUU,True,65.87,28,8,4.9,2
+ET300847,Joyeria,Espana,True,27.85,31,7,4.6,4
+ET300848,Velas,Espana,True,7.29,6,2,5.0,6
+ET300849,Juguetes,EEUU,False,20.38,11,4,4.7,6
+ET300850,Ceramica,Canada,True,44.97,28,10,4.3,12
+ET300851,Velas,Espana,True,41.63,27,19,4.7,14
+ET300852,Ceramica,Alemania,True,26.8,17,2,4.8,11
+ET300853,Ropa,Canada,False,29.94,27,9,4.4,12
+ET300854,Ropa,EEUU,False,69.25,35,6,4.2,2
+ET300855,Velas,EEUU,False,21.55,88,46,4.6,3
+ET300856,Ropa,Canada,True,43.85,29,6,4.3,13
+ET300857,Joyeria,Reino Unido,True,29.31,51,24,4.9,9
+ET300858,Papeleria,EEUU,False,17.12,18,9,4.5,4
+ET300859,Velas,EEUU,False,24.57,62,17,5.0,12
+ET300860,Ceramica,EEUU,True,34.72,50,26,4.0,3
+ET300861,Ceramica,Reino Unido,True,68.2,85,23,4.6,11
+ET300862,Decoracion,EEUU,True,24.25,72,10,5.0,13
+ET300863,Papeleria,EEUU,False,17.11,63,12,4.3,7
+ET300864,Velas,EEUU,True,19.33,29,6,4.6,10
+ET300865,Papeleria,Espana,True,11.72,43,17,4.5,11
+ET300866,Velas,Canada,True,17.84,106,61,4.4,13
+ET300867,Velas,EEUU,True,14.03,16,4,4.7,9
+ET300868,Boda,EEUU,True,35.83,16,8,4.2,5
+ET300869,Joyeria,EEUU,True,24.31,40,4,4.6,3
+ET300870,Boda,Canada,False,35.37,52,27,4.8,5
+ET300871,Decoracion,Canada,True,47.79,13,3,4.5,1
+ET300872,Decoracion,Canada,True,26.51,30,8,4.3,10
+ET300873,Decoracion,Canada,True,55.84,29,10,4.9,6
+ET300874,Papeleria,EEUU,True,9.35,2,0,4.8,10
+ET300875,Boda,EEUU,True,43.85,26,10,4.3,1
+ET300876,Boda,EEUU,True,42.84,27,6,4.2,5
+ET300877,Papeleria,Reino Unido,True,25.49,27,10,4.3,6
+ET300878,Boda,EEUU,False,62.77,157,38,4.8,2
+ET300879,Juguetes,Alemania,True,20.21,8,1,4.7,12
+ET300880,Joyeria,EEUU,True,34.18,13,5,4.8,9
+ET300881,Velas,Canada,True,7.75,1,0,4.5,12
+ET300882,Boda,EEUU,False,54.06,19,3,4.3,12
+ET300883,Decoracion,EEUU,True,93.38,21,6,4.9,1
+ET300884,Velas,Canada,False,18.98,18,2,4.4,13
+ET300885,Papeleria,EEUU,False,15.41,111,67,4.7,1
+ET300886,Joyeria,EEUU,True,34.86,85,16,4.1,13
+ET300887,Decoracion,EEUU,True,60.09,36,12,4.4,10
+ET300888,Joyeria,Canada,False,12.59,22,7,4.9,12
+ET300889,Ropa,EEUU,True,17.86,102,61,4.4,7
+ET300890,Joyeria,Australia,True,30.46,32,3,4.8,3
+ET300891,Papeleria,Australia,True,11.27,13,8,3.9,3
+ET300892,Boda,Alemania,True,92.96,5,2,4.4,2
+ET300893,Ceramica,EEUU,True,42.31,20,8,4.5,12
+ET300894,Papeleria,Canada,True,6.92,75,32,5.0,8
+ET300895,Juguetes,EEUU,True,13.25,405,157,4.2,4
+ET300896,Boda,Espana,True,18.31,35,6,4.8,2
+ET300897,Joyeria,Reino Unido,True,25.5,14,5,4.9,2
+ET300898,Joyeria,EEUU,False,25.97,8,3,4.4,4
+ET300899,Juguetes,EEUU,True,18.56,60,29,4.5,11
+ET300900,Joyeria,Alemania,True,43.11,4,1,4.6,13
+ET300901,Joyeria,Espana,True,45.22,60,20,4.2,9
+ET300902,Decoracion,Reino Unido,True,39.23,81,23,4.5,14
+ET300903,Velas,Reino Unido,True,7.66,53,4,5.0,6
+ET300904,Boda,Alemania,True,70.4,26,11,4.8,5
+ET300905,Papeleria,Alemania,True,18.73,61,9,4.6,10
+ET300906,Arte,Alemania,True,67.9,39,8,4.6,2
+ET300907,Decoracion,EEUU,True,62.19,14,1,4.8,13
+ET300908,Arte,Canada,True,37.65,253,48,4.8,11
+ET300909,Joyeria,Espana,True,62.53,22,6,4.4,1
+ET300910,Papeleria,EEUU,True,10.22,77,12,5.0,3
+ET300911,Decoracion,EEUU,True,56.68,2,1,5.0,9
+ET300912,Arte,EEUU,True,30.55,134,12,4.8,11
+ET300913,Ceramica,EEUU,True,33.09,166,47,4.3,4
+ET300914,Juguetes,Alemania,True,40.35,34,6,4.3,11
+ET300915,Boda,EEUU,True,49.55,61,18,4.5,7
+ET300916,Boda,Reino Unido,True,76.96,61,24,4.6,10
+ET300917,Velas,EEUU,False,19.79,16,5,4.1,6
+ET300918,Ropa,Espana,True,33.56,60,28,4.7,7
+ET300919,Juguetes,Alemania,True,37.96,13,8,5.0,6
+ET300920,Velas,Reino Unido,True,16.37,16,1,4.8,3
+ET300921,Juguetes,Canada,False,10.79,114,47,4.4,3
+ET300922,Boda,EEUU,True,39.89,96,61,4.4,3
+ET300923,Decoracion,Espana,True,52.36,15,3,4.7,12
+ET300924,Ropa,Canada,False,41.0,14,3,4.6,6
+ET300925,Ceramica,EEUU,True,25.65,16,4,4.7,6
+ET300926,Boda,Australia,False,41.17,74,26,4.8,12
+ET300927,Ropa,EEUU,True,27.73,11,2,4.9,13
+ET300928,Arte,Canada,True,51.84,49,19,4.3,4
+ET300929,Juguetes,EEUU,True,12.69,75,24,4.7,5
+ET300930,Boda,Canada,True,42.78,30,15,4.5,6
+ET300931,Papeleria,EEUU,False,11.21,100,36,4.6,12
+ET300932,Ropa,EEUU,True,47.65,23,15,4.9,10
+ET300933,Juguetes,Reino Unido,False,30.41,26,6,4.9,8
+ET300934,Arte,Australia,True,56.6,11,6,5.0,4
+ET300935,Ceramica,EEUU,True,41.03,101,15,4.7,6
+ET300936,Decoracion,Canada,False,44.42,14,3,4.6,1
+ET300937,Decoracion,Reino Unido,True,30.3,48,20,4.5,10
+ET300938,Boda,Espana,False,34.76,30,6,4.1,13
+ET300939,Boda,EEUU,True,37.76,10,4,5.0,12
+ET300940,Papeleria,Reino Unido,True,11.64,16,4,4.5,5
+ET300941,Arte,Australia,True,37.67,151,26,4.8,7
+ET300942,Ceramica,EEUU,True,51.21,41,14,4.8,14
+ET300943,Boda,EEUU,True,73.64,10,1,4.2,6
+ET300944,Decoracion,Espana,True,22.26,46,14,4.3,12
+ET300945,Decoracion,EEUU,True,42.42,28,7,5.0,9
+ET300946,Ceramica,EEUU,True,43.96,1479,878,4.7,7
+ET300947,Decoracion,EEUU,False,48.15,45,15,4.4,9
+ET300948,Ceramica,Alemania,True,47.75,21,12,4.6,4
+ET300949,Ropa,Australia,True,19.57,157,32,4.9,6
+ET300950,Joyeria,Canada,False,16.9,4,2,4.9,5
+ET300951,Ropa,Canada,True,35.41,36,15,4.2,11
+ET300952,Juguetes,EEUU,True,33.2,297,73,5.0,9
+ET300953,Arte,EEUU,True,24.75,29,8,4.9,6
+ET300954,Velas,EEUU,True,20.67,4,1,4.6,12
+ET300955,Juguetes,EEUU,True,35.41,21,9,4.2,7
+ET300956,Arte,EEUU,True,56.44,164,33,4.9,14
+ET300957,Juguetes,Canada,True,27.42,50,31,4.7,9
+ET300958,Ceramica,EEUU,True,36.23,13,2,4.2,13
+ET300959,Arte,EEUU,True,57.2,15,1,4.5,14
+ET300960,Decoracion,EEUU,True,21.96,17,4,5.0,5
+ET300961,Arte,EEUU,True,23.49,49,34,4.6,4
+ET300962,Velas,EEUU,True,26.25,144,44,4.4,12
+ET300963,Decoracion,EEUU,False,28.32,105,32,4.3,4
+ET300964,Ceramica,EEUU,True,40.0,54,25,5.0,11
+ET300965,Juguetes,Reino Unido,True,12.63,7,2,4.9,3
+ET300966,Juguetes,Alemania,True,12.52,7,3,5.0,13
+ET300967,Ropa,Espana,True,32.65,59,12,4.7,10
+ET300968,Ceramica,Alemania,True,35.85,7,4,5.0,8
+ET300969,Joyeria,Canada,True,32.57,25,11,4.3,7
+ET300970,Ropa,Espana,False,41.95,46,1,4.6,9
+ET300971,Arte,Reino Unido,True,68.22,9,3,4.7,6
+ET300972,Boda,Canada,False,60.51,10,2,5.0,6
+ET300973,Boda,EEUU,True,103.38,29,11,4.7,3
+ET300974,Decoracion,EEUU,True,27.4,57,10,4.4,3
+ET300975,Ropa,EEUU,True,34.24,106,57,4.6,13
+ET300976,Joyeria,EEUU,True,44.05,64,39,4.1,11
+ET300977,Juguetes,Alemania,False,36.48,35,7,3.9,7
+ET300978,Arte,EEUU,False,33.98,14,6,4.8,12
+ET300979,Juguetes,Canada,False,19.42,10,3,4.5,9
+ET300980,Juguetes,Espana,True,37.87,18,4,4.5,9
+ET300981,Papeleria,Reino Unido,False,18.38,51,17,4.8,2
+ET300982,Boda,EEUU,True,59.47,47,17,5.0,8
+ET300983,Juguetes,EEUU,False,20.17,3,0,4.8,2
+ET300984,Juguetes,EEUU,True,18.87,13,7,5.0,10
+ET300985,Juguetes,Australia,True,24.69,124,44,4.8,1
+ET300986,Juguetes,Canada,True,19.89,36,16,4.7,8
+ET300987,Ropa,Alemania,True,34.41,6,2,4.7,6
+ET300988,Ropa,Reino Unido,True,36.12,442,99,4.2,2
+ET300989,Velas,Canada,False,13.72,32,14,4.9,7
+ET300990,Arte,Alemania,False,74.23,50,16,3.9,3
+ET300991,Boda,EEUU,False,176.45,51,31,4.4,4
+ET300992,Decoracion,EEUU,True,20.63,22,10,4.6,13
+ET300993,Arte,EEUU,True,68.3,14,9,4.4,5
+ET300994,Boda,Reino Unido,True,40.58,341,216,4.5,6
+ET300995,Juguetes,Espana,True,27.72,99,25,5.0,1
+ET300996,Boda,Canada,True,56.03,81,20,4.9,5
+ET300997,Arte,Reino Unido,True,81.38,62,8,4.4,5
+ET300998,Ceramica,Australia,True,76.82,10,2,4.5,11
+ET300999,Boda,EEUU,True,59.4,135,52,4.2,2
+ET301000,Velas,EEUU,True,28.31,13,4,4.8,14
+ET301001,Papeleria,Espana,True,5.87,45,9,4.5,2
+ET301002,Juguetes,Espana,True,41.56,5,1,4.0,10
+ET301003,Velas,Canada,False,20.91,3,1,4.6,1
+ET301004,Decoracion,EEUU,True,64.64,46,16,4.7,12
+ET301005,Ceramica,Australia,False,29.47,13,2,4.9,10
+ET301006,Velas,Alemania,True,12.91,3,1,4.6,12
+ET301007,Boda,Canada,True,58.31,60,22,4.5,14
+ET301008,Papeleria,EEUU,True,14.9,341,111,5.0,12
+ET301009,Boda,Reino Unido,False,61.59,152,34,4.6,9
+ET301010,Ropa,Alemania,True,54.01,24,17,4.8,12
+ET301011,Velas,Espana,True,8.88,33,14,4.4,2
+ET301012,Ropa,Reino Unido,True,51.67,87,20,4.8,10
+ET301013,Ropa,Reino Unido,True,35.12,113,42,4.2,14
+ET301014,Boda,Canada,True,50.69,22,9,4.5,6
+ET301015,Velas,Reino Unido,True,9.99,34,11,4.2,14
+ET301016,Arte,EEUU,True,73.37,46,19,4.4,8
+ET301017,Boda,EEUU,True,20.94,60,12,5.0,7
+ET301018,Joyeria,EEUU,True,36.29,28,8,4.4,5
+ET301019,Decoracion,Alemania,True,23.12,29,12,4.8,2
+ET301020,Joyeria,EEUU,False,28.61,151,88,5.0,13
+ET301021,Joyeria,EEUU,False,26.7,125,31,4.6,11
+ET301022,Velas,Espana,True,28.74,55,24,4.9,6
+ET301023,Velas,Canada,True,16.76,219,109,4.8,14
+ET301024,Velas,EEUU,True,13.64,21,9,4.6,3
+ET301025,Joyeria,EEUU,True,22.86,197,52,4.8,11
+ET301026,Joyeria,Alemania,True,46.59,60,47,5.0,7
+ET301027,Ropa,EEUU,True,43.37,1209,283,4.4,9
+ET301028,Juguetes,Reino Unido,False,18.86,8,2,4.3,1
+ET301029,Arte,Reino Unido,True,54.59,15,3,4.3,9
+ET301030,Boda,EEUU,False,29.38,52,17,4.9,10
+ET301031,Decoracion,Alemania,True,49.06,51,17,4.9,14
+ET301032,Papeleria,EEUU,True,7.42,282,55,4.4,5
+ET301033,Ropa,Reino Unido,False,47.28,15,9,4.0,2
+ET301034,Joyeria,EEUU,True,29.48,89,61,4.4,1
+ET301035,Papeleria,EEUU,False,38.97,118,46,4.8,3
+ET301036,Ceramica,EEUU,True,30.91,71,19,4.6,5
+ET301037,Joyeria,Espana,True,26.87,11,5,4.7,12
+ET301038,Arte,EEUU,True,123.18,155,46,4.4,3
+ET301039,Velas,EEUU,False,28.99,128,61,4.9,3
+ET301040,Papeleria,EEUU,True,11.35,64,16,4.7,1
+ET301041,Velas,Alemania,False,19.69,41,12,4.8,6
+ET301042,Arte,Reino Unido,False,60.05,42,10,4.6,9
+ET301043,Arte,Australia,True,67.16,30,11,4.8,4
+ET301044,Papeleria,Canada,True,11.34,67,23,4.7,7
+ET301045,Decoracion,Reino Unido,True,40.53,34,10,4.3,4
+ET301046,Ropa,Canada,False,18.47,13,6,4.7,12
+ET301047,Juguetes,EEUU,True,23.22,10,3,4.8,1
+ET301048,Papeleria,Australia,True,17.96,14,4,4.9,3
+ET301049,Decoracion,Australia,True,38.35,42,15,4.7,8
+ET301050,Boda,EEUU,True,28.83,32,17,4.3,12
+ET301051,Arte,Canada,False,89.1,41,25,4.4,6
+ET301052,Boda,EEUU,True,63.63,57,14,4.5,1
+ET301053,Ceramica,Reino Unido,True,35.9,16,12,4.7,8
+ET301054,Joyeria,Alemania,True,25.03,166,69,4.6,4
+ET301055,Ceramica,Australia,True,26.34,24,6,4.3,5
+ET301056,Boda,EEUU,True,36.49,20,7,4.3,13
+ET301057,Papeleria,Canada,False,12.1,56,9,4.0,14
+ET301058,Arte,Canada,True,98.07,4,1,3.7,4
+ET301059,Ropa,EEUU,True,27.1,13,5,4.6,9
+ET301060,Papeleria,Canada,False,19.38,97,59,5.0,8
+ET301061,Papeleria,Canada,True,12.09,4,0,5.0,14
+ET301062,Decoracion,Alemania,True,46.38,113,15,4.3,14
+ET301063,Papeleria,Australia,True,14.18,174,62,4.6,5
+ET301064,Papeleria,EEUU,False,21.27,22,7,4.2,1
+ET301065,Arte,EEUU,True,48.44,45,22,4.2,1
+ET301066,Ceramica,EEUU,True,25.59,113,16,4.2,1
+ET301067,Juguetes,EEUU,True,12.66,19,8,4.5,11
+ET301068,Arte,Reino Unido,True,48.5,86,36,4.5,11
+ET301069,Joyeria,Espana,True,16.99,15,10,4.7,12
+ET301070,Papeleria,Reino Unido,True,17.67,19,8,4.8,2
+ET301071,Decoracion,Canada,False,34.86,13,2,4.5,1
+ET301072,Papeleria,EEUU,False,38.78,48,12,4.6,3
+ET301073,Boda,EEUU,True,27.45,118,28,4.3,9
+ET301074,Boda,Alemania,False,59.67,27,10,4.2,1
+ET301075,Decoracion,Canada,False,26.75,8,5,4.2,10
+ET301076,Papeleria,EEUU,True,12.31,10,2,4.8,13
+ET301077,Decoracion,Espana,True,44.44,51,17,4.5,3
+ET301078,Arte,Reino Unido,False,23.67,251,10,4.0,11
+ET301079,Velas,EEUU,True,19.79,51,31,4.6,8
+ET301080,Ceramica,Reino Unido,False,102.76,21,10,4.2,14
+ET301081,Ceramica,Canada,True,40.04,76,32,5.0,4
+ET301082,Ceramica,EEUU,True,53.26,25,6,4.4,4
+ET301083,Juguetes,Espana,False,33.15,21,3,4.8,1
+ET301084,Decoracion,Reino Unido,True,39.33,11,3,4.9,10
+ET301085,Velas,Reino Unido,True,14.27,155,84,4.3,13
+ET301086,Velas,Espana,True,7.24,2,0,4.6,1
+ET301087,Ceramica,Reino Unido,True,62.03,79,10,4.8,7
+ET301088,Juguetes,EEUU,True,21.03,19,9,4.6,11
+ET301089,Decoracion,EEUU,True,28.01,21,8,4.7,11
+ET301090,Boda,EEUU,True,57.86,213,48,4.2,14
+ET301091,Boda,EEUU,True,43.55,15,2,4.8,11
+ET301092,Velas,EEUU,True,14.57,15,8,4.5,13
+ET301093,Arte,Reino Unido,False,76.47,28,10,4.7,14
+ET301094,Ropa,EEUU,True,20.49,52,1,4.9,13
+ET301095,Joyeria,EEUU,True,42.57,20,9,4.8,7
+ET301096,Velas,Reino Unido,True,10.29,5,0,4.7,6
+ET301097,Papeleria,EEUU,True,11.51,12,2,4.8,6
+ET301098,Joyeria,Canada,False,60.42,135,27,4.8,14
+ET301099,Arte,Canada,True,94.19,35,19,5.0,4
+ET301100,Boda,EEUU,True,57.19,54,26,4.6,11
+ET301101,Boda,EEUU,False,37.76,24,8,4.6,9
+ET301102,Ceramica,Reino Unido,False,38.84,16,4,4.9,1
+ET301103,Decoracion,EEUU,False,43.25,209,81,4.5,7
+ET301104,Ropa,Reino Unido,False,35.53,26,9,4.2,3
+ET301105,Decoracion,Alemania,False,40.5,20,7,4.7,11
+ET301106,Ropa,Canada,True,34.57,110,43,4.5,7
+ET301107,Ceramica,Reino Unido,True,44.06,14,5,4.2,5
+ET301108,Ceramica,Australia,True,26.96,17,7,4.8,1
+ET301109,Joyeria,EEUU,True,22.77,33,8,5.0,2
+ET301110,Juguetes,Espana,True,31.72,33,4,4.1,11
+ET301111,Ropa,Alemania,True,20.25,44,12,4.9,13
+ET301112,Decoracion,EEUU,True,38.93,330,55,3.8,5
+ET301113,Ropa,EEUU,False,25.22,47,15,4.5,12
+ET301114,Decoracion,EEUU,False,43.91,2,0,5.0,8
+ET301115,Boda,Australia,True,47.08,47,9,4.5,5
+ET301116,Ceramica,EEUU,True,86.67,34,12,4.6,7
+ET301117,Juguetes,Espana,True,26.94,34,7,4.8,10
+ET301118,Papeleria,Reino Unido,True,8.88,43,16,4.1,13
+ET301119,Boda,Reino Unido,False,71.94,32,6,4.6,7
+ET301120,Joyeria,Canada,False,20.54,31,12,4.6,5
+ET301121,Joyeria,EEUU,False,22.23,64,11,5.0,11
+ET301122,Ropa,EEUU,False,39.68,18,6,4.2,8
+ET301123,Ropa,Australia,False,28.75,11,2,4.5,6
+ET301124,Velas,EEUU,True,25.73,921,259,4.3,7
+ET301125,Velas,Australia,True,13.2,15,6,4.3,8
+ET301126,Velas,Australia,True,14.05,36,7,4.9,2
+ET301127,Juguetes,EEUU,True,16.92,6,0,4.6,1
+ET301128,Juguetes,Reino Unido,True,17.55,37,2,4.4,10
+ET301129,Juguetes,EEUU,True,34.15,11,4,4.4,3
+ET301130,Arte,Canada,False,77.16,20,10,4.4,8
+ET301131,Papeleria,Australia,True,29.73,104,60,4.5,11
+ET301132,Velas,Espana,False,44.59,55,29,4.2,4
+ET301133,Papeleria,Australia,False,9.93,61,16,4.5,6
+ET301134,Juguetes,EEUU,True,22.63,4,3,4.5,14
+ET301135,Joyeria,Reino Unido,True,17.49,249,151,4.4,1
+ET301136,Papeleria,EEUU,True,10.99,8,4,4.6,11
+ET301137,Arte,Espana,True,46.63,177,42,4.7,3
+ET301138,Papeleria,EEUU,True,9.83,101,51,4.4,13
+ET301139,Boda,EEUU,False,36.11,62,24,4.6,6
+ET301140,Velas,EEUU,True,16.99,12,2,5.0,1
+ET301141,Arte,EEUU,True,36.88,39,25,5.0,11
+ET301142,Ceramica,EEUU,True,67.23,19,3,4.3,3
+ET301143,Velas,EEUU,True,12.47,34,6,4.3,6
+ET301144,Ropa,Espana,True,107.68,25,10,4.3,8
+ET301145,Boda,Alemania,True,45.91,3,0,4.9,11
+ET301146,Boda,EEUU,True,56.61,113,28,4.5,6
+ET301147,Papeleria,Alemania,True,8.93,30,7,4.7,13
+ET301148,Papeleria,EEUU,True,29.68,19,9,5.0,7
+ET301149,Velas,Alemania,True,28.17,17,11,4.6,5
+ET301150,Arte,EEUU,True,67.57,49,20,4.8,5
+ET301151,Boda,Reino Unido,True,32.09,12,4,4.8,12
+ET301152,Arte,EEUU,True,65.28,2,0,4.4,10
+ET301153,Ceramica,EEUU,True,30.65,51,18,4.9,2
+ET301154,Ropa,Reino Unido,True,62.82,58,28,4.3,11
+ET301155,Juguetes,Alemania,True,30.41,26,3,5.0,6
+ET301156,Decoracion,Alemania,True,43.63,9,2,4.4,5
+ET301157,Velas,EEUU,True,6.79,36,6,4.5,2
+ET301158,Arte,Reino Unido,True,40.49,6,2,4.3,14
+ET301159,Arte,Alemania,False,79.0,10,4,4.3,1
+ET301160,Juguetes,EEUU,True,35.74,14,5,4.5,14
+ET301161,Boda,EEUU,False,85.71,83,54,3.9,1
+ET301162,Velas,EEUU,True,9.52,22,11,4.5,8
+ET301163,Boda,EEUU,True,62.05,20,1,4.4,2
+ET301164,Boda,EEUU,False,82.56,284,120,4.8,7
+ET301165,Joyeria,EEUU,False,14.42,48,28,4.7,12
+ET301166,Joyeria,Reino Unido,False,27.91,48,22,4.4,9
+ET301167,Arte,Canada,True,66.95,22,13,4.5,8
+ET301168,Ceramica,Alemania,False,42.56,17,7,4.5,2
+ET301169,Ceramica,Canada,True,22.88,2,1,5.0,14
+ET301170,Juguetes,EEUU,True,19.31,96,40,4.4,6
+ET301171,Juguetes,Australia,True,19.3,54,21,4.4,8
+ET301172,Arte,Alemania,False,56.55,27,12,4.3,13
+ET301173,Decoracion,Reino Unido,True,33.52,28,7,4.2,9
+ET301174,Joyeria,EEUU,False,23.45,74,17,4.7,11
+ET301175,Arte,Canada,True,59.05,5,2,4.7,3
+ET301176,Ropa,Reino Unido,False,41.78,17,4,5.0,7
+ET301177,Decoracion,Canada,True,37.18,9,4,4.9,8
+ET301178,Ropa,Alemania,False,29.71,232,155,5.0,3
+ET301179,Joyeria,Espana,True,29.05,86,17,4.6,6
+ET301180,Juguetes,Australia,True,10.2,2,0,4.5,12
+ET301181,Ceramica,Canada,True,58.09,6,1,4.2,14
+ET301182,Papeleria,Australia,True,15.0,28,8,4.8,12
+ET301183,Boda,Espana,True,55.88,19,11,4.6,14
+ET301184,Arte,EEUU,True,88.11,7,3,4.8,14
+ET301185,Ropa,Canada,True,16.03,281,51,4.3,3
+ET301186,Decoracion,EEUU,True,19.07,46,22,4.7,12
+ET301187,Juguetes,EEUU,True,24.55,55,16,4.7,9
+ET301188,Juguetes,EEUU,False,21.94,15,4,4.6,13
+ET301189,Joyeria,Reino Unido,True,29.97,73,21,4.4,9
+ET301190,Arte,EEUU,False,49.87,21,7,5.0,2
+ET301191,Ropa,EEUU,False,45.65,24,10,5.0,8
+ET301192,Decoracion,EEUU,True,60.99,64,23,4.3,11
+ET301193,Papeleria,Canada,True,18.2,5,1,4.8,2
+ET301194,Boda,Espana,True,49.55,191,147,3.7,8
+ET301195,Juguetes,Australia,True,9.47,40,24,4.8,10
+ET301196,Papeleria,Reino Unido,True,20.4,135,75,4.0,7
+ET301197,Ceramica,EEUU,True,78.25,10,5,4.4,12
+ET301198,Velas,Espana,True,23.29,11,3,4.2,2
+ET301199,Juguetes,EEUU,True,15.47,9,2,4.5,5
+ET301200,Velas,Australia,False,23.57,43,27,4.9,14
+ET301201,Boda,Canada,True,77.6,35,17,4.0,8
+ET301202,Ceramica,Reino Unido,True,89.54,19,2,4.5,3
+ET301203,Papeleria,EEUU,False,10.57,10,2,4.4,2
+ET301204,Juguetes,EEUU,True,20.09,8,4,5.0,9
+ET301205,Ceramica,Reino Unido,True,64.72,31,9,4.7,14
+ET301206,Boda,EEUU,False,56.28,19,10,4.2,1
+ET301207,Papeleria,Espana,True,9.59,15,5,4.5,2
+ET301208,Ropa,Canada,True,41.31,181,91,5.0,6
+ET301209,Ceramica,EEUU,True,60.5,30,8,4.8,3
+ET301210,Juguetes,EEUU,False,22.79,133,60,4.3,2
+ET301211,Velas,Reino Unido,True,19.65,18,2,4.5,5
+ET301212,Boda,EEUU,True,49.59,43,23,4.5,9
+ET301213,Velas,Canada,True,32.51,31,15,4.4,12
+ET301214,Joyeria,Canada,True,19.53,5,2,4.1,5
+ET301215,Decoracion,Alemania,True,33.21,159,34,4.4,10
+ET301216,Boda,Reino Unido,False,55.24,28,13,5.0,12
+ET301217,Papeleria,EEUU,False,21.32,75,25,4.5,1
+ET301218,Velas,Alemania,True,9.89,14,3,4.6,12
+ET301219,Arte,Canada,True,35.52,27,11,4.6,3
+ET301220,Juguetes,Canada,True,9.74,12,2,5.0,10
+ET301221,Boda,Reino Unido,True,55.72,128,45,4.6,11
+ET301222,Ceramica,Espana,True,30.69,46,4,4.9,12
+ET301223,Juguetes,EEUU,True,18.86,49,27,4.4,6
+ET301224,Arte,EEUU,True,78.17,147,51,4.5,10
+ET301225,Ceramica,Alemania,True,37.14,118,37,4.6,1
+ET301226,Joyeria,EEUU,True,30.71,76,32,4.4,7
+ET301227,Ceramica,Alemania,True,42.58,6,3,4.5,14
+ET301228,Decoracion,EEUU,True,54.96,15,2,4.9,3
+ET301229,Ropa,EEUU,False,42.33,10,4,4.4,3
+ET301230,Velas,EEUU,False,13.65,73,16,4.6,10
+ET301231,Papeleria,Espana,False,14.02,39,16,4.8,8
+ET301232,Ceramica,Alemania,False,72.87,7,1,4.4,7
+ET301233,Papeleria,EEUU,True,17.56,26,3,4.9,4
+ET301234,Juguetes,EEUU,False,12.58,6,1,4.6,3
+ET301235,Arte,EEUU,True,77.99,31,7,4.6,11
+ET301236,Joyeria,EEUU,True,18.14,5,2,4.0,6
+ET301237,Decoracion,Alemania,True,73.9,59,16,4.5,11
+ET301238,Ropa,EEUU,True,52.72,50,26,4.7,7
+ET301239,Joyeria,EEUU,True,31.44,270,87,5.0,6
+ET301240,Boda,EEUU,True,58.57,84,24,4.8,4
+ET301241,Papeleria,Reino Unido,True,13.8,20,11,4.9,10
+ET301242,Ceramica,Canada,False,62.97,81,12,4.2,4
+ET301243,Boda,Canada,True,47.42,7,2,4.6,13
+ET301244,Velas,Reino Unido,True,19.78,11,2,5.0,6
+ET301245,Ceramica,Australia,False,68.03,47,18,4.3,12
+ET301246,Velas,Reino Unido,True,14.38,3,1,4.9,7
+ET301247,Boda,Espana,True,42.99,31,12,4.8,6
+ET301248,Ropa,Canada,True,21.71,10,3,4.7,7
+ET301249,Ceramica,EEUU,True,31.36,37,5,4.5,7
+ET301250,Ropa,Alemania,True,16.84,10,3,4.3,7
+ET301251,Arte,Reino Unido,False,80.34,52,28,5.0,13
+ET301252,Joyeria,Canada,False,57.73,33,10,4.8,10
+ET301253,Velas,EEUU,True,31.83,154,54,4.7,1
+ET301254,Juguetes,EEUU,True,11.48,33,11,4.5,1
+ET301255,Joyeria,Espana,False,37.42,14,8,4.6,1
+ET301256,Decoracion,EEUU,True,74.18,25,3,4.6,10
+ET301257,Boda,EEUU,True,45.81,7,3,4.7,3
+ET301258,Boda,EEUU,True,57.28,51,32,4.8,6
+ET301259,Velas,Reino Unido,True,8.06,63,45,4.4,12
+ET301260,Ropa,Alemania,True,38.94,500,212,4.2,2
+ET301261,Ceramica,Canada,True,31.37,16,4,4.6,3
+ET301262,Boda,Espana,True,59.57,24,13,4.1,2
+ET301263,Velas,Reino Unido,True,9.64,17,5,4.5,4
+ET301264,Ropa,EEUU,True,43.49,41,2,4.4,2
+ET301265,Joyeria,EEUU,True,42.18,50,20,4.7,9
+ET301266,Joyeria,EEUU,False,20.47,31,10,5.0,11
+ET301267,Arte,Alemania,True,38.08,109,76,4.0,3
+ET301268,Ceramica,EEUU,True,20.26,16,3,5.0,8
+ET301269,Joyeria,EEUU,True,25.17,97,23,4.5,5
+ET301270,Arte,Espana,False,47.55,59,42,4.7,2
+ET301271,Joyeria,Reino Unido,True,15.06,32,10,4.2,7
+ET301272,Ceramica,EEUU,False,57.54,23,10,4.9,10
+ET301273,Papeleria,Canada,True,12.53,477,282,4.6,4
+ET301274,Papeleria,Reino Unido,True,9.75,13,3,4.6,12
+ET301275,Papeleria,Espana,True,12.02,45,19,4.0,14
+ET301276,Juguetes,Canada,True,33.77,14,5,4.6,1
+ET301277,Papeleria,EEUU,False,19.09,236,90,4.9,3
+ET301278,Joyeria,EEUU,False,26.58,87,45,4.5,5
+ET301279,Velas,EEUU,True,23.06,15,5,5.0,12
+ET301280,Papeleria,Canada,False,9.43,58,30,4.9,2
+ET301281,Papeleria,Reino Unido,True,15.2,43,19,4.4,7
+ET301282,Arte,Alemania,True,63.64,18,6,5.0,8
+ET301283,Velas,Reino Unido,True,14.92,76,21,4.6,2
+ET301284,Arte,EEUU,True,71.42,50,18,4.6,1
+ET301285,Joyeria,EEUU,False,20.49,41,14,4.6,2
+ET301286,Ceramica,EEUU,True,58.86,31,10,4.6,1
+ET301287,Ropa,EEUU,True,43.65,53,24,3.8,8
+ET301288,Joyeria,Reino Unido,True,8.72,42,18,4.5,14
+ET301289,Juguetes,Australia,True,35.42,35,12,4.2,5
+ET301290,Ropa,EEUU,True,10.34,16,3,5.0,4
+ET301291,Velas,Canada,True,14.07,213,79,5.0,4
+ET301292,Arte,EEUU,True,90.42,10,5,4.9,14
+ET301293,Joyeria,Canada,True,24.66,53,22,4.5,14
+ET301294,Ceramica,EEUU,True,26.7,23,12,4.3,10
+ET301295,Boda,Canada,True,35.51,229,175,4.4,7
+ET301296,Ropa,EEUU,True,52.78,12,4,5.0,3
+ET301297,Papeleria,EEUU,False,6.95,14,6,4.4,14
+ET301298,Boda,Reino Unido,False,86.39,11,3,3.9,1
+ET301299,Joyeria,EEUU,True,27.39,47,33,4.9,3

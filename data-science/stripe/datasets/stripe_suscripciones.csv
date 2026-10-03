@@ -1,0 +1,1501 @@
+cliente_id,plan,sector,pais,canal,mrr_usd,antiguedad_meses,estado,motivo_cancelacion,ltv_usd
+SUB11116,Starter,SaaS B2B,Canadá,Paid Ads,32.86,7,Activo,N/A,230.02
+SUB11368,Starter,Marketplace,Francia,Partner,32.63,5,Activo,N/A,163.15
+SUB10422,Starter,Fintech,Reino Unido,Paid Ads,32.44,29,Activo,N/A,940.76
+SUB10413,Scale,SaaS B2B,Canadá,Paid Ads,320.4,13,Activo,N/A,4165.2
+SUB10451,Starter,Media,Francia,Orgánico,26.28,7,Cancelado,Cierre negocio,183.96
+SUB10861,Growth,Media,EEUU,Orgánico,111.3,11,Cancelado,Precio,1224.3
+SUB11063,Scale,E-commerce,Francia,Paid Ads,307.83,9,Activo,N/A,2770.47
+SUB10741,Starter,Fintech,Francia,Paid Ads,29.58,32,Activo,N/A,946.56
+SUB11272,Scale,SaaS B2B,Alemania,Orgánico,354.37,3,Activo,N/A,1063.11
+SUB10259,Starter,SaaS B2B,EEUU,Partner,29.61,30,Activo,N/A,888.3
+SUB10888,Growth,EdTech,Alemania,Orgánico,101.39,5,Activo,N/A,506.95
+SUB11432,Growth,EdTech,Francia,Partner,110.68,9,Activo,N/A,996.12
+SUB10712,Scale,Media,Alemania,Partner,315.23,2,Activo,N/A,630.46
+SUB11382,Growth,E-commerce,Reino Unido,Referido,113.36,7,Activo,N/A,793.52
+SUB10070,Scale,Marketplace,Francia,Orgánico,305.29,12,Activo,N/A,3663.48
+SUB11268,Growth,Media,España,Orgánico,102.17,37,Activo,N/A,3780.29
+SUB11491,Growth,Marketplace,España,Paid Ads,100.5,19,Cancelado,Competencia,1909.5
+SUB10607,Scale,E-commerce,España,Partner,346.78,13,Activo,N/A,4508.14
+SUB10433,Starter,Marketplace,Francia,Orgánico,33.91,9,Activo,N/A,305.19
+SUB10051,Starter,Media,Canadá,Paid Ads,34.44,3,Activo,N/A,103.32
+SUB11199,Starter,SaaS B2B,Reino Unido,Paid Ads,32.08,27,Cancelado,Precio,866.16
+SUB11128,Starter,Marketplace,EEUU,Orgánico,32.47,12,Activo,N/A,389.64
+SUB11190,Enterprise,SaaS B2B,Alemania,Orgánico,1037.67,8,Activo,N/A,8301.36
+SUB11249,Enterprise,SaaS B2B,Canadá,Orgánico,997.23,28,Activo,N/A,27922.44
+SUB11419,Starter,EdTech,España,Paid Ads,34.44,9,Cancelado,Faltan features,309.96
+SUB10432,Starter,Marketplace,España,Referido,27.99,2,Cancelado,Competencia,55.98
+SUB11452,Starter,Media,Francia,Paid Ads,32.04,19,Activo,N/A,608.76
+SUB11470,Growth,SaaS B2B,Francia,Paid Ads,110.25,8,Activo,N/A,882.0
+SUB11234,Growth,Marketplace,EEUU,Paid Ads,101.72,11,Cancelado,Cierre negocio,1118.92
+SUB11281,Growth,SaaS B2B,Reino Unido,Orgánico,104.69,4,Cancelado,Mal soporte,418.76
+SUB11085,Starter,E-commerce,Francia,Partner,31.29,9,Cancelado,Faltan features,281.61
+SUB10610,Scale,Fintech,Canadá,Orgánico,269.15,4,Activo,N/A,1076.6
+SUB11284,Starter,EdTech,Canadá,Paid Ads,34.61,26,Activo,N/A,899.86
+SUB11041,Growth,EdTech,Alemania,Orgánico,110.54,5,Cancelado,Cierre negocio,552.7
+SUB10220,Starter,EdTech,Francia,Referido,31.53,1,Activo,N/A,31.53
+SUB10339,Starter,EdTech,Canadá,Paid Ads,31.77,5,Activo,N/A,158.85
+SUB10423,Enterprise,SaaS B2B,España,Referido,1012.75,19,Activo,N/A,19242.25
+SUB10428,Scale,E-commerce,España,Paid Ads,347.02,20,Activo,N/A,6940.4
+SUB11105,Growth,Media,Reino Unido,Referido,105.7,5,Cancelado,Faltan features,528.5
+SUB10076,Scale,EdTech,EEUU,Orgánico,300.05,9,Activo,N/A,2700.45
+SUB11391,Enterprise,Media,Francia,Referido,915.91,17,Activo,N/A,15570.47
+SUB10439,Starter,Media,Reino Unido,Referido,31.29,14,Activo,N/A,438.06
+SUB11336,Starter,Media,Francia,Orgánico,34.25,2,Activo,N/A,68.5
+SUB10864,Starter,Marketplace,Francia,Orgánico,31.35,15,Activo,N/A,470.25
+SUB11080,Growth,Fintech,Canadá,Orgánico,117.41,29,Cancelado,Precio,3404.89
+SUB10354,Starter,Media,Canadá,Paid Ads,34.76,2,Cancelado,Mal soporte,69.52
+SUB10365,Starter,Marketplace,Francia,Referido,29.84,7,Activo,N/A,208.88
+SUB10309,Starter,E-commerce,España,Paid Ads,29.36,3,Activo,N/A,88.08
+SUB10736,Enterprise,SaaS B2B,Canadá,Orgánico,951.48,14,Activo,N/A,13320.72
+SUB10998,Scale,Media,Reino Unido,Paid Ads,352.48,9,Activo,N/A,3172.32
+SUB10621,Scale,E-commerce,Reino Unido,Referido,319.5,38,Activo,N/A,12141.0
+SUB10543,Growth,EdTech,España,Partner,92.52,9,Activo,N/A,832.68
+SUB11140,Starter,Fintech,Canadá,Orgánico,28.83,5,Activo,N/A,144.15
+SUB11296,Scale,Media,EEUU,Paid Ads,307.44,27,Activo,N/A,8300.88
+SUB10554,Growth,Media,Canadá,Paid Ads,99.59,9,Activo,N/A,896.31
+SUB10679,Starter,Marketplace,Reino Unido,Referido,31.45,1,Activo,N/A,31.45
+SUB10049,Growth,EdTech,Francia,Orgánico,100.15,17,Activo,N/A,1702.55
+SUB10490,Scale,E-commerce,EEUU,Partner,339.2,5,Activo,N/A,1696.0
+SUB10316,Starter,E-commerce,España,Referido,33.73,14,Activo,N/A,472.22
+SUB10904,Growth,E-commerce,Francia,Orgánico,97.51,30,Activo,N/A,2925.3
+SUB10636,Starter,Media,España,Paid Ads,31.87,10,Activo,N/A,318.7
+SUB10560,Growth,EdTech,EEUU,Referido,108.27,5,Cancelado,Precio,541.35
+SUB10486,Enterprise,Media,EEUU,Orgánico,976.92,10,Activo,N/A,9769.2
+SUB10067,Enterprise,SaaS B2B,Francia,Referido,1197.79,28,Activo,N/A,33538.12
+SUB10811,Growth,Media,EEUU,Referido,117.46,9,Activo,N/A,1057.14
+SUB10493,Growth,Media,Francia,Referido,95.97,6,Activo,N/A,575.82
+SUB10310,Starter,Marketplace,Alemania,Orgánico,31.38,11,Activo,N/A,345.18
+SUB11096,Growth,SaaS B2B,EEUU,Referido,108.57,10,Activo,N/A,1085.7
+SUB11247,Starter,SaaS B2B,España,Paid Ads,33.98,36,Cancelado,Competencia,1223.28
+SUB10184,Growth,SaaS B2B,EEUU,Partner,114.91,7,Cancelado,Competencia,804.37
+SUB10306,Starter,SaaS B2B,España,Referido,31.99,2,Activo,N/A,63.98
+SUB10852,Growth,Fintech,Alemania,Orgánico,104.77,7,Activo,N/A,733.39
+SUB10792,Growth,Marketplace,Francia,Paid Ads,91.79,4,Activo,N/A,367.16
+SUB10289,Growth,EdTech,Canadá,Paid Ads,108.47,12,Activo,N/A,1301.64
+SUB10706,Growth,Fintech,Reino Unido,Orgánico,93.06,21,Activo,N/A,1954.26
+SUB11329,Starter,SaaS B2B,Canadá,Orgánico,33.39,21,Activo,N/A,701.19
+SUB10654,Starter,Marketplace,Reino Unido,Orgánico,29.75,19,Activo,N/A,565.25
+SUB10522,Growth,Media,Reino Unido,Orgánico,114.33,9,Cancelado,Precio,1028.97
+SUB10461,Growth,SaaS B2B,Alemania,Orgánico,93.35,24,Activo,N/A,2240.4
+SUB10930,Growth,SaaS B2B,EEUU,Orgánico,92.93,10,Cancelado,Cierre negocio,929.3
+SUB11034,Starter,EdTech,Canadá,Orgánico,31.55,6,Activo,N/A,189.3
+SUB10029,Growth,EdTech,Francia,Referido,111.93,5,Activo,N/A,559.65
+SUB10240,Scale,E-commerce,Francia,Orgánico,358.07,9,Activo,N/A,3222.63
+SUB10798,Growth,Fintech,Francia,Referido,108.81,7,Activo,N/A,761.67
+SUB10817,Growth,EdTech,Canadá,Paid Ads,112.75,15,Activo,N/A,1691.25
+SUB10065,Starter,Fintech,EEUU,Referido,33.15,13,Activo,N/A,430.95
+SUB10601,Scale,E-commerce,Reino Unido,Paid Ads,327.29,31,Activo,N/A,10145.99
+SUB10924,Growth,Fintech,Canadá,Paid Ads,113.85,4,Cancelado,Cierre negocio,455.4
+SUB10754,Growth,Fintech,Reino Unido,Referido,112.21,7,Activo,N/A,785.47
+SUB10926,Growth,E-commerce,Reino Unido,Orgánico,102.34,22,Activo,N/A,2251.48
+SUB11101,Enterprise,E-commerce,Alemania,Referido,1141.86,17,Activo,N/A,19411.62
+SUB10247,Scale,SaaS B2B,EEUU,Orgánico,315.5,11,Cancelado,Precio,3470.5
+SUB10277,Starter,SaaS B2B,Alemania,Orgánico,32.74,27,Cancelado,Cierre negocio,883.98
+SUB11402,Growth,Fintech,España,Referido,102.77,4,Activo,N/A,411.08
+SUB11066,Starter,EdTech,Alemania,Paid Ads,28.86,7,Cancelado,Competencia,202.02
+SUB10479,Starter,E-commerce,Canadá,Paid Ads,28.7,16,Activo,N/A,459.2
+SUB10426,Scale,Media,Reino Unido,Partner,336.37,12,Activo,N/A,4036.44
+SUB10123,Scale,SaaS B2B,EEUU,Orgánico,354.78,14,Activo,N/A,4966.92
+SUB11169,Starter,Fintech,EEUU,Referido,34.45,22,Activo,N/A,757.9
+SUB10394,Starter,E-commerce,Alemania,Orgánico,33.41,16,Activo,N/A,534.56
+SUB10985,Growth,EdTech,España,Paid Ads,116.75,9,Activo,N/A,1050.75
+SUB10715,Starter,Media,Reino Unido,Partner,32.04,2,Activo,N/A,64.08
+SUB11134,Starter,SaaS B2B,Francia,Orgánico,33.48,18,Activo,N/A,602.64
+SUB11084,Growth,Marketplace,Alemania,Referido,98.29,17,Activo,N/A,1670.93
+SUB10497,Growth,Marketplace,España,Partner,111.45,7,Activo,N/A,780.15
+SUB10044,Scale,Media,Reino Unido,Referido,328.18,9,Activo,N/A,2953.62
+SUB10059,Scale,Marketplace,Francia,Orgánico,289.16,18,Activo,N/A,5204.88
+SUB11161,Growth,Marketplace,EEUU,Referido,93.8,9,Activo,N/A,844.2
+SUB10023,Enterprise,SaaS B2B,Alemania,Orgánico,1053.94,11,Activo,N/A,11593.34
+SUB10874,Starter,SaaS B2B,Alemania,Referido,33.39,11,Activo,N/A,367.29
+SUB10481,Growth,Marketplace,Canadá,Orgánico,101.99,14,Activo,N/A,1427.86
+SUB11324,Starter,Marketplace,España,Referido,28.79,2,Cancelado,Competencia,57.58
+SUB10745,Scale,Media,España,Orgánico,291.42,14,Cancelado,Cierre negocio,4079.88
+SUB10231,Starter,SaaS B2B,EEUU,Partner,27.16,10,Activo,N/A,271.6
+SUB10124,Growth,Marketplace,España,Referido,102.01,4,Activo,N/A,408.04
+SUB10427,Growth,EdTech,Alemania,Partner,93.75,13,Cancelado,Mal soporte,1218.75
+SUB10818,Enterprise,SaaS B2B,EEUU,Referido,913.42,11,Activo,N/A,10047.62
+SUB10168,Growth,Marketplace,Francia,Partner,98.87,12,Activo,N/A,1186.44
+SUB10115,Starter,EdTech,Canadá,Paid Ads,28.36,25,Activo,N/A,709.0
+SUB11088,Starter,Media,Francia,Paid Ads,30.95,10,Activo,N/A,309.5
+SUB10986,Starter,E-commerce,Alemania,Paid Ads,29.07,5,Activo,N/A,145.35
+SUB11395,Scale,Media,Reino Unido,Paid Ads,283.98,12,Cancelado,Faltan features,3407.76
+SUB11424,Starter,SaaS B2B,Canadá,Referido,30.56,6,Activo,N/A,183.36
+SUB10415,Growth,E-commerce,EEUU,Paid Ads,103.82,17,Cancelado,Faltan features,1764.94
+SUB10141,Growth,SaaS B2B,EEUU,Partner,118.69,10,Activo,N/A,1186.9
+SUB11233,Growth,Fintech,Francia,Paid Ads,100.76,20,Activo,N/A,2015.2
+SUB11293,Starter,Fintech,EEUU,Paid Ads,30.25,1,Cancelado,Faltan features,30.25
+SUB10762,Enterprise,Marketplace,Alemania,Paid Ads,914.04,12,Activo,N/A,10968.48
+SUB11206,Starter,E-commerce,Reino Unido,Referido,26.73,21,Activo,N/A,561.33
+SUB10462,Scale,EdTech,Francia,Orgánico,284.81,7,Activo,N/A,1993.67
+SUB11243,Starter,Media,Canadá,Partner,27.03,20,Activo,N/A,540.6
+SUB10078,Enterprise,SaaS B2B,Alemania,Referido,917.41,5,Activo,N/A,4587.05
+SUB11004,Starter,Media,Canadá,Partner,34.28,11,Activo,N/A,377.08
+SUB11490,Growth,Fintech,EEUU,Orgánico,91.17,11,Activo,N/A,1002.87
+SUB10571,Starter,E-commerce,EEUU,Referido,28.73,20,Activo,N/A,574.6
+SUB10015,Starter,Fintech,Canadá,Orgánico,29.2,5,Cancelado,Faltan features,146.0
+SUB10494,Scale,Marketplace,Canadá,Paid Ads,355.41,30,Activo,N/A,10662.3
+SUB10350,Scale,SaaS B2B,EEUU,Partner,354.08,19,Activo,N/A,6727.52
+SUB10999,Starter,EdTech,Canadá,Orgánico,30.7,3,Activo,N/A,92.1
+SUB10274,Growth,EdTech,Alemania,Referido,106.24,8,Activo,N/A,849.92
+SUB11191,Starter,EdTech,Reino Unido,Orgánico,29.31,14,Activo,N/A,410.34
+SUB10271,Starter,Fintech,Reino Unido,Orgánico,33.57,12,Activo,N/A,402.84
+SUB11473,Growth,E-commerce,Canadá,Paid Ads,91.68,20,Activo,N/A,1833.6
+SUB10237,Growth,Media,Alemania,Partner,110.72,13,Activo,N/A,1439.36
+SUB10585,Scale,Marketplace,Reino Unido,Partner,331.14,10,Activo,N/A,3311.4
+SUB11312,Enterprise,Fintech,Canadá,Referido,1161.07,8,Activo,N/A,9288.56
+SUB10694,Enterprise,Fintech,Alemania,Paid Ads,982.5,30,Activo,N/A,29475.0
+SUB11001,Starter,Media,Alemania,Paid Ads,34.04,5,Activo,N/A,170.2
+SUB10322,Enterprise,SaaS B2B,Francia,Partner,901.76,7,Activo,N/A,6312.32
+SUB10782,Starter,E-commerce,España,Orgánico,28.58,26,Activo,N/A,743.08
+SUB11358,Growth,Fintech,España,Orgánico,96.72,31,Activo,N/A,2998.32
+SUB11203,Enterprise,Media,Canadá,Partner,977.94,11,Activo,N/A,10757.34
+SUB10970,Enterprise,EdTech,Alemania,Orgánico,995.06,4,Activo,N/A,3980.24
+SUB11466,Enterprise,E-commerce,Reino Unido,Paid Ads,1019.95,16,Activo,N/A,16319.2
+SUB10526,Growth,E-commerce,Canadá,Partner,109.83,12,Activo,N/A,1317.96
+SUB11425,Starter,Media,España,Referido,29.91,7,Cancelado,Precio,209.37
+SUB11170,Starter,Marketplace,Alemania,Paid Ads,29.91,26,Activo,N/A,777.66
+SUB10175,Starter,Fintech,Francia,Paid Ads,31.77,23,Cancelado,Mal soporte,730.71
+SUB10358,Growth,EdTech,España,Partner,93.93,14,Cancelado,Precio,1315.02
+SUB10043,Growth,E-commerce,Alemania,Paid Ads,107.96,5,Activo,N/A,539.8
+SUB10416,Scale,SaaS B2B,Alemania,Partner,287.43,1,Activo,N/A,287.43
+SUB10344,Starter,SaaS B2B,EEUU,Orgánico,27.68,6,Activo,N/A,166.08
+SUB11026,Scale,Media,EEUU,Partner,308.48,14,Activo,N/A,4318.72
+SUB11401,Growth,E-commerce,España,Referido,116.76,1,Activo,N/A,116.76
+SUB10101,Scale,Fintech,Francia,Orgánico,271.17,24,Activo,N/A,6508.08
+SUB10107,Starter,SaaS B2B,EEUU,Referido,34.46,9,Activo,N/A,310.14
+SUB11489,Enterprise,EdTech,Reino Unido,Partner,1064.43,14,Activo,N/A,14902.02
+SUB11052,Enterprise,E-commerce,Reino Unido,Referido,1138.2,8,Activo,N/A,9105.6
+SUB10964,Starter,SaaS B2B,Francia,Partner,30.52,26,Activo,N/A,793.52
+SUB10380,Enterprise,EdTech,Alemania,Orgánico,914.59,33,Activo,N/A,30181.47
+SUB10244,Starter,Marketplace,Canadá,Referido,27.55,8,Activo,N/A,220.4
+SUB11099,Starter,E-commerce,Francia,Orgánico,28.13,11,Activo,N/A,309.43
+SUB10500,Scale,EdTech,Alemania,Referido,331.59,4,Activo,N/A,1326.36
+SUB10700,Starter,EdTech,Francia,Paid Ads,33.6,23,Cancelado,Precio,772.8
+SUB10128,Enterprise,EdTech,Francia,Referido,953.22,2,Activo,N/A,1906.44
+SUB10239,Growth,E-commerce,Reino Unido,Partner,115.04,2,Cancelado,Precio,230.08
+SUB11114,Enterprise,E-commerce,Francia,Paid Ads,1016.31,31,Activo,N/A,31505.61
+SUB10682,Scale,SaaS B2B,EEUU,Orgánico,304.34,9,Activo,N/A,2739.06
+SUB10482,Starter,Fintech,Reino Unido,Paid Ads,32.48,16,Activo,N/A,519.68
+SUB11305,Starter,E-commerce,Francia,Orgánico,32.42,1,Cancelado,Competencia,32.42
+SUB10275,Starter,SaaS B2B,España,Orgánico,31.98,24,Activo,N/A,767.52
+SUB10582,Starter,Fintech,Canadá,Orgánico,32.5,1,Cancelado,Precio,32.5
+SUB10203,Growth,Marketplace,EEUU,Paid Ads,100.0,30,Activo,N/A,3000.0
+SUB10032,Growth,SaaS B2B,EEUU,Partner,91.99,11,Activo,N/A,1011.89
+SUB11319,Growth,SaaS B2B,España,Partner,95.08,9,Activo,N/A,855.72
+SUB10813,Growth,Marketplace,Francia,Partner,94.82,30,Activo,N/A,2844.6
+SUB10997,Growth,E-commerce,Reino Unido,Referido,91.19,44,Activo,N/A,4012.36
+SUB10381,Starter,Media,Reino Unido,Partner,33.75,11,Activo,N/A,371.25
+SUB11073,Starter,Fintech,España,Paid Ads,26.13,11,Activo,N/A,287.43
+SUB11348,Starter,Media,Alemania,Paid Ads,28.06,9,Activo,N/A,252.54
+SUB10578,Starter,Media,Reino Unido,Orgánico,28.32,22,Activo,N/A,623.04
+SUB10887,Scale,Marketplace,España,Orgánico,290.89,8,Activo,N/A,2327.12
+SUB11325,Growth,SaaS B2B,Canadá,Paid Ads,108.34,15,Activo,N/A,1625.1
+SUB11326,Starter,Media,Francia,Orgánico,27.8,17,Activo,N/A,472.6
+SUB10941,Growth,Marketplace,Canadá,Orgánico,107.48,16,Activo,N/A,1719.68
+SUB10163,Starter,E-commerce,Canadá,Referido,32.85,21,Activo,N/A,689.85
+SUB10909,Starter,EdTech,Canadá,Paid Ads,32.65,11,Activo,N/A,359.15
+SUB10297,Growth,Media,España,Orgánico,112.87,12,Activo,N/A,1354.44
+SUB10755,Growth,SaaS B2B,Alemania,Partner,91.6,7,Cancelado,Cierre negocio,641.2
+SUB10405,Starter,Marketplace,España,Referido,27.72,27,Activo,N/A,748.44
+SUB10968,Starter,Fintech,Canadá,Orgánico,27.77,15,Activo,N/A,416.55
+SUB10605,Scale,Media,Canadá,Partner,332.88,8,Cancelado,Precio,2663.04
+SUB10420,Starter,Media,EEUU,Referido,28.54,3,Activo,N/A,85.62
+SUB10464,Starter,EdTech,Alemania,Orgánico,30.33,24,Activo,N/A,727.92
+SUB11187,Growth,E-commerce,Reino Unido,Partner,114.24,6,Activo,N/A,685.44
+SUB10939,Starter,SaaS B2B,Alemania,Orgánico,32.14,1,Activo,N/A,32.14
+SUB10192,Enterprise,Media,Francia,Referido,904.56,18,Activo,N/A,16282.08
+SUB10674,Scale,Marketplace,España,Orgánico,356.4,11,Activo,N/A,3920.4
+SUB10351,Growth,EdTech,Alemania,Paid Ads,116.74,2,Activo,N/A,233.48
+SUB10858,Scale,Media,España,Referido,270.65,5,Activo,N/A,1353.25
+SUB10063,Starter,SaaS B2B,EEUU,Paid Ads,29.24,5,Activo,N/A,146.2
+SUB11173,Scale,E-commerce,España,Paid Ads,317.34,25,Activo,N/A,7933.5
+SUB10765,Scale,Fintech,Francia,Paid Ads,312.63,38,Activo,N/A,11879.94
+SUB11440,Starter,EdTech,Canadá,Referido,29.95,16,Activo,N/A,479.2
+SUB10261,Growth,EdTech,España,Partner,111.35,9,Activo,N/A,1002.15
+SUB10342,Starter,SaaS B2B,España,Partner,33.98,9,Cancelado,Faltan features,305.82
+SUB11220,Growth,E-commerce,EEUU,Orgánico,115.56,25,Cancelado,Faltan features,2889.0
+SUB10471,Scale,Fintech,EEUU,Orgánico,316.17,18,Activo,N/A,5691.06
+SUB11334,Growth,SaaS B2B,Canadá,Paid Ads,114.43,8,Cancelado,Faltan features,915.44
+SUB10198,Enterprise,Media,Reino Unido,Referido,1005.02,18,Activo,N/A,18090.36
+SUB11231,Starter,Media,Reino Unido,Referido,30.62,28,Activo,N/A,857.36
+SUB10917,Growth,EdTech,EEUU,Paid Ads,107.07,5,Cancelado,Competencia,535.35
+SUB10743,Starter,E-commerce,Francia,Paid Ads,31.42,20,Activo,N/A,628.4
+SUB10570,Starter,Marketplace,EEUU,Referido,27.48,29,Activo,N/A,796.92
+SUB10218,Growth,Fintech,Francia,Orgánico,90.83,12,Cancelado,Faltan features,1089.96
+SUB10453,Scale,Fintech,España,Orgánico,324.46,10,Activo,N/A,3244.6
+SUB10030,Scale,Media,EEUU,Paid Ads,336.17,10,Cancelado,Faltan features,3361.7
+SUB10056,Starter,Media,Canadá,Paid Ads,34.0,2,Activo,N/A,68.0
+SUB11210,Scale,EdTech,España,Orgánico,349.76,11,Activo,N/A,3847.36
+SUB11385,Starter,Marketplace,Francia,Orgánico,28.58,5,Cancelado,Competencia,142.9
+SUB11065,Scale,SaaS B2B,Reino Unido,Orgánico,272.04,39,Activo,N/A,10609.56
+SUB10430,Growth,Media,Canadá,Orgánico,98.74,5,Cancelado,Competencia,493.7
+SUB10724,Growth,Marketplace,España,Orgánico,107.46,18,Activo,N/A,1934.28
+SUB11144,Growth,SaaS B2B,EEUU,Orgánico,107.15,16,Activo,N/A,1714.4
+SUB11005,Starter,Media,Alemania,Paid Ads,26.57,21,Cancelado,Competencia,557.97
+SUB11050,Starter,Media,Canadá,Partner,30.87,46,Activo,N/A,1420.02
+SUB11345,Enterprise,E-commerce,Reino Unido,Referido,934.42,18,Activo,N/A,16819.56
+SUB11236,Enterprise,Media,España,Paid Ads,1030.57,22,Activo,N/A,22672.54
+SUB11235,Starter,Fintech,EEUU,Paid Ads,34.47,4,Activo,N/A,137.88
+SUB11448,Starter,E-commerce,Alemania,Referido,31.3,5,Activo,N/A,156.5
+SUB10620,Scale,E-commerce,Reino Unido,Partner,325.48,5,Activo,N/A,1627.4
+SUB11067,Starter,Media,EEUU,Paid Ads,28.13,22,Activo,N/A,618.86
+SUB10838,Starter,Media,EEUU,Partner,31.81,20,Cancelado,Cierre negocio,636.2
+SUB10099,Scale,Fintech,España,Orgánico,322.83,4,Activo,N/A,1291.32
+SUB10532,Growth,Marketplace,Alemania,Referido,98.55,9,Activo,N/A,886.95
+SUB10528,Starter,Fintech,Canadá,Referido,32.06,10,Activo,N/A,320.6
+SUB11346,Starter,Media,Canadá,Referido,29.18,15,Activo,N/A,437.7
+SUB11172,Starter,SaaS B2B,Canadá,Referido,34.66,10,Activo,N/A,346.6
+SUB11178,Growth,Marketplace,España,Paid Ads,110.91,10,Activo,N/A,1109.1
+SUB10629,Growth,SaaS B2B,Reino Unido,Referido,95.84,24,Activo,N/A,2300.16
+SUB11027,Starter,Media,España,Referido,31.69,6,Activo,N/A,190.14
+SUB10270,Starter,E-commerce,Reino Unido,Partner,30.97,6,Cancelado,Competencia,185.82
+SUB11341,Starter,Marketplace,Canadá,Paid Ads,31.09,10,Activo,N/A,310.9
+SUB10626,Starter,EdTech,Reino Unido,Orgánico,30.31,8,Activo,N/A,242.48
+SUB11042,Growth,SaaS B2B,EEUU,Referido,108.43,6,Activo,N/A,650.58
+SUB10976,Starter,Marketplace,Alemania,Orgánico,28.88,6,Activo,N/A,173.28
+SUB10371,Scale,EdTech,Francia,Orgánico,345.2,6,Activo,N/A,2071.2
+SUB10588,Scale,EdTech,Alemania,Paid Ads,281.94,6,Activo,N/A,1691.64
+SUB10967,Growth,E-commerce,Francia,Paid Ads,110.06,17,Activo,N/A,1871.02
+SUB11165,Growth,E-commerce,Francia,Partner,109.58,4,Activo,N/A,438.32
+SUB11146,Starter,Marketplace,EEUU,Partner,32.21,6,Activo,N/A,193.26
+SUB10236,Enterprise,EdTech,Alemania,Orgánico,1123.33,3,Activo,N/A,3369.99
+SUB10596,Starter,EdTech,Alemania,Orgánico,28.75,13,Activo,N/A,373.75
+SUB10962,Scale,SaaS B2B,Canadá,Paid Ads,338.33,28,Activo,N/A,9473.24
+SUB11445,Growth,SaaS B2B,Francia,Paid Ads,111.63,3,Cancelado,Precio,334.89
+SUB11163,Growth,EdTech,EEUU,Paid Ads,101.04,18,Activo,N/A,1818.72
+SUB10590,Starter,E-commerce,Alemania,Paid Ads,32.11,4,Cancelado,Precio,128.44
+SUB10208,Starter,EdTech,Reino Unido,Orgánico,32.51,6,Activo,N/A,195.06
+SUB11074,Growth,Fintech,EEUU,Partner,93.07,2,Cancelado,Mal soporte,186.14
+SUB10899,Scale,Marketplace,Francia,Paid Ads,340.44,2,Activo,N/A,680.88
+SUB10353,Growth,Marketplace,Alemania,Paid Ads,94.46,42,Activo,N/A,3967.32
+SUB10058,Scale,SaaS B2B,España,Orgánico,337.92,16,Activo,N/A,5406.72
+SUB10303,Growth,Fintech,Reino Unido,Orgánico,106.3,5,Activo,N/A,531.5
+SUB11447,Scale,E-commerce,Francia,Orgánico,347.0,2,Activo,N/A,694.0
+SUB10843,Growth,Marketplace,Canadá,Paid Ads,96.77,6,Activo,N/A,580.62
+SUB11261,Scale,E-commerce,Francia,Orgánico,333.59,14,Activo,N/A,4670.26
+SUB11430,Enterprise,Fintech,EEUU,Paid Ads,1003.42,11,Activo,N/A,11037.62
+SUB11209,Growth,E-commerce,Alemania,Paid Ads,100.87,5,Cancelado,Mal soporte,504.35
+SUB10367,Starter,Fintech,Francia,Paid Ads,28.67,13,Activo,N/A,372.71
+SUB11357,Scale,EdTech,EEUU,Orgánico,315.07,6,Activo,N/A,1890.42
+SUB11197,Enterprise,Fintech,Francia,Orgánico,1113.41,4,Activo,N/A,4453.64
+SUB11304,Growth,E-commerce,Francia,Paid Ads,102.52,5,Activo,N/A,512.6
+SUB11232,Starter,E-commerce,Francia,Orgánico,29.58,8,Activo,N/A,236.64
+SUB10704,Scale,Media,EEUU,Paid Ads,337.97,13,Activo,N/A,4393.61
+SUB10233,Starter,EdTech,España,Paid Ads,31.31,20,Activo,N/A,626.2
+SUB10618,Scale,Media,Francia,Partner,288.88,6,Activo,N/A,1733.28
+SUB10196,Growth,Marketplace,Canadá,Orgánico,91.69,7,Activo,N/A,641.83
+SUB11259,Growth,E-commerce,Canadá,Paid Ads,112.22,17,Activo,N/A,1907.74
+SUB10081,Growth,EdTech,Reino Unido,Orgánico,96.3,6,Activo,N/A,577.8
+SUB11404,Starter,SaaS B2B,Reino Unido,Referido,34.14,14,Activo,N/A,477.96
+SUB10597,Growth,SaaS B2B,Reino Unido,Referido,97.14,4,Activo,N/A,388.56
+SUB11156,Scale,EdTech,Francia,Referido,335.21,9,Activo,N/A,3016.89
+SUB10111,Growth,Fintech,Francia,Orgánico,101.24,20,Activo,N/A,2024.8
+SUB11276,Scale,EdTech,Francia,Orgánico,352.32,11,Cancelado,Precio,3875.52
+SUB10780,Growth,E-commerce,Canadá,Orgánico,97.11,21,Cancelado,Precio,2039.31
+SUB10983,Starter,Media,Canadá,Orgánico,26.16,8,Activo,N/A,209.28
+SUB10799,Scale,Media,Francia,Orgánico,314.03,16,Activo,N/A,5024.48
+SUB11265,Growth,SaaS B2B,España,Referido,91.83,9,Activo,N/A,826.47
+SUB11150,Starter,EdTech,Alemania,Referido,26.75,8,Activo,N/A,214.0
+SUB10824,Starter,Fintech,Alemania,Paid Ads,33.99,36,Cancelado,Faltan features,1223.64
+SUB10382,Growth,Fintech,Alemania,Referido,112.76,17,Cancelado,Competencia,1916.92
+SUB10538,Scale,Fintech,Francia,Paid Ads,321.41,11,Activo,N/A,3535.51
+SUB11493,Growth,E-commerce,Francia,Partner,96.95,11,Activo,N/A,1066.45
+SUB11112,Scale,Fintech,EEUU,Referido,330.34,22,Activo,N/A,7267.48
+SUB10324,Starter,Fintech,Alemania,Orgánico,29.57,5,Activo,N/A,147.85
+SUB10361,Enterprise,Fintech,EEUU,Orgánico,1047.35,36,Activo,N/A,37704.6
+SUB11487,Starter,E-commerce,EEUU,Paid Ads,33.17,14,Cancelado,Precio,464.38
+SUB11029,Starter,Media,Reino Unido,Paid Ads,28.98,7,Activo,N/A,202.86
+SUB10707,Growth,Marketplace,Francia,Paid Ads,102.98,17,Activo,N/A,1750.66
+SUB10332,Scale,SaaS B2B,Alemania,Orgánico,274.72,19,Activo,N/A,5219.68
+SUB10429,Growth,SaaS B2B,Alemania,Paid Ads,117.57,19,Activo,N/A,2233.83
+SUB11242,Growth,Marketplace,EEUU,Partner,109.49,4,Activo,N/A,437.96
+SUB10425,Growth,Marketplace,Alemania,Paid Ads,93.27,7,Cancelado,Precio,652.89
+SUB10628,Starter,Fintech,España,Partner,29.34,6,Cancelado,Precio,176.04
+SUB11111,Scale,Media,Francia,Orgánico,345.04,17,Activo,N/A,5865.68
+SUB10677,Starter,E-commerce,EEUU,Orgánico,26.51,17,Cancelado,Mal soporte,450.67
+SUB10693,Growth,E-commerce,Canadá,Paid Ads,89.18,30,Activo,N/A,2675.4
+SUB10757,Starter,Fintech,Reino Unido,Paid Ads,29.64,5,Cancelado,Precio,148.2
+SUB10254,Starter,E-commerce,EEUU,Partner,28.25,9,Activo,N/A,254.25
+SUB11094,Starter,Fintech,Alemania,Orgánico,29.1,2,Activo,N/A,58.2
+SUB10916,Starter,Fintech,Reino Unido,Paid Ads,34.64,8,Activo,N/A,277.12
+SUB11185,Growth,E-commerce,Francia,Paid Ads,107.2,5,Activo,N/A,536.0
+SUB10668,Scale,EdTech,España,Partner,282.71,4,Activo,N/A,1130.84
+SUB10841,Scale,EdTech,España,Partner,309.82,5,Activo,N/A,1549.1
+SUB10806,Enterprise,SaaS B2B,Francia,Paid Ads,1115.94,34,Activo,N/A,37941.96
+SUB11456,Enterprise,SaaS B2B,Alemania,Partner,1088.83,5,Activo,N/A,5444.15
+SUB10086,Enterprise,Media,Francia,Orgánico,1065.96,12,Activo,N/A,12791.52
+SUB11421,Growth,SaaS B2B,Canadá,Orgánico,100.16,33,Activo,N/A,3305.28
+SUB10265,Scale,Media,Francia,Partner,355.61,12,Activo,N/A,4267.32
+SUB10287,Starter,EdTech,Francia,Orgánico,34.02,4,Activo,N/A,136.08
+SUB11483,Starter,SaaS B2B,España,Paid Ads,30.46,6,Activo,N/A,182.76
+SUB10892,Growth,Fintech,Canadá,Orgánico,115.16,21,Activo,N/A,2418.36
+SUB11495,Starter,SaaS B2B,España,Orgánico,34.67,8,Cancelado,Faltan features,277.36
+SUB10978,Starter,EdTech,Alemania,Orgánico,31.94,8,Activo,N/A,255.52
+SUB10534,Starter,Media,España,Partner,32.89,4,Activo,N/A,131.56
+SUB11000,Growth,Marketplace,Alemania,Partner,101.31,18,Activo,N/A,1823.58
+SUB10221,Growth,Marketplace,Canadá,Paid Ads,103.4,20,Activo,N/A,2068.0
+SUB10113,Scale,E-commerce,Reino Unido,Orgánico,345.86,8,Cancelado,Precio,2766.88
+SUB10672,Starter,EdTech,Francia,Orgánico,32.42,22,Cancelado,Competencia,713.24
+SUB10583,Starter,E-commerce,Canadá,Orgánico,33.96,1,Activo,N/A,33.96
+SUB10174,Enterprise,EdTech,EEUU,Referido,953.34,10,Activo,N/A,9533.4
+SUB10535,Scale,Fintech,Francia,Orgánico,289.96,13,Activo,N/A,3769.48
+SUB11078,Scale,SaaS B2B,Alemania,Partner,279.64,4,Activo,N/A,1118.56
+SUB11176,Scale,EdTech,Alemania,Orgánico,280.54,12,Activo,N/A,3366.48
+SUB11106,Starter,Media,EEUU,Orgánico,26.62,16,Activo,N/A,425.92
+SUB10982,Growth,EdTech,España,Paid Ads,109.58,5,Activo,N/A,547.9
+SUB10285,Growth,Marketplace,Alemania,Orgánico,97.05,14,Activo,N/A,1358.7
+SUB10867,Starter,E-commerce,Francia,Orgánico,32.09,5,Activo,N/A,160.45
+SUB10374,Growth,EdTech,EEUU,Partner,117.38,2,Activo,N/A,234.76
+SUB11196,Starter,Media,EEUU,Referido,26.54,19,Activo,N/A,504.26
+SUB10031,Starter,E-commerce,Canadá,Paid Ads,28.44,14,Activo,N/A,398.16
+SUB10551,Growth,Fintech,EEUU,Referido,116.9,9,Activo,N/A,1052.1
+SUB10210,Starter,Fintech,España,Paid Ads,29.07,2,Cancelado,Cierre negocio,58.14
+SUB11046,Starter,SaaS B2B,Reino Unido,Orgánico,31.88,2,Activo,N/A,63.76
+SUB10923,Growth,Fintech,Reino Unido,Orgánico,101.99,11,Cancelado,Faltan features,1121.89
+SUB10809,Starter,Fintech,España,Partner,28.25,33,Activo,N/A,932.25
+SUB10617,Growth,EdTech,Francia,Paid Ads,112.75,1,Activo,N/A,112.75
+SUB10932,Growth,Media,EEUU,Referido,92.66,15,Activo,N/A,1389.9
+SUB10619,Starter,EdTech,Canadá,Referido,32.24,5,Activo,N/A,161.2
+SUB10188,Starter,SaaS B2B,EEUU,Paid Ads,30.84,3,Cancelado,Faltan features,92.52
+SUB10710,Scale,Fintech,EEUU,Paid Ads,284.4,3,Activo,N/A,853.2
+SUB10936,Growth,EdTech,EEUU,Paid Ads,109.16,11,Cancelado,Precio,1200.76
+SUB11168,Starter,E-commerce,Canadá,Referido,27.2,30,Activo,N/A,816.0
+SUB11219,Scale,EdTech,Alemania,Paid Ads,275.58,15,Activo,N/A,4133.7
+SUB11097,Growth,SaaS B2B,Canadá,Referido,89.14,30,Activo,N/A,2674.2
+SUB10901,Starter,Fintech,Reino Unido,Paid Ads,28.57,10,Cancelado,Cierre negocio,285.7
+SUB10083,Growth,Marketplace,Canadá,Paid Ads,110.98,38,Activo,N/A,4217.24
+SUB10701,Growth,Media,Reino Unido,Paid Ads,110.55,46,Activo,N/A,5085.3
+SUB10048,Growth,SaaS B2B,Alemania,Orgánico,115.16,19,Activo,N/A,2188.04
+SUB11283,Growth,Media,Reino Unido,Orgánico,98.12,23,Activo,N/A,2256.76
+SUB10155,Scale,Media,Francia,Referido,338.42,7,Activo,N/A,2368.94
+SUB11151,Starter,Media,Canadá,Paid Ads,33.68,1,Activo,N/A,33.68
+SUB11141,Enterprise,EdTech,Francia,Partner,1066.0,6,Activo,N/A,6396.0
+SUB10974,Starter,Fintech,Canadá,Paid Ads,34.66,8,Activo,N/A,277.28
+SUB11057,Starter,Media,España,Paid Ads,33.96,17,Cancelado,Mal soporte,577.32
+SUB10807,Starter,Fintech,Alemania,Referido,26.81,21,Activo,N/A,563.01
+SUB11229,Growth,E-commerce,Reino Unido,Orgánico,112.95,22,Activo,N/A,2484.9
+SUB11480,Growth,E-commerce,Alemania,Referido,99.28,10,Activo,N/A,992.8
+SUB11436,Scale,SaaS B2B,EEUU,Paid Ads,272.9,1,Activo,N/A,272.9
+SUB10179,Starter,Media,Reino Unido,Paid Ads,28.45,38,Cancelado,Precio,1081.1
+SUB11355,Scale,Media,Francia,Referido,311.73,15,Activo,N/A,4675.95
+SUB11246,Starter,Media,Francia,Orgánico,27.71,14,Activo,N/A,387.94
+SUB11040,Scale,Fintech,Francia,Paid Ads,278.35,16,Activo,N/A,4453.6
+SUB10949,Starter,Marketplace,Reino Unido,Orgánico,32.26,2,Activo,N/A,64.52
+SUB10816,Growth,Media,Reino Unido,Paid Ads,105.77,24,Activo,N/A,2538.48
+SUB10363,Starter,SaaS B2B,EEUU,Orgánico,33.41,30,Activo,N/A,1002.3
+SUB11177,Growth,E-commerce,Alemania,Partner,115.54,5,Cancelado,Cierre negocio,577.7
+SUB11198,Growth,SaaS B2B,España,Orgánico,117.29,5,Activo,N/A,586.45
+SUB10346,Scale,Media,Alemania,Paid Ads,339.1,34,Activo,N/A,11529.4
+SUB11010,Starter,Fintech,EEUU,Orgánico,29.9,29,Activo,N/A,867.1
+SUB10614,Starter,EdTech,Reino Unido,Paid Ads,27.6,31,Activo,N/A,855.6
+SUB10965,Enterprise,Fintech,España,Orgánico,915.63,12,Activo,N/A,10987.56
+SUB11273,Starter,SaaS B2B,Alemania,Orgánico,30.27,25,Activo,N/A,756.75
+SUB10589,Enterprise,Fintech,Reino Unido,Referido,979.24,8,Activo,N/A,7833.92
+SUB11288,Growth,E-commerce,EEUU,Paid Ads,102.84,2,Cancelado,Mal soporte,205.68
+SUB10631,Scale,EdTech,EEUU,Referido,301.68,26,Activo,N/A,7843.68
+SUB10243,Growth,EdTech,Francia,Orgánico,112.28,4,Cancelado,Precio,449.12
+SUB11374,Growth,Media,Alemania,Partner,117.23,19,Activo,N/A,2227.37
+SUB11451,Growth,EdTech,EEUU,Orgánico,115.53,7,Activo,N/A,808.71
+SUB10764,Scale,E-commerce,EEUU,Orgánico,270.29,1,Activo,N/A,270.29
+SUB10987,Growth,E-commerce,EEUU,Referido,93.93,5,Activo,N/A,469.65
+SUB10411,Growth,Fintech,Reino Unido,Orgánico,93.89,8,Activo,N/A,751.12
+SUB11420,Starter,Media,Reino Unido,Orgánico,31.15,3,Activo,N/A,93.45
+SUB11225,Starter,Marketplace,Francia,Referido,28.22,12,Activo,N/A,338.64
+SUB10308,Starter,Marketplace,Canadá,Orgánico,34.15,2,Cancelado,Competencia,68.3
+SUB10881,Starter,EdTech,Francia,Paid Ads,28.48,8,Cancelado,Precio,227.84
+SUB10398,Starter,E-commerce,Reino Unido,Paid Ads,29.8,15,Activo,N/A,447.0
+SUB10370,Starter,Media,España,Partner,28.75,4,Cancelado,Competencia,115.0
+SUB10054,Enterprise,E-commerce,EEUU,Paid Ads,1105.3,11,Activo,N/A,12158.3
+SUB11338,Scale,SaaS B2B,Reino Unido,Paid Ads,297.63,8,Cancelado,Competencia,2381.04
+SUB11182,Growth,EdTech,Reino Unido,Orgánico,113.18,10,Activo,N/A,1131.8
+SUB10312,Starter,Marketplace,Reino Unido,Referido,33.33,3,Activo,N/A,99.99
+SUB10921,Growth,E-commerce,Alemania,Paid Ads,105.16,17,Cancelado,Faltan features,1787.72
+SUB10109,Starter,EdTech,España,Paid Ads,33.38,2,Activo,N/A,66.76
+SUB10718,Growth,Media,Reino Unido,Orgánico,109.05,3,Activo,N/A,327.15
+SUB10691,Starter,SaaS B2B,EEUU,Referido,28.1,20,Activo,N/A,562.0
+SUB10100,Starter,Fintech,España,Partner,26.98,6,Cancelado,Cierre negocio,161.88
+SUB11125,Starter,Fintech,Francia,Orgánico,34.52,19,Activo,N/A,655.88
+SUB10669,Growth,Fintech,Alemania,Referido,104.09,9,Activo,N/A,936.81
+SUB11375,Scale,EdTech,Alemania,Referido,322.55,25,Activo,N/A,8063.75
+SUB10266,Scale,E-commerce,España,Paid Ads,304.62,3,Activo,N/A,913.86
+SUB10678,Growth,EdTech,EEUU,Orgánico,112.62,10,Activo,N/A,1126.2
+SUB10296,Starter,Media,Reino Unido,Orgánico,33.27,7,Activo,N/A,232.89
+SUB10529,Starter,SaaS B2B,Francia,Paid Ads,32.3,23,Cancelado,Mal soporte,742.9
+SUB10944,Starter,Marketplace,España,Paid Ads,26.72,4,Activo,N/A,106.88
+SUB11013,Starter,EdTech,Alemania,Orgánico,27.36,3,Activo,N/A,82.08
+SUB10950,Starter,Media,Alemania,Referido,31.35,14,Activo,N/A,438.9
+SUB10377,Enterprise,Marketplace,EEUU,Partner,1155.8,17,Activo,N/A,19648.6
+SUB10286,Scale,E-commerce,EEUU,Referido,316.21,26,Cancelado,Competencia,8221.46
+SUB11438,Growth,E-commerce,Alemania,Referido,102.91,20,Activo,N/A,2058.2
+SUB10730,Starter,Marketplace,Alemania,Paid Ads,33.22,19,Cancelado,Mal soporte,631.18
+SUB10126,Starter,Marketplace,EEUU,Partner,30.81,9,Activo,N/A,277.29
+SUB10327,Starter,EdTech,Alemania,Orgánico,33.61,17,Cancelado,Mal soporte,571.37
+SUB10292,Scale,SaaS B2B,Reino Unido,Referido,273.54,42,Activo,N/A,11488.68
+SUB10548,Growth,SaaS B2B,España,Partner,91.49,13,Activo,N/A,1189.37
+SUB10727,Growth,EdTech,EEUU,Paid Ads,116.18,6,Activo,N/A,697.08
+SUB10908,Enterprise,EdTech,EEUU,Paid Ads,935.81,22,Activo,N/A,20587.82
+SUB10355,Growth,E-commerce,Alemania,Paid Ads,101.18,11,Cancelado,Precio,1112.98
+SUB10170,Starter,Marketplace,España,Partner,26.37,9,Activo,N/A,237.33
+SUB10966,Starter,Fintech,Francia,Partner,32.59,30,Activo,N/A,977.7
+SUB11133,Scale,Media,España,Partner,330.97,2,Activo,N/A,661.94
+SUB10651,Starter,EdTech,Francia,Partner,29.52,21,Activo,N/A,619.92
+SUB10209,Scale,Marketplace,Canadá,Orgánico,323.68,18,Activo,N/A,5826.24
+SUB11397,Starter,SaaS B2B,EEUU,Orgánico,27.96,4,Activo,N/A,111.84
+SUB10140,Starter,Fintech,Reino Unido,Paid Ads,30.61,10,Activo,N/A,306.1
+SUB11083,Starter,SaaS B2B,EEUU,Paid Ads,34.23,8,Activo,N/A,273.84
+SUB10990,Growth,EdTech,Canadá,Partner,107.65,5,Activo,N/A,538.25
+SUB10650,Growth,SaaS B2B,Francia,Partner,101.72,7,Activo,N/A,712.04
+SUB11188,Starter,Media,Francia,Paid Ads,29.16,5,Activo,N/A,145.8
+SUB11498,Scale,E-commerce,Canadá,Partner,354.84,13,Activo,N/A,4612.92
+SUB10485,Growth,Marketplace,Francia,Paid Ads,92.17,15,Activo,N/A,1382.55
+SUB10527,Starter,Fintech,Canadá,Partner,28.47,12,Activo,N/A,341.64
+SUB10199,Scale,SaaS B2B,Alemania,Orgánico,282.53,6,Activo,N/A,1695.18
+SUB10889,Scale,Marketplace,Canadá,Referido,306.94,2,Activo,N/A,613.88
+SUB10844,Growth,Fintech,Canadá,Paid Ads,108.78,16,Activo,N/A,1740.48
+SUB11068,Starter,E-commerce,Alemania,Paid Ads,27.46,1,Activo,N/A,27.46
+SUB11205,Starter,EdTech,Canadá,Referido,27.41,12,Activo,N/A,328.92
+SUB11054,Starter,Media,Canadá,Paid Ads,31.82,15,Activo,N/A,477.3
+SUB10010,Starter,SaaS B2B,Alemania,Referido,28.81,23,Activo,N/A,662.63
+SUB10147,Starter,Marketplace,Reino Unido,Referido,34.19,14,Activo,N/A,478.66
+SUB10721,Starter,Fintech,Francia,Orgánico,34.79,10,Cancelado,Competencia,347.9
+SUB10282,Starter,Media,EEUU,Paid Ads,28.39,22,Activo,N/A,624.58
+SUB10298,Growth,Fintech,Alemania,Paid Ads,98.64,7,Activo,N/A,690.48
+SUB10613,Starter,SaaS B2B,España,Partner,28.94,4,Activo,N/A,115.76
+SUB10291,Growth,SaaS B2B,Francia,Paid Ads,103.15,7,Activo,N/A,722.05
+SUB10649,Scale,SaaS B2B,Alemania,Referido,310.08,18,Activo,N/A,5581.44
+SUB10598,Starter,Media,Canadá,Paid Ads,27.31,11,Activo,N/A,300.41
+SUB11043,Starter,Fintech,Francia,Orgánico,26.92,6,Activo,N/A,161.52
+SUB10552,Starter,E-commerce,España,Paid Ads,28.07,37,Cancelado,Precio,1038.59
+SUB11298,Starter,Marketplace,Francia,Partner,30.62,7,Activo,N/A,214.34
+SUB10129,Starter,Fintech,Reino Unido,Orgánico,27.1,26,Activo,N/A,704.6
+SUB11061,Scale,EdTech,Francia,Orgánico,346.04,4,Cancelado,Competencia,1384.16
+SUB10331,Starter,E-commerce,Francia,Orgánico,32.61,11,Cancelado,Precio,358.71
+SUB10323,Starter,SaaS B2B,España,Partner,32.65,19,Activo,N/A,620.35
+SUB10680,Enterprise,E-commerce,Francia,Paid Ads,1145.95,16,Activo,N/A,18335.2
+SUB10478,Scale,E-commerce,España,Referido,310.58,8,Activo,N/A,2484.64
+SUB10561,Starter,Marketplace,Alemania,Referido,27.17,2,Cancelado,Cierre negocio,54.34
+SUB10135,Growth,E-commerce,Canadá,Referido,110.85,11,Activo,N/A,1219.35
+SUB10506,Scale,Media,Francia,Partner,354.02,6,Activo,N/A,2124.12
+SUB10513,Starter,SaaS B2B,España,Referido,27.07,18,Activo,N/A,487.26
+SUB11371,Scale,SaaS B2B,Canadá,Partner,287.26,11,Cancelado,Precio,3159.86
+SUB10435,Scale,Marketplace,Francia,Orgánico,346.06,12,Activo,N/A,4152.72
+SUB10873,Starter,E-commerce,Reino Unido,Partner,31.19,11,Activo,N/A,343.09
+SUB11462,Growth,SaaS B2B,Reino Unido,Referido,111.7,1,Activo,N/A,111.7
+SUB10752,Growth,EdTech,Canadá,Referido,103.72,9,Activo,N/A,933.48
+SUB10665,Starter,Marketplace,Reino Unido,Paid Ads,29.05,3,Activo,N/A,87.15
+SUB10158,Starter,Marketplace,España,Orgánico,30.05,27,Cancelado,Cierre negocio,811.35
+SUB11253,Growth,Media,EEUU,Partner,105.04,18,Activo,N/A,1890.72
+SUB11292,Starter,Media,España,Referido,33.88,38,Activo,N/A,1287.44
+SUB10575,Growth,Fintech,Francia,Orgánico,116.07,8,Activo,N/A,928.56
+SUB10352,Starter,EdTech,Canadá,Paid Ads,34.36,11,Activo,N/A,377.96
+SUB10937,Enterprise,Media,EEUU,Partner,921.88,5,Activo,N/A,4609.4
+SUB11295,Growth,EdTech,Canadá,Paid Ads,104.51,1,Cancelado,Precio,104.51
+SUB11392,Growth,Fintech,Reino Unido,Orgánico,98.34,4,Cancelado,Cierre negocio,393.36
+SUB11300,Enterprise,SaaS B2B,Canadá,Paid Ads,1115.75,25,Activo,N/A,27893.75
+SUB10591,Starter,EdTech,Canadá,Orgánico,26.14,24,Activo,N/A,627.36
+SUB10664,Starter,EdTech,España,Orgánico,29.57,3,Activo,N/A,88.71
+SUB10195,Starter,SaaS B2B,Reino Unido,Orgánico,33.58,7,Cancelado,Cierre negocio,235.06
+SUB11240,Scale,Media,EEUU,Orgánico,281.0,28,Activo,N/A,7868.0
+SUB11048,Scale,SaaS B2B,Reino Unido,Referido,286.37,26,Activo,N/A,7445.62
+SUB10438,Growth,E-commerce,Francia,Paid Ads,114.77,32,Activo,N/A,3672.64
+SUB11435,Starter,Marketplace,Reino Unido,Paid Ads,33.75,6,Activo,N/A,202.5
+SUB10643,Scale,E-commerce,Reino Unido,Orgánico,332.95,12,Activo,N/A,3995.4
+SUB10096,Scale,Media,Canadá,Orgánico,332.52,8,Activo,N/A,2660.16
+SUB10584,Starter,EdTech,Reino Unido,Referido,34.6,4,Activo,N/A,138.4
+SUB11214,Growth,Media,Reino Unido,Referido,116.99,7,Activo,N/A,818.93
+SUB10156,Growth,Fintech,Alemania,Orgánico,108.06,8,Activo,N/A,864.48
+SUB10419,Scale,EdTech,Canadá,Orgánico,305.39,14,Activo,N/A,4275.46
+SUB10410,Starter,E-commerce,Francia,Orgánico,32.14,8,Activo,N/A,257.12
+SUB11222,Growth,Marketplace,Reino Unido,Paid Ads,93.39,7,Activo,N/A,653.73
+SUB10477,Growth,Fintech,Francia,Paid Ads,111.41,20,Cancelado,Cierre negocio,2228.2
+SUB10514,Scale,Marketplace,España,Partner,304.71,15,Cancelado,Cierre negocio,4570.65
+SUB11285,Scale,Media,España,Orgánico,306.48,38,Activo,N/A,11646.24
+SUB11453,Scale,Marketplace,España,Paid Ads,292.14,33,Activo,N/A,9640.62
+SUB11118,Scale,EdTech,Canadá,Orgánico,280.51,4,Activo,N/A,1122.04
+SUB10447,Starter,EdTech,Canadá,Referido,33.91,13,Activo,N/A,440.83
+SUB10178,Starter,Media,Canadá,Referido,32.51,8,Activo,N/A,260.08
+SUB10390,Starter,E-commerce,Canadá,Orgánico,26.9,31,Activo,N/A,833.9
+SUB11289,Starter,EdTech,Alemania,Orgánico,32.66,15,Cancelado,Competencia,489.9
+SUB11307,Starter,Fintech,Canadá,Partner,28.75,16,Cancelado,Cierre negocio,460.0
+SUB11366,Starter,Marketplace,Alemania,Orgánico,27.54,27,Cancelado,Competencia,743.58
+SUB11047,Scale,Media,Francia,Partner,357.09,5,Activo,N/A,1785.45
+SUB11142,Starter,EdTech,España,Orgánico,30.99,2,Cancelado,Mal soporte,61.98
+SUB10634,Scale,Media,Reino Unido,Paid Ads,354.95,13,Activo,N/A,4614.35
+SUB10865,Growth,Media,Reino Unido,Orgánico,93.21,28,Activo,N/A,2609.88
+SUB10787,Growth,E-commerce,Reino Unido,Orgánico,101.2,13,Cancelado,Mal soporte,1315.6
+SUB10744,Starter,SaaS B2B,Reino Unido,Paid Ads,31.17,21,Activo,N/A,654.57
+SUB10859,Enterprise,Fintech,Reino Unido,Orgánico,1002.38,13,Activo,N/A,13030.94
+SUB10294,Growth,Fintech,Canadá,Orgánico,115.23,10,Activo,N/A,1152.3
+SUB10544,Growth,SaaS B2B,EEUU,Orgánico,101.42,21,Activo,N/A,2129.82
+SUB11362,Starter,E-commerce,Reino Unido,Partner,31.84,10,Activo,N/A,318.4
+SUB10088,Enterprise,E-commerce,Francia,Paid Ads,995.2,11,Cancelado,Cierre negocio,10947.2
+SUB11031,Scale,Media,Canadá,Paid Ads,289.7,7,Activo,N/A,2027.9
+SUB11379,Starter,Marketplace,Canadá,Paid Ads,29.59,13,Cancelado,Precio,384.67
+SUB10576,Starter,Marketplace,Alemania,Paid Ads,31.54,9,Activo,N/A,283.86
+SUB10906,Growth,Fintech,Reino Unido,Partner,96.87,15,Activo,N/A,1453.05
+SUB11387,Growth,Marketplace,Francia,Paid Ads,107.18,8,Cancelado,Precio,857.44
+SUB11091,Starter,Marketplace,EEUU,Orgánico,27.55,11,Cancelado,Cierre negocio,303.05
+SUB10943,Starter,Fintech,España,Paid Ads,31.55,10,Activo,N/A,315.5
+SUB10290,Starter,Fintech,España,Referido,26.45,16,Activo,N/A,423.2
+SUB11418,Scale,Marketplace,Alemania,Paid Ads,345.73,11,Activo,N/A,3803.03
+SUB11018,Growth,E-commerce,Reino Unido,Orgánico,112.63,15,Cancelado,Precio,1689.45
+SUB10348,Growth,SaaS B2B,Alemania,Partner,108.24,10,Activo,N/A,1082.4
+SUB10567,Growth,Media,España,Referido,111.07,9,Activo,N/A,999.63
+SUB11412,Growth,Fintech,Alemania,Paid Ads,89.43,13,Cancelado,Cierre negocio,1162.59
+SUB11058,Scale,E-commerce,EEUU,Partner,343.57,13,Cancelado,Faltan features,4466.41
+SUB10599,Growth,Marketplace,EEUU,Paid Ads,102.19,9,Cancelado,Cierre negocio,919.71
+SUB10458,Scale,Media,Reino Unido,Partner,342.46,22,Activo,N/A,7534.12
+SUB10375,Growth,Fintech,Canadá,Referido,100.07,19,Activo,N/A,1901.33
+SUB10333,Scale,Marketplace,Alemania,Referido,297.21,5,Activo,N/A,1486.05
+SUB10756,Starter,Marketplace,Reino Unido,Partner,31.74,19,Cancelado,Mal soporte,603.06
+SUB11323,Starter,Fintech,Francia,Paid Ads,33.54,4,Cancelado,Competencia,134.16
+SUB10711,Starter,E-commerce,Alemania,Orgánico,28.04,1,Cancelado,Competencia,28.04
+SUB11389,Starter,Media,Francia,Orgánico,32.34,5,Activo,N/A,161.7
+SUB10566,Scale,Marketplace,España,Referido,298.25,48,Activo,N/A,14316.0
+SUB10328,Scale,EdTech,Reino Unido,Orgánico,318.34,8,Activo,N/A,2546.72
+SUB10318,Scale,Marketplace,Alemania,Paid Ads,357.07,24,Activo,N/A,8569.68
+SUB11302,Scale,Marketplace,Francia,Referido,295.25,5,Activo,N/A,1476.25
+SUB10952,Growth,SaaS B2B,Canadá,Referido,107.34,21,Activo,N/A,2254.14
+SUB10012,Starter,Media,Canadá,Paid Ads,29.92,12,Cancelado,Mal soporte,359.04
+SUB10171,Scale,Fintech,EEUU,Paid Ads,337.96,2,Activo,N/A,675.92
+SUB10260,Starter,E-commerce,Reino Unido,Orgánico,33.47,4,Activo,N/A,133.88
+SUB10819,Scale,Media,Alemania,Referido,338.61,19,Activo,N/A,6433.59
+SUB11494,Starter,Fintech,España,Referido,33.75,4,Activo,N/A,135.0
+SUB10796,Growth,Marketplace,Reino Unido,Paid Ads,108.43,31,Cancelado,Precio,3361.33
+SUB10138,Starter,EdTech,Francia,Referido,34.72,5,Activo,N/A,173.6
+SUB10549,Starter,Marketplace,EEUU,Orgánico,32.99,9,Activo,N/A,296.91
+SUB10615,Scale,Media,Francia,Referido,352.95,9,Activo,N/A,3176.55
+SUB10845,Growth,E-commerce,Reino Unido,Partner,105.16,8,Activo,N/A,841.28
+SUB10777,Scale,Marketplace,Reino Unido,Paid Ads,353.89,12,Activo,N/A,4246.68
+SUB10558,Scale,Fintech,Francia,Paid Ads,293.37,19,Cancelado,Mal soporte,5574.03
+SUB10139,Starter,Marketplace,Francia,Referido,26.51,8,Activo,N/A,212.08
+SUB11309,Starter,EdTech,España,Paid Ads,31.18,7,Activo,N/A,218.26
+SUB11023,Scale,Media,Reino Unido,Referido,289.52,11,Activo,N/A,3184.72
+SUB10224,Growth,Fintech,EEUU,Partner,102.6,3,Activo,N/A,307.8
+SUB10963,Growth,SaaS B2B,Francia,Paid Ads,92.23,7,Activo,N/A,645.61
+SUB10409,Scale,EdTech,EEUU,Paid Ads,346.13,1,Cancelado,Competencia,346.13
+SUB10325,Growth,Fintech,Alemania,Orgánico,106.24,21,Activo,N/A,2231.04
+SUB10299,Growth,Fintech,España,Orgánico,93.22,28,Activo,N/A,2610.16
+SUB10993,Growth,SaaS B2B,España,Orgánico,109.26,10,Activo,N/A,1092.6
+SUB11032,Starter,Media,Alemania,Orgánico,28.89,9,Activo,N/A,260.01
+SUB10670,Enterprise,Fintech,España,Partner,1114.06,12,Activo,N/A,13368.72
+SUB11479,Starter,Marketplace,Reino Unido,Orgánico,30.9,9,Activo,N/A,278.1
+SUB10946,Growth,Fintech,Reino Unido,Orgánico,103.03,18,Activo,N/A,1854.54
+SUB11269,Scale,E-commerce,EEUU,Referido,341.0,12,Activo,N/A,4092.0
+SUB10573,Starter,Marketplace,Francia,Orgánico,32.18,23,Activo,N/A,740.14
+SUB10503,Growth,E-commerce,Canadá,Orgánico,111.59,4,Cancelado,Precio,446.36
+SUB11037,Growth,EdTech,Francia,Partner,105.77,8,Activo,N/A,846.16
+SUB10003,Starter,Media,EEUU,Paid Ads,26.89,1,Cancelado,Mal soporte,26.89
+SUB11468,Starter,E-commerce,España,Referido,29.52,24,Activo,N/A,708.48
+SUB10467,Starter,Marketplace,España,Partner,31.73,17,Activo,N/A,539.41
+SUB10321,Growth,SaaS B2B,Alemania,Referido,107.89,5,Activo,N/A,539.45
+SUB10005,Starter,E-commerce,Canadá,Partner,34.01,20,Activo,N/A,680.2
+SUB10973,Scale,Media,Francia,Partner,308.61,22,Activo,N/A,6789.42
+SUB10547,Growth,Fintech,Alemania,Referido,109.25,4,Activo,N/A,437.0
+SUB11476,Scale,EdTech,Francia,Partner,292.94,23,Activo,N/A,6737.62
+SUB10039,Growth,E-commerce,Canadá,Orgánico,101.25,2,Cancelado,Precio,202.5
+SUB10542,Starter,Fintech,Canadá,Paid Ads,27.54,22,Activo,N/A,605.88
+SUB10242,Starter,Fintech,Francia,Orgánico,32.59,3,Cancelado,Faltan features,97.77
+SUB10136,Starter,SaaS B2B,España,Orgánico,34.02,10,Activo,N/A,340.2
+SUB10602,Growth,Fintech,EEUU,Orgánico,111.27,19,Activo,N/A,2114.13
+SUB10772,Starter,EdTech,Canadá,Referido,30.7,26,Cancelado,Mal soporte,798.2
+SUB10846,Growth,E-commerce,EEUU,Paid Ads,93.21,14,Activo,N/A,1304.94
+SUB11090,Scale,Marketplace,Francia,Referido,344.96,16,Activo,N/A,5519.36
+SUB11365,Starter,Fintech,España,Orgánico,33.52,16,Activo,N/A,536.32
+SUB10581,Starter,E-commerce,Reino Unido,Partner,28.41,17,Activo,N/A,482.97
+SUB11474,Scale,Marketplace,Alemania,Referido,278.87,6,Activo,N/A,1673.22
+SUB10788,Starter,Marketplace,Reino Unido,Orgánico,33.38,48,Activo,N/A,1602.24
+SUB11388,Growth,E-commerce,España,Paid Ads,113.06,4,Activo,N/A,452.24
+SUB10376,Growth,Marketplace,Canadá,Orgánico,110.75,8,Activo,N/A,886.0
+SUB10314,Scale,Fintech,Francia,Orgánico,282.37,15,Activo,N/A,4235.55
+SUB10442,Growth,SaaS B2B,Francia,Paid Ads,94.43,11,Activo,N/A,1038.73
+SUB10319,Starter,Fintech,Canadá,Referido,33.53,8,Activo,N/A,268.24
+SUB11478,Scale,EdTech,Canadá,Paid Ads,343.64,24,Cancelado,Cierre negocio,8247.36
+SUB10793,Starter,E-commerce,EEUU,Orgánico,32.82,2,Activo,N/A,65.64
+SUB11132,Starter,E-commerce,EEUU,Paid Ads,34.14,4,Cancelado,Faltan features,136.56
+SUB10424,Starter,Marketplace,Canadá,Paid Ads,27.0,12,Activo,N/A,324.0
+SUB10553,Starter,E-commerce,Alemania,Referido,27.75,30,Activo,N/A,832.5
+SUB10594,Scale,SaaS B2B,Alemania,Orgánico,329.8,3,Activo,N/A,989.4
+SUB10893,Scale,SaaS B2B,Alemania,Partner,305.38,8,Activo,N/A,2443.04
+SUB11481,Starter,EdTech,Alemania,Orgánico,33.55,22,Activo,N/A,738.1
+SUB11217,Starter,Fintech,EEUU,Paid Ads,27.37,14,Activo,N/A,383.18
+SUB11164,Enterprise,E-commerce,España,Paid Ads,1166.73,37,Activo,N/A,43169.01
+SUB10227,Starter,Marketplace,Alemania,Referido,30.02,9,Cancelado,Cierre negocio,270.18
+SUB10714,Scale,SaaS B2B,Alemania,Orgánico,354.04,6,Activo,N/A,2124.24
+SUB10810,Scale,Fintech,Reino Unido,Orgánico,306.25,20,Activo,N/A,6125.0
+SUB10979,Growth,SaaS B2B,Alemania,Orgánico,116.85,23,Activo,N/A,2687.55
+SUB11075,Starter,SaaS B2B,Francia,Orgánico,28.08,6,Cancelado,Mal soporte,168.48
+SUB10066,Growth,EdTech,España,Orgánico,101.42,4,Activo,N/A,405.68
+SUB10393,Growth,Media,Alemania,Orgánico,89.56,14,Activo,N/A,1253.84
+SUB10579,Growth,E-commerce,Reino Unido,Orgánico,106.56,35,Activo,N/A,3729.6
+SUB10989,Scale,Marketplace,Alemania,Paid Ads,315.69,18,Activo,N/A,5682.42
+SUB10211,Scale,Media,Francia,Paid Ads,283.61,4,Activo,N/A,1134.44
+SUB11159,Starter,Media,Reino Unido,Paid Ads,27.3,13,Cancelado,Mal soporte,354.9
+SUB10781,Starter,Media,Canadá,Partner,34.8,25,Activo,N/A,870.0
+SUB10536,Starter,EdTech,Alemania,Paid Ads,26.6,2,Activo,N/A,53.2
+SUB10774,Growth,SaaS B2B,Alemania,Paid Ads,105.66,13,Activo,N/A,1373.58
+SUB10661,Scale,Marketplace,Canadá,Paid Ads,341.63,2,Activo,N/A,683.26
+SUB10085,Starter,EdTech,Canadá,Referido,30.34,19,Activo,N/A,576.46
+SUB11349,Growth,E-commerce,Reino Unido,Paid Ads,103.82,16,Activo,N/A,1661.12
+SUB11216,Growth,Media,Canadá,Orgánico,107.94,3,Activo,N/A,323.82
+SUB10915,Starter,E-commerce,España,Partner,26.98,20,Activo,N/A,539.6
+SUB10660,Starter,EdTech,Francia,Orgánico,34.67,10,Activo,N/A,346.7
+SUB11350,Starter,EdTech,Canadá,Paid Ads,28.93,4,Activo,N/A,115.72
+SUB10630,Enterprise,SaaS B2B,Alemania,Partner,1032.42,9,Activo,N/A,9291.78
+SUB11033,Scale,E-commerce,Alemania,Referido,303.74,19,Activo,N/A,5771.06
+SUB11399,Growth,Fintech,Reino Unido,Orgánico,93.2,24,Activo,N/A,2236.8
+SUB11092,Growth,E-commerce,España,Paid Ads,115.29,12,Activo,N/A,1383.48
+SUB10273,Scale,E-commerce,Reino Unido,Orgánico,343.19,9,Activo,N/A,3088.71
+SUB10722,Growth,Fintech,Reino Unido,Paid Ads,106.35,19,Cancelado,Competencia,2020.65
+SUB10362,Starter,E-commerce,Francia,Referido,31.51,1,Activo,N/A,31.51
+SUB10622,Scale,Media,EEUU,Orgánico,303.38,9,Activo,N/A,2730.42
+SUB10002,Starter,Fintech,Reino Unido,Orgánico,27.7,13,Cancelado,Cierre negocio,360.1
+SUB10006,Growth,SaaS B2B,Canadá,Orgánico,94.59,18,Activo,N/A,1702.62
+SUB10311,Starter,Marketplace,Canadá,Orgánico,33.29,14,Activo,N/A,466.06
+SUB11167,Starter,E-commerce,España,Paid Ads,29.64,22,Activo,N/A,652.08
+SUB10938,Starter,SaaS B2B,Francia,Orgánico,27.79,16,Activo,N/A,444.64
+SUB11477,Scale,EdTech,Alemania,Paid Ads,354.31,7,Cancelado,Competencia,2480.17
+SUB10215,Scale,Media,EEUU,Paid Ads,297.58,15,Activo,N/A,4463.7
+SUB11320,Growth,Fintech,Alemania,Paid Ads,108.49,7,Activo,N/A,759.43
+SUB10027,Growth,EdTech,Canadá,Orgánico,104.21,10,Activo,N/A,1042.1
+SUB11465,Growth,Fintech,España,Orgánico,104.03,9,Activo,N/A,936.27
+SUB11024,Scale,Fintech,España,Referido,347.53,14,Cancelado,Faltan features,4865.42
+SUB10785,Growth,Media,Alemania,Orgánico,105.14,15,Cancelado,Competencia,1577.1
+SUB10638,Growth,Fintech,Canadá,Paid Ads,98.78,19,Activo,N/A,1876.82
+SUB10829,Starter,Fintech,EEUU,Paid Ads,28.03,6,Cancelado,Competencia,168.18
+SUB10826,Enterprise,EdTech,España,Paid Ads,1113.07,11,Activo,N/A,12243.77
+SUB10624,Growth,Fintech,Reino Unido,Paid Ads,101.37,8,Activo,N/A,810.96
+SUB10849,Starter,Fintech,EEUU,Orgánico,28.18,2,Activo,N/A,56.36
+SUB10256,Growth,E-commerce,Reino Unido,Referido,99.42,13,Activo,N/A,1292.46
+SUB10025,Scale,EdTech,Reino Unido,Orgánico,329.11,23,Activo,N/A,7569.53
+SUB10336,Enterprise,Media,EEUU,Paid Ads,979.71,8,Activo,N/A,7837.68
+SUB10572,Starter,Fintech,Reino Unido,Orgánico,28.84,22,Activo,N/A,634.48
+SUB10047,Scale,Media,Reino Unido,Orgánico,271.19,3,Activo,N/A,813.57
+SUB10106,Enterprise,Media,Reino Unido,Paid Ads,1007.71,11,Activo,N/A,11084.81
+SUB10349,Growth,Media,España,Referido,115.71,7,Activo,N/A,809.97
+SUB10055,Scale,Marketplace,EEUU,Referido,276.4,11,Activo,N/A,3040.4
+SUB10808,Starter,SaaS B2B,Canadá,Orgánico,26.43,13,Activo,N/A,343.59
+SUB10213,Scale,Fintech,Reino Unido,Orgánico,298.03,17,Activo,N/A,5066.51
+SUB10120,Starter,Media,Canadá,Orgánico,34.06,1,Activo,N/A,34.06
+SUB10869,Scale,SaaS B2B,Reino Unido,Partner,273.77,12,Activo,N/A,3285.24
+SUB10855,Starter,Fintech,España,Orgánico,26.32,22,Activo,N/A,579.04
+SUB10072,Starter,E-commerce,Alemania,Paid Ads,30.57,11,Activo,N/A,336.27
+SUB11380,Growth,Marketplace,Alemania,Paid Ads,109.15,23,Cancelado,Competencia,2510.45
+SUB10720,Scale,EdTech,España,Orgánico,286.09,16,Activo,N/A,4577.44
+SUB10045,Starter,SaaS B2B,EEUU,Paid Ads,33.16,11,Activo,N/A,364.76
+SUB11263,Enterprise,SaaS B2B,Canadá,Paid Ads,1088.07,9,Activo,N/A,9792.63
+SUB10523,Starter,Media,España,Paid Ads,26.34,1,Cancelado,Precio,26.34
+SUB10868,Growth,Marketplace,Francia,Referido,99.95,27,Activo,N/A,2698.65
+SUB11107,Starter,Media,Alemania,Orgánico,26.18,7,Activo,N/A,183.26
+SUB11274,Growth,Marketplace,Canadá,Orgánico,113.42,3,Activo,N/A,340.26
+SUB10802,Growth,Fintech,Reino Unido,Orgánico,93.31,11,Activo,N/A,1026.41
+SUB10533,Scale,Fintech,Canadá,Referido,328.9,12,Activo,N/A,3946.8
+SUB11137,Starter,Media,EEUU,Partner,34.58,4,Cancelado,Mal soporte,138.32
+SUB10603,Growth,EdTech,Canadá,Paid Ads,114.7,7,Activo,N/A,802.9
+SUB10465,Enterprise,E-commerce,EEUU,Paid Ads,1039.38,29,Activo,N/A,30142.02
+SUB11202,Growth,Fintech,EEUU,Referido,100.24,6,Activo,N/A,601.44
+SUB11277,Starter,SaaS B2B,Alemania,Orgánico,26.35,13,Activo,N/A,342.55
+SUB11443,Enterprise,SaaS B2B,España,Paid Ads,1182.71,9,Activo,N/A,10644.39
+SUB10988,Starter,Media,EEUU,Orgánico,26.22,14,Activo,N/A,367.08
+SUB10060,Starter,SaaS B2B,EEUU,Orgánico,34.14,9,Activo,N/A,307.26
+SUB10885,Starter,Marketplace,Reino Unido,Partner,31.05,22,Activo,N/A,683.1
+SUB10092,Starter,E-commerce,EEUU,Orgánico,31.61,15,Activo,N/A,474.15
+SUB10666,Growth,Marketplace,EEUU,Paid Ads,108.51,7,Cancelado,Precio,759.57
+SUB10705,Growth,EdTech,Alemania,Orgánico,90.12,5,Activo,N/A,450.6
+SUB10194,Growth,E-commerce,EEUU,Referido,106.35,13,Activo,N/A,1382.55
+SUB10280,Starter,E-commerce,Alemania,Referido,33.57,10,Activo,N/A,335.7
+SUB10695,Enterprise,Marketplace,Reino Unido,Orgánico,920.88,5,Activo,N/A,4604.4
+SUB10359,Starter,E-commerce,Alemania,Orgánico,34.16,17,Activo,N/A,580.72
+SUB10519,Enterprise,E-commerce,Alemania,Orgánico,1101.05,6,Activo,N/A,6606.3
+SUB10812,Growth,SaaS B2B,España,Paid Ads,96.73,16,Activo,N/A,1547.68
+SUB10767,Scale,EdTech,EEUU,Paid Ads,356.91,16,Cancelado,Mal soporte,5710.56
+SUB10182,Growth,Marketplace,Canadá,Orgánico,92.83,11,Activo,N/A,1021.13
+SUB11486,Growth,E-commerce,EEUU,Orgánico,104.96,7,Activo,N/A,734.72
+SUB10110,Growth,Fintech,Reino Unido,Orgánico,111.83,17,Activo,N/A,1901.11
+SUB10042,Scale,EdTech,Francia,Orgánico,311.63,11,Activo,N/A,3427.93
+SUB11006,Starter,Fintech,España,Paid Ads,29.53,5,Activo,N/A,147.65
+SUB10204,Growth,Media,Francia,Partner,91.18,3,Activo,N/A,273.54
+SUB10820,Growth,SaaS B2B,Canadá,Paid Ads,92.16,17,Activo,N/A,1566.72
+SUB10052,Growth,SaaS B2B,Francia,Referido,103.74,23,Activo,N/A,2386.02
+SUB10545,Starter,Media,Alemania,Orgánico,30.67,5,Activo,N/A,153.35
+SUB11131,Starter,Marketplace,España,Paid Ads,30.03,7,Activo,N/A,210.21
+SUB11157,Starter,E-commerce,España,Partner,33.56,12,Activo,N/A,402.72
+SUB11467,Scale,Media,Canadá,Referido,279.02,12,Activo,N/A,3348.24
+SUB10910,Scale,Media,Reino Unido,Orgánico,325.28,5,Activo,N/A,1626.4
+SUB10183,Starter,E-commerce,Canadá,Referido,32.13,12,Activo,N/A,385.56
+SUB10137,Enterprise,Fintech,Canadá,Referido,1134.77,9,Activo,N/A,10212.93
+SUB11149,Growth,EdTech,EEUU,Partner,104.9,4,Cancelado,Precio,419.6
+SUB10080,Scale,Marketplace,Reino Unido,Paid Ads,349.4,8,Activo,N/A,2795.2
+SUB11212,Enterprise,E-commerce,EEUU,Orgánico,1062.57,6,Activo,N/A,6375.42
+SUB10105,Growth,SaaS B2B,España,Orgánico,116.38,7,Activo,N/A,814.66
+SUB10541,Starter,SaaS B2B,Canadá,Orgánico,30.89,6,Activo,N/A,185.34
+SUB11313,Starter,Marketplace,Reino Unido,Orgánico,32.4,10,Activo,N/A,324.0
+SUB10480,Growth,Marketplace,Reino Unido,Orgánico,114.74,8,Activo,N/A,917.92
+SUB10165,Growth,E-commerce,España,Referido,110.08,11,Activo,N/A,1210.88
+SUB10248,Growth,Fintech,Canadá,Partner,110.95,4,Activo,N/A,443.8
+SUB10307,Enterprise,Marketplace,España,Paid Ads,967.58,25,Activo,N/A,24189.5
+SUB10446,Starter,Marketplace,EEUU,Orgánico,33.61,7,Activo,N/A,235.27
+SUB10746,Starter,SaaS B2B,Alemania,Orgánico,27.94,5,Activo,N/A,139.7
+SUB10334,Starter,Fintech,EEUU,Paid Ads,34.49,13,Activo,N/A,448.37
+SUB10097,Growth,Media,Francia,Paid Ads,111.51,11,Activo,N/A,1226.61
+SUB10759,Growth,EdTech,Reino Unido,Orgánico,111.14,3,Activo,N/A,333.42
+SUB10737,Growth,Marketplace,Francia,Partner,110.52,16,Activo,N/A,1768.32
+SUB10836,Growth,EdTech,Alemania,Partner,106.49,5,Activo,N/A,532.45
+SUB10942,Growth,E-commerce,Canadá,Orgánico,111.05,8,Activo,N/A,888.4
+SUB10102,Scale,E-commerce,Canadá,Orgánico,350.79,17,Activo,N/A,5963.43
+SUB10434,Scale,Fintech,Francia,Referido,291.44,6,Activo,N/A,1748.64
+SUB10074,Starter,Fintech,Canadá,Paid Ads,31.14,16,Activo,N/A,498.24
+SUB11340,Enterprise,Fintech,Francia,Paid Ads,1078.66,12,Activo,N/A,12943.92
+SUB11124,Starter,Fintech,Francia,Partner,26.42,2,Activo,N/A,52.84
+SUB11359,Growth,EdTech,EEUU,Orgánico,94.69,9,Activo,N/A,852.21
+SUB10302,Scale,Media,Reino Unido,Paid Ads,305.33,11,Activo,N/A,3358.63
+SUB11262,Scale,SaaS B2B,Canadá,Paid Ads,272.83,10,Activo,N/A,2728.3
+SUB11223,Starter,EdTech,Reino Unido,Orgánico,32.42,15,Cancelado,Precio,486.3
+SUB10733,Scale,Marketplace,Reino Unido,Referido,320.18,23,Activo,N/A,7364.14
+SUB10388,Scale,E-commerce,Reino Unido,Orgánico,332.3,1,Activo,N/A,332.3
+SUB10235,Starter,Marketplace,Francia,Paid Ads,33.75,15,Activo,N/A,506.25
+SUB11245,Starter,Fintech,Reino Unido,Partner,33.24,3,Activo,N/A,99.72
+SUB10267,Scale,Media,Alemania,Referido,297.51,8,Activo,N/A,2380.08
+SUB10305,Starter,Fintech,Alemania,Paid Ads,26.32,48,Activo,N/A,1263.36
+SUB10117,Growth,Fintech,Canadá,Orgánico,107.91,13,Activo,N/A,1402.83
+SUB11211,Growth,Marketplace,Francia,Referido,103.81,1,Cancelado,Cierre negocio,103.81
+SUB10673,Starter,EdTech,Canadá,Paid Ads,29.59,24,Activo,N/A,710.16
+SUB10249,Scale,Media,Francia,Orgánico,335.48,34,Activo,N/A,11406.32
+SUB11093,Growth,Fintech,Reino Unido,Orgánico,97.25,2,Cancelado,Competencia,194.5
+SUB11079,Enterprise,Marketplace,EEUU,Orgánico,941.54,3,Activo,N/A,2824.62
+SUB10071,Scale,Fintech,Alemania,Paid Ads,350.11,12,Activo,N/A,4201.32
+SUB10094,Starter,Fintech,Canadá,Orgánico,30.73,19,Activo,N/A,583.87
+SUB10847,Growth,Fintech,Alemania,Paid Ads,91.64,29,Activo,N/A,2657.56
+SUB10033,Starter,SaaS B2B,Francia,Referido,28.65,4,Cancelado,Precio,114.6
+SUB11100,Starter,Marketplace,EEUU,Orgánico,29.85,3,Activo,N/A,89.55
+SUB10448,Starter,EdTech,Francia,Referido,34.59,11,Cancelado,Faltan features,380.49
+SUB10445,Starter,Media,Canadá,Paid Ads,26.55,10,Activo,N/A,265.5
+SUB10771,Scale,SaaS B2B,EEUU,Referido,278.59,24,Activo,N/A,6686.16
+SUB10716,Starter,Fintech,Francia,Referido,31.8,12,Activo,N/A,381.6
+SUB10886,Growth,EdTech,Alemania,Orgánico,89.24,9,Activo,N/A,803.16
+SUB11244,Starter,Media,EEUU,Orgánico,34.73,14,Activo,N/A,486.22
+SUB10900,Growth,E-commerce,Reino Unido,Paid Ads,97.2,21,Activo,N/A,2041.2
+SUB11035,Scale,E-commerce,Francia,Paid Ads,297.15,14,Activo,N/A,4160.1
+SUB10077,Starter,SaaS B2B,Canadá,Orgánico,33.88,8,Cancelado,Cierre negocio,271.04
+SUB10084,Growth,SaaS B2B,EEUU,Orgánico,96.36,26,Cancelado,Precio,2505.36
+SUB10834,Scale,SaaS B2B,EEUU,Orgánico,310.36,8,Activo,N/A,2482.88
+SUB10082,Starter,SaaS B2B,Francia,Paid Ads,29.08,3,Activo,N/A,87.24
+SUB10457,Scale,SaaS B2B,Canadá,Paid Ads,301.52,9,Activo,N/A,2713.68
+SUB10918,Growth,EdTech,EEUU,Paid Ads,92.99,10,Activo,N/A,929.9
+SUB10676,Scale,EdTech,Francia,Referido,315.88,7,Activo,N/A,2211.16
+SUB10984,Starter,Marketplace,Francia,Referido,34.4,11,Activo,N/A,378.4
+SUB11239,Starter,Media,España,Orgánico,30.28,6,Activo,N/A,181.68
+SUB10436,Starter,Fintech,Canadá,Partner,29.24,14,Cancelado,Competencia,409.36
+SUB10770,Starter,Fintech,Reino Unido,Orgánico,32.74,7,Activo,N/A,229.18
+SUB10644,Starter,E-commerce,Reino Unido,Orgánico,30.34,20,Activo,N/A,606.8
+SUB11119,Enterprise,EdTech,España,Orgánico,936.97,8,Activo,N/A,7495.76
+SUB10905,Starter,Marketplace,Canadá,Orgánico,28.16,10,Activo,N/A,281.6
+SUB11193,Starter,SaaS B2B,Reino Unido,Paid Ads,29.55,21,Cancelado,Competencia,620.55
+SUB10404,Enterprise,EdTech,Francia,Orgánico,930.69,7,Activo,N/A,6514.83
+SUB11303,Growth,Marketplace,Francia,Paid Ads,107.13,5,Activo,N/A,535.65
+SUB10933,Growth,Media,Canadá,Orgánico,95.27,16,Activo,N/A,1524.32
+SUB11485,Scale,EdTech,Canadá,Orgánico,330.82,8,Activo,N/A,2646.56
+SUB10104,Growth,EdTech,Reino Unido,Referido,92.49,6,Activo,N/A,554.94
+SUB10609,Starter,Fintech,Canadá,Orgánico,26.16,19,Activo,N/A,497.04
+SUB11455,Growth,EdTech,Alemania,Orgánico,115.44,1,Activo,N/A,115.44
+SUB10688,Enterprise,Media,Reino Unido,Partner,1070.29,22,Activo,N/A,23546.38
+SUB10948,Starter,EdTech,Reino Unido,Orgánico,27.21,9,Activo,N/A,244.89
+SUB10931,Scale,EdTech,Francia,Paid Ads,295.79,11,Activo,N/A,3253.69
+SUB10062,Enterprise,E-commerce,Reino Unido,Orgánico,1165.91,40,Activo,N/A,46636.4
+SUB10281,Starter,Media,Canadá,Orgánico,34.48,5,Cancelado,Precio,172.4
+SUB10778,Growth,SaaS B2B,Canadá,Orgánico,94.55,9,Activo,N/A,850.95
+SUB11393,Starter,Fintech,Alemania,Orgánico,32.81,3,Activo,N/A,98.43
+SUB10238,Growth,Fintech,Canadá,Partner,93.58,4,Activo,N/A,374.32
+SUB10223,Scale,Media,EEUU,Orgánico,325.55,26,Activo,N/A,8464.3
+SUB10145,Growth,Fintech,Francia,Partner,103.37,24,Activo,N/A,2480.88
+SUB11398,Growth,Fintech,Francia,Paid Ads,107.35,10,Cancelado,Mal soporte,1073.5
+SUB10373,Starter,Fintech,Reino Unido,Partner,29.41,9,Activo,N/A,264.69
+SUB11228,Starter,Marketplace,Alemania,Orgánico,34.75,4,Activo,N/A,139.0
+SUB10118,Growth,E-commerce,España,Partner,94.2,2,Cancelado,Precio,188.4
+SUB11166,Enterprise,Marketplace,Canadá,Orgánico,1059.12,19,Activo,N/A,20123.28
+SUB10250,Starter,Fintech,Francia,Referido,32.19,31,Cancelado,Cierre negocio,997.89
+SUB11444,Growth,EdTech,Reino Unido,Orgánico,112.84,8,Activo,N/A,902.72
+SUB11022,Growth,Media,Alemania,Paid Ads,115.65,24,Activo,N/A,2775.6
+SUB10009,Growth,SaaS B2B,España,Referido,116.61,16,Activo,N/A,1865.76
+SUB10449,Starter,Media,Francia,Orgánico,27.93,9,Activo,N/A,251.37
+SUB10882,Enterprise,EdTech,Canadá,Paid Ads,1093.44,26,Activo,N/A,28429.44
+SUB10708,Growth,Fintech,Canadá,Referido,98.48,3,Activo,N/A,295.44
+SUB10255,Starter,E-commerce,Alemania,Orgánico,30.34,14,Cancelado,Mal soporte,424.76
+SUB10593,Growth,EdTech,España,Referido,98.22,16,Activo,N/A,1571.52
+SUB10389,Starter,Fintech,Alemania,Referido,28.6,5,Cancelado,Cierre negocio,143.0
+SUB11087,Growth,Marketplace,EEUU,Paid Ads,92.3,35,Activo,N/A,3230.5
+SUB11200,Starter,SaaS B2B,Reino Unido,Orgánico,26.57,5,Activo,N/A,132.85
+SUB10557,Starter,EdTech,Francia,Paid Ads,31.54,5,Activo,N/A,157.7
+SUB11287,Growth,Media,EEUU,Paid Ads,101.22,7,Activo,N/A,708.54
+SUB10839,Starter,SaaS B2B,Alemania,Paid Ads,32.25,9,Activo,N/A,290.25
+SUB10460,Starter,Marketplace,Canadá,Orgánico,27.69,12,Activo,N/A,332.28
+SUB10723,Scale,EdTech,Francia,Orgánico,355.46,23,Activo,N/A,8175.58
+SUB11381,Growth,Media,EEUU,Paid Ads,105.64,11,Activo,N/A,1162.04
+SUB10144,Growth,Marketplace,Francia,Partner,91.51,13,Activo,N/A,1189.63
+SUB10501,Growth,Fintech,EEUU,Referido,112.36,6,Activo,N/A,674.16
+SUB11098,Starter,Marketplace,Francia,Paid Ads,31.67,11,Activo,N/A,348.37
+SUB10739,Growth,Marketplace,Canadá,Partner,96.13,12,Activo,N/A,1153.56
+SUB11384,Growth,Media,Alemania,Paid Ads,117.67,10,Activo,N/A,1176.7
+SUB10731,Starter,Marketplace,Reino Unido,Referido,26.95,1,Activo,N/A,26.95
+SUB10539,Scale,SaaS B2B,Francia,Partner,338.21,15,Activo,N/A,5073.15
+SUB10177,Scale,SaaS B2B,EEUU,Paid Ads,307.75,6,Cancelado,Precio,1846.5
+SUB11446,Growth,Media,EEUU,Orgánico,91.03,6,Cancelado,Cierre negocio,546.18
+SUB10697,Enterprise,EdTech,Alemania,Orgánico,1185.21,3,Activo,N/A,3555.63
+SUB10940,Starter,EdTech,Reino Unido,Paid Ads,32.05,12,Activo,N/A,384.6
+SUB11049,Starter,SaaS B2B,Francia,Paid Ads,27.19,18,Activo,N/A,489.42
+SUB10922,Starter,Fintech,Canadá,Paid Ads,30.83,8,Activo,N/A,246.64
+SUB10898,Growth,E-commerce,Canadá,Orgánico,114.74,16,Cancelado,Competencia,1835.84
+SUB11492,Scale,Marketplace,Francia,Referido,274.48,3,Activo,N/A,823.44
+SUB10007,Starter,Media,España,Paid Ads,28.46,12,Activo,N/A,341.52
+SUB10862,Enterprise,Media,Canadá,Paid Ads,1038.52,4,Cancelado,Cierre negocio,4154.08
+SUB10667,Starter,SaaS B2B,Alemania,Partner,34.14,6,Cancelado,Mal soporte,204.84
+SUB11160,Scale,EdTech,España,Referido,279.85,10,Activo,N/A,2798.5
+SUB10357,Starter,Media,Canadá,Partner,34.39,10,Activo,N/A,343.9
+SUB10783,Growth,Fintech,España,Referido,116.82,6,Activo,N/A,700.92
+SUB10735,Growth,SaaS B2B,Reino Unido,Orgánico,101.88,6,Activo,N/A,611.28
+SUB10329,Growth,Media,Canadá,Orgánico,91.23,3,Activo,N/A,273.69
+SUB11055,Growth,SaaS B2B,EEUU,Orgánico,93.07,13,Activo,N/A,1209.91
+SUB11148,Growth,SaaS B2B,EEUU,Orgánico,90.51,21,Activo,N/A,1900.71
+SUB11117,Starter,E-commerce,Alemania,Referido,31.94,22,Activo,N/A,702.68
+SUB10258,Starter,SaaS B2B,EEUU,Partner,28.79,6,Activo,N/A,172.74
+SUB11175,Enterprise,EdTech,Alemania,Orgánico,918.38,5,Activo,N/A,4591.9
+SUB10372,Scale,EdTech,Francia,Referido,285.39,18,Activo,N/A,5137.02
+SUB11103,Starter,Marketplace,España,Paid Ads,27.81,3,Activo,N/A,83.43
+SUB10925,Enterprise,EdTech,Canadá,Paid Ads,1176.32,6,Cancelado,Precio,7057.92
+SUB10142,Scale,Marketplace,EEUU,Orgánico,310.13,20,Cancelado,Cierre negocio,6202.6
+SUB10525,Starter,Media,Francia,Orgánico,34.08,36,Activo,N/A,1226.88
+SUB11138,Scale,Media,Alemania,Orgánico,283.23,30,Activo,N/A,8496.9
+SUB11007,Growth,Fintech,Francia,Orgánico,115.73,2,Activo,N/A,231.46
+SUB11121,Starter,E-commerce,España,Paid Ads,29.07,3,Cancelado,Precio,87.21
+SUB11423,Scale,Marketplace,Alemania,Paid Ads,300.64,12,Activo,N/A,3607.68
+SUB10440,Scale,Fintech,Francia,Orgánico,333.24,1,Activo,N/A,333.24
+SUB10531,Scale,Fintech,EEUU,Referido,356.72,5,Activo,N/A,1783.6
+SUB11201,Scale,EdTech,Francia,Orgánico,326.63,12,Cancelado,Precio,3919.56
+SUB10226,Scale,Media,Alemania,Partner,275.95,14,Activo,N/A,3863.3
+SUB11036,Enterprise,Media,Alemania,Referido,907.74,6,Activo,N/A,5446.44
+SUB10228,Growth,Media,Francia,Orgánico,90.52,22,Activo,N/A,1991.44
+SUB11279,Starter,Fintech,Canadá,Partner,34.12,8,Activo,N/A,272.96
+SUB11449,Starter,Media,Francia,Partner,34.72,37,Activo,N/A,1284.64
+SUB10212,Growth,EdTech,Canadá,Paid Ads,100.9,40,Cancelado,Precio,4036.0
+SUB10079,Starter,Marketplace,Reino Unido,Paid Ads,29.32,44,Cancelado,Precio,1290.08
+SUB10148,Scale,E-commerce,España,Orgánico,269.56,6,Activo,N/A,1617.36
+SUB10814,Scale,Fintech,Canadá,Orgánico,322.97,21,Activo,N/A,6782.37
+SUB10903,Starter,E-commerce,España,Paid Ads,28.34,7,Cancelado,Mal soporte,198.38
+SUB10958,Enterprise,SaaS B2B,Alemania,Partner,1129.76,1,Activo,N/A,1129.76
+SUB10671,Starter,Media,EEUU,Referido,30.24,19,Activo,N/A,574.56
+SUB11155,Enterprise,Fintech,Francia,Orgánico,991.32,16,Activo,N/A,15861.12
+SUB10555,Growth,Fintech,EEUU,Paid Ads,89.53,16,Activo,N/A,1432.48
+SUB10907,Starter,E-commerce,Francia,Orgánico,32.95,8,Activo,N/A,263.6
+SUB10133,Starter,Marketplace,Canadá,Orgánico,27.71,17,Cancelado,Precio,471.07
+SUB11108,Starter,SaaS B2B,España,Paid Ads,28.04,15,Cancelado,Precio,420.6
+SUB10823,Starter,E-commerce,Reino Unido,Paid Ads,34.8,4,Activo,N/A,139.2
+SUB10408,Growth,EdTech,Francia,Orgánico,117.05,22,Activo,N/A,2575.1
+SUB10368,Scale,Media,Francia,Orgánico,300.73,11,Cancelado,Precio,3308.03
+SUB10507,Starter,EdTech,España,Paid Ads,26.64,22,Activo,N/A,586.08
+SUB11181,Starter,Marketplace,Alemania,Orgánico,34.71,6,Activo,N/A,208.26
+SUB10504,Growth,Marketplace,EEUU,Referido,106.99,7,Activo,N/A,748.93
+SUB11488,Scale,Fintech,España,Orgánico,348.5,7,Activo,N/A,2439.5
+SUB10347,Enterprise,SaaS B2B,Francia,Paid Ads,1079.91,6,Activo,N/A,6479.46
+SUB10386,Starter,E-commerce,EEUU,Orgánico,32.89,15,Activo,N/A,493.35
+SUB10000,Starter,Fintech,Alemania,Orgánico,34.37,17,Activo,N/A,584.29
+SUB10360,Starter,Media,EEUU,Orgánico,29.6,3,Cancelado,Cierre negocio,88.8
+SUB10894,Starter,Media,Canadá,Referido,29.31,5,Activo,N/A,146.55
+SUB10828,Starter,Marketplace,España,Referido,29.67,3,Activo,N/A,89.01
+SUB11415,Enterprise,Fintech,Alemania,Referido,1051.45,3,Activo,N/A,3154.35
+SUB10475,Starter,E-commerce,España,Referido,34.73,1,Activo,N/A,34.73
+SUB11280,Starter,Media,Alemania,Referido,32.69,7,Activo,N/A,228.83
+SUB10057,Starter,E-commerce,España,Orgánico,28.97,22,Activo,N/A,637.34
+SUB10637,Growth,Media,Canadá,Orgánico,110.82,1,Cancelado,Competencia,110.82
+SUB11330,Enterprise,E-commerce,Canadá,Orgánico,1007.95,11,Activo,N/A,11087.45
+SUB11053,Growth,E-commerce,España,Orgánico,114.64,25,Cancelado,Competencia,2866.0
+SUB11370,Growth,EdTech,Francia,Referido,112.01,3,Activo,N/A,336.03
+SUB10172,Scale,Media,Alemania,Referido,312.75,2,Activo,N/A,625.5
+SUB10450,Enterprise,Fintech,Canadá,Orgánico,948.86,2,Activo,N/A,1897.72
+SUB10125,Starter,E-commerce,EEUU,Orgánico,31.24,6,Activo,N/A,187.44
+SUB11179,Growth,E-commerce,España,Paid Ads,109.85,11,Cancelado,Precio,1208.35
+SUB10530,Starter,SaaS B2B,España,Orgánico,31.38,12,Cancelado,Precio,376.56
+SUB10857,Scale,EdTech,Francia,Referido,290.95,45,Cancelado,Mal soporte,13092.75
+SUB10713,Starter,SaaS B2B,Reino Unido,Referido,26.66,13,Activo,N/A,346.58
+SUB10090,Enterprise,Fintech,EEUU,Orgánico,1148.04,4,Activo,N/A,4592.16
+SUB11450,Starter,Media,Francia,Paid Ads,30.04,5,Activo,N/A,150.2
+SUB10181,Starter,Fintech,Reino Unido,Referido,34.38,1,Activo,N/A,34.38
+SUB10875,Starter,Fintech,Reino Unido,Orgánico,28.94,1,Cancelado,Cierre negocio,28.94
+SUB11030,Growth,Fintech,EEUU,Partner,98.42,8,Activo,N/A,787.36
+SUB10786,Scale,Marketplace,Francia,Orgánico,281.3,9,Activo,N/A,2531.7
+SUB10414,Growth,SaaS B2B,Reino Unido,Paid Ads,101.33,6,Cancelado,Cierre negocio,607.98
+SUB10251,Starter,Marketplace,Reino Unido,Paid Ads,29.38,31,Activo,N/A,910.78
+SUB10069,Starter,EdTech,España,Referido,31.94,29,Activo,N/A,926.26
+SUB10803,Starter,EdTech,Reino Unido,Paid Ads,33.65,5,Activo,N/A,168.25
+SUB10131,Growth,EdTech,EEUU,Paid Ads,102.2,27,Activo,N/A,2759.4
+SUB10300,Scale,Marketplace,Reino Unido,Paid Ads,316.64,16,Activo,N/A,5066.24
+SUB11429,Growth,Marketplace,Francia,Partner,105.25,48,Activo,N/A,5052.0
+SUB10326,Growth,E-commerce,Francia,Orgánico,92.45,7,Activo,N/A,647.15
+SUB11464,Starter,E-commerce,Canadá,Paid Ads,30.57,16,Activo,N/A,489.12
+SUB11113,Starter,E-commerce,España,Orgánico,31.82,20,Activo,N/A,636.4
+SUB10499,Growth,Fintech,Alemania,Orgánico,97.25,9,Activo,N/A,875.25
+SUB11377,Starter,EdTech,Francia,Orgánico,33.2,12,Activo,N/A,398.4
+SUB10832,Enterprise,Media,Alemania,Partner,1101.74,17,Activo,N/A,18729.58
+SUB10364,Growth,Media,Reino Unido,Paid Ads,95.78,31,Activo,N/A,2969.18
+SUB10495,Starter,Media,Francia,Paid Ads,33.3,8,Activo,N/A,266.4
+SUB11394,Growth,Media,Reino Unido,Paid Ads,109.96,23,Activo,N/A,2529.08
+SUB10338,Growth,Marketplace,Francia,Partner,115.24,14,Activo,N/A,1613.36
+SUB10421,Growth,Marketplace,Alemania,Orgánico,104.35,10,Cancelado,Faltan features,1043.5
+SUB10164,Enterprise,E-commerce,España,Referido,959.3,11,Activo,N/A,10552.3
+SUB10028,Growth,SaaS B2B,Francia,Partner,116.01,1,Cancelado,Faltan features,116.01
+SUB10516,Growth,SaaS B2B,Canadá,Paid Ads,118.36,8,Cancelado,Faltan features,946.88
+SUB10193,Starter,EdTech,Alemania,Paid Ads,27.55,13,Activo,N/A,358.15
+SUB11327,Starter,E-commerce,España,Partner,34.26,2,Activo,N/A,68.52
+SUB11361,Starter,EdTech,Reino Unido,Referido,33.16,9,Activo,N/A,298.44
+SUB10945,Starter,Marketplace,España,Orgánico,32.08,8,Activo,N/A,256.64
+SUB11360,Starter,Media,Canadá,Partner,30.07,1,Cancelado,Precio,30.07
+SUB10169,Growth,E-commerce,Alemania,Partner,105.59,18,Activo,N/A,1900.62
+SUB10167,Growth,Media,Francia,Orgánico,108.21,32,Activo,N/A,3462.72
+SUB10652,Starter,E-commerce,España,Referido,29.62,14,Activo,N/A,414.68
+SUB10173,Growth,EdTech,Reino Unido,Partner,110.87,7,Activo,N/A,776.09
+SUB10518,Enterprise,Media,Alemania,Referido,987.23,17,Activo,N/A,16782.91
+SUB11213,Starter,EdTech,España,Paid Ads,30.18,12,Activo,N/A,362.16
+SUB11400,Scale,E-commerce,Francia,Referido,329.74,12,Activo,N/A,3956.88
+SUB10912,Starter,EdTech,España,Orgánico,28.54,14,Activo,N/A,399.56
+SUB10491,Growth,Fintech,Reino Unido,Orgánico,116.93,6,Activo,N/A,701.58
+SUB10953,Scale,Fintech,Reino Unido,Orgánico,281.67,7,Cancelado,Competencia,1971.69
+SUB10073,Scale,EdTech,Francia,Orgánico,310.3,15,Activo,N/A,4654.5
+SUB11252,Starter,Fintech,Francia,Orgánico,29.17,25,Activo,N/A,729.25
+SUB10587,Starter,Media,EEUU,Referido,29.63,5,Activo,N/A,148.15
+SUB10750,Starter,Marketplace,EEUU,Referido,30.81,12,Activo,N/A,369.72
+SUB10657,Starter,E-commerce,España,Paid Ads,31.16,7,Activo,N/A,218.12
+SUB10842,Enterprise,Media,Alemania,Paid Ads,1073.4,2,Activo,N/A,2146.8
+SUB10234,Starter,Marketplace,Alemania,Orgánico,28.48,13,Activo,N/A,370.24
+SUB10732,Growth,EdTech,Reino Unido,Orgánico,105.06,23,Activo,N/A,2416.38
+SUB10214,Growth,SaaS B2B,Canadá,Paid Ads,116.8,6,Activo,N/A,700.8
+SUB10162,Starter,EdTech,Canadá,Orgánico,26.99,18,Activo,N/A,485.82
+SUB10132,Growth,Fintech,Reino Unido,Paid Ads,101.78,1,Activo,N/A,101.78
+SUB11311,Starter,Media,Canadá,Orgánico,30.64,24,Activo,N/A,735.36
+SUB10222,Starter,Marketplace,EEUU,Orgánico,29.74,14,Activo,N/A,416.36
+SUB11227,Growth,Fintech,Canadá,Paid Ads,116.36,19,Activo,N/A,2210.84
+SUB10934,Growth,Marketplace,Reino Unido,Orgánico,94.7,18,Activo,N/A,1704.6
+SUB10185,Starter,E-commerce,Canadá,Partner,31.77,11,Activo,N/A,349.47
+SUB10041,Starter,SaaS B2B,Canadá,Orgánico,27.15,13,Activo,N/A,352.95
+SUB10692,Starter,Media,Reino Unido,Paid Ads,34.35,11,Activo,N/A,377.85
+SUB10108,Starter,EdTech,Francia,Orgánico,29.81,4,Activo,N/A,119.24
+SUB10038,Starter,Marketplace,Canadá,Orgánico,33.02,7,Activo,N/A,231.14
+SUB10568,Starter,Marketplace,Reino Unido,Orgánico,30.64,11,Activo,N/A,337.04
+SUB10994,Enterprise,Marketplace,EEUU,Referido,960.06,4,Activo,N/A,3840.24
+SUB11342,Starter,Media,EEUU,Paid Ads,26.89,5,Activo,N/A,134.45
+SUB11441,Starter,Fintech,Reino Unido,Orgánico,33.81,6,Activo,N/A,202.86
+SUB10483,Enterprise,E-commerce,Francia,Partner,923.9,12,Activo,N/A,11086.8
+SUB10468,Scale,Media,EEUU,Orgánico,352.38,17,Activo,N/A,5990.46
+SUB10890,Starter,Marketplace,Canadá,Orgánico,26.76,34,Activo,N/A,909.84
+SUB10947,Growth,Fintech,Alemania,Orgánico,97.6,3,Cancelado,Precio,292.8
+SUB10024,Scale,Media,Alemania,Referido,345.91,15,Activo,N/A,5188.65
+SUB11009,Scale,Marketplace,Alemania,Paid Ads,307.87,21,Activo,N/A,6465.27
+SUB11192,Starter,Fintech,España,Orgánico,32.14,10,Activo,N/A,321.4
+SUB10068,Starter,SaaS B2B,Reino Unido,Orgánico,34.4,13,Activo,N/A,447.2
+SUB10884,Growth,Fintech,Alemania,Paid Ads,109.83,3,Activo,N/A,329.49
+SUB11354,Scale,Media,Alemania,Partner,331.32,12,Activo,N/A,3975.84
+SUB10366,Scale,EdTech,España,Orgánico,348.83,3,Activo,N/A,1046.49
+SUB10505,Scale,Fintech,EEUU,Orgánico,352.2,6,Cancelado,Cierre negocio,2113.2
+SUB10850,Growth,Media,España,Referido,99.4,7,Activo,N/A,695.8
+SUB11315,Starter,SaaS B2B,Canadá,Referido,30.91,3,Activo,N/A,92.73
+SUB10383,Starter,Fintech,España,Orgánico,30.88,3,Activo,N/A,92.64
+SUB10734,Growth,Marketplace,Reino Unido,Partner,118.2,18,Activo,N/A,2127.6
+SUB10717,Scale,SaaS B2B,Alemania,Orgánico,314.04,7,Activo,N/A,2198.28
+SUB11335,Starter,Fintech,Francia,Partner,28.29,13,Cancelado,Competencia,367.77
+SUB10454,Growth,SaaS B2B,Reino Unido,Orgánico,91.54,3,Activo,N/A,274.62
+SUB10264,Growth,SaaS B2B,Alemania,Partner,103.89,14,Activo,N/A,1454.46
+SUB10075,Starter,Marketplace,Reino Unido,Referido,32.16,21,Activo,N/A,675.36
+SUB10914,Growth,Fintech,Alemania,Referido,93.02,5,Activo,N/A,465.1
+SUB10232,Starter,Marketplace,España,Paid Ads,34.53,6,Cancelado,Precio,207.18
+SUB10444,Starter,E-commerce,Alemania,Referido,31.08,1,Activo,N/A,31.08
+SUB10395,Starter,Media,Francia,Paid Ads,32.61,4,Activo,N/A,130.44
+SUB10611,Starter,Media,Canadá,Referido,29.73,5,Activo,N/A,148.65
+SUB10176,Growth,E-commerce,Francia,Paid Ads,100.88,6,Activo,N/A,605.28
+SUB10018,Starter,SaaS B2B,EEUU,Orgánico,26.42,11,Activo,N/A,290.62
+SUB11310,Enterprise,EdTech,España,Partner,1035.72,19,Activo,N/A,19678.68
+SUB11221,Starter,E-commerce,Canadá,Orgánico,32.35,11,Activo,N/A,355.85
+SUB10341,Starter,EdTech,Reino Unido,Partner,32.09,13,Cancelado,Competencia,417.17
+SUB11347,Starter,Marketplace,Reino Unido,Partner,27.7,19,Activo,N/A,526.3
+SUB10879,Growth,Media,Canadá,Paid Ads,108.68,12,Activo,N/A,1304.16
+SUB10595,Enterprise,EdTech,Francia,Paid Ads,1178.57,31,Activo,N/A,36535.67
+SUB10061,Growth,SaaS B2B,Alemania,Referido,107.74,13,Activo,N/A,1400.62
+SUB11260,Enterprise,Marketplace,España,Orgánico,915.55,18,Activo,N/A,16479.9
+SUB10272,Growth,Media,Canadá,Referido,99.73,25,Activo,N/A,2493.25
+SUB11208,Starter,Media,Canadá,Orgánico,33.37,23,Activo,N/A,767.51
+SUB10872,Enterprise,EdTech,Alemania,Orgánico,925.78,19,Activo,N/A,17589.82
+SUB11120,Scale,E-commerce,Alemania,Orgánico,297.76,9,Activo,N/A,2679.84
+SUB11406,Growth,Marketplace,Reino Unido,Paid Ads,114.82,13,Activo,N/A,1492.66
+SUB10278,Growth,E-commerce,Canadá,Orgánico,115.06,7,Activo,N/A,805.42
+SUB10036,Scale,Marketplace,España,Orgánico,301.41,11,Activo,N/A,3315.51
+SUB10662,Growth,E-commerce,Francia,Orgánico,92.69,5,Activo,N/A,463.45
+SUB11351,Scale,Media,EEUU,Paid Ads,317.23,7,Activo,N/A,2220.61
+SUB11089,Enterprise,Media,Canadá,Referido,1119.11,22,Activo,N/A,24620.42
+SUB10977,Starter,EdTech,Francia,Orgánico,27.06,12,Activo,N/A,324.72
+SUB10738,Growth,SaaS B2B,Canadá,Orgánico,91.94,19,Cancelado,Faltan features,1746.86
+SUB10191,Growth,EdTech,Canadá,Partner,104.95,42,Activo,N/A,4407.9
+SUB10919,Starter,E-commerce,Reino Unido,Paid Ads,28.3,15,Cancelado,Precio,424.5
+SUB10456,Scale,SaaS B2B,España,Paid Ads,302.42,1,Activo,N/A,302.42
+SUB10675,Scale,E-commerce,Canadá,Paid Ads,269.74,1,Activo,N/A,269.74
+SUB10760,Growth,SaaS B2B,Alemania,Orgánico,93.08,11,Cancelado,Cierre negocio,1023.88
+SUB11352,Scale,E-commerce,España,Paid Ads,281.17,14,Activo,N/A,3936.38
+SUB10728,Scale,E-commerce,EEUU,Orgánico,313.36,2,Activo,N/A,626.72
+SUB10412,Starter,EdTech,Alemania,Orgánico,31.62,4,Activo,N/A,126.48
+SUB10825,Starter,E-commerce,Alemania,Partner,32.07,6,Activo,N/A,192.42
+SUB10616,Starter,E-commerce,Reino Unido,Partner,29.38,20,Activo,N/A,587.6
+SUB10114,Starter,E-commerce,EEUU,Paid Ads,27.68,23,Activo,N/A,636.64
+SUB10417,Growth,SaaS B2B,Canadá,Orgánico,107.76,13,Activo,N/A,1400.88
+SUB11428,Starter,Marketplace,Alemania,Referido,28.7,12,Cancelado,Faltan features,344.4
+SUB10969,Starter,E-commerce,Reino Unido,Partner,34.78,18,Activo,N/A,626.04
+SUB10604,Starter,Media,España,Paid Ads,27.15,12,Cancelado,Precio,325.8
+SUB11434,Growth,Fintech,Canadá,Orgánico,113.36,5,Activo,N/A,566.8
+SUB10089,Starter,EdTech,Alemania,Paid Ads,33.15,19,Activo,N/A,629.85
+SUB10848,Scale,E-commerce,Reino Unido,Referido,349.49,8,Activo,N/A,2795.92
+SUB11145,Growth,E-commerce,Alemania,Partner,109.51,3,Activo,N/A,328.53
+SUB11433,Starter,Marketplace,Francia,Orgánico,27.4,12,Activo,N/A,328.8
+SUB10753,Growth,E-commerce,EEUU,Orgánico,107.86,3,Activo,N/A,323.58
+SUB10498,Scale,E-commerce,Reino Unido,Paid Ads,328.13,8,Activo,N/A,2625.04
+SUB10011,Scale,Fintech,EEUU,Partner,337.34,5,Activo,N/A,1686.7
+SUB10396,Growth,Marketplace,EEUU,Partner,118.69,13,Activo,N/A,1542.97
+SUB10284,Starter,EdTech,EEUU,Paid Ads,34.7,28,Activo,N/A,971.6
+SUB10690,Growth,EdTech,Canadá,Orgánico,109.6,7,Activo,N/A,767.2
+SUB11230,Starter,SaaS B2B,España,Orgánico,31.95,12,Activo,N/A,383.4
+SUB11403,Starter,Media,Canadá,Partner,29.72,13,Activo,N/A,386.36
+SUB10689,Starter,Fintech,Alemania,Orgánico,31.16,12,Activo,N/A,373.92
+SUB10851,Starter,Marketplace,Francia,Orgánico,27.23,22,Activo,N/A,599.06
+SUB10159,Growth,Media,EEUU,Partner,112.76,4,Cancelado,Faltan features,451.04
+SUB10895,Starter,Fintech,Francia,Orgánico,33.11,29,Cancelado,Cierre negocio,960.19
+SUB11189,Scale,Fintech,Canadá,Orgánico,354.09,3,Activo,N/A,1062.27
+SUB10257,Starter,Fintech,Reino Unido,Orgánico,32.46,11,Activo,N/A,357.06
+SUB10335,Starter,SaaS B2B,España,Partner,27.55,7,Cancelado,Competencia,192.85
+SUB11407,Scale,Marketplace,Reino Unido,Referido,277.08,4,Activo,N/A,1108.32
+SUB11039,Scale,SaaS B2B,Alemania,Partner,279.37,9,Activo,N/A,2514.33
+SUB10515,Starter,Fintech,EEUU,Partner,34.7,6,Activo,N/A,208.2
+SUB11015,Starter,Marketplace,Alemania,Referido,32.09,5,Cancelado,Precio,160.45
+SUB10768,Growth,EdTech,España,Orgánico,91.76,22,Activo,N/A,2018.72
+SUB11316,Starter,E-commerce,Francia,Partner,29.7,10,Cancelado,Competencia,297.0
+SUB10761,Scale,EdTech,Francia,Referido,340.08,4,Activo,N/A,1360.32
+SUB11102,Growth,Marketplace,EEUU,Paid Ads,105.33,11,Activo,N/A,1158.63
+SUB10521,Starter,Marketplace,Canadá,Orgánico,31.54,33,Activo,N/A,1040.82
+SUB10022,Growth,E-commerce,Alemania,Paid Ads,110.94,11,Cancelado,Precio,1220.34
+SUB10356,Starter,Marketplace,Reino Unido,Partner,26.22,17,Activo,N/A,445.74
+SUB11271,Growth,Media,Reino Unido,Partner,113.8,5,Activo,N/A,569.0
+SUB10340,Starter,EdTech,Reino Unido,Referido,26.47,23,Activo,N/A,608.81
+SUB10431,Scale,E-commerce,Francia,Partner,310.5,6,Activo,N/A,1863.0
+SUB10473,Growth,Media,Reino Unido,Referido,104.14,31,Activo,N/A,3228.34
+SUB10217,Starter,Fintech,Francia,Orgánico,31.68,16,Activo,N/A,506.88
+SUB10911,Scale,SaaS B2B,España,Paid Ads,336.72,14,Activo,N/A,4714.08
+SUB11204,Growth,Media,EEUU,Orgánico,100.56,8,Activo,N/A,804.48
+SUB11011,Scale,Marketplace,España,Partner,346.56,6,Activo,N/A,2079.36
+SUB11458,Enterprise,SaaS B2B,EEUU,Orgánico,1159.64,2,Activo,N/A,2319.28
+SUB10093,Growth,SaaS B2B,EEUU,Paid Ads,110.3,13,Activo,N/A,1433.9
+SUB11008,Starter,Media,Alemania,Referido,28.79,2,Activo,N/A,57.58
+SUB11070,Growth,Media,Alemania,Orgánico,109.02,11,Activo,N/A,1199.22
+SUB10696,Starter,Fintech,Francia,Orgánico,28.18,8,Activo,N/A,225.44
+SUB10996,Starter,Fintech,España,Paid Ads,29.71,8,Activo,N/A,237.68
+SUB10153,Starter,E-commerce,Reino Unido,Partner,26.29,10,Activo,N/A,262.9
+SUB11299,Starter,Fintech,Reino Unido,Orgánico,32.33,13,Activo,N/A,420.29
+SUB11497,Growth,Fintech,EEUU,Paid Ads,91.31,13,Activo,N/A,1187.03
+SUB10789,Growth,Media,Canadá,Referido,95.34,26,Activo,N/A,2478.84
+SUB10580,Starter,Media,EEUU,Referido,28.56,3,Activo,N/A,85.68
+SUB10703,Growth,Fintech,Canadá,Orgánico,97.95,9,Activo,N/A,881.55
+SUB11258,Growth,EdTech,Reino Unido,Paid Ads,99.05,6,Cancelado,Faltan features,594.3
+SUB10487,Growth,E-commerce,Canadá,Orgánico,95.83,15,Activo,N/A,1437.45
+SUB10559,Growth,EdTech,Reino Unido,Referido,118.64,6,Activo,N/A,711.84
+SUB10801,Scale,SaaS B2B,Alemania,Paid Ads,317.65,9,Activo,N/A,2858.85
+SUB10512,Growth,Media,España,Orgánico,99.12,6,Activo,N/A,594.72
+SUB10633,Starter,Marketplace,España,Partner,32.62,3,Cancelado,Cierre negocio,97.86
+SUB11110,Scale,E-commerce,Reino Unido,Paid Ads,350.37,4,Activo,N/A,1401.48
+SUB11471,Scale,EdTech,Canadá,Referido,280.07,9,Activo,N/A,2520.63
+SUB10790,Scale,Fintech,Canadá,Referido,295.76,21,Activo,N/A,6210.96
+SUB10116,Scale,SaaS B2B,Reino Unido,Referido,288.79,8,Cancelado,Precio,2310.32
+SUB10740,Starter,E-commerce,EEUU,Partner,26.64,12,Activo,N/A,319.68
+SUB11081,Starter,E-commerce,Francia,Paid Ads,26.56,13,Cancelado,Faltan features,345.28
+SUB10830,Scale,SaaS B2B,España,Partner,351.19,16,Cancelado,Precio,5619.04
+SUB10119,Starter,Media,Francia,Paid Ads,33.93,16,Activo,N/A,542.88
+SUB10656,Starter,E-commerce,Reino Unido,Partner,31.35,23,Activo,N/A,721.05
+SUB10635,Scale,E-commerce,Reino Unido,Orgánico,291.72,4,Activo,N/A,1166.88
+SUB10369,Scale,Marketplace,EEUU,Paid Ads,269.1,25,Activo,N/A,6727.5
+SUB10268,Scale,Fintech,Canadá,Orgánico,355.91,8,Activo,N/A,2847.28
+SUB10655,Starter,Fintech,España,Orgánico,29.09,12,Activo,N/A,349.08
+SUB10935,Enterprise,Fintech,Canadá,Paid Ads,957.56,25,Activo,N/A,23939.0
+SUB10822,Scale,Media,Alemania,Orgánico,332.6,22,Activo,N/A,7317.2
+SUB10866,Enterprise,E-commerce,Canadá,Paid Ads,1157.41,1,Activo,N/A,1157.41
+SUB10046,Starter,SaaS B2B,Reino Unido,Paid Ads,28.48,7,Activo,N/A,199.36
+SUB11290,Growth,Media,EEUU,Paid Ads,114.25,20,Cancelado,Precio,2285.0
+SUB10991,Starter,Fintech,Francia,Orgánico,28.92,3,Activo,N/A,86.76
+SUB10876,Scale,SaaS B2B,España,Orgánico,290.08,17,Activo,N/A,4931.36
+SUB10773,Growth,EdTech,Alemania,Referido,116.86,14,Activo,N/A,1636.04
+SUB11499,Starter,SaaS B2B,España,Orgánico,33.66,8,Activo,N/A,269.28
+SUB10004,Starter,Media,España,Partner,26.67,6,Activo,N/A,160.02
+SUB11003,Growth,Media,EEUU,Paid Ads,100.23,8,Cancelado,Competencia,801.84
+SUB11301,Scale,Marketplace,Francia,Partner,349.01,19,Activo,N/A,6631.19
+SUB10263,Growth,EdTech,Alemania,Paid Ads,93.9,29,Activo,N/A,2723.1
+SUB11333,Starter,SaaS B2B,Alemania,Partner,26.25,9,Activo,N/A,236.25
+SUB11442,Growth,Media,Alemania,Paid Ads,100.94,15,Activo,N/A,1514.1
+SUB10443,Starter,Media,Reino Unido,Referido,32.06,1,Activo,N/A,32.06
+SUB11002,Growth,E-commerce,Francia,Orgánico,101.29,7,Activo,N/A,709.03
+SUB11077,Growth,EdTech,EEUU,Orgánico,97.12,16,Activo,N/A,1553.92
+SUB10837,Starter,EdTech,Francia,Paid Ads,28.56,13,Cancelado,Competencia,371.28
+SUB11339,Scale,EdTech,España,Paid Ads,298.71,26,Activo,N/A,7766.46
+SUB10304,Starter,Marketplace,EEUU,Paid Ads,29.52,26,Activo,N/A,767.52
+SUB11174,Growth,Media,Canadá,Partner,116.81,11,Activo,N/A,1284.91
+SUB10313,Growth,SaaS B2B,Reino Unido,Paid Ads,118.62,12,Activo,N/A,1423.44
+SUB10149,Scale,Marketplace,Alemania,Paid Ads,292.3,17,Cancelado,Precio,4969.1
+SUB10574,Starter,E-commerce,EEUU,Partner,34.03,5,Activo,N/A,170.15
+SUB10050,Growth,SaaS B2B,Canadá,Paid Ads,111.08,6,Cancelado,Precio,666.48
+SUB11414,Scale,Marketplace,Canadá,Referido,305.27,27,Activo,N/A,8242.29
+SUB10726,Starter,SaaS B2B,Reino Unido,Referido,32.3,7,Activo,N/A,226.1
+SUB10833,Starter,SaaS B2B,Alemania,Orgánico,33.57,8,Activo,N/A,268.56
+SUB11115,Growth,Fintech,Reino Unido,Orgánico,93.54,29,Activo,N/A,2712.66
+SUB10470,Scale,EdTech,Canadá,Paid Ads,280.36,6,Cancelado,Precio,1682.16
+SUB10971,Scale,Marketplace,España,Orgánico,344.5,16,Activo,N/A,5512.0
+SUB10653,Starter,Fintech,Canadá,Orgánico,30.6,15,Activo,N/A,459.0
+SUB10399,Scale,E-commerce,Canadá,Orgánico,352.76,3,Activo,N/A,1058.28
+SUB10511,Growth,E-commerce,Francia,Paid Ads,110.9,34,Activo,N/A,3770.6
+SUB10320,Starter,EdTech,Alemania,Referido,34.55,18,Activo,N/A,621.9
+SUB10019,Starter,EdTech,Francia,Orgánico,30.36,18,Activo,N/A,546.48
+SUB10684,Growth,Marketplace,España,Paid Ads,110.87,14,Activo,N/A,1552.18
+SUB10035,Starter,E-commerce,Reino Unido,Orgánico,30.15,6,Cancelado,Precio,180.9
+SUB10902,Growth,SaaS B2B,EEUU,Referido,89.5,17,Activo,N/A,1521.5
+SUB10827,Growth,SaaS B2B,EEUU,Paid Ads,103.43,10,Activo,N/A,1034.3
+SUB11344,Growth,E-commerce,EEUU,Orgánico,111.37,18,Activo,N/A,2004.66
+SUB10407,Scale,Media,Canadá,Referido,296.71,18,Activo,N/A,5340.78
+SUB10920,Growth,Fintech,EEUU,Referido,93.48,23,Activo,N/A,2150.04
+SUB10537,Scale,E-commerce,España,Orgánico,272.83,36,Activo,N/A,9821.88
+SUB10758,Starter,Fintech,Reino Unido,Partner,29.68,3,Activo,N/A,89.04
+SUB11062,Starter,EdTech,Canadá,Paid Ads,33.96,11,Activo,N/A,373.56
+SUB10245,Starter,E-commerce,Canadá,Orgánico,28.06,4,Activo,N/A,112.24
+SUB11127,Enterprise,EdTech,Francia,Referido,913.83,7,Activo,N/A,6396.81
+SUB10784,Starter,Fintech,EEUU,Paid Ads,33.72,7,Activo,N/A,236.04
+SUB10489,Scale,EdTech,Francia,Paid Ads,301.24,12,Activo,N/A,3614.88
+SUB10154,Enterprise,Marketplace,Francia,Orgánico,1026.83,1,Activo,N/A,1026.83
+SUB10961,Growth,Marketplace,EEUU,Referido,90.19,7,Activo,N/A,631.33
+SUB10853,Growth,Fintech,Reino Unido,Orgánico,89.58,2,Cancelado,Competencia,179.16
+SUB10625,Starter,EdTech,EEUU,Paid Ads,26.86,3,Cancelado,Cierre negocio,80.58
+SUB10685,Scale,Fintech,Canadá,Orgánico,313.8,1,Activo,N/A,313.8
+SUB10569,Growth,Media,Alemania,Orgánico,102.75,22,Activo,N/A,2260.5
+SUB11426,Scale,E-commerce,Canadá,Orgánico,295.46,8,Activo,N/A,2363.68
+SUB10017,Growth,E-commerce,Alemania,Orgánico,91.03,48,Activo,N/A,4369.44
+SUB10127,Growth,Marketplace,Reino Unido,Referido,114.32,10,Cancelado,Competencia,1143.2
+SUB10927,Scale,E-commerce,Francia,Paid Ads,296.14,13,Cancelado,Mal soporte,3849.82
+SUB10980,Growth,Media,Canadá,Orgánico,105.6,11,Activo,N/A,1161.6
+SUB11469,Starter,Media,Canadá,Orgánico,30.03,1,Activo,N/A,30.03
+SUB10190,Starter,Media,Francia,Orgánico,33.61,1,Activo,N/A,33.61
+SUB11139,Starter,EdTech,España,Paid Ads,27.59,30,Cancelado,Cierre negocio,827.7
+SUB10992,Scale,EdTech,Alemania,Orgánico,315.58,7,Activo,N/A,2209.06
+SUB11463,Starter,Marketplace,EEUU,Paid Ads,29.12,11,Activo,N/A,320.32
+SUB11251,Starter,Media,EEUU,Referido,26.82,6,Activo,N/A,160.92
+SUB10606,Scale,Fintech,Francia,Partner,293.72,6,Activo,N/A,1762.32
+SUB10180,Growth,Marketplace,Reino Unido,Orgánico,116.84,11,Activo,N/A,1285.24
+SUB10301,Scale,EdTech,España,Referido,288.48,20,Activo,N/A,5769.6
+SUB10496,Starter,E-commerce,Francia,Paid Ads,28.86,20,Activo,N/A,577.2
+SUB11314,Starter,Media,Francia,Paid Ads,34.04,7,Activo,N/A,238.28
+SUB11255,Scale,SaaS B2B,Alemania,Referido,330.15,7,Cancelado,Precio,2311.05
+SUB11237,Growth,Fintech,Alemania,Paid Ads,95.24,8,Activo,N/A,761.92
+SUB10517,Starter,E-commerce,España,Paid Ads,27.22,28,Cancelado,Cierre negocio,762.16
+SUB11069,Starter,Fintech,España,Orgánico,28.51,3,Activo,N/A,85.53
+SUB10476,Starter,E-commerce,Alemania,Paid Ads,28.19,4,Cancelado,Faltan features,112.76
+SUB10157,Scale,Media,Canadá,Paid Ads,289.73,3,Cancelado,Precio,869.19
+SUB11195,Starter,E-commerce,España,Referido,30.49,19,Activo,N/A,579.31
+SUB10016,Starter,Fintech,Canadá,Orgánico,27.53,3,Cancelado,Mal soporte,82.59
+SUB11072,Enterprise,E-commerce,Canadá,Paid Ads,1048.66,16,Activo,N/A,16778.56
+SUB10546,Starter,Marketplace,Alemania,Orgánico,26.47,7,Activo,N/A,185.29
+SUB10658,Starter,Media,Alemania,Referido,28.79,27,Activo,N/A,777.33
+SUB11226,Starter,Media,Francia,Partner,34.65,15,Activo,N/A,519.75
+SUB11019,Starter,EdTech,Reino Unido,Orgánico,30.06,21,Activo,N/A,631.26
+SUB11318,Scale,EdTech,Reino Unido,Referido,355.98,25,Cancelado,Faltan features,8899.5
+SUB10959,Scale,Marketplace,Alemania,Referido,328.1,9,Activo,N/A,2952.9
+SUB11409,Scale,Marketplace,Alemania,Partner,270.29,2,Cancelado,Precio,540.58
+SUB10283,Starter,E-commerce,EEUU,Referido,28.07,17,Activo,N/A,477.19
+SUB10797,Growth,E-commerce,España,Orgánico,115.59,13,Activo,N/A,1502.67
+SUB10225,Scale,SaaS B2B,EEUU,Orgánico,304.3,10,Activo,N/A,3043.0
+SUB10026,Growth,Fintech,EEUU,Partner,118.64,3,Activo,N/A,355.92
+SUB10437,Growth,Fintech,Reino Unido,Referido,111.74,27,Activo,N/A,3016.98
+SUB11457,Scale,Media,España,Paid Ads,293.08,12,Activo,N/A,3516.96
+SUB10229,Growth,Fintech,España,Referido,118.55,16,Activo,N/A,1896.8
+SUB10037,Starter,Marketplace,Reino Unido,Orgánico,29.68,4,Activo,N/A,118.72
+SUB10749,Starter,Marketplace,Canadá,Paid Ads,29.93,19,Activo,N/A,568.67
+SUB11045,Starter,Fintech,EEUU,Orgánico,31.99,17,Activo,N/A,543.83
+SUB10469,Enterprise,Fintech,Reino Unido,Partner,955.78,18,Activo,N/A,17204.04
+SUB11278,Scale,SaaS B2B,España,Referido,328.23,18,Activo,N/A,5908.14
+SUB11472,Starter,Marketplace,Canadá,Orgánico,26.13,23,Activo,N/A,600.99
+SUB10687,Scale,Media,Canadá,Orgánico,290.27,1,Activo,N/A,290.27
+SUB11378,Starter,EdTech,Francia,Paid Ads,26.62,27,Activo,N/A,718.74
+SUB10639,Scale,Marketplace,Francia,Referido,276.66,26,Activo,N/A,7193.16
+SUB11416,Enterprise,E-commerce,Canadá,Paid Ads,1013.68,2,Activo,N/A,2027.36
+SUB11218,Scale,Marketplace,Reino Unido,Paid Ads,326.28,22,Activo,N/A,7178.16
+SUB11158,Scale,E-commerce,Alemania,Paid Ads,287.44,2,Activo,N/A,574.88
+SUB11250,Growth,E-commerce,Alemania,Paid Ads,98.17,2,Cancelado,Competencia,196.34
+SUB11439,Growth,Marketplace,EEUU,Orgánico,99.68,12,Activo,N/A,1196.16
+SUB10800,Growth,EdTech,España,Partner,108.83,24,Activo,N/A,2611.92
+SUB10160,Starter,Fintech,Francia,Partner,31.16,10,Cancelado,Faltan features,311.6
+SUB10956,Starter,E-commerce,Reino Unido,Orgánico,31.92,24,Activo,N/A,766.08
+SUB11186,Growth,Fintech,España,Orgánico,106.14,35,Cancelado,Precio,3714.9
+SUB10821,Scale,Marketplace,EEUU,Paid Ads,353.53,11,Activo,N/A,3888.83
+SUB11270,Scale,EdTech,Francia,Orgánico,269.12,26,Activo,N/A,6997.12
+SUB10877,Growth,Fintech,EEUU,Orgánico,110.87,5,Activo,N/A,554.35
+SUB10913,Scale,Fintech,EEUU,Paid Ads,275.39,24,Activo,N/A,6609.36
+SUB10152,Starter,Media,Alemania,Referido,33.68,4,Cancelado,Competencia,134.72
+SUB11373,Growth,EdTech,Reino Unido,Partner,94.93,4,Activo,N/A,379.72
+SUB10509,Starter,Media,España,Partner,28.53,6,Activo,N/A,171.18
+SUB11135,Starter,Fintech,Alemania,Partner,34.04,2,Activo,N/A,68.08
+SUB11321,Starter,EdTech,España,Paid Ads,29.41,15,Cancelado,Cierre negocio,441.15
+SUB10103,Scale,Marketplace,EEUU,Paid Ads,298.89,4,Cancelado,Competencia,1195.56
+SUB10586,Starter,EdTech,España,Paid Ads,30.49,14,Activo,N/A,426.86
+SUB11328,Starter,Media,Alemania,Referido,30.0,2,Activo,N/A,60.0
+SUB11143,Growth,EdTech,Alemania,Orgánico,117.44,17,Activo,N/A,1996.48
+SUB10053,Enterprise,Marketplace,Alemania,Partner,1197.58,39,Activo,N/A,46705.62
+SUB10151,Growth,SaaS B2B,Canadá,Paid Ads,91.11,22,Activo,N/A,2004.42
+SUB10403,Scale,Marketplace,Alemania,Paid Ads,322.82,10,Activo,N/A,3228.2
+SUB11454,Starter,Marketplace,Reino Unido,Referido,30.01,7,Activo,N/A,210.07
+SUB10207,Starter,EdTech,Francia,Paid Ads,28.72,17,Cancelado,Cierre negocio,488.24
+SUB11417,Starter,E-commerce,EEUU,Partner,32.81,8,Activo,N/A,262.48
+SUB11122,Growth,E-commerce,Canadá,Orgánico,103.46,15,Activo,N/A,1551.9
+SUB10008,Starter,SaaS B2B,Alemania,Referido,33.08,6,Activo,N/A,198.48
+SUB11014,Enterprise,Media,Francia,Orgánico,1162.81,19,Activo,N/A,22093.39
+SUB11343,Enterprise,Media,Alemania,Paid Ads,1021.82,8,Activo,N/A,8174.56
+SUB11060,Enterprise,Media,Alemania,Referido,1090.89,4,Activo,N/A,4363.56
+SUB10452,Scale,EdTech,Reino Unido,Orgánico,275.96,22,Activo,N/A,6071.12
+SUB10253,Starter,Media,Reino Unido,Orgánico,34.13,12,Activo,N/A,409.56
+SUB10896,Starter,Marketplace,Francia,Referido,33.88,18,Cancelado,Competencia,609.84
+SUB11308,Enterprise,E-commerce,Francia,Partner,915.28,23,Activo,N/A,21051.44
+SUB10880,Scale,Fintech,Alemania,Orgánico,341.46,2,Activo,N/A,682.92
+SUB11427,Starter,Marketplace,Alemania,Paid Ads,29.59,12,Cancelado,Mal soporte,355.08
+SUB10623,Scale,E-commerce,Reino Unido,Paid Ads,333.03,8,Activo,N/A,2664.24
+SUB10345,Starter,Media,Alemania,Paid Ads,31.68,32,Cancelado,Cierre negocio,1013.76
+SUB11286,Enterprise,E-commerce,España,Orgánico,1188.44,2,Activo,N/A,2376.88
+SUB10262,Enterprise,Media,Canadá,Partner,1137.06,10,Cancelado,Precio,11370.6
+SUB10150,Starter,EdTech,Francia,Paid Ads,29.86,1,Cancelado,Cierre negocio,29.86
+SUB10472,Starter,Media,Reino Unido,Orgánico,26.46,24,Activo,N/A,635.04
+SUB10640,Growth,Marketplace,EEUU,Orgánico,94.94,4,Activo,N/A,379.76
+SUB11484,Enterprise,E-commerce,Canadá,Partner,1087.8,10,Activo,N/A,10878.0
+SUB11410,Growth,Fintech,España,Partner,104.14,4,Activo,N/A,416.56
+SUB10550,Enterprise,EdTech,Alemania,Paid Ads,996.71,17,Activo,N/A,16944.07
+SUB10928,Starter,SaaS B2B,España,Orgánico,30.49,8,Activo,N/A,243.92
+SUB10488,Scale,EdTech,Reino Unido,Orgánico,275.96,12,Activo,N/A,3311.52
+SUB11356,Starter,EdTech,Reino Unido,Partner,30.81,12,Activo,N/A,369.72
+SUB11171,Growth,EdTech,Alemania,Partner,92.48,30,Activo,N/A,2774.4
+SUB10146,Scale,Fintech,EEUU,Referido,340.63,14,Activo,N/A,4768.82
+SUB10402,Growth,E-commerce,Reino Unido,Partner,113.86,48,Activo,N/A,5465.28
+SUB10954,Starter,Marketplace,España,Referido,32.33,16,Activo,N/A,517.28
+SUB11405,Starter,SaaS B2B,Reino Unido,Orgánico,30.37,27,Activo,N/A,819.99
+SUB10659,Starter,Marketplace,Francia,Orgánico,32.68,2,Activo,N/A,65.36
+SUB10463,Starter,SaaS B2B,EEUU,Orgánico,28.39,16,Activo,N/A,454.24
+SUB10186,Scale,E-commerce,Francia,Orgánico,358.2,8,Activo,N/A,2865.6
+SUB11147,Growth,Marketplace,EEUU,Referido,109.29,37,Activo,N/A,4043.73
+SUB11224,Starter,SaaS B2B,Francia,Paid Ads,34.01,28,Activo,N/A,952.28
+SUB10608,Growth,Media,Reino Unido,Referido,118.41,5,Cancelado,Competencia,592.05
+SUB10143,Starter,EdTech,Alemania,Orgánico,28.96,12,Activo,N/A,347.52
+SUB10751,Growth,EdTech,Reino Unido,Referido,105.91,9,Activo,N/A,953.19
+SUB10981,Growth,Fintech,EEUU,Referido,111.03,31,Activo,N/A,3441.93
+SUB10197,Scale,E-commerce,EEUU,Paid Ads,289.56,23,Activo,N/A,6659.88
+SUB10883,Starter,Marketplace,Francia,Paid Ads,27.93,6,Activo,N/A,167.58
+SUB10279,Scale,SaaS B2B,Canadá,Paid Ads,318.13,13,Activo,N/A,4135.69
+SUB10293,Growth,SaaS B2B,EEUU,Referido,95.59,7,Activo,N/A,669.13
+SUB11364,Starter,SaaS B2B,EEUU,Partner,33.51,16,Activo,N/A,536.16
+SUB10400,Scale,SaaS B2B,EEUU,Paid Ads,315.87,9,Activo,N/A,2842.83
+SUB10122,Starter,Media,España,Orgánico,31.03,8,Cancelado,Competencia,248.24
+SUB11207,Growth,EdTech,Alemania,Orgánico,102.36,16,Activo,N/A,1637.76
+SUB10202,Growth,Marketplace,EEUU,Orgánico,110.41,16,Activo,N/A,1766.56
+SUB10835,Starter,Media,Alemania,Orgánico,30.4,12,Activo,N/A,364.8
+SUB10246,Starter,EdTech,Reino Unido,Orgánico,33.28,5,Activo,N/A,166.4
+SUB11422,Enterprise,EdTech,EEUU,Partner,1137.54,19,Activo,N/A,21613.26
+SUB11408,Starter,E-commerce,Reino Unido,Referido,28.72,13,Activo,N/A,373.36
+SUB11153,Starter,Marketplace,Canadá,Orgánico,31.12,20,Activo,N/A,622.4
+SUB10384,Starter,SaaS B2B,Alemania,Orgánico,32.47,6,Activo,N/A,194.82
+SUB11322,Growth,Media,Reino Unido,Orgánico,94.53,13,Activo,N/A,1228.89
+SUB10854,Scale,Marketplace,Reino Unido,Partner,319.5,3,Activo,N/A,958.5
+SUB10219,Starter,SaaS B2B,Francia,Paid Ads,32.12,8,Activo,N/A,256.96
+SUB10641,Scale,Media,Canadá,Referido,328.92,16,Activo,N/A,5262.72
+SUB10001,Growth,Media,Canadá,Referido,110.13,28,Activo,N/A,3083.64
+SUB10112,Starter,E-commerce,Alemania,Paid Ads,31.05,25,Activo,N/A,776.25
+SUB10698,Growth,SaaS B2B,Alemania,Partner,112.2,12,Activo,N/A,1346.4
+SUB11431,Enterprise,SaaS B2B,Alemania,Orgánico,997.55,19,Activo,N/A,18953.45
+SUB10951,Starter,Marketplace,Canadá,Paid Ads,28.34,8,Activo,N/A,226.72
+SUB11317,Starter,Media,Canadá,Paid Ads,32.94,2,Activo,N/A,65.88
+SUB11291,Starter,Marketplace,España,Paid Ads,31.75,30,Activo,N/A,952.5
+SUB11353,Growth,Marketplace,Francia,Paid Ads,113.99,2,Activo,N/A,227.98
+SUB10441,Growth,E-commerce,Canadá,Paid Ads,100.18,36,Cancelado,Mal soporte,3606.48
+SUB11136,Growth,EdTech,Reino Unido,Orgánico,92.41,9,Cancelado,Competencia,831.69
+SUB11256,Enterprise,E-commerce,Francia,Referido,1057.21,18,Activo,N/A,19029.78
+SUB10663,Starter,Fintech,Reino Unido,Partner,34.26,5,Cancelado,Precio,171.3
+SUB11372,Starter,Marketplace,Francia,Partner,32.33,16,Activo,N/A,517.28
+SUB11257,Growth,E-commerce,Canadá,Partner,99.98,15,Activo,N/A,1499.7
+SUB11331,Starter,SaaS B2B,Canadá,Orgánico,27.44,1,Activo,N/A,27.44
+SUB10317,Starter,SaaS B2B,Alemania,Paid Ads,32.73,10,Activo,N/A,327.3
+SUB10648,Growth,SaaS B2B,Alemania,Orgánico,99.12,7,Activo,N/A,693.84
+SUB10709,Scale,Fintech,EEUU,Paid Ads,356.06,16,Activo,N/A,5696.96
+SUB11282,Starter,Fintech,Francia,Paid Ads,27.39,25,Activo,N/A,684.75
+SUB10972,Enterprise,SaaS B2B,Canadá,Partner,1030.38,12,Activo,N/A,12364.56
+SUB10627,Growth,E-commerce,Reino Unido,Paid Ads,115.37,6,Cancelado,Cierre negocio,692.22
+SUB10632,Growth,Media,Canadá,Partner,109.11,18,Activo,N/A,1963.98
+SUB11306,Enterprise,EdTech,Alemania,Referido,995.74,13,Activo,N/A,12944.62
+SUB11248,Growth,Media,Canadá,Paid Ads,90.08,15,Activo,N/A,1351.2
+SUB11461,Scale,Fintech,Reino Unido,Orgánico,323.23,22,Activo,N/A,7111.06
+SUB11254,Enterprise,Fintech,Reino Unido,Orgánico,914.09,14,Activo,N/A,12797.26
+SUB11383,Enterprise,Fintech,Alemania,Partner,1195.88,7,Activo,N/A,8371.16
+SUB10795,Growth,E-commerce,Reino Unido,Paid Ads,103.75,24,Activo,N/A,2490.0
+SUB10645,Growth,EdTech,Canadá,Paid Ads,94.97,7,Activo,N/A,664.79
+SUB11012,Starter,EdTech,Reino Unido,Paid Ads,27.16,15,Activo,N/A,407.4
+SUB10556,Starter,Fintech,Reino Unido,Partner,26.62,8,Activo,N/A,212.96
+SUB10681,Growth,E-commerce,Francia,Orgánico,110.78,7,Activo,N/A,775.46
+SUB10577,Starter,Fintech,Alemania,Paid Ads,26.3,13,Activo,N/A,341.9
+SUB11109,Starter,EdTech,EEUU,Paid Ads,29.37,4,Activo,N/A,117.48
+SUB11266,Starter,Marketplace,Canadá,Referido,28.08,10,Activo,N/A,280.8
+SUB11183,Growth,SaaS B2B,España,Partner,108.81,10,Activo,N/A,1088.1
+SUB10524,Growth,EdTech,Francia,Orgánico,117.77,30,Activo,N/A,3533.1
+SUB11059,Growth,Fintech,Alemania,Referido,96.24,13,Activo,N/A,1251.12
+SUB10540,Scale,SaaS B2B,Canadá,Paid Ads,298.82,9,Activo,N/A,2689.38
+SUB11194,Scale,EdTech,Francia,Referido,283.69,15,Activo,N/A,4255.35
+SUB10748,Growth,SaaS B2B,Reino Unido,Referido,95.03,19,Activo,N/A,1805.57
+SUB11386,Starter,SaaS B2B,Reino Unido,Paid Ads,31.43,8,Activo,N/A,251.44
+SUB10484,Starter,Media,Alemania,Partner,26.9,3,Activo,N/A,80.7
+SUB10095,Growth,Fintech,España,Paid Ads,99.05,14,Activo,N/A,1386.7
+SUB11020,Starter,Fintech,Reino Unido,Orgánico,34.13,1,Activo,N/A,34.13
+SUB10563,Scale,Fintech,Reino Unido,Referido,306.21,20,Activo,N/A,6124.2
+SUB11264,Growth,SaaS B2B,EEUU,Paid Ads,93.55,18,Activo,N/A,1683.9
+SUB10742,Starter,Marketplace,Canadá,Orgánico,26.57,25,Activo,N/A,664.25
+SUB10863,Growth,Marketplace,España,Orgánico,105.73,44,Activo,N/A,4652.12
+SUB10891,Scale,SaaS B2B,Canadá,Paid Ads,272.58,21,Activo,N/A,5724.18
+SUB11038,Growth,E-commerce,Canadá,Paid Ads,109.62,21,Activo,N/A,2302.02
+SUB10206,Starter,EdTech,EEUU,Paid Ads,31.15,25,Activo,N/A,778.75
+SUB10392,Growth,E-commerce,Canadá,Paid Ads,114.82,16,Activo,N/A,1837.12
+SUB10794,Starter,EdTech,España,Orgánico,29.64,7,Cancelado,Faltan features,207.48
+SUB10870,Starter,Fintech,Reino Unido,Paid Ads,34.21,15,Activo,N/A,513.15
+SUB10397,Starter,EdTech,Francia,Paid Ads,34.03,2,Cancelado,Cierre negocio,68.06
+SUB10766,Growth,Marketplace,EEUU,Paid Ads,93.77,11,Activo,N/A,1031.47
+SUB11376,Starter,Media,Reino Unido,Partner,32.38,18,Activo,N/A,582.84
+SUB11241,Starter,EdTech,Francia,Referido,30.08,12,Activo,N/A,360.96
+SUB11028,Starter,Fintech,Reino Unido,Orgánico,34.26,17,Activo,N/A,582.42
+SUB10642,Scale,SaaS B2B,España,Referido,278.19,10,Cancelado,Precio,2781.9
+SUB10612,Starter,EdTech,Canadá,Orgánico,27.03,4,Activo,N/A,108.12
+SUB10960,Starter,EdTech,Alemania,Referido,33.46,2,Activo,N/A,66.92
+SUB10725,Starter,Media,Francia,Referido,31.67,21,Activo,N/A,665.07
+SUB10683,Enterprise,Fintech,Reino Unido,Partner,1102.81,36,Activo,N/A,39701.16
+SUB10098,Growth,Fintech,Alemania,Orgánico,101.25,5,Activo,N/A,506.25
+SUB10804,Scale,Fintech,España,Paid Ads,308.81,28,Activo,N/A,8646.68
+SUB10406,Scale,Marketplace,Reino Unido,Orgánico,269.81,10,Activo,N/A,2698.1
+SUB10502,Growth,EdTech,EEUU,Orgánico,109.53,15,Cancelado,Precio,1642.95
+SUB11071,Scale,Fintech,Francia,Paid Ads,356.07,6,Activo,N/A,2136.42
+SUB11056,Starter,EdTech,Reino Unido,Partner,28.06,19,Activo,N/A,533.14
+SUB10929,Starter,Media,Alemania,Orgánico,27.02,3,Activo,N/A,81.06
+SUB10779,Starter,SaaS B2B,Alemania,Referido,27.81,25,Activo,N/A,695.25
+SUB10200,Growth,Fintech,Reino Unido,Orgánico,105.0,7,Activo,N/A,735.0
+SUB10134,Growth,EdTech,EEUU,Paid Ads,106.35,9,Activo,N/A,957.15
+SUB11051,Scale,Marketplace,Francia,Partner,329.86,10,Activo,N/A,3298.6
+SUB10040,Enterprise,Fintech,España,Partner,1090.39,39,Activo,N/A,42525.21
+SUB11017,Starter,E-commerce,Francia,Paid Ads,32.09,17,Activo,N/A,545.53
+SUB10230,Growth,SaaS B2B,EEUU,Referido,105.42,5,Activo,N/A,527.1
+SUB10378,Growth,Fintech,Canadá,Partner,104.15,19,Activo,N/A,1978.85
+SUB10288,Growth,Media,España,Paid Ads,109.97,10,Activo,N/A,1099.7
+SUB10418,Growth,SaaS B2B,Canadá,Orgánico,113.93,14,Activo,N/A,1595.02
+SUB10391,Starter,SaaS B2B,Alemania,Paid Ads,31.98,26,Activo,N/A,831.48
+SUB10592,Scale,EdTech,España,Paid Ads,295.06,17,Activo,N/A,5016.02
+SUB11162,Growth,Fintech,EEUU,Referido,96.99,9,Activo,N/A,872.91
+SUB11086,Growth,Media,Canadá,Orgánico,96.93,15,Activo,N/A,1453.95
+SUB10647,Scale,Fintech,Reino Unido,Orgánico,346.47,19,Cancelado,Faltan features,6582.93
+SUB11152,Starter,Fintech,EEUU,Orgánico,26.46,10,Cancelado,Mal soporte,264.6
+SUB11367,Starter,SaaS B2B,EEUU,Partner,30.58,20,Activo,N/A,611.6
+SUB10520,Growth,Marketplace,Reino Unido,Partner,109.37,2,Activo,N/A,218.74
+SUB10064,Scale,E-commerce,Alemania,Referido,330.52,18,Cancelado,Precio,5949.36
+SUB10014,Growth,EdTech,Alemania,Paid Ads,97.88,10,Activo,N/A,978.8
+SUB11180,Growth,EdTech,Alemania,Orgánico,113.83,29,Activo,N/A,3301.07
+SUB11064,Scale,Marketplace,EEUU,Paid Ads,318.84,28,Activo,N/A,8927.52
+SUB10492,Growth,Fintech,España,Paid Ads,110.33,10,Activo,N/A,1103.3
+SUB10379,Enterprise,Fintech,Canadá,Partner,1030.27,9,Activo,N/A,9272.43
+SUB10187,Enterprise,Fintech,Francia,Referido,1030.42,12,Activo,N/A,12365.04
+SUB10763,Starter,Fintech,Reino Unido,Paid Ads,27.34,4,Activo,N/A,109.36
+SUB10216,Starter,EdTech,España,Paid Ads,32.86,21,Activo,N/A,690.06
+SUB10791,Starter,Media,Francia,Orgánico,33.43,26,Activo,N/A,869.18
+SUB11076,Starter,Fintech,España,Orgánico,33.6,8,Cancelado,Mal soporte,268.8
+SUB10878,Starter,Media,Francia,Referido,30.32,23,Activo,N/A,697.36
+SUB10337,Starter,E-commerce,EEUU,Paid Ads,31.62,9,Activo,N/A,284.58
+SUB10719,Growth,E-commerce,Francia,Partner,104.75,5,Activo,N/A,523.75
+SUB10295,Starter,Marketplace,Francia,Referido,28.49,3,Activo,N/A,85.47
+SUB11016,Starter,Marketplace,Canadá,Orgánico,26.41,9,Activo,N/A,237.69
+SUB11275,Enterprise,Media,EEUU,Paid Ads,994.13,7,Activo,N/A,6958.91
+SUB10455,Starter,E-commerce,Francia,Partner,27.76,17,Activo,N/A,471.92
+SUB11496,Scale,EdTech,Canadá,Referido,321.4,14,Activo,N/A,4499.6
+SUB10815,Enterprise,SaaS B2B,Canadá,Partner,978.85,9,Activo,N/A,8809.65
+SUB10269,Enterprise,E-commerce,Alemania,Referido,1044.56,14,Activo,N/A,14623.84
+SUB10995,Starter,E-commerce,España,Orgánico,29.42,16,Activo,N/A,470.72
+SUB10201,Growth,Marketplace,Reino Unido,Orgánico,90.84,5,Activo,N/A,454.2
+SUB10161,Growth,Fintech,Canadá,Referido,100.85,24,Activo,N/A,2420.4
+SUB10729,Starter,Marketplace,EEUU,Orgánico,30.85,8,Activo,N/A,246.8
+SUB10401,Enterprise,E-commerce,Francia,Partner,1156.79,6,Activo,N/A,6940.74
+SUB10702,Starter,E-commerce,Reino Unido,Partner,30.01,14,Activo,N/A,420.14
+SUB11129,Starter,Marketplace,Alemania,Orgánico,32.1,16,Activo,N/A,513.6
+SUB10565,Scale,E-commerce,EEUU,Orgánico,329.88,3,Activo,N/A,989.64
+SUB11413,Growth,Media,EEUU,Referido,102.96,10,Activo,N/A,1029.6
+SUB11021,Growth,E-commerce,Canadá,Partner,108.01,21,Activo,N/A,2268.21
+SUB11025,Enterprise,Marketplace,Alemania,Partner,1165.19,16,Activo,N/A,18643.04
+SUB11411,Growth,Fintech,Alemania,Paid Ads,111.13,1,Activo,N/A,111.13
+SUB11104,Starter,EdTech,Alemania,Paid Ads,27.46,7,Cancelado,Faltan features,192.22
+SUB10205,Starter,Fintech,Reino Unido,Paid Ads,26.56,19,Activo,N/A,504.64
+SUB10034,Growth,Media,Reino Unido,Referido,94.87,9,Cancelado,Mal soporte,853.83
+SUB10775,Growth,Media,EEUU,Referido,99.69,8,Activo,N/A,797.52
+SUB10508,Scale,Media,España,Referido,341.37,6,Cancelado,Mal soporte,2048.22
+SUB11475,Starter,EdTech,EEUU,Referido,29.02,11,Activo,N/A,319.22
+SUB11390,Starter,Fintech,Alemania,Orgánico,34.13,6,Activo,N/A,204.78
+SUB10091,Starter,Fintech,Francia,Partner,34.16,16,Activo,N/A,546.56
+SUB11363,Starter,E-commerce,EEUU,Referido,29.17,12,Cancelado,Cierre negocio,350.04
+SUB10897,Growth,Media,España,Referido,89.19,5,Activo,N/A,445.95
+SUB10564,Scale,SaaS B2B,España,Orgánico,297.39,33,Activo,N/A,9813.87
+SUB11369,Scale,E-commerce,Alemania,Referido,291.72,19,Activo,N/A,5542.68
+SUB10776,Growth,Media,Canadá,Orgánico,97.3,8,Activo,N/A,778.4
+SUB10241,Growth,Media,España,Partner,94.68,5,Cancelado,Competencia,473.4
+SUB10013,Growth,Fintech,Canadá,Paid Ads,95.13,10,Activo,N/A,951.3
+SUB10315,Starter,Media,Francia,Partner,30.09,18,Activo,N/A,541.62
+SUB10600,Starter,Marketplace,Canadá,Paid Ads,26.74,21,Activo,N/A,561.54
+SUB10387,Starter,Marketplace,España,Referido,30.61,26,Activo,N/A,795.86
+SUB11297,Growth,SaaS B2B,EEUU,Referido,103.8,18,Activo,N/A,1868.4
+SUB10166,Starter,Media,Canadá,Referido,33.19,6,Activo,N/A,199.14
+SUB10840,Scale,Fintech,Francia,Paid Ads,276.87,14,Cancelado,Precio,3876.18
+SUB10020,Growth,Media,Alemania,Referido,105.01,4,Activo,N/A,420.04
+SUB10646,Scale,SaaS B2B,EEUU,Referido,281.38,15,Activo,N/A,4220.7
+SUB11154,Growth,Media,España,Paid Ads,108.81,27,Activo,N/A,2937.87
+SUB10831,Scale,Media,Alemania,Partner,325.66,5,Activo,N/A,1628.3
+SUB11267,Starter,Marketplace,España,Orgánico,26.21,4,Activo,N/A,104.84
+SUB10562,Starter,Media,Alemania,Orgánico,28.59,12,Activo,N/A,343.08
+SUB11460,Scale,SaaS B2B,España,Paid Ads,317.56,3,Activo,N/A,952.68
+SUB10686,Starter,Media,EEUU,Orgánico,31.91,12,Activo,N/A,382.92
+SUB10957,Growth,Media,Francia,Referido,98.81,12,Activo,N/A,1185.72
+SUB10189,Starter,E-commerce,Reino Unido,Partner,26.74,2,Activo,N/A,53.48
+SUB10975,Enterprise,EdTech,EEUU,Orgánico,912.96,12,Activo,N/A,10955.52
+SUB10699,Enterprise,Fintech,Reino Unido,Orgánico,1132.18,12,Activo,N/A,13586.16
+SUB10510,Scale,Marketplace,Alemania,Orgánico,312.55,15,Activo,N/A,4688.25
+SUB11082,Growth,Fintech,España,Orgánico,92.38,15,Cancelado,Competencia,1385.7
+SUB10474,Growth,EdTech,Alemania,Orgánico,105.23,5,Activo,N/A,526.15
+SUB10856,Starter,E-commerce,Alemania,Orgánico,30.43,8,Cancelado,Precio,243.44
+SUB10747,Scale,Fintech,Reino Unido,Orgánico,305.59,23,Activo,N/A,7028.57
+SUB10252,Scale,EdTech,España,Orgánico,325.72,12,Activo,N/A,3908.64
+SUB10021,Starter,SaaS B2B,Reino Unido,Orgánico,31.24,2,Activo,N/A,62.48
+SUB11337,Starter,Fintech,Canadá,Paid Ads,30.53,22,Cancelado,Precio,671.66
+SUB10459,Growth,Media,Francia,Orgánico,117.92,11,Activo,N/A,1297.12
+SUB11184,Growth,SaaS B2B,Reino Unido,Partner,89.8,10,Activo,N/A,898.0
+SUB10276,Scale,SaaS B2B,Canadá,Partner,294.15,4,Activo,N/A,1176.6
+SUB10955,Scale,Marketplace,EEUU,Orgánico,331.3,8,Activo,N/A,2650.4
+SUB11215,Enterprise,Fintech,Alemania,Paid Ads,922.56,13,Activo,N/A,11993.28
+SUB10385,Starter,Media,Canadá,Referido,27.89,10,Activo,N/A,278.9
+SUB10805,Growth,Media,Canadá,Paid Ads,113.12,10,Cancelado,Precio,1131.2
+SUB11437,Starter,Media,Canadá,Referido,27.11,3,Cancelado,Precio,81.33
+SUB10343,Scale,EdTech,Francia,Referido,309.91,5,Cancelado,Faltan features,1549.55
+SUB10769,Scale,E-commerce,España,Paid Ads,278.17,9,Cancelado,Precio,2503.53
+SUB11332,Enterprise,SaaS B2B,Francia,Orgánico,1117.55,2,Activo,N/A,2235.1
+SUB10130,Growth,Marketplace,Reino Unido,Paid Ads,108.41,8,Activo,N/A,867.28
+SUB10871,Starter,Media,EEUU,Orgánico,33.16,18,Activo,N/A,596.88
+SUB11123,Scale,Media,Francia,Orgánico,306.31,6,Activo,N/A,1837.86
+SUB11396,Growth,Marketplace,España,Partner,93.82,23,Activo,N/A,2157.86
+SUB10087,Starter,EdTech,Francia,Paid Ads,29.8,2,Activo,N/A,59.6
+SUB11482,Starter,E-commerce,Alemania,Partner,29.43,18,Activo,N/A,529.74
+SUB10330,Scale,EdTech,Reino Unido,Orgánico,318.66,4,Cancelado,Mal soporte,1274.64
+SUB11238,Starter,SaaS B2B,EEUU,Orgánico,26.12,1,Activo,N/A,26.12
+SUB10466,Enterprise,Fintech,Francia,Paid Ads,1011.73,9,Activo,N/A,9105.57
+SUB10121,Starter,Fintech,España,Paid Ads,31.35,3,Activo,N/A,94.05
+SUB11044,Starter,EdTech,Reino Unido,Orgánico,27.4,14,Activo,N/A,383.6
+SUB11095,Starter,Fintech,Alemania,Paid Ads,30.13,22,Cancelado,Competencia,662.86
+SUB11130,Starter,Fintech,Canadá,Referido,30.05,17,Activo,N/A,510.85
+SUB11294,Scale,SaaS B2B,Reino Unido,Partner,343.38,16,Activo,N/A,5494.08
+SUB10860,Scale,E-commerce,EEUU,Referido,339.96,3,Activo,N/A,1019.88
+SUB11459,Enterprise,Media,Alemania,Paid Ads,1103.9,19,Activo,N/A,20974.1
+SUB11126,Scale,Marketplace,Francia,Partner,321.43,12,Activo,N/A,3857.16

@@ -1,0 +1,1501 @@
+articulo_id,categoria,tipo_venta,pais,envio,precio_inicial_usd,pujas,vendido,precio_final_usd
+IT200000,Electronica,Compra ya,Alemania,Gratis,54.75,12,True,182.16
+IT200001,Deportes,Compra ya,EEUU,Pago,18.09,12,True,57.26
+IT200002,Juguetes,Subasta,Espana,Gratis,8.32,8,False,0.0
+IT200003,Hogar,Compra ya,EEUU,Pago,23.52,9,False,0.0
+IT200004,Hogar,Compra ya,Reino Unido,Gratis,28.4,3,True,53.06
+IT200005,Deportes,Subasta,EEUU,Pago,16.02,12,True,51.4
+IT200006,Electronica,Subasta,Alemania,Pago,59.81,8,True,91.02
+IT200007,Juguetes,Compra ya,EEUU,Pago,16.02,5,True,32.91
+IT200008,Moda,Subasta,Espana,Gratis,7.68,10,True,25.16
+IT200009,Electronica,Subasta,Espana,Gratis,69.18,5,True,71.38
+IT200010,Motor,Compra ya,EEUU,Pago,155.08,5,True,405.28
+IT200011,Libros,Compra ya,Alemania,Gratis,3.9,9,True,17.91
+IT200012,Juguetes,Subasta,Alemania,Pago,6.13,8,True,7.47
+IT200013,Deportes,Subasta,EEUU,Gratis,14.04,6,False,0.0
+IT200014,Juguetes,Compra ya,EEUU,Gratis,15.89,7,True,34.29
+IT200015,Deportes,Subasta,EEUU,Pago,11.2,5,True,18.08
+IT200016,Motor,Compra ya,EEUU,Gratis,88.11,6,True,407.29
+IT200017,Moda,Compra ya,Reino Unido,Gratis,7.44,10,True,29.33
+IT200018,Deportes,Subasta,Reino Unido,Gratis,13.43,9,False,0.0
+IT200019,Hogar,Compra ya,EEUU,Pago,26.88,5,True,50.29
+IT200020,Motor,Compra ya,Espana,Gratis,94.93,14,True,309.87
+IT200021,Coleccionismo,Compra ya,EEUU,Pago,38.49,7,True,105.78
+IT200022,Moda,Subasta,Espana,Gratis,15.26,11,True,50.91
+IT200023,Libros,Subasta,Alemania,Gratis,8.1,10,True,14.01
+IT200024,Deportes,Compra ya,Alemania,Gratis,11.1,7,True,49.55
+IT200025,Juguetes,Compra ya,Reino Unido,Gratis,15.16,9,True,33.3
+IT200026,Hogar,Compra ya,EEUU,Gratis,26.86,8,True,51.78
+IT200027,Deportes,Subasta,Espana,Gratis,14.58,8,True,14.91
+IT200028,Motor,Subasta,Alemania,Gratis,162.94,8,True,513.75
+IT200029,Hogar,Subasta,Alemania,Pago,32.53,6,True,57.18
+IT200030,Hogar,Compra ya,EEUU,Gratis,18.1,11,True,73.1
+IT200031,Moda,Compra ya,Reino Unido,Gratis,19.86,7,True,29.07
+IT200032,Electronica,Compra ya,EEUU,Gratis,68.72,7,False,0.0
+IT200033,Motor,Subasta,Reino Unido,Gratis,141.24,7,True,341.2
+IT200034,Libros,Compra ya,Alemania,Pago,8.91,8,True,12.43
+IT200035,Electronica,Subasta,EEUU,Pago,62.03,7,True,74.51
+IT200036,Deportes,Subasta,EEUU,Pago,28.89,7,True,17.77
+IT200037,Deportes,Compra ya,EEUU,Gratis,18.0,3,False,0.0
+IT200038,Coleccionismo,Subasta,EEUU,Gratis,46.77,9,True,119.45
+IT200039,Juguetes,Compra ya,EEUU,Pago,12.33,8,False,0.0
+IT200040,Moda,Compra ya,EEUU,Pago,10.03,10,False,0.0
+IT200041,Deportes,Subasta,EEUU,Gratis,20.11,13,True,71.72
+IT200042,Juguetes,Subasta,Alemania,Gratis,9.16,11,False,0.0
+IT200043,Coleccionismo,Subasta,Alemania,Pago,20.81,15,True,79.23
+IT200044,Electronica,Compra ya,EEUU,Pago,38.15,8,False,0.0
+IT200045,Libros,Subasta,EEUU,Gratis,5.08,12,True,14.64
+IT200046,Hogar,Subasta,Alemania,Gratis,12.46,9,False,0.0
+IT200047,Libros,Subasta,EEUU,Pago,3.99,9,True,4.46
+IT200048,Juguetes,Compra ya,EEUU,Pago,13.72,10,True,35.39
+IT200049,Deportes,Subasta,Reino Unido,Gratis,26.58,6,False,0.0
+IT200050,Deportes,Subasta,Espana,Gratis,27.25,9,True,45.69
+IT200051,Moda,Subasta,EEUU,Gratis,11.44,4,True,31.39
+IT200052,Coleccionismo,Subasta,Espana,Pago,50.04,8,True,161.62
+IT200053,Hogar,Subasta,EEUU,Pago,26.25,6,True,77.59
+IT200054,Hogar,Subasta,EEUU,Gratis,15.02,12,True,55.07
+IT200055,Electronica,Compra ya,EEUU,Gratis,46.35,10,True,208.23
+IT200056,Motor,Subasta,Alemania,Pago,152.72,7,True,131.25
+IT200057,Moda,Subasta,Reino Unido,Gratis,9.42,9,True,33.72
+IT200058,Juguetes,Compra ya,Reino Unido,Gratis,11.28,12,True,25.82
+IT200059,Juguetes,Subasta,Espana,Gratis,16.71,5,False,0.0
+IT200060,Libros,Subasta,Reino Unido,Gratis,3.02,5,True,6.52
+IT200061,Juguetes,Subasta,EEUU,Pago,5.79,10,True,14.09
+IT200062,Coleccionismo,Subasta,Alemania,Gratis,53.75,11,True,164.47
+IT200063,Libros,Subasta,EEUU,Pago,6.51,7,False,0.0
+IT200064,Hogar,Compra ya,Reino Unido,Pago,15.05,13,True,59.46
+IT200065,Coleccionismo,Subasta,Espana,Gratis,50.3,7,True,154.57
+IT200066,Libros,Compra ya,Reino Unido,Pago,8.28,4,False,0.0
+IT200067,Coleccionismo,Compra ya,EEUU,Gratis,37.3,4,False,0.0
+IT200068,Electronica,Subasta,Reino Unido,Pago,80.77,5,True,111.66
+IT200069,Hogar,Compra ya,EEUU,Gratis,18.56,3,True,63.72
+IT200070,Deportes,Subasta,EEUU,Pago,12.11,9,True,8.54
+IT200071,Moda,Subasta,Reino Unido,Gratis,15.32,10,True,44.25
+IT200072,Hogar,Compra ya,EEUU,Gratis,19.07,7,True,74.02
+IT200073,Moda,Subasta,EEUU,Gratis,16.29,5,False,0.0
+IT200074,Juguetes,Compra ya,Reino Unido,Gratis,14.97,12,True,28.66
+IT200075,Hogar,Compra ya,EEUU,Gratis,12.44,5,True,75.27
+IT200076,Coleccionismo,Subasta,EEUU,Gratis,39.45,10,True,79.79
+IT200077,Moda,Subasta,Espana,Gratis,10.24,3,True,19.85
+IT200078,Motor,Compra ya,EEUU,Gratis,175.86,9,True,352.95
+IT200079,Juguetes,Subasta,EEUU,Pago,8.44,12,True,30.82
+IT200080,Libros,Subasta,Espana,Gratis,6.66,4,True,3.26
+IT200081,Hogar,Subasta,EEUU,Gratis,25.28,10,False,0.0
+IT200082,Moda,Subasta,Espana,Pago,12.55,8,False,0.0
+IT200083,Deportes,Compra ya,Alemania,Pago,25.91,7,False,0.0
+IT200084,Juguetes,Subasta,Reino Unido,Gratis,13.73,9,True,36.67
+IT200085,Juguetes,Subasta,EEUU,Gratis,11.95,7,True,23.82
+IT200086,Electronica,Compra ya,EEUU,Gratis,90.61,5,False,0.0
+IT200087,Coleccionismo,Compra ya,Alemania,Gratis,53.4,12,True,94.84
+IT200088,Deportes,Compra ya,EEUU,Pago,20.22,9,True,48.26
+IT200089,Deportes,Compra ya,Alemania,Gratis,22.32,8,True,60.13
+IT200090,Hogar,Subasta,Alemania,Pago,12.3,11,True,27.21
+IT200091,Deportes,Subasta,Alemania,Pago,28.51,12,True,71.4
+IT200092,Deportes,Compra ya,EEUU,Pago,22.45,5,True,65.79
+IT200093,Hogar,Subasta,Alemania,Gratis,21.79,12,True,57.31
+IT200094,Libros,Compra ya,Alemania,Pago,3.56,6,True,13.84
+IT200095,Coleccionismo,Subasta,EEUU,Pago,50.03,6,True,98.17
+IT200096,Moda,Compra ya,Espana,Pago,12.53,8,True,43.61
+IT200097,Juguetes,Compra ya,EEUU,Gratis,13.24,9,False,0.0
+IT200098,Juguetes,Compra ya,Espana,Gratis,7.27,2,False,0.0
+IT200099,Moda,Subasta,EEUU,Gratis,20.46,5,False,0.0
+IT200100,Deportes,Compra ya,EEUU,Gratis,14.93,9,True,45.9
+IT200101,Moda,Compra ya,Alemania,Pago,9.79,8,True,42.76
+IT200102,Deportes,Compra ya,EEUU,Pago,29.9,5,True,57.5
+IT200103,Electronica,Compra ya,EEUU,Gratis,101.71,4,True,175.18
+IT200104,Deportes,Subasta,EEUU,Gratis,15.67,4,False,0.0
+IT200105,Deportes,Subasta,Alemania,Gratis,21.34,11,True,54.71
+IT200106,Deportes,Subasta,EEUU,Pago,27.14,3,True,35.5
+IT200107,Juguetes,Compra ya,Reino Unido,Pago,15.44,6,True,24.97
+IT200108,Hogar,Compra ya,Reino Unido,Gratis,21.1,4,False,0.0
+IT200109,Juguetes,Subasta,Reino Unido,Gratis,11.39,10,True,27.8
+IT200110,Coleccionismo,Compra ya,EEUU,Pago,44.7,4,False,0.0
+IT200111,Deportes,Subasta,EEUU,Pago,27.08,9,True,59.24
+IT200112,Motor,Compra ya,Espana,Pago,164.22,8,True,307.49
+IT200113,Hogar,Subasta,Alemania,Gratis,25.68,5,False,0.0
+IT200114,Motor,Subasta,Espana,Gratis,77.39,6,False,0.0
+IT200115,Motor,Subasta,Alemania,Pago,179.71,11,True,407.26
+IT200116,Electronica,Compra ya,Alemania,Gratis,98.32,4,True,218.39
+IT200117,Moda,Compra ya,Espana,Pago,18.17,9,True,30.12
+IT200118,Moda,Subasta,Reino Unido,Pago,8.4,9,True,19.54
+IT200119,Electronica,Subasta,Espana,Gratis,50.72,2,True,85.4
+IT200120,Hogar,Compra ya,EEUU,Gratis,29.85,7,True,60.14
+IT200121,Juguetes,Subasta,EEUU,Pago,5.86,4,True,9.42
+IT200122,Juguetes,Compra ya,Reino Unido,Pago,16.57,11,True,24.18
+IT200123,Hogar,Subasta,Reino Unido,Gratis,21.05,9,True,74.1
+IT200124,Deportes,Compra ya,EEUU,Pago,26.82,7,True,56.65
+IT200125,Motor,Compra ya,Reino Unido,Gratis,177.61,4,True,364.02
+IT200126,Electronica,Subasta,Reino Unido,Pago,64.41,11,True,159.83
+IT200127,Deportes,Compra ya,Espana,Pago,18.02,5,True,68.33
+IT200128,Motor,Subasta,EEUU,Gratis,141.92,6,True,267.68
+IT200129,Juguetes,Compra ya,EEUU,Pago,12.11,12,True,30.12
+IT200130,Motor,Compra ya,Alemania,Pago,116.37,6,True,329.47
+IT200131,Motor,Subasta,Reino Unido,Pago,141.03,10,True,524.5
+IT200132,Electronica,Compra ya,Alemania,Gratis,103.35,6,True,209.85
+IT200133,Motor,Subasta,EEUU,Pago,123.86,10,True,523.12
+IT200134,Deportes,Compra ya,EEUU,Pago,15.33,8,True,67.45
+IT200135,Coleccionismo,Compra ya,Espana,Gratis,31.58,6,True,94.02
+IT200136,Motor,Compra ya,EEUU,Gratis,114.45,6,True,405.66
+IT200137,Electronica,Subasta,Alemania,Pago,45.44,7,True,111.55
+IT200138,Coleccionismo,Compra ya,EEUU,Pago,23.86,6,True,73.38
+IT200139,Hogar,Subasta,EEUU,Gratis,28.43,14,True,92.63
+IT200140,Libros,Subasta,Alemania,Pago,5.04,8,True,11.12
+IT200141,Moda,Compra ya,EEUU,Gratis,20.37,10,True,37.44
+IT200142,Coleccionismo,Subasta,EEUU,Pago,26.77,17,True,106.68
+IT200143,Hogar,Subasta,Alemania,Gratis,14.37,6,False,0.0
+IT200144,Libros,Subasta,EEUU,Gratis,7.52,3,True,11.27
+IT200145,Deportes,Compra ya,EEUU,Pago,30.38,7,False,0.0
+IT200146,Electronica,Compra ya,Reino Unido,Pago,56.02,11,True,233.7
+IT200147,Moda,Subasta,EEUU,Gratis,9.83,13,True,55.45
+IT200148,Deportes,Subasta,Reino Unido,Pago,15.09,9,False,0.0
+IT200149,Electronica,Compra ya,EEUU,Pago,73.58,11,False,0.0
+IT200150,Deportes,Subasta,EEUU,Pago,21.31,6,True,30.2
+IT200151,Coleccionismo,Compra ya,EEUU,Gratis,27.34,10,True,83.09
+IT200152,Libros,Compra ya,Espana,Gratis,3.27,6,True,16.55
+IT200153,Coleccionismo,Compra ya,EEUU,Pago,35.33,11,True,73.67
+IT200154,Hogar,Subasta,Espana,Pago,35.02,10,False,0.0
+IT200155,Juguetes,Compra ya,EEUU,Gratis,12.91,7,True,26.61
+IT200156,Moda,Compra ya,EEUU,Gratis,13.94,7,False,0.0
+IT200157,Motor,Subasta,Alemania,Gratis,78.17,4,True,90.52
+IT200158,Motor,Compra ya,EEUU,Gratis,96.31,8,True,369.31
+IT200159,Deportes,Subasta,Reino Unido,Pago,17.49,7,True,55.2
+IT200160,Libros,Compra ya,Espana,Gratis,7.59,7,True,14.94
+IT200161,Juguetes,Compra ya,Alemania,Pago,15.42,7,True,22.6
+IT200162,Hogar,Subasta,Reino Unido,Pago,33.64,6,True,88.42
+IT200163,Hogar,Subasta,Alemania,Gratis,35.63,4,False,0.0
+IT200164,Hogar,Subasta,EEUU,Pago,35.58,7,False,0.0
+IT200165,Deportes,Subasta,Alemania,Gratis,31.97,23,True,169.81
+IT200166,Coleccionismo,Compra ya,EEUU,Gratis,20.59,9,True,103.42
+IT200167,Moda,Subasta,EEUU,Gratis,8.93,6,True,27.97
+IT200168,Coleccionismo,Compra ya,Reino Unido,Gratis,28.96,8,True,112.81
+IT200169,Electronica,Subasta,EEUU,Gratis,75.81,5,True,161.03
+IT200170,Electronica,Compra ya,Alemania,Pago,42.98,14,True,227.82
+IT200171,Electronica,Compra ya,EEUU,Gratis,96.9,10,False,0.0
+IT200172,Deportes,Compra ya,EEUU,Gratis,24.57,6,True,57.98
+IT200173,Juguetes,Compra ya,Alemania,Pago,11.67,3,False,0.0
+IT200174,Juguetes,Compra ya,Reino Unido,Pago,7.45,4,True,25.74
+IT200175,Hogar,Compra ya,Espana,Gratis,18.08,8,True,72.38
+IT200176,Juguetes,Compra ya,EEUU,Gratis,7.4,9,True,31.5
+IT200177,Moda,Subasta,EEUU,Gratis,18.93,10,False,0.0
+IT200178,Libros,Subasta,EEUU,Gratis,6.51,12,True,26.48
+IT200179,Motor,Subasta,EEUU,Gratis,158.1,8,True,410.36
+IT200180,Libros,Compra ya,EEUU,Pago,4.78,7,True,12.28
+IT200181,Moda,Compra ya,Alemania,Gratis,12.2,5,False,0.0
+IT200182,Hogar,Compra ya,EEUU,Gratis,21.72,4,True,74.34
+IT200183,Juguetes,Compra ya,Espana,Pago,14.11,11,True,31.18
+IT200184,Hogar,Subasta,Reino Unido,Gratis,30.54,8,True,72.81
+IT200185,Hogar,Compra ya,Alemania,Gratis,16.96,13,True,59.54
+IT200186,Moda,Subasta,EEUU,Pago,20.18,10,True,71.39
+IT200187,Hogar,Subasta,EEUU,Gratis,14.9,8,True,22.13
+IT200188,Moda,Compra ya,EEUU,Gratis,19.55,6,False,0.0
+IT200189,Coleccionismo,Subasta,Reino Unido,Gratis,21.61,6,True,59.38
+IT200190,Juguetes,Compra ya,Reino Unido,Gratis,8.56,10,False,0.0
+IT200191,Juguetes,Compra ya,EEUU,Pago,15.08,6,True,34.72
+IT200192,Motor,Compra ya,EEUU,Gratis,86.97,7,True,381.82
+IT200193,Coleccionismo,Subasta,Espana,Gratis,32.89,3,True,51.12
+IT200194,Libros,Subasta,EEUU,Gratis,5.7,7,True,6.46
+IT200195,Electronica,Subasta,EEUU,Gratis,53.66,8,True,194.35
+IT200196,Coleccionismo,Subasta,EEUU,Pago,43.57,3,False,0.0
+IT200197,Electronica,Subasta,EEUU,Pago,97.3,8,True,106.14
+IT200198,Coleccionismo,Subasta,EEUU,Gratis,49.48,5,True,67.35
+IT200199,Libros,Compra ya,Reino Unido,Gratis,5.04,7,True,18.35
+IT200200,Coleccionismo,Compra ya,Reino Unido,Pago,37.11,12,True,88.31
+IT200201,Libros,Compra ya,Alemania,Gratis,4.49,10,False,0.0
+IT200202,Hogar,Subasta,EEUU,Gratis,17.88,12,True,67.92
+IT200203,Juguetes,Compra ya,EEUU,Pago,7.41,10,False,0.0
+IT200204,Hogar,Subasta,Alemania,Gratis,34.56,5,True,69.42
+IT200205,Coleccionismo,Subasta,EEUU,Gratis,49.97,8,True,173.49
+IT200206,Deportes,Subasta,EEUU,Gratis,28.1,6,False,0.0
+IT200207,Libros,Compra ya,Reino Unido,Gratis,6.11,10,True,18.84
+IT200208,Coleccionismo,Compra ya,Alemania,Gratis,35.66,12,True,106.34
+IT200209,Deportes,Subasta,EEUU,Gratis,22.65,15,True,92.69
+IT200210,Coleccionismo,Compra ya,Espana,Pago,37.32,8,True,110.78
+IT200211,Juguetes,Compra ya,EEUU,Gratis,10.47,5,True,33.27
+IT200212,Deportes,Subasta,Espana,Pago,13.9,8,True,28.43
+IT200213,Hogar,Compra ya,EEUU,Gratis,15.02,7,False,0.0
+IT200214,Juguetes,Subasta,Alemania,Gratis,16.27,5,True,32.21
+IT200215,Coleccionismo,Subasta,EEUU,Gratis,35.35,16,True,132.28
+IT200216,Electronica,Compra ya,Alemania,Gratis,104.63,4,False,0.0
+IT200217,Electronica,Subasta,Reino Unido,Pago,47.78,7,True,110.62
+IT200218,Hogar,Compra ya,Espana,Gratis,25.31,7,True,54.71
+IT200219,Libros,Subasta,Alemania,Gratis,4.25,7,True,10.32
+IT200220,Moda,Compra ya,Reino Unido,Gratis,10.54,5,True,28.92
+IT200221,Hogar,Compra ya,EEUU,Gratis,12.72,7,True,70.08
+IT200222,Juguetes,Compra ya,EEUU,Gratis,6.93,5,True,35.96
+IT200223,Moda,Compra ya,Espana,Gratis,19.84,11,True,33.41
+IT200224,Juguetes,Compra ya,Espana,Gratis,9.2,7,True,35.17
+IT200225,Coleccionismo,Subasta,EEUU,Pago,39.89,9,True,135.58
+IT200226,Deportes,Subasta,EEUU,Pago,21.23,10,True,61.23
+IT200227,Motor,Compra ya,EEUU,Gratis,115.26,5,True,408.61
+IT200228,Motor,Subasta,EEUU,Gratis,132.08,7,False,0.0
+IT200229,Moda,Subasta,EEUU,Gratis,9.62,6,True,30.61
+IT200230,Hogar,Compra ya,Alemania,Gratis,35.73,7,True,68.27
+IT200231,Deportes,Subasta,EEUU,Gratis,29.0,8,True,85.29
+IT200232,Electronica,Subasta,Espana,Gratis,89.4,10,True,154.14
+IT200233,Deportes,Compra ya,Espana,Pago,21.31,6,True,46.26
+IT200234,Hogar,Compra ya,EEUU,Pago,15.67,4,True,59.34
+IT200235,Juguetes,Compra ya,Reino Unido,Gratis,15.91,10,True,33.64
+IT200236,Juguetes,Subasta,Reino Unido,Gratis,9.42,5,True,22.88
+IT200237,Hogar,Subasta,EEUU,Gratis,13.2,11,True,49.55
+IT200238,Coleccionismo,Compra ya,Alemania,Gratis,30.33,6,True,81.29
+IT200239,Juguetes,Subasta,Reino Unido,Gratis,14.5,5,True,24.01
+IT200240,Moda,Compra ya,EEUU,Gratis,15.72,9,True,38.08
+IT200241,Motor,Subasta,Espana,Gratis,160.11,8,True,250.49
+IT200242,Electronica,Subasta,EEUU,Gratis,93.14,8,True,193.19
+IT200243,Juguetes,Subasta,EEUU,Pago,7.97,5,True,9.17
+IT200244,Juguetes,Subasta,Espana,Gratis,15.95,4,False,0.0
+IT200245,Electronica,Subasta,EEUU,Pago,67.54,7,True,75.34
+IT200246,Deportes,Compra ya,EEUU,Gratis,25.06,3,False,0.0
+IT200247,Hogar,Compra ya,EEUU,Gratis,12.06,9,True,74.91
+IT200248,Deportes,Subasta,EEUU,Gratis,32.85,8,True,79.77
+IT200249,Electronica,Compra ya,EEUU,Gratis,56.22,8,True,163.32
+IT200250,Moda,Subasta,Alemania,Gratis,7.87,7,True,14.12
+IT200251,Hogar,Subasta,EEUU,Gratis,23.0,8,True,34.08
+IT200252,Moda,Compra ya,Reino Unido,Gratis,8.81,11,False,0.0
+IT200253,Coleccionismo,Compra ya,EEUU,Gratis,23.48,9,False,0.0
+IT200254,Juguetes,Compra ya,EEUU,Gratis,12.68,6,True,36.1
+IT200255,Moda,Subasta,Espana,Pago,12.5,8,True,46.34
+IT200256,Juguetes,Subasta,Alemania,Pago,15.92,6,False,0.0
+IT200257,Electronica,Compra ya,Alemania,Pago,58.98,13,True,158.42
+IT200258,Moda,Compra ya,EEUU,Pago,17.17,5,True,36.56
+IT200259,Motor,Compra ya,Reino Unido,Gratis,123.02,7,True,390.52
+IT200260,Deportes,Compra ya,Alemania,Pago,25.52,3,False,0.0
+IT200261,Moda,Subasta,Espana,Gratis,15.4,8,True,63.57
+IT200262,Coleccionismo,Compra ya,Alemania,Gratis,35.02,7,True,72.49
+IT200263,Libros,Compra ya,Reino Unido,Pago,8.7,7,True,16.67
+IT200264,Libros,Subasta,EEUU,Gratis,5.06,13,True,10.6
+IT200265,Motor,Subasta,EEUU,Gratis,86.69,7,True,53.31
+IT200266,Hogar,Compra ya,EEUU,Gratis,28.27,12,True,56.51
+IT200267,Coleccionismo,Subasta,EEUU,Gratis,48.46,7,True,182.12
+IT200268,Motor,Compra ya,EEUU,Gratis,69.15,9,True,409.67
+IT200269,Motor,Compra ya,EEUU,Pago,121.55,6,True,410.36
+IT200270,Coleccionismo,Subasta,Reino Unido,Gratis,50.13,3,True,63.84
+IT200271,Electronica,Subasta,Reino Unido,Gratis,89.97,6,False,0.0
+IT200272,Moda,Compra ya,Reino Unido,Gratis,20.89,8,True,30.83
+IT200273,Libros,Subasta,EEUU,Pago,6.19,9,True,16.57
+IT200274,Hogar,Compra ya,Reino Unido,Pago,27.84,5,True,54.12
+IT200275,Hogar,Subasta,Espana,Pago,19.26,4,False,0.0
+IT200276,Hogar,Compra ya,EEUU,Gratis,34.74,11,True,71.74
+IT200277,Deportes,Subasta,Espana,Gratis,19.06,12,True,70.92
+IT200278,Electronica,Subasta,EEUU,Gratis,89.17,4,True,117.64
+IT200279,Electronica,Compra ya,Reino Unido,Pago,65.03,10,True,179.06
+IT200280,Coleccionismo,Subasta,Reino Unido,Gratis,38.23,7,False,0.0
+IT200281,Hogar,Subasta,Alemania,Pago,29.27,9,True,59.91
+IT200282,Juguetes,Subasta,Espana,Gratis,11.3,6,False,0.0
+IT200283,Hogar,Compra ya,EEUU,Pago,33.77,5,False,0.0
+IT200284,Hogar,Compra ya,Alemania,Gratis,22.06,10,True,57.68
+IT200285,Libros,Subasta,Espana,Gratis,6.88,10,False,0.0
+IT200286,Moda,Subasta,Alemania,Gratis,11.79,2,False,0.0
+IT200287,Motor,Subasta,EEUU,Gratis,116.24,10,True,210.61
+IT200288,Motor,Compra ya,EEUU,Pago,120.33,5,True,330.32
+IT200289,Hogar,Subasta,Espana,Gratis,15.02,8,True,45.73
+IT200290,Deportes,Compra ya,Alemania,Pago,13.02,9,True,44.77
+IT200291,Coleccionismo,Subasta,Espana,Gratis,42.03,6,True,83.69
+IT200292,Libros,Compra ya,EEUU,Gratis,6.93,11,True,14.78
+IT200293,Coleccionismo,Compra ya,Alemania,Gratis,41.86,6,True,111.82
+IT200294,Motor,Subasta,Alemania,Gratis,66.53,6,True,164.78
+IT200295,Motor,Compra ya,Espana,Pago,105.8,8,True,273.62
+IT200296,Deportes,Subasta,Alemania,Gratis,15.35,5,False,0.0
+IT200297,Hogar,Compra ya,EEUU,Gratis,30.68,8,True,66.14
+IT200298,Coleccionismo,Subasta,Alemania,Gratis,48.98,10,True,175.64
+IT200299,Electronica,Subasta,Reino Unido,Pago,53.76,10,True,104.21
+IT200300,Coleccionismo,Subasta,EEUU,Pago,42.04,10,True,170.54
+IT200301,Deportes,Subasta,EEUU,Pago,13.85,8,True,29.31
+IT200302,Electronica,Compra ya,Espana,Gratis,55.81,11,True,190.4
+IT200303,Libros,Compra ya,EEUU,Gratis,3.83,10,True,15.84
+IT200304,Motor,Subasta,EEUU,Gratis,100.29,7,True,177.77
+IT200305,Moda,Subasta,Reino Unido,Pago,16.45,13,True,67.66
+IT200306,Coleccionismo,Compra ya,Espana,Gratis,50.77,7,True,100.73
+IT200307,Motor,Subasta,Alemania,Pago,89.92,3,True,180.04
+IT200308,Coleccionismo,Subasta,EEUU,Pago,37.51,4,True,63.89
+IT200309,Electronica,Compra ya,EEUU,Pago,86.5,10,True,203.68
+IT200310,Juguetes,Subasta,EEUU,Pago,16.27,6,True,30.81
+IT200311,Juguetes,Subasta,EEUU,Gratis,12.43,9,True,24.86
+IT200312,Electronica,Subasta,Alemania,Gratis,54.37,8,False,0.0
+IT200313,Coleccionismo,Subasta,EEUU,Gratis,40.52,7,True,112.21
+IT200314,Moda,Compra ya,EEUU,Gratis,11.49,11,False,0.0
+IT200315,Juguetes,Compra ya,Espana,Pago,16.53,2,True,34.02
+IT200316,Juguetes,Compra ya,EEUU,Gratis,10.08,8,True,24.33
+IT200317,Juguetes,Subasta,EEUU,Pago,13.28,8,True,30.61
+IT200318,Libros,Compra ya,Reino Unido,Pago,3.14,8,True,16.36
+IT200319,Deportes,Compra ya,EEUU,Gratis,19.8,7,False,0.0
+IT200320,Coleccionismo,Compra ya,EEUU,Gratis,49.5,9,True,114.33
+IT200321,Electronica,Compra ya,Espana,Gratis,79.94,7,True,188.28
+IT200322,Motor,Compra ya,Alemania,Gratis,120.82,15,True,268.38
+IT200323,Libros,Compra ya,Alemania,Pago,8.62,5,False,0.0
+IT200324,Libros,Compra ya,Alemania,Pago,8.12,10,False,0.0
+IT200325,Moda,Compra ya,EEUU,Pago,11.51,7,True,34.28
+IT200326,Moda,Subasta,Alemania,Gratis,14.62,9,True,27.49
+IT200327,Electronica,Compra ya,Reino Unido,Pago,71.27,7,True,171.29
+IT200328,Moda,Compra ya,EEUU,Pago,15.85,9,True,39.94
+IT200329,Motor,Subasta,EEUU,Pago,106.77,3,True,109.36
+IT200330,Motor,Subasta,Reino Unido,Pago,95.26,9,True,243.23
+IT200331,Coleccionismo,Subasta,EEUU,Pago,50.86,6,True,91.37
+IT200332,Coleccionismo,Compra ya,EEUU,Gratis,51.26,3,True,93.42
+IT200333,Deportes,Subasta,EEUU,Pago,29.55,4,False,0.0
+IT200334,Hogar,Subasta,Reino Unido,Gratis,35.48,7,True,68.77
+IT200335,Deportes,Subasta,EEUU,Gratis,27.39,9,False,0.0
+IT200336,Libros,Subasta,Reino Unido,Gratis,7.59,3,True,13.77
+IT200337,Coleccionismo,Compra ya,EEUU,Gratis,45.45,7,True,78.97
+IT200338,Moda,Subasta,Reino Unido,Gratis,13.73,4,True,24.07
+IT200339,Libros,Subasta,EEUU,Gratis,5.74,4,True,9.25
+IT200340,Juguetes,Subasta,EEUU,Pago,8.29,2,True,11.54
+IT200341,Coleccionismo,Compra ya,Reino Unido,Pago,41.21,9,False,0.0
+IT200342,Motor,Compra ya,Reino Unido,Pago,101.03,7,True,314.42
+IT200343,Motor,Subasta,EEUU,Pago,97.0,5,True,170.76
+IT200344,Libros,Subasta,Reino Unido,Gratis,6.52,10,True,5.05
+IT200345,Coleccionismo,Compra ya,Alemania,Pago,32.76,13,True,91.56
+IT200346,Libros,Compra ya,EEUU,Gratis,4.31,8,True,16.32
+IT200347,Libros,Compra ya,Reino Unido,Gratis,7.9,12,True,18.89
+IT200348,Moda,Subasta,EEUU,Pago,19.05,5,True,41.1
+IT200349,Moda,Compra ya,Alemania,Pago,9.35,8,True,41.67
+IT200350,Motor,Compra ya,EEUU,Gratis,64.96,6,True,343.78
+IT200351,Electronica,Subasta,Espana,Pago,60.2,5,True,139.58
+IT200352,Coleccionismo,Compra ya,Reino Unido,Gratis,46.71,11,True,113.96
+IT200353,Hogar,Compra ya,Reino Unido,Pago,32.14,6,True,48.02
+IT200354,Libros,Compra ya,EEUU,Pago,3.83,15,True,18.76
+IT200355,Libros,Compra ya,Reino Unido,Gratis,7.65,10,True,15.73
+IT200356,Moda,Subasta,EEUU,Pago,8.62,10,True,20.2
+IT200357,Libros,Subasta,EEUU,Gratis,5.34,7,True,19.36
+IT200358,Electronica,Subasta,EEUU,Gratis,107.9,7,True,181.53
+IT200359,Juguetes,Compra ya,Alemania,Pago,7.76,7,False,0.0
+IT200360,Deportes,Subasta,Alemania,Pago,14.39,8,True,38.6
+IT200361,Libros,Subasta,Espana,Gratis,5.54,6,True,12.02
+IT200362,Moda,Compra ya,EEUU,Pago,15.68,13,True,43.29
+IT200363,Libros,Subasta,Espana,Gratis,8.6,11,True,17.47
+IT200364,Electronica,Compra ya,Alemania,Gratis,106.62,5,True,169.02
+IT200365,Motor,Subasta,Espana,Pago,72.91,5,True,175.57
+IT200366,Hogar,Subasta,Alemania,Gratis,15.31,6,True,24.11
+IT200367,Coleccionismo,Subasta,EEUU,Gratis,46.47,6,True,124.44
+IT200368,Electronica,Subasta,Espana,Pago,55.49,5,True,109.06
+IT200369,Deportes,Subasta,Reino Unido,Pago,30.47,10,True,108.18
+IT200370,Coleccionismo,Subasta,Alemania,Gratis,41.88,6,True,101.9
+IT200371,Juguetes,Compra ya,EEUU,Gratis,6.85,6,True,27.28
+IT200372,Hogar,Subasta,EEUU,Pago,31.98,7,True,79.67
+IT200373,Coleccionismo,Subasta,EEUU,Pago,24.35,6,False,0.0
+IT200374,Libros,Subasta,Reino Unido,Gratis,5.54,11,True,20.67
+IT200375,Electronica,Subasta,EEUU,Gratis,75.76,5,True,160.01
+IT200376,Juguetes,Subasta,Espana,Gratis,11.21,11,True,35.98
+IT200377,Juguetes,Subasta,EEUU,Gratis,13.29,9,True,28.26
+IT200378,Hogar,Compra ya,EEUU,Gratis,27.66,6,True,77.21
+IT200379,Coleccionismo,Compra ya,EEUU,Pago,53.71,6,True,105.58
+IT200380,Electronica,Compra ya,EEUU,Pago,107.96,15,True,229.34
+IT200381,Libros,Compra ya,EEUU,Pago,6.1,7,True,14.55
+IT200382,Libros,Subasta,Alemania,Gratis,3.57,7,False,0.0
+IT200383,Moda,Subasta,Espana,Gratis,17.19,7,True,17.51
+IT200384,Electronica,Subasta,EEUU,Gratis,106.32,8,True,243.44
+IT200385,Electronica,Compra ya,EEUU,Gratis,58.92,7,True,169.9
+IT200386,Electronica,Subasta,Alemania,Gratis,69.21,5,False,0.0
+IT200387,Deportes,Subasta,EEUU,Pago,20.35,9,False,0.0
+IT200388,Libros,Compra ya,Alemania,Gratis,3.31,9,False,0.0
+IT200389,Moda,Subasta,Reino Unido,Pago,16.41,4,True,23.34
+IT200390,Juguetes,Subasta,Espana,Gratis,9.56,12,True,19.06
+IT200391,Moda,Compra ya,EEUU,Gratis,18.02,8,True,42.78
+IT200392,Coleccionismo,Subasta,Espana,Pago,47.96,6,False,0.0
+IT200393,Motor,Subasta,Espana,Pago,169.12,8,True,463.39
+IT200394,Juguetes,Subasta,EEUU,Gratis,10.27,7,False,0.0
+IT200395,Deportes,Subasta,Reino Unido,Pago,18.07,9,True,48.06
+IT200396,Electronica,Compra ya,EEUU,Gratis,89.92,9,False,0.0
+IT200397,Moda,Compra ya,EEUU,Pago,18.22,15,True,42.16
+IT200398,Coleccionismo,Subasta,Espana,Gratis,35.69,8,False,0.0
+IT200399,Coleccionismo,Subasta,EEUU,Gratis,50.15,5,True,26.33
+IT200400,Libros,Subasta,EEUU,Pago,3.86,13,True,9.42
+IT200401,Deportes,Compra ya,EEUU,Pago,30.34,9,True,49.56
+IT200402,Coleccionismo,Subasta,Reino Unido,Pago,21.46,13,True,74.59
+IT200403,Libros,Subasta,Espana,Gratis,3.92,11,True,17.11
+IT200404,Hogar,Compra ya,Reino Unido,Pago,24.81,7,True,67.15
+IT200405,Motor,Compra ya,Reino Unido,Gratis,72.64,8,False,0.0
+IT200406,Hogar,Compra ya,EEUU,Gratis,13.27,10,False,0.0
+IT200407,Moda,Compra ya,Alemania,Gratis,7.01,8,True,41.65
+IT200408,Libros,Subasta,EEUU,Gratis,5.62,6,False,0.0
+IT200409,Electronica,Compra ya,Reino Unido,Gratis,91.77,8,True,152.51
+IT200410,Moda,Compra ya,Reino Unido,Pago,7.49,8,True,39.85
+IT200411,Moda,Subasta,Espana,Gratis,16.13,6,True,20.8
+IT200412,Coleccionismo,Subasta,Alemania,Gratis,47.63,6,False,0.0
+IT200413,Moda,Subasta,Alemania,Gratis,9.35,7,True,30.55
+IT200414,Electronica,Compra ya,EEUU,Pago,46.57,6,True,165.85
+IT200415,Juguetes,Compra ya,EEUU,Gratis,15.24,9,True,35.3
+IT200416,Libros,Compra ya,Reino Unido,Gratis,7.94,9,True,18.35
+IT200417,Electronica,Subasta,Reino Unido,Pago,74.8,9,False,0.0
+IT200418,Coleccionismo,Compra ya,Alemania,Pago,47.49,9,True,115.4
+IT200419,Motor,Subasta,Reino Unido,Pago,75.87,4,False,0.0
+IT200420,Libros,Subasta,EEUU,Gratis,5.37,7,True,10.24
+IT200421,Juguetes,Compra ya,EEUU,Pago,13.86,5,False,0.0
+IT200422,Deportes,Compra ya,EEUU,Pago,16.66,9,True,44.44
+IT200423,Motor,Compra ya,Alemania,Pago,160.3,7,True,415.02
+IT200424,Hogar,Subasta,Espana,Gratis,24.1,8,True,38.6
+IT200425,Moda,Subasta,Reino Unido,Gratis,17.5,13,True,57.15
+IT200426,Deportes,Subasta,Alemania,Gratis,21.22,10,True,61.01
+IT200427,Deportes,Subasta,Alemania,Pago,19.09,9,True,39.94
+IT200428,Electronica,Compra ya,EEUU,Gratis,51.78,8,True,201.97
+IT200429,Juguetes,Subasta,EEUU,Gratis,7.93,6,False,0.0
+IT200430,Electronica,Subasta,EEUU,Gratis,90.11,6,True,233.45
+IT200431,Juguetes,Subasta,Espana,Pago,6.93,7,True,4.32
+IT200432,Deportes,Compra ya,EEUU,Gratis,12.89,2,True,64.62
+IT200433,Moda,Compra ya,Reino Unido,Pago,9.47,10,True,37.02
+IT200434,Hogar,Subasta,EEUU,Gratis,16.21,4,True,27.66
+IT200435,Electronica,Subasta,Reino Unido,Pago,95.26,7,False,0.0
+IT200436,Motor,Compra ya,EEUU,Gratis,115.01,3,False,0.0
+IT200437,Libros,Compra ya,Espana,Gratis,8.94,6,False,0.0
+IT200438,Electronica,Subasta,EEUU,Gratis,45.88,8,True,109.45
+IT200439,Hogar,Subasta,Espana,Gratis,27.68,9,True,33.73
+IT200440,Libros,Compra ya,Reino Unido,Pago,5.69,8,True,15.9
+IT200441,Coleccionismo,Compra ya,EEUU,Pago,32.15,4,False,0.0
+IT200442,Moda,Subasta,Alemania,Gratis,19.25,3,True,41.02
+IT200443,Hogar,Subasta,Reino Unido,Gratis,35.41,6,True,48.1
+IT200444,Motor,Subasta,EEUU,Gratis,175.73,6,False,0.0
+IT200445,Juguetes,Subasta,Alemania,Gratis,7.75,12,False,0.0
+IT200446,Coleccionismo,Subasta,Reino Unido,Pago,25.95,2,True,26.84
+IT200447,Libros,Subasta,Reino Unido,Pago,6.94,14,True,29.61
+IT200448,Motor,Subasta,Alemania,Gratis,101.0,7,True,222.87
+IT200449,Coleccionismo,Subasta,Reino Unido,Gratis,44.45,10,True,102.21
+IT200450,Libros,Subasta,EEUU,Pago,6.4,7,True,25.32
+IT200451,Libros,Subasta,EEUU,Pago,6.31,7,True,6.44
+IT200452,Hogar,Compra ya,EEUU,Pago,31.89,6,True,77.17
+IT200453,Electronica,Subasta,Reino Unido,Gratis,87.16,7,True,113.08
+IT200454,Motor,Compra ya,EEUU,Gratis,67.4,9,True,353.58
+IT200455,Motor,Compra ya,EEUU,Gratis,70.33,8,True,361.02
+IT200456,Moda,Compra ya,Alemania,Pago,15.42,9,True,42.69
+IT200457,Juguetes,Subasta,EEUU,Gratis,11.05,8,True,22.09
+IT200458,Deportes,Subasta,EEUU,Pago,16.72,6,False,0.0
+IT200459,Electronica,Compra ya,Alemania,Gratis,66.14,4,True,228.82
+IT200460,Juguetes,Subasta,Alemania,Pago,14.09,5,False,0.0
+IT200461,Moda,Subasta,Alemania,Gratis,18.57,11,True,60.1
+IT200462,Juguetes,Subasta,EEUU,Pago,11.89,11,True,34.61
+IT200463,Hogar,Compra ya,Reino Unido,Gratis,21.25,9,False,0.0
+IT200464,Electronica,Compra ya,Espana,Pago,55.49,9,True,206.0
+IT200465,Libros,Subasta,EEUU,Gratis,6.13,11,True,15.15
+IT200466,Moda,Compra ya,EEUU,Pago,11.41,12,True,29.37
+IT200467,Motor,Compra ya,EEUU,Pago,136.2,13,True,321.17
+IT200468,Moda,Subasta,Espana,Gratis,16.47,8,True,54.18
+IT200469,Libros,Subasta,EEUU,Gratis,3.4,12,False,0.0
+IT200470,Juguetes,Subasta,Reino Unido,Gratis,5.61,7,True,16.95
+IT200471,Deportes,Compra ya,Reino Unido,Gratis,15.67,8,True,51.28
+IT200472,Hogar,Compra ya,Espana,Pago,33.47,2,True,61.95
+IT200473,Hogar,Compra ya,EEUU,Gratis,27.51,6,True,54.69
+IT200474,Juguetes,Compra ya,Reino Unido,Gratis,7.53,10,True,22.78
+IT200475,Deportes,Subasta,Espana,Gratis,30.59,3,True,39.85
+IT200476,Deportes,Compra ya,EEUU,Gratis,21.34,7,True,61.86
+IT200477,Electronica,Compra ya,Reino Unido,Gratis,70.28,10,True,181.45
+IT200478,Juguetes,Compra ya,EEUU,Pago,16.08,11,True,27.58
+IT200479,Electronica,Subasta,EEUU,Gratis,40.28,12,True,180.86
+IT200480,Coleccionismo,Subasta,EEUU,Pago,25.75,7,True,66.83
+IT200481,Deportes,Subasta,EEUU,Pago,23.89,9,True,41.09
+IT200482,Coleccionismo,Subasta,EEUU,Gratis,25.04,6,False,0.0
+IT200483,Deportes,Compra ya,Alemania,Pago,25.95,9,True,66.83
+IT200484,Hogar,Compra ya,Reino Unido,Pago,17.14,6,False,0.0
+IT200485,Moda,Compra ya,EEUU,Gratis,8.39,9,False,0.0
+IT200486,Coleccionismo,Subasta,Alemania,Gratis,25.45,5,True,61.91
+IT200487,Motor,Subasta,Espana,Pago,118.11,6,True,148.5
+IT200488,Deportes,Subasta,EEUU,Gratis,14.88,10,True,67.01
+IT200489,Motor,Compra ya,EEUU,Gratis,81.24,7,True,379.8
+IT200490,Libros,Compra ya,EEUU,Gratis,8.16,7,True,14.3
+IT200491,Deportes,Subasta,Espana,Gratis,18.05,18,True,106.25
+IT200492,Deportes,Compra ya,Alemania,Pago,18.94,4,False,0.0
+IT200493,Motor,Compra ya,Reino Unido,Gratis,71.07,11,True,284.59
+IT200494,Coleccionismo,Subasta,EEUU,Gratis,30.87,3,False,0.0
+IT200495,Hogar,Subasta,Reino Unido,Pago,18.36,5,True,36.7
+IT200496,Electronica,Subasta,Reino Unido,Gratis,79.95,4,True,134.04
+IT200497,Coleccionismo,Subasta,EEUU,Gratis,25.39,8,True,30.51
+IT200498,Libros,Compra ya,EEUU,Gratis,8.33,6,True,13.43
+IT200499,Hogar,Subasta,EEUU,Pago,34.31,8,True,53.17
+IT200500,Electronica,Compra ya,Alemania,Pago,43.19,5,True,212.35
+IT200501,Juguetes,Compra ya,Espana,Gratis,6.8,2,True,29.78
+IT200502,Libros,Subasta,EEUU,Pago,3.69,14,True,10.39
+IT200503,Deportes,Compra ya,Espana,Pago,24.63,10,True,45.07
+IT200504,Coleccionismo,Subasta,Reino Unido,Pago,22.39,8,True,54.05
+IT200505,Hogar,Compra ya,Reino Unido,Pago,32.46,10,True,66.19
+IT200506,Motor,Subasta,Espana,Pago,160.55,7,True,398.33
+IT200507,Moda,Compra ya,Reino Unido,Pago,18.48,7,True,43.74
+IT200508,Coleccionismo,Subasta,EEUU,Gratis,36.94,12,True,217.75
+IT200509,Moda,Subasta,EEUU,Gratis,20.95,4,False,0.0
+IT200510,Libros,Subasta,Alemania,Gratis,3.27,8,True,6.7
+IT200511,Juguetes,Compra ya,Reino Unido,Gratis,10.09,6,True,23.9
+IT200512,Deportes,Compra ya,EEUU,Pago,18.13,6,True,68.68
+IT200513,Deportes,Compra ya,Reino Unido,Pago,31.87,9,True,50.88
+IT200514,Libros,Subasta,EEUU,Pago,6.46,14,True,20.67
+IT200515,Electronica,Compra ya,EEUU,Pago,94.05,7,True,154.81
+IT200516,Libros,Compra ya,Alemania,Pago,4.02,13,True,19.38
+IT200517,Electronica,Subasta,EEUU,Pago,106.46,12,False,0.0
+IT200518,Hogar,Subasta,EEUU,Gratis,23.97,6,True,57.12
+IT200519,Motor,Subasta,EEUU,Gratis,127.19,8,True,313.44
+IT200520,Coleccionismo,Compra ya,Espana,Gratis,52.95,9,True,108.15
+IT200521,Moda,Subasta,EEUU,Gratis,12.33,11,True,48.6
+IT200522,Moda,Subasta,EEUU,Gratis,12.57,9,True,13.03
+IT200523,Deportes,Compra ya,EEUU,Gratis,23.86,5,False,0.0
+IT200524,Coleccionismo,Compra ya,EEUU,Gratis,22.61,8,True,112.84
+IT200525,Coleccionismo,Subasta,EEUU,Gratis,29.56,5,True,38.52
+IT200526,Libros,Compra ya,EEUU,Pago,4.16,10,True,18.67
+IT200527,Moda,Subasta,EEUU,Gratis,8.45,4,True,19.61
+IT200528,Libros,Compra ya,Reino Unido,Pago,8.2,7,True,17.85
+IT200529,Libros,Subasta,EEUU,Gratis,6.54,17,True,8.35
+IT200530,Motor,Subasta,EEUU,Pago,109.91,8,True,205.97
+IT200531,Moda,Compra ya,Alemania,Pago,12.72,11,True,39.9
+IT200532,Moda,Subasta,EEUU,Pago,13.04,13,True,39.0
+IT200533,Coleccionismo,Compra ya,EEUU,Gratis,40.79,7,True,116.65
+IT200534,Motor,Subasta,Espana,Pago,182.63,10,True,532.38
+IT200535,Moda,Subasta,Reino Unido,Gratis,20.06,11,True,50.58
+IT200536,Hogar,Compra ya,Reino Unido,Gratis,21.4,1,False,0.0
+IT200537,Electronica,Subasta,Reino Unido,Pago,59.71,15,True,164.1
+IT200538,Motor,Compra ya,Espana,Gratis,121.73,2,True,308.86
+IT200539,Electronica,Compra ya,EEUU,Gratis,76.89,3,True,232.09
+IT200540,Juguetes,Subasta,EEUU,Pago,10.77,5,True,23.41
+IT200541,Electronica,Subasta,Alemania,Gratis,83.43,11,True,252.36
+IT200542,Moda,Subasta,EEUU,Pago,14.76,5,False,0.0
+IT200543,Moda,Subasta,Reino Unido,Gratis,11.49,10,True,24.86
+IT200544,Deportes,Subasta,EEUU,Gratis,18.61,7,True,58.29
+IT200545,Electronica,Subasta,EEUU,Gratis,63.26,5,True,136.78
+IT200546,Hogar,Compra ya,Reino Unido,Gratis,14.27,9,True,58.66
+IT200547,Motor,Subasta,Reino Unido,Pago,85.26,11,True,273.65
+IT200548,Motor,Compra ya,Reino Unido,Pago,156.56,11,True,281.82
+IT200549,Juguetes,Subasta,EEUU,Gratis,9.96,4,True,4.78
+IT200550,Deportes,Subasta,EEUU,Gratis,15.72,4,False,0.0
+IT200551,Hogar,Subasta,Alemania,Pago,25.5,12,True,90.08
+IT200552,Deportes,Subasta,EEUU,Gratis,27.62,7,False,0.0
+IT200553,Coleccionismo,Compra ya,Reino Unido,Gratis,27.27,9,False,0.0
+IT200554,Libros,Subasta,Reino Unido,Gratis,7.96,9,False,0.0
+IT200555,Motor,Compra ya,EEUU,Pago,182.72,14,False,0.0
+IT200556,Juguetes,Compra ya,EEUU,Gratis,12.29,7,True,36.24
+IT200557,Libros,Subasta,Alemania,Gratis,7.01,5,True,11.37
+IT200558,Deportes,Compra ya,EEUU,Pago,12.16,8,True,70.57
+IT200559,Deportes,Compra ya,EEUU,Pago,31.8,7,True,45.17
+IT200560,Motor,Subasta,Espana,Pago,114.24,9,True,386.34
+IT200561,Electronica,Compra ya,EEUU,Pago,102.52,7,True,204.95
+IT200562,Hogar,Subasta,Alemania,Pago,25.9,9,False,0.0
+IT200563,Moda,Compra ya,EEUU,Pago,7.06,5,False,0.0
+IT200564,Libros,Subasta,EEUU,Pago,3.23,6,True,5.83
+IT200565,Moda,Compra ya,Reino Unido,Gratis,16.53,13,True,38.29
+IT200566,Moda,Compra ya,EEUU,Gratis,14.88,11,True,45.49
+IT200567,Moda,Compra ya,Alemania,Pago,7.37,5,True,41.99
+IT200568,Juguetes,Compra ya,EEUU,Pago,13.93,7,True,35.33
+IT200569,Motor,Subasta,Reino Unido,Gratis,173.07,9,True,517.2
+IT200570,Libros,Compra ya,Alemania,Pago,5.98,9,True,18.58
+IT200571,Hogar,Subasta,Reino Unido,Pago,23.18,12,True,78.92
+IT200572,Coleccionismo,Subasta,Reino Unido,Gratis,18.2,7,True,41.06
+IT200573,Electronica,Subasta,EEUU,Pago,92.64,6,True,209.81
+IT200574,Electronica,Compra ya,EEUU,Gratis,59.81,10,True,198.13
+IT200575,Coleccionismo,Compra ya,Espana,Pago,49.64,10,False,0.0
+IT200576,Libros,Subasta,Reino Unido,Pago,5.24,6,True,11.94
+IT200577,Motor,Compra ya,Reino Unido,Pago,136.33,8,False,0.0
+IT200578,Libros,Compra ya,EEUU,Pago,4.62,10,True,18.15
+IT200579,Electronica,Subasta,EEUU,Pago,47.56,9,True,57.36
+IT200580,Electronica,Subasta,EEUU,Gratis,91.79,6,False,0.0
+IT200581,Deportes,Compra ya,EEUU,Pago,21.92,3,False,0.0
+IT200582,Electronica,Compra ya,EEUU,Gratis,74.63,11,True,153.68
+IT200583,Electronica,Subasta,EEUU,Gratis,105.51,7,True,76.19
+IT200584,Hogar,Subasta,EEUU,Gratis,35.13,7,True,93.4
+IT200585,Libros,Subasta,Reino Unido,Gratis,8.13,7,False,0.0
+IT200586,Juguetes,Subasta,Reino Unido,Gratis,7.7,6,True,28.95
+IT200587,Electronica,Subasta,EEUU,Gratis,78.79,8,False,0.0
+IT200588,Deportes,Subasta,Alemania,Gratis,30.32,7,False,0.0
+IT200589,Deportes,Subasta,Reino Unido,Gratis,19.24,10,False,0.0
+IT200590,Deportes,Compra ya,EEUU,Gratis,13.22,4,False,0.0
+IT200591,Libros,Subasta,Alemania,Gratis,7.87,9,True,17.28
+IT200592,Moda,Subasta,Reino Unido,Pago,13.74,9,True,44.08
+IT200593,Libros,Subasta,Reino Unido,Gratis,6.39,5,True,7.9
+IT200594,Coleccionismo,Compra ya,Espana,Pago,53.36,8,False,0.0
+IT200595,Deportes,Subasta,EEUU,Gratis,24.36,12,True,20.46
+IT200596,Motor,Subasta,Reino Unido,Pago,118.4,4,True,126.43
+IT200597,Deportes,Subasta,EEUU,Pago,19.14,7,False,0.0
+IT200598,Juguetes,Compra ya,EEUU,Pago,10.28,4,True,30.88
+IT200599,Juguetes,Subasta,EEUU,Pago,6.93,11,True,10.0
+IT200600,Motor,Subasta,EEUU,Pago,165.73,3,False,0.0
+IT200601,Deportes,Compra ya,EEUU,Gratis,29.43,12,True,54.39
+IT200602,Juguetes,Compra ya,Reino Unido,Gratis,8.79,9,True,33.94
+IT200603,Moda,Subasta,EEUU,Gratis,11.25,4,False,0.0
+IT200604,Deportes,Subasta,EEUU,Pago,30.24,4,True,60.78
+IT200605,Motor,Compra ya,EEUU,Pago,67.07,13,False,0.0
+IT200606,Coleccionismo,Compra ya,EEUU,Gratis,36.74,15,True,94.64
+IT200607,Motor,Compra ya,Reino Unido,Pago,123.35,10,True,262.34
+IT200608,Libros,Compra ya,Reino Unido,Gratis,7.14,7,True,13.51
+IT200609,Deportes,Compra ya,Alemania,Pago,14.59,3,False,0.0
+IT200610,Deportes,Compra ya,Espana,Pago,25.7,9,True,45.76
+IT200611,Hogar,Subasta,EEUU,Gratis,21.04,7,False,0.0
+IT200612,Deportes,Compra ya,EEUU,Pago,24.61,10,False,0.0
+IT200613,Hogar,Compra ya,Espana,Gratis,12.96,11,True,51.45
+IT200614,Juguetes,Compra ya,Reino Unido,Pago,10.77,12,True,23.96
+IT200615,Juguetes,Subasta,Espana,Pago,11.45,4,True,9.72
+IT200616,Moda,Subasta,Alemania,Gratis,10.0,8,False,0.0
+IT200617,Coleccionismo,Compra ya,Alemania,Gratis,23.03,9,True,81.1
+IT200618,Electronica,Compra ya,EEUU,Gratis,49.57,7,False,0.0
+IT200619,Moda,Subasta,EEUU,Gratis,11.82,5,False,0.0
+IT200620,Hogar,Compra ya,Reino Unido,Pago,14.32,9,True,77.89
+IT200621,Hogar,Subasta,Reino Unido,Gratis,34.74,10,True,38.24
+IT200622,Moda,Subasta,Alemania,Gratis,12.67,8,False,0.0
+IT200623,Hogar,Compra ya,Espana,Gratis,31.42,7,True,62.87
+IT200624,Motor,Compra ya,EEUU,Gratis,188.73,6,True,292.7
+IT200625,Moda,Subasta,EEUU,Gratis,8.13,10,True,6.78
+IT200626,Coleccionismo,Subasta,Espana,Pago,41.46,12,True,47.7
+IT200627,Coleccionismo,Subasta,Alemania,Gratis,49.37,9,True,119.99
+IT200628,Motor,Compra ya,Alemania,Pago,145.18,6,False,0.0
+IT200629,Coleccionismo,Compra ya,Reino Unido,Gratis,33.44,11,True,104.09
+IT200630,Juguetes,Compra ya,Espana,Pago,10.43,9,True,25.42
+IT200631,Coleccionismo,Compra ya,EEUU,Gratis,19.29,8,True,93.33
+IT200632,Hogar,Subasta,EEUU,Gratis,24.83,9,False,0.0
+IT200633,Hogar,Subasta,EEUU,Gratis,35.85,7,True,88.68
+IT200634,Moda,Compra ya,EEUU,Pago,20.42,5,False,0.0
+IT200635,Juguetes,Subasta,Alemania,Pago,6.05,3,True,11.6
+IT200636,Moda,Subasta,Reino Unido,Gratis,16.88,8,False,0.0
+IT200637,Coleccionismo,Subasta,Reino Unido,Gratis,28.86,5,True,47.07
+IT200638,Deportes,Compra ya,EEUU,Pago,30.87,9,True,52.88
+IT200639,Libros,Subasta,Alemania,Gratis,3.27,13,True,11.95
+IT200640,Juguetes,Subasta,EEUU,Pago,16.08,13,True,36.64
+IT200641,Libros,Compra ya,Reino Unido,Gratis,8.02,3,True,16.47
+IT200642,Deportes,Subasta,EEUU,Pago,13.59,6,True,19.08
+IT200643,Hogar,Subasta,Reino Unido,Gratis,13.44,8,True,31.79
+IT200644,Deportes,Compra ya,EEUU,Gratis,29.36,11,True,67.54
+IT200645,Coleccionismo,Compra ya,Reino Unido,Pago,23.61,6,True,94.15
+IT200646,Hogar,Subasta,Reino Unido,Gratis,24.84,6,True,83.08
+IT200647,Motor,Subasta,Espana,Pago,181.22,13,True,452.45
+IT200648,Libros,Subasta,Espana,Pago,6.4,10,True,14.29
+IT200649,Deportes,Subasta,EEUU,Gratis,19.74,7,False,0.0
+IT200650,Hogar,Compra ya,EEUU,Gratis,22.68,9,True,48.45
+IT200651,Juguetes,Compra ya,EEUU,Gratis,6.31,9,True,29.87
+IT200652,Moda,Subasta,EEUU,Gratis,20.56,9,False,0.0
+IT200653,Deportes,Compra ya,EEUU,Pago,17.83,9,True,46.63
+IT200654,Motor,Subasta,Espana,Pago,88.24,16,True,364.04
+IT200655,Motor,Subasta,Espana,Gratis,100.61,8,True,300.9
+IT200656,Deportes,Compra ya,EEUU,Pago,32.22,5,False,0.0
+IT200657,Juguetes,Subasta,Alemania,Pago,6.66,7,False,0.0
+IT200658,Electronica,Subasta,Alemania,Pago,98.45,6,True,163.42
+IT200659,Coleccionismo,Compra ya,EEUU,Gratis,43.48,6,True,82.83
+IT200660,Moda,Subasta,Espana,Gratis,18.62,6,False,0.0
+IT200661,Juguetes,Subasta,Espana,Gratis,16.53,10,True,18.81
+IT200662,Electronica,Subasta,Espana,Pago,96.64,10,True,182.2
+IT200663,Moda,Subasta,Alemania,Pago,20.21,9,True,62.52
+IT200664,Motor,Subasta,EEUU,Pago,80.25,8,True,150.32
+IT200665,Juguetes,Subasta,EEUU,Gratis,14.51,10,True,31.88
+IT200666,Motor,Subasta,Espana,Pago,133.85,7,True,239.29
+IT200667,Deportes,Subasta,EEUU,Pago,22.96,11,True,87.35
+IT200668,Libros,Compra ya,EEUU,Gratis,8.39,6,True,12.29
+IT200669,Moda,Compra ya,EEUU,Gratis,20.61,12,True,31.28
+IT200670,Libros,Compra ya,Reino Unido,Gratis,7.23,5,False,0.0
+IT200671,Motor,Compra ya,EEUU,Pago,125.82,11,True,351.41
+IT200672,Juguetes,Compra ya,Alemania,Gratis,10.71,10,True,22.47
+IT200673,Electronica,Subasta,Reino Unido,Gratis,63.82,8,False,0.0
+IT200674,Motor,Subasta,EEUU,Gratis,110.28,10,False,0.0
+IT200675,Juguetes,Subasta,EEUU,Pago,9.98,4,True,15.8
+IT200676,Motor,Subasta,Reino Unido,Pago,75.49,9,True,285.71
+IT200677,Electronica,Compra ya,Alemania,Pago,41.58,12,True,183.68
+IT200678,Motor,Subasta,Espana,Pago,163.82,9,True,155.45
+IT200679,Libros,Compra ya,Alemania,Pago,5.68,8,True,15.47
+IT200680,Juguetes,Subasta,EEUU,Pago,16.02,4,False,0.0
+IT200681,Moda,Subasta,Alemania,Gratis,15.57,9,True,37.01
+IT200682,Libros,Subasta,Reino Unido,Pago,3.21,6,False,0.0
+IT200683,Libros,Subasta,Reino Unido,Pago,3.95,6,True,2.25
+IT200684,Moda,Subasta,Alemania,Pago,9.88,9,True,7.4
+IT200685,Deportes,Compra ya,EEUU,Gratis,32.47,8,False,0.0
+IT200686,Hogar,Subasta,Reino Unido,Gratis,17.25,6,False,0.0
+IT200687,Motor,Compra ya,Alemania,Gratis,130.02,8,True,282.93
+IT200688,Hogar,Compra ya,EEUU,Gratis,34.47,8,True,77.3
+IT200689,Deportes,Subasta,Alemania,Gratis,32.5,8,True,45.3
+IT200690,Libros,Compra ya,EEUU,Gratis,4.42,8,True,13.96
+IT200691,Deportes,Subasta,Reino Unido,Gratis,12.08,9,True,27.37
+IT200692,Libros,Subasta,Alemania,Pago,3.92,15,True,15.14
+IT200693,Libros,Subasta,EEUU,Pago,3.38,8,True,7.4
+IT200694,Electronica,Compra ya,EEUU,Pago,50.05,10,True,213.3
+IT200695,Coleccionismo,Subasta,Reino Unido,Gratis,38.47,10,True,73.28
+IT200696,Juguetes,Compra ya,EEUU,Gratis,15.82,6,True,30.05
+IT200697,Motor,Compra ya,EEUU,Gratis,132.76,6,True,338.77
+IT200698,Electronica,Subasta,Alemania,Pago,81.07,16,True,426.84
+IT200699,Electronica,Compra ya,EEUU,Gratis,50.53,5,False,0.0
+IT200700,Motor,Compra ya,Reino Unido,Pago,166.47,8,False,0.0
+IT200701,Motor,Subasta,EEUU,Gratis,143.08,11,True,333.01
+IT200702,Moda,Subasta,EEUU,Gratis,19.1,5,True,37.41
+IT200703,Moda,Subasta,EEUU,Gratis,20.28,11,True,50.32
+IT200704,Moda,Subasta,Espana,Gratis,11.87,10,True,34.86
+IT200705,Motor,Compra ya,Reino Unido,Gratis,75.59,6,True,299.09
+IT200706,Electronica,Subasta,EEUU,Pago,52.27,5,False,0.0
+IT200707,Motor,Subasta,EEUU,Gratis,120.04,13,True,653.2
+IT200708,Hogar,Compra ya,Reino Unido,Gratis,34.7,9,False,0.0
+IT200709,Hogar,Compra ya,Reino Unido,Gratis,21.08,11,True,58.24
+IT200710,Juguetes,Compra ya,EEUU,Pago,14.23,5,True,34.72
+IT200711,Motor,Subasta,EEUU,Pago,133.18,7,True,321.19
+IT200712,Juguetes,Compra ya,Reino Unido,Pago,7.65,9,True,26.47
+IT200713,Deportes,Subasta,Reino Unido,Gratis,18.06,8,True,40.16
+IT200714,Libros,Compra ya,Alemania,Pago,6.92,7,True,12.84
+IT200715,Deportes,Subasta,Reino Unido,Gratis,25.8,7,True,53.26
+IT200716,Motor,Subasta,Alemania,Pago,119.65,6,False,0.0
+IT200717,Hogar,Compra ya,Reino Unido,Pago,17.49,5,True,66.02
+IT200718,Moda,Compra ya,Reino Unido,Gratis,17.11,7,False,0.0
+IT200719,Motor,Compra ya,Reino Unido,Gratis,85.62,8,True,303.08
+IT200720,Moda,Subasta,EEUU,Gratis,20.11,9,True,40.94
+IT200721,Libros,Compra ya,Espana,Gratis,4.13,7,True,19.1
+IT200722,Deportes,Subasta,EEUU,Gratis,13.36,11,True,39.76
+IT200723,Electronica,Subasta,Reino Unido,Gratis,71.83,5,True,202.96
+IT200724,Deportes,Subasta,Reino Unido,Gratis,22.43,5,True,40.21
+IT200725,Electronica,Subasta,Espana,Pago,72.59,6,True,159.75
+IT200726,Juguetes,Subasta,EEUU,Gratis,10.49,2,False,0.0
+IT200727,Electronica,Compra ya,Espana,Pago,107.63,5,True,152.62
+IT200728,Hogar,Subasta,EEUU,Gratis,23.67,2,True,37.86
+IT200729,Juguetes,Compra ya,EEUU,Gratis,10.95,10,True,29.18
+IT200730,Juguetes,Compra ya,Espana,Gratis,10.32,8,True,33.51
+IT200731,Hogar,Subasta,EEUU,Pago,13.6,6,False,0.0
+IT200732,Libros,Compra ya,Reino Unido,Gratis,6.56,11,True,17.58
+IT200733,Deportes,Subasta,Reino Unido,Pago,16.02,5,False,0.0
+IT200734,Moda,Compra ya,Espana,Pago,15.93,9,False,0.0
+IT200735,Juguetes,Subasta,Alemania,Pago,6.17,10,True,10.49
+IT200736,Juguetes,Subasta,EEUU,Gratis,16.59,13,True,48.21
+IT200737,Coleccionismo,Subasta,Alemania,Gratis,34.88,5,True,60.64
+IT200738,Juguetes,Compra ya,EEUU,Gratis,15.64,16,True,25.59
+IT200739,Libros,Subasta,Reino Unido,Pago,5.85,11,True,16.81
+IT200740,Deportes,Compra ya,Alemania,Pago,12.33,7,False,0.0
+IT200741,Deportes,Subasta,Alemania,Pago,29.09,10,True,102.95
+IT200742,Juguetes,Compra ya,Reino Unido,Gratis,12.86,8,False,0.0
+IT200743,Coleccionismo,Subasta,Alemania,Pago,46.14,6,True,47.32
+IT200744,Deportes,Subasta,Reino Unido,Pago,20.42,6,True,23.01
+IT200745,Coleccionismo,Subasta,Espana,Pago,40.97,8,False,0.0
+IT200746,Motor,Subasta,EEUU,Pago,173.6,5,True,312.34
+IT200747,Coleccionismo,Compra ya,EEUU,Gratis,40.72,8,True,112.96
+IT200748,Coleccionismo,Compra ya,Alemania,Pago,30.52,9,False,0.0
+IT200749,Moda,Subasta,EEUU,Pago,16.28,8,True,32.0
+IT200750,Libros,Subasta,EEUU,Gratis,7.03,6,False,0.0
+IT200751,Moda,Subasta,Alemania,Gratis,20.45,11,False,0.0
+IT200752,Electronica,Compra ya,Reino Unido,Gratis,62.71,4,True,209.95
+IT200753,Libros,Compra ya,EEUU,Gratis,5.55,7,True,17.83
+IT200754,Motor,Compra ya,EEUU,Pago,167.95,8,False,0.0
+IT200755,Hogar,Compra ya,EEUU,Gratis,24.14,8,False,0.0
+IT200756,Juguetes,Subasta,EEUU,Pago,13.85,7,True,34.1
+IT200757,Hogar,Subasta,EEUU,Gratis,23.03,10,True,59.59
+IT200758,Moda,Compra ya,Alemania,Pago,10.02,5,True,44.49
+IT200759,Juguetes,Subasta,EEUU,Pago,13.95,10,True,32.45
+IT200760,Moda,Subasta,Alemania,Pago,8.84,4,True,21.82
+IT200761,Motor,Subasta,Espana,Gratis,89.42,10,True,106.81
+IT200762,Libros,Compra ya,EEUU,Pago,6.76,9,True,18.93
+IT200763,Libros,Compra ya,Espana,Gratis,7.48,9,True,18.52
+IT200764,Coleccionismo,Compra ya,EEUU,Pago,50.21,5,False,0.0
+IT200765,Deportes,Subasta,Reino Unido,Gratis,17.0,12,True,80.12
+IT200766,Motor,Subasta,Espana,Gratis,78.17,11,True,341.19
+IT200767,Hogar,Subasta,Alemania,Pago,34.95,7,True,21.49
+IT200768,Moda,Compra ya,EEUU,Gratis,9.16,5,True,42.9
+IT200769,Hogar,Subasta,EEUU,Gratis,16.74,7,False,0.0
+IT200770,Juguetes,Compra ya,EEUU,Gratis,8.86,9,True,26.47
+IT200771,Libros,Subasta,Espana,Gratis,6.18,12,True,26.48
+IT200772,Electronica,Compra ya,EEUU,Pago,99.56,12,False,0.0
+IT200773,Juguetes,Compra ya,Reino Unido,Pago,14.12,5,True,24.23
+IT200774,Deportes,Subasta,EEUU,Gratis,26.58,9,True,112.25
+IT200775,Libros,Compra ya,EEUU,Pago,4.05,7,False,0.0
+IT200776,Hogar,Subasta,EEUU,Pago,20.58,10,True,45.12
+IT200777,Electronica,Compra ya,EEUU,Pago,70.45,6,True,211.49
+IT200778,Coleccionismo,Compra ya,Reino Unido,Gratis,23.31,8,True,96.97
+IT200779,Deportes,Compra ya,EEUU,Gratis,17.02,12,True,65.94
+IT200780,Libros,Subasta,EEUU,Gratis,4.85,7,True,8.52
+IT200781,Juguetes,Compra ya,Reino Unido,Pago,7.03,7,True,36.19
+IT200782,Electronica,Compra ya,EEUU,Pago,75.62,5,False,0.0
+IT200783,Electronica,Compra ya,Alemania,Pago,86.76,9,True,150.01
+IT200784,Hogar,Compra ya,Reino Unido,Gratis,13.68,10,True,71.39
+IT200785,Motor,Subasta,Reino Unido,Pago,125.58,7,False,0.0
+IT200786,Electronica,Subasta,EEUU,Gratis,92.32,11,True,210.02
+IT200787,Juguetes,Subasta,EEUU,Pago,13.98,10,True,59.66
+IT200788,Motor,Subasta,Alemania,Gratis,168.33,10,True,465.6
+IT200789,Electronica,Subasta,Espana,Pago,68.27,10,True,246.37
+IT200790,Electronica,Compra ya,EEUU,Pago,95.08,5,True,183.14
+IT200791,Hogar,Subasta,EEUU,Gratis,17.78,7,True,53.23
+IT200792,Juguetes,Subasta,EEUU,Pago,9.64,7,True,23.71
+IT200793,Deportes,Compra ya,Alemania,Pago,14.88,8,True,68.09
+IT200794,Hogar,Compra ya,EEUU,Gratis,23.22,7,True,53.07
+IT200795,Coleccionismo,Compra ya,Espana,Gratis,32.11,5,True,106.72
+IT200796,Libros,Subasta,EEUU,Pago,4.45,7,False,0.0
+IT200797,Hogar,Compra ya,Espana,Gratis,30.04,7,True,61.44
+IT200798,Coleccionismo,Subasta,EEUU,Gratis,29.3,10,True,73.12
+IT200799,Hogar,Subasta,EEUU,Pago,18.55,13,True,64.41
+IT200800,Electronica,Compra ya,EEUU,Gratis,45.42,7,True,161.56
+IT200801,Coleccionismo,Subasta,EEUU,Pago,33.8,7,True,20.79
+IT200802,Motor,Compra ya,Espana,Pago,102.78,15,True,291.95
+IT200803,Libros,Subasta,Reino Unido,Gratis,5.22,9,True,16.56
+IT200804,Juguetes,Subasta,EEUU,Pago,8.24,6,True,11.46
+IT200805,Deportes,Subasta,Espana,Gratis,27.79,11,True,97.38
+IT200806,Motor,Subasta,EEUU,Gratis,183.04,10,True,487.01
+IT200807,Electronica,Subasta,EEUU,Pago,71.85,9,True,157.53
+IT200808,Hogar,Subasta,EEUU,Pago,27.43,6,False,0.0
+IT200809,Libros,Subasta,Reino Unido,Gratis,8.2,7,False,0.0
+IT200810,Electronica,Compra ya,Espana,Pago,107.92,4,True,152.44
+IT200811,Libros,Subasta,EEUU,Pago,6.68,17,True,32.15
+IT200812,Juguetes,Compra ya,Alemania,Gratis,15.57,4,False,0.0
+IT200813,Coleccionismo,Compra ya,EEUU,Gratis,50.71,9,True,94.12
+IT200814,Deportes,Subasta,EEUU,Gratis,28.41,9,True,57.93
+IT200815,Deportes,Subasta,Alemania,Pago,21.14,6,True,14.8
+IT200816,Electronica,Compra ya,Alemania,Gratis,41.84,10,True,209.28
+IT200817,Electronica,Compra ya,Reino Unido,Gratis,37.14,11,False,0.0
+IT200818,Juguetes,Subasta,EEUU,Gratis,10.94,5,True,25.46
+IT200819,Libros,Compra ya,EEUU,Pago,5.97,7,False,0.0
+IT200820,Electronica,Subasta,Alemania,Gratis,65.33,7,False,0.0
+IT200821,Juguetes,Subasta,Reino Unido,Gratis,11.96,6,False,0.0
+IT200822,Moda,Subasta,EEUU,Gratis,14.73,7,False,0.0
+IT200823,Juguetes,Subasta,EEUU,Gratis,14.97,9,False,0.0
+IT200824,Motor,Subasta,Alemania,Gratis,77.91,9,True,160.13
+IT200825,Electronica,Subasta,EEUU,Pago,52.21,9,False,0.0
+IT200826,Juguetes,Subasta,Reino Unido,Pago,14.48,9,True,47.05
+IT200827,Libros,Compra ya,Alemania,Gratis,8.09,8,True,14.63
+IT200828,Deportes,Subasta,EEUU,Pago,32.89,10,True,77.0
+IT200829,Electronica,Compra ya,Reino Unido,Gratis,98.85,10,True,212.25
+IT200830,Moda,Compra ya,Reino Unido,Pago,19.46,12,True,36.82
+IT200831,Moda,Subasta,Reino Unido,Gratis,11.4,10,True,39.58
+IT200832,Hogar,Subasta,Espana,Pago,21.64,3,True,35.88
+IT200833,Moda,Subasta,Reino Unido,Pago,10.75,7,True,9.81
+IT200834,Deportes,Compra ya,EEUU,Pago,24.34,6,True,67.97
+IT200835,Deportes,Subasta,EEUU,Gratis,31.65,10,True,26.14
+IT200836,Deportes,Subasta,Reino Unido,Gratis,18.58,4,True,38.1
+IT200837,Moda,Compra ya,EEUU,Pago,14.8,5,True,37.45
+IT200838,Electronica,Subasta,Alemania,Gratis,57.33,10,True,81.97
+IT200839,Libros,Subasta,EEUU,Gratis,4.02,3,True,7.5
+IT200840,Coleccionismo,Compra ya,EEUU,Gratis,25.03,15,True,91.6
+IT200841,Juguetes,Compra ya,EEUU,Gratis,6.25,7,True,34.95
+IT200842,Libros,Subasta,Espana,Gratis,8.7,8,False,0.0
+IT200843,Electronica,Subasta,Alemania,Gratis,65.01,9,True,186.73
+IT200844,Electronica,Subasta,Reino Unido,Pago,96.06,9,True,174.78
+IT200845,Electronica,Subasta,EEUU,Gratis,85.06,2,True,130.67
+IT200846,Moda,Subasta,Espana,Gratis,9.69,4,False,0.0
+IT200847,Electronica,Subasta,Espana,Gratis,48.63,8,True,154.42
+IT200848,Deportes,Compra ya,EEUU,Pago,28.86,7,True,56.56
+IT200849,Motor,Compra ya,Alemania,Gratis,97.88,1,True,399.05
+IT200850,Libros,Compra ya,Espana,Pago,8.48,10,True,16.92
+IT200851,Deportes,Compra ya,EEUU,Pago,14.08,7,True,46.89
+IT200852,Libros,Subasta,EEUU,Pago,7.07,10,False,0.0
+IT200853,Moda,Subasta,Reino Unido,Gratis,18.4,5,False,0.0
+IT200854,Coleccionismo,Subasta,EEUU,Pago,26.47,6,True,46.39
+IT200855,Deportes,Subasta,Alemania,Gratis,17.08,5,True,34.45
+IT200856,Moda,Subasta,Reino Unido,Gratis,20.5,7,True,41.96
+IT200857,Electronica,Compra ya,EEUU,Gratis,55.05,7,False,0.0
+IT200858,Juguetes,Subasta,EEUU,Pago,10.42,9,False,0.0
+IT200859,Deportes,Subasta,Alemania,Gratis,20.52,15,True,55.77
+IT200860,Libros,Subasta,EEUU,Gratis,4.52,8,True,10.62
+IT200861,Libros,Compra ya,EEUU,Pago,7.65,5,True,12.64
+IT200862,Electronica,Compra ya,EEUU,Gratis,91.57,6,False,0.0
+IT200863,Deportes,Subasta,Alemania,Gratis,19.32,10,True,40.68
+IT200864,Deportes,Subasta,EEUU,Pago,29.37,8,True,66.13
+IT200865,Juguetes,Compra ya,EEUU,Pago,7.99,11,True,30.18
+IT200866,Deportes,Subasta,Alemania,Pago,11.09,2,True,15.82
+IT200867,Deportes,Compra ya,EEUU,Gratis,23.57,8,False,0.0
+IT200868,Hogar,Compra ya,Alemania,Gratis,35.86,5,True,57.24
+IT200869,Electronica,Compra ya,EEUU,Gratis,38.78,8,True,165.58
+IT200870,Hogar,Subasta,Alemania,Pago,16.99,6,True,47.74
+IT200871,Moda,Compra ya,EEUU,Gratis,14.26,6,True,28.21
+IT200872,Electronica,Subasta,EEUU,Gratis,94.32,8,True,123.76
+IT200873,Electronica,Subasta,EEUU,Gratis,42.41,7,False,0.0
+IT200874,Juguetes,Subasta,Espana,Gratis,10.03,7,True,29.33
+IT200875,Motor,Subasta,Alemania,Gratis,159.63,11,True,630.16
+IT200876,Motor,Subasta,EEUU,Gratis,111.56,9,True,191.45
+IT200877,Juguetes,Compra ya,EEUU,Gratis,7.71,5,False,0.0
+IT200878,Motor,Compra ya,EEUU,Gratis,89.02,11,False,0.0
+IT200879,Juguetes,Subasta,EEUU,Gratis,10.19,8,True,36.91
+IT200880,Electronica,Compra ya,EEUU,Gratis,70.52,11,True,147.29
+IT200881,Deportes,Compra ya,Espana,Gratis,29.96,6,True,66.6
+IT200882,Hogar,Subasta,EEUU,Pago,27.41,12,False,0.0
+IT200883,Moda,Compra ya,Espana,Gratis,16.67,4,True,33.62
+IT200884,Deportes,Compra ya,EEUU,Gratis,32.63,7,True,60.68
+IT200885,Juguetes,Compra ya,Alemania,Gratis,10.21,3,False,0.0
+IT200886,Electronica,Subasta,EEUU,Gratis,65.04,8,False,0.0
+IT200887,Moda,Compra ya,EEUU,Gratis,19.93,4,False,0.0
+IT200888,Electronica,Compra ya,Alemania,Gratis,53.7,5,False,0.0
+IT200889,Coleccionismo,Subasta,EEUU,Gratis,44.27,5,True,87.4
+IT200890,Electronica,Subasta,Espana,Pago,90.33,8,True,226.01
+IT200891,Juguetes,Subasta,Alemania,Pago,6.7,9,True,11.09
+IT200892,Motor,Subasta,Espana,Gratis,123.93,7,True,245.69
+IT200893,Libros,Subasta,Alemania,Gratis,4.2,4,True,8.47
+IT200894,Juguetes,Subasta,EEUU,Pago,7.68,6,True,19.33
+IT200895,Motor,Compra ya,EEUU,Gratis,123.37,2,True,384.0
+IT200896,Motor,Compra ya,Alemania,Pago,101.05,12,True,270.36
+IT200897,Electronica,Subasta,EEUU,Pago,93.32,4,False,0.0
+IT200898,Electronica,Subasta,Reino Unido,Gratis,101.35,4,True,204.74
+IT200899,Motor,Subasta,EEUU,Gratis,166.75,9,True,310.29
+IT200900,Electronica,Subasta,Reino Unido,Gratis,55.15,7,True,87.9
+IT200901,Electronica,Compra ya,EEUU,Pago,55.74,5,True,190.37
+IT200902,Moda,Subasta,EEUU,Gratis,10.57,6,True,11.12
+IT200903,Libros,Compra ya,Espana,Pago,3.81,13,True,18.44
+IT200904,Hogar,Subasta,Alemania,Gratis,34.65,9,False,0.0
+IT200905,Juguetes,Subasta,EEUU,Pago,10.1,5,True,13.28
+IT200906,Hogar,Compra ya,EEUU,Pago,17.39,11,True,53.14
+IT200907,Moda,Subasta,Alemania,Gratis,18.85,10,True,36.75
+IT200908,Coleccionismo,Subasta,EEUU,Gratis,32.37,8,True,45.88
+IT200909,Electronica,Subasta,Reino Unido,Gratis,38.53,13,True,195.44
+IT200910,Deportes,Compra ya,Alemania,Pago,14.56,2,True,50.67
+IT200911,Moda,Subasta,EEUU,Pago,15.95,6,True,16.74
+IT200912,Hogar,Compra ya,EEUU,Gratis,30.79,11,False,0.0
+IT200913,Libros,Compra ya,EEUU,Pago,4.27,14,True,15.34
+IT200914,Motor,Compra ya,EEUU,Gratis,181.43,8,True,270.28
+IT200915,Hogar,Compra ya,Reino Unido,Gratis,32.42,4,True,52.43
+IT200916,Motor,Compra ya,EEUU,Pago,172.59,6,True,323.97
+IT200917,Deportes,Compra ya,Espana,Gratis,16.01,11,False,0.0
+IT200918,Coleccionismo,Subasta,Alemania,Pago,19.82,8,True,68.16
+IT200919,Juguetes,Compra ya,EEUU,Gratis,15.32,7,True,32.92
+IT200920,Deportes,Compra ya,Reino Unido,Gratis,17.73,6,True,58.75
+IT200921,Motor,Subasta,EEUU,Gratis,143.22,7,True,232.99
+IT200922,Hogar,Compra ya,EEUU,Gratis,30.24,5,True,72.93
+IT200923,Moda,Subasta,Reino Unido,Gratis,8.8,12,True,31.57
+IT200924,Moda,Subasta,EEUU,Pago,17.93,6,True,36.33
+IT200925,Libros,Subasta,EEUU,Gratis,8.63,9,True,16.13
+IT200926,Motor,Subasta,EEUU,Gratis,157.23,7,True,334.36
+IT200927,Coleccionismo,Subasta,EEUU,Gratis,33.88,10,True,133.57
+IT200928,Hogar,Subasta,Reino Unido,Gratis,33.04,8,True,44.86
+IT200929,Motor,Subasta,Espana,Gratis,131.51,11,True,250.95
+IT200930,Motor,Subasta,Reino Unido,Pago,159.33,5,True,217.56
+IT200931,Juguetes,Compra ya,Espana,Pago,14.79,7,True,30.58
+IT200932,Coleccionismo,Subasta,Reino Unido,Gratis,44.98,11,False,0.0
+IT200933,Juguetes,Compra ya,EEUU,Gratis,8.82,6,True,33.24
+IT200934,Hogar,Compra ya,Espana,Gratis,14.83,13,True,51.05
+IT200935,Libros,Subasta,EEUU,Gratis,4.43,7,True,9.27
+IT200936,Moda,Subasta,EEUU,Pago,14.04,10,True,38.5
+IT200937,Moda,Subasta,Espana,Gratis,14.07,10,True,42.86
+IT200938,Hogar,Subasta,Reino Unido,Pago,25.98,10,True,26.72
+IT200939,Motor,Subasta,Espana,Gratis,114.57,10,True,393.85
+IT200940,Juguetes,Compra ya,EEUU,Pago,14.41,10,True,33.01
+IT200941,Hogar,Compra ya,Alemania,Pago,33.92,11,True,75.5
+IT200942,Libros,Subasta,EEUU,Pago,4.48,6,False,0.0
+IT200943,Hogar,Compra ya,EEUU,Pago,29.68,14,True,57.66
+IT200944,Moda,Subasta,Espana,Gratis,16.49,8,True,42.46
+IT200945,Electronica,Compra ya,EEUU,Pago,73.66,11,True,164.7
+IT200946,Libros,Compra ya,Alemania,Gratis,4.13,8,True,15.44
+IT200947,Moda,Subasta,Espana,Gratis,18.13,15,True,90.45
+IT200948,Libros,Compra ya,Espana,Gratis,8.76,9,True,18.05
+IT200949,Coleccionismo,Compra ya,EEUU,Gratis,43.99,11,True,99.45
+IT200950,Electronica,Subasta,EEUU,Pago,102.09,5,True,221.96
+IT200951,Coleccionismo,Subasta,Espana,Gratis,53.43,9,True,94.56
+IT200952,Motor,Compra ya,Reino Unido,Gratis,109.06,7,True,256.23
+IT200953,Hogar,Subasta,Reino Unido,Gratis,27.32,10,True,42.3
+IT200954,Deportes,Subasta,EEUU,Pago,21.43,10,True,55.7
+IT200955,Motor,Compra ya,EEUU,Pago,190.29,9,True,405.05
+IT200956,Hogar,Subasta,Espana,Pago,14.25,9,True,29.69
+IT200957,Juguetes,Subasta,Reino Unido,Gratis,10.22,7,True,17.62
+IT200958,Libros,Compra ya,Alemania,Gratis,8.25,8,False,0.0
+IT200959,Hogar,Subasta,EEUU,Gratis,18.82,7,True,54.63
+IT200960,Moda,Subasta,EEUU,Gratis,18.03,8,False,0.0
+IT200961,Hogar,Compra ya,Reino Unido,Pago,21.19,7,True,68.81
+IT200962,Deportes,Subasta,Espana,Pago,32.56,8,True,87.89
+IT200963,Moda,Compra ya,EEUU,Gratis,19.37,6,True,32.45
+IT200964,Libros,Compra ya,EEUU,Gratis,4.81,10,True,12.24
+IT200965,Motor,Subasta,Reino Unido,Pago,162.58,12,True,430.07
+IT200966,Motor,Subasta,EEUU,Gratis,107.12,4,True,105.35
+IT200967,Coleccionismo,Compra ya,EEUU,Pago,39.83,10,True,82.37
+IT200968,Libros,Compra ya,Reino Unido,Gratis,6.95,10,False,0.0
+IT200969,Electronica,Subasta,EEUU,Gratis,95.73,8,False,0.0
+IT200970,Coleccionismo,Subasta,Reino Unido,Gratis,18.88,5,True,35.84
+IT200971,Hogar,Subasta,EEUU,Gratis,17.28,7,True,30.57
+IT200972,Hogar,Compra ya,Alemania,Pago,29.09,6,False,0.0
+IT200973,Hogar,Compra ya,Alemania,Gratis,25.52,10,True,52.96
+IT200974,Moda,Subasta,Alemania,Gratis,13.94,12,True,15.17
+IT200975,Moda,Compra ya,Alemania,Pago,7.77,17,True,42.31
+IT200976,Electronica,Subasta,Reino Unido,Gratis,61.08,13,True,213.13
+IT200977,Motor,Subasta,EEUU,Gratis,174.73,7,True,366.67
+IT200978,Coleccionismo,Compra ya,EEUU,Pago,19.11,9,True,84.01
+IT200979,Motor,Subasta,EEUU,Gratis,114.74,11,True,197.15
+IT200980,Motor,Compra ya,Alemania,Pago,184.98,12,True,307.57
+IT200981,Juguetes,Subasta,EEUU,Gratis,6.17,9,True,15.17
+IT200982,Motor,Compra ya,EEUU,Pago,159.96,14,True,291.64
+IT200983,Juguetes,Compra ya,Reino Unido,Gratis,8.49,9,True,26.97
+IT200984,Motor,Subasta,Reino Unido,Gratis,174.93,7,False,0.0
+IT200985,Juguetes,Subasta,EEUU,Pago,13.96,7,True,31.11
+IT200986,Motor,Compra ya,EEUU,Gratis,177.37,8,True,339.23
+IT200987,Coleccionismo,Subasta,Reino Unido,Gratis,25.77,13,True,72.92
+IT200988,Moda,Compra ya,Espana,Gratis,14.44,5,False,0.0
+IT200989,Deportes,Compra ya,Alemania,Gratis,28.14,9,True,55.49
+IT200990,Coleccionismo,Subasta,EEUU,Gratis,26.85,7,True,29.26
+IT200991,Motor,Compra ya,Alemania,Gratis,93.54,9,True,266.82
+IT200992,Moda,Subasta,EEUU,Gratis,7.38,5,False,0.0
+IT200993,Hogar,Subasta,EEUU,Pago,35.0,10,True,95.62
+IT200994,Motor,Subasta,EEUU,Pago,154.88,4,True,74.34
+IT200995,Juguetes,Compra ya,EEUU,Pago,12.72,6,True,30.05
+IT200996,Motor,Compra ya,Reino Unido,Gratis,159.23,10,True,377.57
+IT200997,Coleccionismo,Subasta,Reino Unido,Gratis,37.14,13,True,67.34
+IT200998,Libros,Subasta,Alemania,Gratis,5.86,4,True,10.54
+IT200999,Motor,Subasta,Reino Unido,Gratis,121.54,9,True,373.57
+IT201000,Deportes,Compra ya,EEUU,Gratis,25.09,3,False,0.0
+IT201001,Juguetes,Subasta,Reino Unido,Pago,7.86,5,True,5.84
+IT201002,Motor,Subasta,Alemania,Pago,177.67,8,True,117.26
+IT201003,Libros,Subasta,Reino Unido,Gratis,7.87,7,True,12.37
+IT201004,Moda,Subasta,EEUU,Gratis,11.89,7,False,0.0
+IT201005,Libros,Compra ya,Reino Unido,Gratis,6.47,10,True,16.18
+IT201006,Deportes,Subasta,Reino Unido,Gratis,14.1,10,True,26.82
+IT201007,Motor,Subasta,EEUU,Gratis,188.46,5,True,395.36
+IT201008,Juguetes,Subasta,Espana,Pago,15.71,6,True,34.68
+IT201009,Motor,Subasta,EEUU,Gratis,182.0,7,True,399.16
+IT201010,Coleccionismo,Subasta,EEUU,Gratis,29.96,4,True,61.63
+IT201011,Deportes,Subasta,Alemania,Pago,14.72,6,False,0.0
+IT201012,Moda,Subasta,Alemania,Pago,9.96,13,True,18.13
+IT201013,Coleccionismo,Subasta,Reino Unido,Pago,21.24,9,True,40.79
+IT201014,Motor,Subasta,Reino Unido,Gratis,79.37,6,False,0.0
+IT201015,Deportes,Compra ya,Espana,Gratis,12.57,4,True,57.57
+IT201016,Hogar,Subasta,EEUU,Pago,35.76,8,False,0.0
+IT201017,Hogar,Subasta,EEUU,Pago,13.78,5,True,33.44
+IT201018,Electronica,Compra ya,Reino Unido,Pago,45.54,7,True,172.06
+IT201019,Electronica,Subasta,EEUU,Gratis,95.56,6,False,0.0
+IT201020,Electronica,Subasta,Reino Unido,Pago,77.78,4,True,130.18
+IT201021,Electronica,Compra ya,Espana,Gratis,91.76,9,True,173.82
+IT201022,Deportes,Subasta,EEUU,Gratis,24.88,7,True,32.08
+IT201023,Deportes,Compra ya,EEUU,Gratis,30.41,7,True,67.11
+IT201024,Deportes,Subasta,EEUU,Gratis,25.05,6,True,66.32
+IT201025,Electronica,Compra ya,Reino Unido,Gratis,73.59,12,True,179.58
+IT201026,Electronica,Compra ya,Alemania,Gratis,87.32,7,True,219.8
+IT201027,Coleccionismo,Subasta,Espana,Pago,34.11,12,True,113.96
+IT201028,Motor,Subasta,Alemania,Pago,108.3,6,True,174.19
+IT201029,Coleccionismo,Compra ya,Espana,Gratis,34.84,8,True,95.92
+IT201030,Hogar,Subasta,EEUU,Pago,16.07,4,True,17.92
+IT201031,Moda,Subasta,EEUU,Gratis,18.15,8,False,0.0
+IT201032,Juguetes,Compra ya,EEUU,Gratis,8.52,3,False,0.0
+IT201033,Coleccionismo,Compra ya,Alemania,Pago,23.53,5,True,115.3
+IT201034,Electronica,Compra ya,EEUU,Gratis,53.74,8,True,154.48
+IT201035,Juguetes,Compra ya,EEUU,Gratis,15.03,2,True,33.32
+IT201036,Libros,Compra ya,EEUU,Pago,4.98,12,True,12.95
+IT201037,Electronica,Compra ya,EEUU,Gratis,85.4,3,True,209.95
+IT201038,Hogar,Compra ya,Reino Unido,Gratis,32.55,6,False,0.0
+IT201039,Deportes,Compra ya,Espana,Pago,12.71,7,True,51.28
+IT201040,Juguetes,Compra ya,EEUU,Pago,14.17,9,True,30.01
+IT201041,Deportes,Subasta,Reino Unido,Gratis,17.77,5,True,19.62
+IT201042,Hogar,Compra ya,EEUU,Pago,17.2,8,True,62.17
+IT201043,Coleccionismo,Subasta,EEUU,Gratis,42.8,8,False,0.0
+IT201044,Juguetes,Compra ya,EEUU,Gratis,15.79,10,True,23.19
+IT201045,Moda,Compra ya,Reino Unido,Gratis,11.13,10,True,39.07
+IT201046,Moda,Compra ya,Reino Unido,Gratis,14.96,11,True,39.86
+IT201047,Motor,Subasta,Reino Unido,Pago,101.1,11,True,290.85
+IT201048,Juguetes,Subasta,Alemania,Pago,11.81,7,True,28.63
+IT201049,Electronica,Subasta,EEUU,Gratis,80.77,6,True,46.04
+IT201050,Motor,Compra ya,Alemania,Gratis,142.12,6,True,304.67
+IT201051,Coleccionismo,Compra ya,Reino Unido,Gratis,40.45,6,True,75.33
+IT201052,Motor,Subasta,EEUU,Pago,81.29,8,True,263.72
+IT201053,Libros,Subasta,EEUU,Gratis,7.16,8,True,26.16
+IT201054,Electronica,Subasta,EEUU,Pago,84.58,11,True,191.62
+IT201055,Libros,Subasta,EEUU,Gratis,7.1,9,True,15.69
+IT201056,Hogar,Compra ya,EEUU,Gratis,13.78,12,True,54.25
+IT201057,Deportes,Compra ya,EEUU,Pago,20.83,5,True,66.89
+IT201058,Hogar,Compra ya,Espana,Pago,21.82,11,True,56.74
+IT201059,Coleccionismo,Subasta,Espana,Gratis,21.12,9,True,71.45
+IT201060,Deportes,Subasta,Reino Unido,Gratis,15.89,9,True,36.96
+IT201061,Juguetes,Compra ya,Alemania,Pago,10.54,6,True,35.13
+IT201062,Moda,Compra ya,Espana,Pago,17.4,9,False,0.0
+IT201063,Juguetes,Subasta,EEUU,Pago,8.26,8,True,26.95
+IT201064,Deportes,Compra ya,Reino Unido,Pago,29.25,13,True,45.08
+IT201065,Hogar,Subasta,Reino Unido,Pago,25.1,11,True,24.25
+IT201066,Libros,Subasta,Espana,Gratis,7.56,5,True,11.56
+IT201067,Juguetes,Compra ya,Alemania,Gratis,10.89,5,True,27.08
+IT201068,Coleccionismo,Compra ya,EEUU,Gratis,35.97,4,True,94.05
+IT201069,Electronica,Compra ya,Alemania,Pago,80.62,8,True,201.59
+IT201070,Juguetes,Subasta,EEUU,Gratis,15.99,11,False,0.0
+IT201071,Moda,Subasta,EEUU,Gratis,13.89,10,False,0.0
+IT201072,Deportes,Compra ya,Reino Unido,Pago,22.63,11,True,55.78
+IT201073,Motor,Compra ya,Alemania,Gratis,141.06,8,True,359.27
+IT201074,Hogar,Subasta,EEUU,Pago,29.7,9,False,0.0
+IT201075,Moda,Subasta,EEUU,Gratis,8.01,9,True,22.25
+IT201076,Juguetes,Subasta,Alemania,Pago,11.38,6,True,14.0
+IT201077,Moda,Compra ya,EEUU,Gratis,13.74,12,False,0.0
+IT201078,Hogar,Compra ya,Alemania,Gratis,34.12,3,True,71.5
+IT201079,Deportes,Subasta,Reino Unido,Gratis,21.86,4,True,36.08
+IT201080,Libros,Subasta,Reino Unido,Gratis,5.81,10,False,0.0
+IT201081,Libros,Subasta,EEUU,Pago,8.77,5,True,22.29
+IT201082,Libros,Compra ya,Espana,Pago,5.7,7,False,0.0
+IT201083,Motor,Subasta,Espana,Gratis,87.15,18,True,108.73
+IT201084,Moda,Subasta,EEUU,Gratis,10.04,11,True,24.52
+IT201085,Deportes,Compra ya,Reino Unido,Pago,13.09,10,True,68.21
+IT201086,Deportes,Subasta,Alemania,Gratis,11.01,9,True,28.97
+IT201087,Libros,Compra ya,EEUU,Pago,5.59,7,False,0.0
+IT201088,Juguetes,Compra ya,Reino Unido,Gratis,14.22,7,True,29.37
+IT201089,Moda,Subasta,Espana,Gratis,17.27,5,True,18.43
+IT201090,Motor,Compra ya,Reino Unido,Gratis,68.12,7,True,301.32
+IT201091,Hogar,Compra ya,Espana,Gratis,25.68,8,True,73.5
+IT201092,Deportes,Compra ya,EEUU,Pago,14.39,7,False,0.0
+IT201093,Hogar,Compra ya,Espana,Pago,34.59,8,False,0.0
+IT201094,Coleccionismo,Subasta,Espana,Pago,24.03,7,True,70.45
+IT201095,Electronica,Subasta,EEUU,Pago,81.12,6,False,0.0
+IT201096,Deportes,Subasta,EEUU,Pago,18.18,8,True,49.24
+IT201097,Deportes,Subasta,Reino Unido,Pago,25.11,7,False,0.0
+IT201098,Electronica,Subasta,Espana,Pago,65.68,8,True,91.85
+IT201099,Hogar,Subasta,EEUU,Pago,30.23,11,True,118.61
+IT201100,Hogar,Compra ya,EEUU,Gratis,17.54,7,True,54.61
+IT201101,Hogar,Subasta,Alemania,Gratis,33.74,9,True,47.64
+IT201102,Libros,Compra ya,EEUU,Gratis,6.0,8,False,0.0
+IT201103,Moda,Compra ya,Reino Unido,Gratis,17.59,8,True,38.69
+IT201104,Coleccionismo,Subasta,Reino Unido,Gratis,48.59,8,False,0.0
+IT201105,Moda,Compra ya,Espana,Gratis,20.98,8,True,28.65
+IT201106,Moda,Subasta,EEUU,Gratis,10.14,9,True,38.66
+IT201107,Libros,Compra ya,Espana,Gratis,4.72,14,True,18.72
+IT201108,Libros,Compra ya,Reino Unido,Pago,4.5,6,False,0.0
+IT201109,Electronica,Compra ya,Espana,Pago,54.93,9,False,0.0
+IT201110,Juguetes,Compra ya,EEUU,Gratis,12.12,5,True,23.44
+IT201111,Moda,Compra ya,Reino Unido,Pago,20.91,12,True,30.83
+IT201112,Moda,Compra ya,Alemania,Pago,20.86,7,True,42.12
+IT201113,Coleccionismo,Compra ya,Alemania,Pago,36.96,4,False,0.0
+IT201114,Moda,Subasta,EEUU,Gratis,15.95,5,False,0.0
+IT201115,Hogar,Compra ya,Reino Unido,Gratis,32.64,12,True,67.22
+IT201116,Libros,Compra ya,EEUU,Gratis,8.6,12,True,18.44
+IT201117,Motor,Subasta,EEUU,Pago,90.09,7,False,0.0
+IT201118,Juguetes,Compra ya,Alemania,Pago,11.52,12,True,26.91
+IT201119,Hogar,Compra ya,Espana,Pago,31.99,7,False,0.0
+IT201120,Electronica,Compra ya,Reino Unido,Pago,57.83,3,True,233.07
+IT201121,Electronica,Subasta,EEUU,Pago,67.67,7,True,127.07
+IT201122,Coleccionismo,Compra ya,EEUU,Gratis,53.48,5,True,96.61
+IT201123,Moda,Compra ya,EEUU,Pago,20.79,8,True,42.17
+IT201124,Deportes,Subasta,EEUU,Pago,30.93,12,True,104.32
+IT201125,Deportes,Compra ya,Alemania,Gratis,28.57,6,True,55.15
+IT201126,Deportes,Compra ya,EEUU,Pago,16.92,11,True,61.64
+IT201127,Juguetes,Subasta,EEUU,Gratis,9.19,10,False,0.0
+IT201128,Motor,Compra ya,Alemania,Gratis,134.05,6,True,280.72
+IT201129,Juguetes,Subasta,EEUU,Pago,11.88,6,True,29.69
+IT201130,Hogar,Compra ya,EEUU,Gratis,24.13,9,True,75.17
+IT201131,Juguetes,Compra ya,Reino Unido,Gratis,12.73,12,True,32.56
+IT201132,Deportes,Subasta,EEUU,Pago,19.98,10,True,42.3
+IT201133,Deportes,Subasta,Reino Unido,Gratis,27.48,3,True,27.72
+IT201134,Motor,Subasta,Reino Unido,Gratis,106.69,9,True,179.89
+IT201135,Electronica,Subasta,Reino Unido,Gratis,59.81,8,True,89.35
+IT201136,Juguetes,Compra ya,EEUU,Gratis,7.02,8,True,25.97
+IT201137,Coleccionismo,Subasta,EEUU,Gratis,24.79,13,True,67.29
+IT201138,Juguetes,Subasta,Reino Unido,Gratis,15.13,5,True,30.48
+IT201139,Motor,Subasta,EEUU,Pago,121.12,8,True,311.97
+IT201140,Libros,Compra ya,EEUU,Gratis,4.37,6,True,13.28
+IT201141,Coleccionismo,Compra ya,EEUU,Gratis,45.34,10,True,85.95
+IT201142,Libros,Subasta,EEUU,Gratis,6.32,11,True,15.41
+IT201143,Deportes,Subasta,EEUU,Gratis,11.47,6,False,0.0
+IT201144,Coleccionismo,Subasta,Espana,Pago,29.39,6,True,38.63
+IT201145,Hogar,Subasta,Reino Unido,Gratis,16.25,10,True,64.74
+IT201146,Motor,Subasta,Reino Unido,Gratis,147.95,2,False,0.0
+IT201147,Deportes,Compra ya,EEUU,Gratis,17.05,10,True,46.17
+IT201148,Juguetes,Subasta,EEUU,Gratis,6.33,8,True,15.33
+IT201149,Deportes,Subasta,Alemania,Gratis,12.21,7,True,33.67
+IT201150,Coleccionismo,Compra ya,Alemania,Gratis,38.94,8,True,74.54
+IT201151,Motor,Compra ya,Espana,Gratis,66.78,8,True,346.58
+IT201152,Hogar,Subasta,EEUU,Gratis,32.37,10,True,127.99
+IT201153,Libros,Subasta,EEUU,Gratis,3.93,8,False,0.0
+IT201154,Coleccionismo,Compra ya,Alemania,Pago,39.84,8,True,94.75
+IT201155,Motor,Subasta,EEUU,Gratis,120.92,12,True,237.51
+IT201156,Electronica,Compra ya,EEUU,Gratis,67.89,7,False,0.0
+IT201157,Deportes,Compra ya,EEUU,Gratis,12.58,16,True,58.06
+IT201158,Hogar,Compra ya,EEUU,Gratis,31.27,9,True,77.05
+IT201159,Coleccionismo,Subasta,Alemania,Gratis,50.15,13,False,0.0
+IT201160,Motor,Subasta,Espana,Gratis,65.41,8,True,243.8
+IT201161,Hogar,Compra ya,Reino Unido,Gratis,16.29,9,True,77.46
+IT201162,Deportes,Subasta,EEUU,Gratis,30.89,5,True,110.73
+IT201163,Motor,Subasta,Alemania,Gratis,134.34,10,True,559.84
+IT201164,Motor,Compra ya,Reino Unido,Pago,83.21,8,False,0.0
+IT201165,Electronica,Subasta,Alemania,Pago,50.6,6,True,107.08
+IT201166,Electronica,Compra ya,Reino Unido,Gratis,83.52,4,False,0.0
+IT201167,Hogar,Compra ya,Espana,Pago,29.4,9,True,67.7
+IT201168,Libros,Compra ya,EEUU,Gratis,6.6,13,True,17.91
+IT201169,Libros,Subasta,Reino Unido,Gratis,8.72,7,True,18.81
+IT201170,Juguetes,Compra ya,Alemania,Gratis,11.13,5,False,0.0
+IT201171,Juguetes,Compra ya,Espana,Pago,8.96,8,True,36.23
+IT201172,Hogar,Subasta,Espana,Gratis,23.45,11,True,32.18
+IT201173,Moda,Compra ya,EEUU,Pago,12.04,7,False,0.0
+IT201174,Electronica,Subasta,Alemania,Pago,52.16,9,True,92.85
+IT201175,Coleccionismo,Subasta,EEUU,Gratis,19.65,7,True,31.97
+IT201176,Coleccionismo,Compra ya,Reino Unido,Gratis,30.68,5,True,97.97
+IT201177,Moda,Subasta,EEUU,Gratis,16.96,4,True,23.6
+IT201178,Coleccionismo,Subasta,EEUU,Pago,18.66,11,True,68.66
+IT201179,Electronica,Compra ya,Espana,Gratis,67.62,2,False,0.0
+IT201180,Motor,Subasta,Alemania,Gratis,146.43,7,False,0.0
+IT201181,Libros,Subasta,Reino Unido,Gratis,6.66,9,False,0.0
+IT201182,Juguetes,Subasta,EEUU,Pago,14.3,8,True,30.49
+IT201183,Hogar,Compra ya,EEUU,Pago,31.45,9,True,51.29
+IT201184,Hogar,Compra ya,EEUU,Gratis,29.08,8,True,55.4
+IT201185,Coleccionismo,Subasta,EEUU,Gratis,21.7,6,True,46.11
+IT201186,Moda,Compra ya,Espana,Gratis,13.65,8,False,0.0
+IT201187,Motor,Subasta,Reino Unido,Gratis,141.24,10,True,475.55
+IT201188,Motor,Subasta,EEUU,Gratis,95.43,5,True,87.97
+IT201189,Electronica,Subasta,Alemania,Pago,39.06,7,True,37.5
+IT201190,Hogar,Subasta,EEUU,Gratis,17.37,11,True,37.38
+IT201191,Coleccionismo,Subasta,EEUU,Gratis,34.38,12,False,0.0
+IT201192,Moda,Compra ya,EEUU,Gratis,12.8,4,False,0.0
+IT201193,Juguetes,Compra ya,EEUU,Gratis,7.58,10,True,22.75
+IT201194,Motor,Compra ya,Reino Unido,Gratis,169.53,4,True,380.94
+IT201195,Juguetes,Compra ya,Alemania,Pago,15.97,12,True,32.67
+IT201196,Juguetes,Subasta,Reino Unido,Gratis,7.86,9,True,13.61
+IT201197,Libros,Subasta,Alemania,Gratis,8.58,9,True,26.77
+IT201198,Deportes,Subasta,Espana,Gratis,11.39,8,True,33.94
+IT201199,Motor,Subasta,Alemania,Gratis,182.4,6,True,219.21
+IT201200,Libros,Compra ya,Espana,Pago,8.71,7,False,0.0
+IT201201,Hogar,Subasta,Espana,Pago,12.29,6,False,0.0
+IT201202,Libros,Subasta,Alemania,Pago,7.58,12,True,12.46
+IT201203,Deportes,Subasta,EEUU,Pago,32.34,9,True,73.77
+IT201204,Juguetes,Compra ya,EEUU,Pago,15.75,8,False,0.0
+IT201205,Libros,Subasta,Alemania,Gratis,8.82,5,False,0.0
+IT201206,Motor,Compra ya,Alemania,Gratis,134.44,3,False,0.0
+IT201207,Juguetes,Subasta,Alemania,Pago,6.48,14,True,21.01
+IT201208,Coleccionismo,Subasta,Reino Unido,Gratis,48.59,6,True,112.88
+IT201209,Libros,Subasta,Alemania,Gratis,6.68,8,True,22.82
+IT201210,Motor,Compra ya,Alemania,Pago,142.69,7,False,0.0
+IT201211,Deportes,Compra ya,Reino Unido,Gratis,20.18,8,True,46.13
+IT201212,Hogar,Subasta,EEUU,Gratis,25.72,11,True,63.18
+IT201213,Deportes,Subasta,Reino Unido,Gratis,14.38,5,False,0.0
+IT201214,Electronica,Subasta,EEUU,Gratis,89.26,9,False,0.0
+IT201215,Electronica,Subasta,EEUU,Gratis,41.4,2,True,65.2
+IT201216,Motor,Subasta,Reino Unido,Gratis,157.41,11,True,252.86
+IT201217,Juguetes,Subasta,EEUU,Gratis,15.11,8,True,37.86
+IT201218,Deportes,Compra ya,Espana,Gratis,21.39,6,True,67.31
+IT201219,Hogar,Compra ya,Reino Unido,Gratis,24.24,5,True,74.02
+IT201220,Juguetes,Compra ya,Alemania,Gratis,9.1,11,True,23.79
+IT201221,Motor,Compra ya,EEUU,Gratis,188.09,4,False,0.0
+IT201222,Libros,Compra ya,Alemania,Gratis,7.4,8,False,0.0
+IT201223,Juguetes,Compra ya,Reino Unido,Pago,9.73,6,False,0.0
+IT201224,Hogar,Subasta,Reino Unido,Gratis,16.2,6,False,0.0
+IT201225,Libros,Subasta,Reino Unido,Pago,4.32,7,True,12.11
+IT201226,Electronica,Subasta,Reino Unido,Pago,69.4,5,True,128.66
+IT201227,Libros,Compra ya,Reino Unido,Gratis,8.66,11,True,17.6
+IT201228,Moda,Subasta,Alemania,Gratis,17.28,11,True,67.08
+IT201229,Coleccionismo,Subasta,Alemania,Gratis,25.75,10,True,71.82
+IT201230,Deportes,Subasta,EEUU,Gratis,29.91,6,True,73.13
+IT201231,Juguetes,Compra ya,Espana,Pago,9.84,7,True,31.99
+IT201232,Libros,Compra ya,EEUU,Pago,8.11,6,True,17.83
+IT201233,Juguetes,Compra ya,EEUU,Pago,8.31,7,True,26.01
+IT201234,Juguetes,Compra ya,EEUU,Pago,12.53,12,True,25.97
+IT201235,Coleccionismo,Compra ya,EEUU,Pago,51.36,3,False,0.0
+IT201236,Electronica,Subasta,EEUU,Pago,54.57,10,True,206.83
+IT201237,Electronica,Compra ya,Alemania,Gratis,85.89,12,True,208.85
+IT201238,Coleccionismo,Compra ya,Reino Unido,Gratis,53.54,4,True,98.11
+IT201239,Electronica,Subasta,Espana,Gratis,46.84,6,True,45.15
+IT201240,Motor,Compra ya,EEUU,Gratis,75.32,7,True,403.86
+IT201241,Deportes,Compra ya,Reino Unido,Gratis,25.83,6,True,48.58
+IT201242,Libros,Compra ya,EEUU,Gratis,5.04,5,True,16.24
+IT201243,Hogar,Compra ya,Reino Unido,Pago,13.71,3,False,0.0
+IT201244,Libros,Subasta,EEUU,Gratis,5.85,13,True,16.58
+IT201245,Libros,Subasta,Alemania,Pago,7.52,3,False,0.0
+IT201246,Deportes,Subasta,Alemania,Gratis,17.27,7,False,0.0
+IT201247,Hogar,Compra ya,EEUU,Gratis,20.04,9,True,66.06
+IT201248,Coleccionismo,Compra ya,EEUU,Pago,48.45,5,False,0.0
+IT201249,Libros,Compra ya,EEUU,Gratis,6.12,9,True,17.48
+IT201250,Moda,Compra ya,EEUU,Pago,18.8,7,True,37.14
+IT201251,Hogar,Compra ya,Alemania,Pago,22.71,6,False,0.0
+IT201252,Electronica,Subasta,Reino Unido,Gratis,104.61,8,False,0.0
+IT201253,Deportes,Subasta,Alemania,Gratis,25.32,14,True,118.87
+IT201254,Juguetes,Subasta,Espana,Gratis,6.9,5,True,14.99
+IT201255,Electronica,Compra ya,EEUU,Gratis,99.73,7,True,177.26
+IT201256,Moda,Subasta,Espana,Pago,13.85,9,True,10.41
+IT201257,Motor,Compra ya,Alemania,Pago,82.13,5,True,312.52
+IT201258,Motor,Compra ya,EEUU,Gratis,83.54,6,True,356.88
+IT201259,Deportes,Subasta,Alemania,Pago,26.13,9,True,60.69
+IT201260,Coleccionismo,Compra ya,Reino Unido,Pago,19.71,7,True,111.58
+IT201261,Libros,Compra ya,Alemania,Gratis,4.72,10,True,19.21
+IT201262,Hogar,Compra ya,Alemania,Gratis,15.35,6,False,0.0
+IT201263,Deportes,Subasta,Espana,Pago,20.7,8,True,57.85
+IT201264,Moda,Subasta,Alemania,Pago,12.8,8,True,28.92
+IT201265,Electronica,Subasta,Alemania,Gratis,73.58,7,True,211.31
+IT201266,Electronica,Subasta,EEUU,Gratis,56.13,9,True,55.78
+IT201267,Coleccionismo,Compra ya,Espana,Gratis,19.15,7,True,106.59
+IT201268,Libros,Compra ya,Reino Unido,Pago,6.69,8,True,17.8
+IT201269,Electronica,Compra ya,Alemania,Pago,62.91,9,True,169.68
+IT201270,Coleccionismo,Subasta,Espana,Gratis,41.45,14,True,51.36
+IT201271,Electronica,Compra ya,EEUU,Pago,43.82,8,False,0.0
+IT201272,Libros,Subasta,EEUU,Gratis,3.08,7,False,0.0
+IT201273,Juguetes,Subasta,Alemania,Pago,8.38,5,True,17.11
+IT201274,Deportes,Compra ya,Espana,Pago,21.04,8,True,71.15
+IT201275,Juguetes,Compra ya,Alemania,Gratis,10.01,11,True,33.39
+IT201276,Juguetes,Compra ya,Reino Unido,Gratis,14.68,5,True,31.54
+IT201277,Deportes,Compra ya,EEUU,Gratis,19.31,6,True,55.89
+IT201278,Electronica,Subasta,Reino Unido,Pago,74.19,8,True,151.71
+IT201279,Deportes,Subasta,EEUU,Pago,24.06,8,True,55.65
+IT201280,Juguetes,Subasta,Espana,Gratis,5.84,14,True,23.14
+IT201281,Juguetes,Compra ya,Reino Unido,Pago,11.37,4,True,36.36
+IT201282,Hogar,Subasta,EEUU,Pago,20.28,5,True,39.99
+IT201283,Deportes,Subasta,Reino Unido,Gratis,20.27,4,False,0.0
+IT201284,Hogar,Subasta,Espana,Gratis,14.41,5,True,31.5
+IT201285,Electronica,Compra ya,Reino Unido,Gratis,92.36,5,False,0.0
+IT201286,Libros,Compra ya,EEUU,Gratis,8.65,8,True,14.54
+IT201287,Moda,Subasta,Reino Unido,Pago,7.31,7,True,18.67
+IT201288,Electronica,Subasta,Reino Unido,Pago,79.3,10,True,166.24
+IT201289,Motor,Compra ya,EEUU,Gratis,161.77,15,True,265.07
+IT201290,Moda,Compra ya,Alemania,Gratis,10.99,9,True,28.7
+IT201291,Deportes,Subasta,EEUU,Gratis,28.33,9,False,0.0
+IT201292,Hogar,Subasta,Reino Unido,Gratis,27.18,11,True,109.72
+IT201293,Electronica,Compra ya,EEUU,Gratis,102.9,7,False,0.0
+IT201294,Libros,Compra ya,Reino Unido,Pago,8.89,7,True,12.61
+IT201295,Motor,Subasta,Reino Unido,Pago,69.42,8,True,251.64
+IT201296,Coleccionismo,Compra ya,Alemania,Pago,34.02,6,True,74.17
+IT201297,Juguetes,Compra ya,EEUU,Gratis,11.73,13,True,35.65
+IT201298,Motor,Subasta,EEUU,Gratis,82.78,4,True,121.25
+IT201299,Electronica,Subasta,Alemania,Pago,60.21,13,True,178.01
+IT201300,Deportes,Compra ya,Espana,Gratis,32.73,8,True,58.65
+IT201301,Hogar,Subasta,EEUU,Gratis,12.39,10,True,37.84
+IT201302,Juguetes,Subasta,EEUU,Pago,10.67,10,True,33.4
+IT201303,Libros,Compra ya,Espana,Pago,8.06,11,True,19.27
+IT201304,Motor,Subasta,EEUU,Pago,105.46,10,True,346.55
+IT201305,Juguetes,Compra ya,Espana,Gratis,10.97,8,False,0.0
+IT201306,Coleccionismo,Subasta,Alemania,Gratis,53.21,4,True,54.61
+IT201307,Moda,Subasta,EEUU,Gratis,13.65,12,True,49.35
+IT201308,Hogar,Subasta,EEUU,Gratis,15.14,14,False,0.0
+IT201309,Deportes,Compra ya,Espana,Gratis,12.14,5,True,62.44
+IT201310,Motor,Compra ya,EEUU,Pago,185.01,13,False,0.0
+IT201311,Coleccionismo,Compra ya,Reino Unido,Gratis,27.57,10,True,81.8
+IT201312,Deportes,Subasta,EEUU,Gratis,22.09,13,True,64.49
+IT201313,Deportes,Compra ya,Reino Unido,Pago,13.0,4,True,46.89
+IT201314,Libros,Subasta,Alemania,Pago,5.54,7,True,16.84
+IT201315,Coleccionismo,Compra ya,Reino Unido,Gratis,51.48,14,True,105.25
+IT201316,Juguetes,Subasta,EEUU,Pago,11.23,10,True,27.1
+IT201317,Motor,Compra ya,Reino Unido,Gratis,188.31,13,True,352.01
+IT201318,Hogar,Subasta,Reino Unido,Gratis,18.21,11,True,76.14
+IT201319,Hogar,Subasta,EEUU,Gratis,24.11,7,True,48.86
+IT201320,Electronica,Compra ya,Alemania,Pago,97.89,12,True,222.68
+IT201321,Coleccionismo,Subasta,Reino Unido,Pago,34.14,8,True,94.39
+IT201322,Motor,Subasta,EEUU,Pago,99.77,4,False,0.0
+IT201323,Libros,Compra ya,Espana,Gratis,8.13,7,True,17.75
+IT201324,Deportes,Subasta,EEUU,Gratis,19.58,10,True,85.66
+IT201325,Moda,Compra ya,EEUU,Gratis,14.43,9,True,41.29
+IT201326,Juguetes,Compra ya,EEUU,Pago,16.54,6,False,0.0
+IT201327,Electronica,Compra ya,EEUU,Pago,49.43,16,True,187.23
+IT201328,Juguetes,Subasta,EEUU,Pago,8.98,13,True,24.97
+IT201329,Coleccionismo,Compra ya,EEUU,Gratis,19.12,14,True,100.24
+IT201330,Hogar,Subasta,Alemania,Gratis,21.4,10,True,86.32
+IT201331,Juguetes,Subasta,Reino Unido,Gratis,7.84,10,True,23.4
+IT201332,Hogar,Compra ya,EEUU,Gratis,28.32,15,True,72.36
+IT201333,Deportes,Compra ya,Alemania,Gratis,14.99,6,True,71.41
+IT201334,Motor,Subasta,Alemania,Gratis,150.38,6,True,256.78
+IT201335,Libros,Subasta,Reino Unido,Gratis,4.58,8,False,0.0
+IT201336,Juguetes,Compra ya,Espana,Gratis,9.58,9,True,27.53
+IT201337,Coleccionismo,Subasta,EEUU,Pago,30.56,4,False,0.0
+IT201338,Deportes,Compra ya,EEUU,Pago,26.77,4,True,46.02
+IT201339,Hogar,Subasta,EEUU,Pago,23.2,6,True,32.32
+IT201340,Motor,Subasta,EEUU,Gratis,110.25,9,True,294.32
+IT201341,Moda,Compra ya,Reino Unido,Pago,18.94,14,True,35.28
+IT201342,Electronica,Compra ya,EEUU,Gratis,77.18,7,True,179.75
+IT201343,Motor,Subasta,Reino Unido,Gratis,91.37,9,True,166.03
+IT201344,Moda,Compra ya,Espana,Gratis,19.6,10,True,37.08
+IT201345,Libros,Subasta,Alemania,Gratis,5.06,10,True,11.31
+IT201346,Deportes,Subasta,Alemania,Pago,11.86,8,True,7.83
+IT201347,Juguetes,Subasta,Reino Unido,Pago,11.14,3,False,0.0
+IT201348,Juguetes,Subasta,Alemania,Gratis,6.99,8,True,19.59
+IT201349,Motor,Compra ya,Reino Unido,Pago,94.52,6,True,347.48
+IT201350,Electronica,Subasta,EEUU,Gratis,89.79,8,True,123.27
+IT201351,Hogar,Subasta,EEUU,Gratis,15.14,13,True,53.23
+IT201352,Hogar,Subasta,EEUU,Pago,31.37,9,False,0.0
+IT201353,Libros,Compra ya,Reino Unido,Pago,8.62,5,True,18.49
+IT201354,Moda,Compra ya,Reino Unido,Pago,15.49,8,False,0.0
+IT201355,Hogar,Subasta,EEUU,Gratis,29.05,11,True,68.22
+IT201356,Coleccionismo,Subasta,EEUU,Gratis,43.69,1,True,48.64
+IT201357,Moda,Compra ya,Alemania,Gratis,20.9,11,True,38.36
+IT201358,Electronica,Subasta,EEUU,Gratis,60.59,7,True,91.22
+IT201359,Coleccionismo,Compra ya,EEUU,Gratis,23.86,7,True,93.18
+IT201360,Electronica,Compra ya,EEUU,Gratis,73.38,11,True,187.11
+IT201361,Electronica,Compra ya,EEUU,Gratis,74.39,10,False,0.0
+IT201362,Coleccionismo,Subasta,Alemania,Gratis,24.4,7,True,22.11
+IT201363,Moda,Subasta,EEUU,Pago,15.58,6,True,23.37
+IT201364,Motor,Subasta,EEUU,Gratis,65.81,10,True,208.26
+IT201365,Electronica,Subasta,Espana,Gratis,102.79,13,True,266.93
+IT201366,Coleccionismo,Subasta,Reino Unido,Pago,27.52,13,True,74.62
+IT201367,Hogar,Compra ya,Reino Unido,Pago,12.95,10,True,48.62
+IT201368,Libros,Subasta,Reino Unido,Gratis,3.65,6,True,4.98
+IT201369,Juguetes,Subasta,EEUU,Gratis,8.29,11,True,21.29
+IT201370,Libros,Subasta,EEUU,Gratis,4.64,3,True,3.16
+IT201371,Coleccionismo,Subasta,EEUU,Pago,19.18,7,False,0.0
+IT201372,Hogar,Subasta,EEUU,Gratis,18.7,12,True,56.57
+IT201373,Hogar,Subasta,EEUU,Gratis,16.63,5,False,0.0
+IT201374,Libros,Compra ya,Reino Unido,Pago,5.27,10,True,19.01
+IT201375,Libros,Compra ya,EEUU,Pago,5.31,15,True,18.91
+IT201376,Libros,Subasta,EEUU,Gratis,5.03,5,False,0.0
+IT201377,Deportes,Compra ya,Reino Unido,Gratis,18.21,7,True,55.55
+IT201378,Motor,Subasta,EEUU,Gratis,75.49,11,True,303.8
+IT201379,Motor,Subasta,Reino Unido,Gratis,67.23,12,True,167.11
+IT201380,Libros,Compra ya,EEUU,Gratis,4.21,9,True,12.88
+IT201381,Coleccionismo,Compra ya,Alemania,Pago,45.24,9,True,77.17
+IT201382,Coleccionismo,Subasta,Alemania,Pago,53.67,5,True,40.97
+IT201383,Libros,Subasta,Reino Unido,Pago,8.57,7,False,0.0
+IT201384,Hogar,Subasta,Alemania,Pago,24.1,14,True,92.26
+IT201385,Moda,Subasta,EEUU,Gratis,14.45,9,True,16.77
+IT201386,Motor,Compra ya,EEUU,Gratis,104.27,4,True,281.93
+IT201387,Coleccionismo,Subasta,EEUU,Pago,45.86,7,True,94.86
+IT201388,Libros,Compra ya,EEUU,Gratis,7.59,7,True,17.56
+IT201389,Libros,Compra ya,Espana,Gratis,8.07,9,True,18.64
+IT201390,Coleccionismo,Subasta,EEUU,Gratis,50.24,15,True,109.69
+IT201391,Motor,Compra ya,EEUU,Pago,119.6,8,True,379.63
+IT201392,Libros,Compra ya,Espana,Gratis,7.6,6,True,14.12
+IT201393,Juguetes,Subasta,EEUU,Gratis,14.63,8,True,27.83
+IT201394,Moda,Subasta,Reino Unido,Gratis,11.32,6,False,0.0
+IT201395,Motor,Compra ya,EEUU,Pago,182.94,14,True,270.03
+IT201396,Motor,Compra ya,Espana,Gratis,76.08,6,False,0.0
+IT201397,Juguetes,Subasta,EEUU,Gratis,16.74,4,True,8.04
+IT201398,Electronica,Compra ya,Alemania,Pago,91.45,4,True,148.66
+IT201399,Coleccionismo,Compra ya,Reino Unido,Pago,21.36,9,True,93.47
+IT201400,Deportes,Compra ya,Espana,Gratis,25.44,11,False,0.0
+IT201401,Moda,Subasta,Espana,Gratis,7.48,4,True,11.51
+IT201402,Coleccionismo,Subasta,Alemania,Pago,45.73,4,True,64.15
+IT201403,Coleccionismo,Compra ya,EEUU,Gratis,46.77,10,False,0.0
+IT201404,Moda,Subasta,Reino Unido,Pago,15.43,6,False,0.0
+IT201405,Moda,Subasta,Espana,Pago,19.0,2,False,0.0
+IT201406,Coleccionismo,Compra ya,Reino Unido,Pago,21.52,12,True,84.46
+IT201407,Deportes,Subasta,Espana,Gratis,17.07,10,True,42.14
+IT201408,Electronica,Compra ya,Alemania,Gratis,65.82,6,False,0.0
+IT201409,Coleccionismo,Subasta,EEUU,Gratis,19.53,8,True,35.79
+IT201410,Electronica,Compra ya,EEUU,Gratis,68.27,6,False,0.0
+IT201411,Motor,Subasta,EEUU,Gratis,97.95,9,True,108.83
+IT201412,Coleccionismo,Compra ya,Alemania,Gratis,32.14,8,True,115.68
+IT201413,Deportes,Subasta,Reino Unido,Gratis,20.35,5,True,28.23
+IT201414,Motor,Subasta,EEUU,Pago,176.56,6,False,0.0
+IT201415,Deportes,Compra ya,Alemania,Gratis,16.95,10,True,48.82
+IT201416,Juguetes,Compra ya,EEUU,Gratis,15.61,6,False,0.0
+IT201417,Hogar,Subasta,EEUU,Gratis,22.22,14,True,44.03
+IT201418,Deportes,Subasta,Reino Unido,Pago,18.21,11,True,48.41
+IT201419,Hogar,Compra ya,Reino Unido,Gratis,24.06,8,True,54.14
+IT201420,Libros,Compra ya,EEUU,Pago,5.51,7,True,15.63
+IT201421,Libros,Subasta,Alemania,Gratis,4.54,9,True,14.36
+IT201422,Motor,Compra ya,Alemania,Gratis,128.34,13,False,0.0
+IT201423,Juguetes,Subasta,Alemania,Pago,7.3,4,True,15.16
+IT201424,Coleccionismo,Compra ya,Espana,Gratis,30.67,8,True,78.33
+IT201425,Deportes,Subasta,EEUU,Pago,23.45,16,True,86.52
+IT201426,Juguetes,Subasta,EEUU,Pago,10.23,6,False,0.0
+IT201427,Libros,Compra ya,EEUU,Gratis,7.94,9,True,18.04
+IT201428,Coleccionismo,Subasta,Alemania,Gratis,27.24,9,True,66.62
+IT201429,Deportes,Compra ya,EEUU,Pago,32.33,12,True,46.41
+IT201430,Hogar,Subasta,Espana,Pago,30.83,10,True,64.71
+IT201431,Moda,Subasta,Reino Unido,Pago,20.55,7,True,34.52
+IT201432,Moda,Compra ya,Alemania,Gratis,18.73,8,True,42.41
+IT201433,Motor,Compra ya,EEUU,Gratis,82.19,8,False,0.0
+IT201434,Coleccionismo,Subasta,Alemania,Pago,36.95,7,False,0.0
+IT201435,Electronica,Compra ya,EEUU,Pago,48.24,8,True,153.74
+IT201436,Hogar,Subasta,Reino Unido,Gratis,31.64,7,False,0.0
+IT201437,Juguetes,Compra ya,Alemania,Gratis,12.14,8,True,33.14
+IT201438,Coleccionismo,Subasta,EEUU,Pago,27.48,8,True,24.33
+IT201439,Libros,Subasta,Espana,Gratis,8.58,6,True,11.03
+IT201440,Deportes,Subasta,Alemania,Pago,13.53,7,True,14.48
+IT201441,Motor,Compra ya,Alemania,Gratis,136.17,9,True,279.82
+IT201442,Libros,Compra ya,EEUU,Gratis,7.33,9,True,15.73
+IT201443,Hogar,Compra ya,EEUU,Gratis,13.41,9,True,72.46
+IT201444,Moda,Subasta,EEUU,Gratis,15.37,10,True,22.36
+IT201445,Electronica,Subasta,Reino Unido,Gratis,94.74,11,True,215.63
+IT201446,Libros,Subasta,EEUU,Gratis,3.41,5,False,0.0
+IT201447,Libros,Compra ya,Espana,Gratis,6.07,6,True,13.85
+IT201448,Juguetes,Subasta,Espana,Gratis,8.5,3,True,14.39
+IT201449,Electronica,Compra ya,EEUU,Pago,83.73,7,True,196.76
+IT201450,Coleccionismo,Subasta,Alemania,Gratis,22.27,10,True,49.79
+IT201451,Electronica,Compra ya,EEUU,Gratis,103.47,8,True,158.49
+IT201452,Electronica,Subasta,EEUU,Pago,100.42,5,True,147.55
+IT201453,Moda,Subasta,EEUU,Gratis,9.6,10,False,0.0
+IT201454,Motor,Compra ya,Alemania,Gratis,105.38,6,False,0.0
+IT201455,Electronica,Compra ya,Espana,Pago,78.31,6,True,161.04
+IT201456,Libros,Compra ya,EEUU,Gratis,7.31,5,False,0.0
+IT201457,Hogar,Compra ya,EEUU,Gratis,22.62,5,False,0.0
+IT201458,Coleccionismo,Compra ya,EEUU,Pago,23.63,9,True,110.34
+IT201459,Motor,Subasta,Reino Unido,Pago,77.33,6,True,115.57
+IT201460,Deportes,Subasta,EEUU,Pago,32.99,13,True,132.67
+IT201461,Coleccionismo,Compra ya,Alemania,Gratis,34.39,6,False,0.0
+IT201462,Electronica,Compra ya,Espana,Pago,98.82,8,True,217.34
+IT201463,Electronica,Subasta,EEUU,Gratis,70.73,7,True,238.71
+IT201464,Deportes,Subasta,Espana,Gratis,31.29,10,False,0.0
+IT201465,Electronica,Compra ya,Alemania,Gratis,42.32,8,True,213.39
+IT201466,Juguetes,Subasta,Reino Unido,Pago,6.88,4,True,8.37
+IT201467,Hogar,Compra ya,Alemania,Gratis,34.31,5,False,0.0
+IT201468,Deportes,Compra ya,Reino Unido,Pago,31.84,10,True,55.07
+IT201469,Electronica,Subasta,Reino Unido,Pago,58.66,12,True,165.66
+IT201470,Libros,Subasta,EEUU,Gratis,5.13,9,False,0.0
+IT201471,Juguetes,Subasta,Alemania,Gratis,10.67,7,True,28.61
+IT201472,Hogar,Subasta,EEUU,Pago,21.99,8,True,57.69
+IT201473,Moda,Compra ya,EEUU,Gratis,9.66,5,True,32.98
+IT201474,Libros,Compra ya,Reino Unido,Pago,8.39,5,False,0.0
+IT201475,Coleccionismo,Compra ya,EEUU,Gratis,27.12,9,False,0.0
+IT201476,Hogar,Subasta,EEUU,Gratis,28.93,10,True,53.8
+IT201477,Hogar,Compra ya,EEUU,Gratis,13.61,7,False,0.0
+IT201478,Moda,Subasta,Espana,Gratis,7.54,6,False,0.0
+IT201479,Hogar,Compra ya,Reino Unido,Pago,27.69,10,True,68.46
+IT201480,Moda,Subasta,EEUU,Gratis,11.75,7,True,12.82
+IT201481,Electronica,Compra ya,Alemania,Gratis,83.19,13,True,192.94
+IT201482,Coleccionismo,Subasta,Alemania,Pago,21.38,9,False,0.0
+IT201483,Electronica,Subasta,EEUU,Pago,104.39,2,False,0.0
+IT201484,Hogar,Compra ya,Reino Unido,Gratis,29.96,9,True,51.08
+IT201485,Deportes,Subasta,EEUU,Pago,30.28,6,True,38.28
+IT201486,Moda,Subasta,Reino Unido,Gratis,8.91,3,True,12.79
+IT201487,Electronica,Compra ya,Alemania,Pago,59.05,4,True,146.91
+IT201488,Electronica,Subasta,EEUU,Pago,62.52,6,False,0.0
+IT201489,Motor,Subasta,Reino Unido,Pago,132.76,7,False,0.0
+IT201490,Coleccionismo,Subasta,EEUU,Pago,28.69,6,True,70.93
+IT201491,Hogar,Subasta,Reino Unido,Pago,13.46,7,False,0.0
+IT201492,Electronica,Compra ya,EEUU,Gratis,62.56,11,True,208.41
+IT201493,Coleccionismo,Compra ya,Alemania,Pago,27.16,4,True,72.08
+IT201494,Hogar,Subasta,Reino Unido,Pago,21.26,10,True,38.38
+IT201495,Hogar,Subasta,EEUU,Gratis,16.73,14,True,42.44
+IT201496,Motor,Compra ya,Alemania,Pago,97.52,7,True,403.78
+IT201497,Deportes,Compra ya,EEUU,Pago,24.79,7,True,58.32
+IT201498,Hogar,Subasta,Reino Unido,Pago,21.32,8,True,68.89
+IT201499,Deportes,Compra ya,Reino Unido,Gratis,18.6,7,True,61.31

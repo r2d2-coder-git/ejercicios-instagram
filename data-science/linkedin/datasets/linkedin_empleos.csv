@@ -1,0 +1,1401 @@
+puesto,nivel,sector,skill_principal,pais,modalidad,salario_eur,candidatos
+Data Analyst,Junior,Gaming,Docker,Francia,Hibrido,51000,104
+DevOps Engineer,Mid,E-commerce,AWS,Espana,Presencial,63500,44
+Frontend Developer,Junior,Banca,Docker,Paises Bajos,Presencial,45000,104
+ML Engineer,Senior,Telecom,PowerBI,Portugal,Remoto,88000,56
+ML Engineer,Junior,Telecom,AWS,Reino Unido,Hibrido,73500,107
+DevOps Engineer,Mid,Banca,Python,Francia,Hibrido,94500,48
+Data Analyst,Senior,Banca,PowerBI,Francia,Remoto,105500,40
+Frontend Developer,Senior,Gaming,PowerBI,Portugal,Presencial,54500,53
+Data Scientist,Mid,Banca,Docker,Alemania,Hibrido,75000,56
+Data Analyst,Mid,Telecom,Java,Espana,Presencial,43000,46
+Backend Developer,Lead,Startups,Python,Reino Unido,Presencial,141500,59
+Product Manager,Senior,Telecom,PowerBI,Reino Unido,Hibrido,135500,40
+Frontend Developer,Senior,E-commerce,Java,Espana,Hibrido,68000,49
+DevOps Engineer,Senior,E-commerce,Tableau,Reino Unido,Remoto,137000,34
+Frontend Developer,Senior,Gaming,AWS,Espana,Hibrido,69000,60
+DevOps Engineer,Junior,Banca,React,Portugal,Remoto,60500,104
+Backend Developer,Mid,Salud,PowerBI,Espana,Hibrido,58000,54
+Data Scientist,Junior,Salud,Java,Espana,Hibrido,53000,109
+DevOps Engineer,Mid,Telecom,Tableau,Espana,Remoto,53000,41
+ML Engineer,Lead,E-commerce,Spark,Espana,Hibrido,128500,39
+Backend Developer,Mid,Telecom,Tableau,Espana,Hibrido,66500,53
+Data Engineer,Mid,Gaming,Docker,Espana,Presencial,73500,39
+Data Scientist,Junior,E-commerce,PowerBI,Espana,Presencial,40500,105
+Product Manager,Lead,Consultoria,Java,Espana,Remoto,129500,43
+DevOps Engineer,Junior,Banca,SQL,Alemania,Hibrido,60000,110
+Frontend Developer,Junior,Salud,Docker,Alemania,Hibrido,58500,114
+ML Engineer,Junior,E-commerce,Spark,Espana,Presencial,59000,100
+DevOps Engineer,Junior,Banca,Docker,Espana,Hibrido,50000,112
+Backend Developer,Mid,Salud,Tableau,Espana,Hibrido,55000,45
+ML Engineer,Mid,Salud,Docker,Espana,Presencial,53000,49
+ML Engineer,Junior,Banca,Docker,Espana,Remoto,54500,102
+Data Scientist,Junior,E-commerce,Java,Francia,Hibrido,58500,85
+Data Analyst,Junior,Banca,Docker,Portugal,Remoto,39500,107
+Backend Developer,Mid,Gaming,PowerBI,Portugal,Presencial,40000,40
+Product Manager,Junior,Consultoria,React,Reino Unido,Hibrido,70000,101
+Data Analyst,Senior,Banca,SQL,Reino Unido,Presencial,99500,44
+DevOps Engineer,Junior,E-commerce,Python,Espana,Hibrido,46500,106
+DevOps Engineer,Junior,Startups,Tableau,Paises Bajos,Hibrido,68000,99
+Data Engineer,Mid,E-commerce,React,Paises Bajos,Hibrido,80000,37
+Frontend Developer,Mid,Gaming,Java,Paises Bajos,Presencial,71500,49
+Data Scientist,Junior,Salud,Tableau,Paises Bajos,Remoto,62500,109
+DevOps Engineer,Junior,E-commerce,Tableau,Alemania,Presencial,67000,102
+Frontend Developer,Senior,Consultoria,PowerBI,Paises Bajos,Hibrido,96000,49
+Data Engineer,Junior,Banca,React,Paises Bajos,Remoto,58500,101
+Data Analyst,Mid,Telecom,React,Espana,Hibrido,47000,40
+Product Manager,Mid,Consultoria,Python,Portugal,Remoto,63500,47
+ML Engineer,Mid,Salud,PowerBI,Espana,Hibrido,71000,40
+Product Manager,Mid,E-commerce,AWS,Portugal,Remoto,72500,41
+Frontend Developer,Senior,Telecom,React,Paises Bajos,Hibrido,93500,49
+DevOps Engineer,Senior,E-commerce,Tableau,Espana,Hibrido,91000,53
+DevOps Engineer,Junior,Salud,Docker,Francia,Presencial,65000,105
+Data Scientist,Mid,Startups,AWS,Espana,Hibrido,71000,51
+Data Engineer,Junior,Gaming,Java,Paises Bajos,Presencial,58000,99
+ML Engineer,Mid,Gaming,Python,Paises Bajos,Remoto,94500,50
+ML Engineer,Senior,Startups,Docker,Reino Unido,Presencial,133000,28
+Data Analyst,Junior,E-commerce,SQL,Paises Bajos,Presencial,46500,105
+Backend Developer,Mid,Startups,AWS,Espana,Remoto,49000,44
+Data Scientist,Lead,Salud,React,Espana,Presencial,127500,38
+Frontend Developer,Junior,Consultoria,Docker,Alemania,Hibrido,46000,109
+Frontend Developer,Mid,E-commerce,Tableau,Espana,Hibrido,55000,29
+Product Manager,Senior,Telecom,Tableau,Alemania,Presencial,119000,34
+Frontend Developer,Junior,Startups,Python,Espana,Presencial,37500,96
+Data Engineer,Junior,Gaming,Docker,Alemania,Hibrido,73000,120
+Product Manager,Junior,Banca,Python,Alemania,Presencial,77000,109
+ML Engineer,Senior,Salud,Python,Paises Bajos,Presencial,130000,42
+Data Engineer,Junior,Telecom,Tableau,Espana,Presencial,56000,99
+Product Manager,Junior,Consultoria,Python,Paises Bajos,Hibrido,66500,108
+Data Engineer,Junior,Telecom,SQL,Alemania,Hibrido,65000,116
+Data Analyst,Junior,Gaming,PowerBI,Espana,Presencial,36000,97
+ML Engineer,Mid,Banca,Java,Reino Unido,Hibrido,102000,48
+DevOps Engineer,Junior,Salud,Spark,Alemania,Hibrido,63500,101
+Data Scientist,Mid,E-commerce,React,Espana,Presencial,71000,47
+ML Engineer,Mid,Salud,PowerBI,Reino Unido,Hibrido,90500,38
+Data Scientist,Senior,Consultoria,Spark,Espana,Remoto,95500,52
+Frontend Developer,Junior,Telecom,Java,Alemania,Hibrido,54000,97
+ML Engineer,Senior,Startups,PowerBI,Reino Unido,Hibrido,136000,44
+Data Engineer,Mid,Salud,React,Alemania,Hibrido,79000,43
+Data Scientist,Junior,Salud,SQL,Paises Bajos,Presencial,60500,106
+Backend Developer,Senior,Gaming,Spark,Espana,Remoto,92000,38
+Frontend Developer,Senior,Gaming,Spark,Portugal,Remoto,64500,44
+Product Manager,Junior,Gaming,AWS,Paises Bajos,Remoto,71500,109
+ML Engineer,Senior,Telecom,React,Portugal,Presencial,94000,46
+Data Scientist,Mid,Startups,Java,Paises Bajos,Hibrido,82000,38
+DevOps Engineer,Mid,Telecom,Tableau,Espana,Presencial,67500,41
+Frontend Developer,Lead,Banca,Tableau,Reino Unido,Hibrido,138000,39
+Frontend Developer,Mid,Salud,React,Espana,Hibrido,49000,47
+Data Analyst,Senior,Salud,Tableau,Paises Bajos,Hibrido,83000,42
+Data Engineer,Junior,Salud,Spark,Reino Unido,Presencial,66500,105
+DevOps Engineer,Senior,Salud,SQL,Espana,Remoto,91000,40
+DevOps Engineer,Mid,Telecom,Spark,Portugal,Presencial,55000,43
+ML Engineer,Junior,Consultoria,PowerBI,Espana,Presencial,54500,115
+DevOps Engineer,Mid,E-commerce,Tableau,Reino Unido,Remoto,104500,47
+DevOps Engineer,Junior,Salud,AWS,Francia,Hibrido,64000,109
+ML Engineer,Junior,Telecom,Tableau,Espana,Hibrido,55000,100
+Product Manager,Junior,Consultoria,Docker,Reino Unido,Hibrido,81500,119
+Data Engineer,Mid,Banca,Docker,Paises Bajos,Presencial,91500,40
+Data Scientist,Junior,Startups,SQL,Espana,Presencial,56000,109
+Frontend Developer,Junior,E-commerce,SQL,Reino Unido,Hibrido,47500,112
+Frontend Developer,Senior,Gaming,Spark,Espana,Hibrido,69000,53
+Data Scientist,Senior,Telecom,React,Francia,Hibrido,125500,37
+DevOps Engineer,Senior,E-commerce,Tableau,Espana,Presencial,101000,55
+Data Scientist,Junior,Consultoria,React,Portugal,Hibrido,43500,104
+DevOps Engineer,Senior,E-commerce,PowerBI,Paises Bajos,Remoto,136500,59
+Data Analyst,Mid,E-commerce,Tableau,Espana,Presencial,53000,53
+DevOps Engineer,Junior,E-commerce,Spark,Espana,Presencial,51500,119
+DevOps Engineer,Junior,E-commerce,AWS,Reino Unido,Hibrido,72500,114
+DevOps Engineer,Senior,Salud,SQL,Francia,Remoto,135000,42
+Frontend Developer,Junior,Salud,Tableau,Alemania,Hibrido,44000,105
+ML Engineer,Mid,Banca,Spark,Espana,Hibrido,72000,60
+Frontend Developer,Lead,Telecom,Spark,Espana,Hibrido,80000,55
+Data Engineer,Junior,Gaming,Python,Portugal,Presencial,42000,109
+DevOps Engineer,Junior,Banca,React,Alemania,Hibrido,64000,109
+Backend Developer,Lead,Telecom,Docker,Paises Bajos,Presencial,126500,42
+ML Engineer,Mid,Banca,Tableau,Alemania,Hibrido,87000,39
+Backend Developer,Junior,Salud,Tableau,Portugal,Presencial,37000,109
+Backend Developer,Senior,Salud,Docker,Espana,Presencial,80000,47
+Data Analyst,Senior,Salud,Tableau,Espana,Hibrido,61500,43
+Data Scientist,Mid,Startups,PowerBI,Portugal,Hibrido,58000,45
+Data Scientist,Mid,Startups,AWS,Portugal,Hibrido,62000,47
+Data Analyst,Junior,E-commerce,Tableau,Espana,Hibrido,38000,102
+ML Engineer,Junior,Gaming,Tableau,Alemania,Remoto,75000,101
+Frontend Developer,Mid,Startups,Java,Alemania,Remoto,68500,54
+Frontend Developer,Junior,Telecom,PowerBI,Alemania,Remoto,42000,105
+ML Engineer,Senior,Startups,Tableau,Espana,Hibrido,110000,53
+DevOps Engineer,Senior,Salud,Python,Paises Bajos,Hibrido,157500,43
+Backend Developer,Junior,E-commerce,Docker,Espana,Hibrido,43500,104
+Data Analyst,Mid,Salud,React,Francia,Hibrido,56000,39
+DevOps Engineer,Junior,Telecom,SQL,Espana,Hibrido,58500,109
+Backend Developer,Senior,Startups,Spark,Espana,Hibrido,93000,47
+Frontend Developer,Junior,Gaming,Docker,Francia,Presencial,52000,101
+Backend Developer,Mid,Gaming,Spark,Espana,Presencial,43000,54
+Backend Developer,Mid,Salud,React,Francia,Remoto,72500,39
+Data Analyst,Mid,Consultoria,React,Espana,Presencial,60500,37
+Backend Developer,Senior,Consultoria,React,Portugal,Hibrido,76000,43
+DevOps Engineer,Senior,Salud,Python,Francia,Hibrido,103000,46
+Data Engineer,Mid,Telecom,Tableau,Paises Bajos,Presencial,81500,45
+Backend Developer,Senior,Salud,PowerBI,Espana,Remoto,73500,47
+Data Analyst,Lead,Telecom,React,Espana,Presencial,97000,46
+Data Engineer,Mid,Banca,Spark,Alemania,Remoto,78000,38
+ML Engineer,Mid,Telecom,Spark,Reino Unido,Remoto,100000,35
+Product Manager,Junior,Salud,SQL,Espana,Presencial,51000,92
+Data Scientist,Senior,Startups,Java,Espana,Presencial,85000,53
+Data Engineer,Mid,Salud,Docker,Alemania,Hibrido,93500,45
+ML Engineer,Mid,Salud,SQL,Espana,Hibrido,72500,58
+Product Manager,Junior,Banca,Spark,Alemania,Presencial,66000,98
+DevOps Engineer,Senior,Telecom,Spark,Espana,Remoto,92500,50
+Data Analyst,Mid,Gaming,Docker,Espana,Presencial,39000,53
+Data Scientist,Senior,Startups,Tableau,Reino Unido,Remoto,108500,47
+DevOps Engineer,Junior,Banca,Spark,Alemania,Presencial,69000,110
+Data Analyst,Lead,E-commerce,Spark,Alemania,Remoto,125500,58
+DevOps Engineer,Junior,Startups,PowerBI,Reino Unido,Presencial,67000,102
+Data Engineer,Junior,Banca,AWS,Paises Bajos,Hibrido,73500,110
+Product Manager,Senior,Salud,SQL,Alemania,Hibrido,118000,46
+Data Engineer,Senior,Consultoria,React,Reino Unido,Presencial,119500,42
+ML Engineer,Junior,Startups,AWS,Portugal,Remoto,49000,109
+Frontend Developer,Mid,Telecom,Spark,Reino Unido,Presencial,71500,44
+Data Scientist,Senior,Startups,Java,Portugal,Hibrido,98000,55
+Backend Developer,Senior,Consultoria,Java,Paises Bajos,Hibrido,80000,52
+Backend Developer,Mid,Gaming,SQL,Espana,Hibrido,53000,43
+DevOps Engineer,Mid,Gaming,Python,Alemania,Presencial,96000,41
+Product Manager,Senior,Startups,Python,Francia,Presencial,102500,40
+Frontend Developer,Senior,Banca,Java,Portugal,Presencial,69000,42
+ML Engineer,Senior,Startups,PowerBI,Alemania,Hibrido,146500,47
+ML Engineer,Mid,Consultoria,React,Espana,Presencial,72500,39
+ML Engineer,Junior,Banca,PowerBI,Reino Unido,Remoto,83500,94
+DevOps Engineer,Senior,Gaming,AWS,Espana,Hibrido,116000,45
+Data Engineer,Senior,Telecom,PowerBI,Francia,Hibrido,133000,54
+Data Scientist,Senior,Banca,Java,Reino Unido,Hibrido,116000,39
+Data Engineer,Junior,Banca,AWS,Francia,Presencial,58000,102
+Data Analyst,Junior,Startups,Docker,Paises Bajos,Hibrido,42500,106
+Data Analyst,Senior,Startups,Docker,Reino Unido,Presencial,99500,39
+Data Analyst,Junior,E-commerce,React,Reino Unido,Hibrido,43000,108
+DevOps Engineer,Lead,Startups,Docker,Francia,Hibrido,141000,43
+Frontend Developer,Mid,Startups,AWS,Paises Bajos,Hibrido,61500,49
+Frontend Developer,Senior,Startups,SQL,Paises Bajos,Remoto,89000,46
+ML Engineer,Senior,E-commerce,Tableau,Espana,Presencial,107500,55
+Frontend Developer,Mid,Gaming,Java,Reino Unido,Hibrido,81500,46
+Data Scientist,Junior,Startups,React,Espana,Presencial,49000,103
+Product Manager,Mid,Startups,AWS,Paises Bajos,Hibrido,81500,50
+Backend Developer,Mid,Gaming,Spark,Francia,Hibrido,71500,57
+Product Manager,Mid,E-commerce,Tableau,Alemania,Presencial,89500,43
+Data Scientist,Mid,Banca,React,Espana,Hibrido,71000,52
+ML Engineer,Lead,E-commerce,Python,Espana,Hibrido,131500,53
+Frontend Developer,Mid,Banca,Spark,Francia,Presencial,57500,45
+ML Engineer,Junior,E-commerce,Spark,Espana,Remoto,50000,99
+ML Engineer,Mid,Banca,React,Espana,Hibrido,60500,38
+Data Scientist,Mid,Telecom,Tableau,Paises Bajos,Remoto,65500,47
+ML Engineer,Junior,Gaming,Python,Paises Bajos,Hibrido,73000,102
+Data Scientist,Junior,Salud,Spark,Espana,Remoto,45500,102
+Data Engineer,Senior,Telecom,Python,Espana,Presencial,106000,62
+Frontend Developer,Mid,Consultoria,Tableau,Portugal,Hibrido,45000,47
+Frontend Developer,Lead,Consultoria,Docker,Francia,Remoto,110000,46
+Backend Developer,Junior,E-commerce,PowerBI,Reino Unido,Hibrido,52500,112
+Data Engineer,Junior,Salud,React,Espana,Hibrido,55000,111
+Product Manager,Senior,E-commerce,Java,Espana,Remoto,99000,57
+Data Analyst,Senior,Gaming,React,Espana,Hibrido,62500,36
+Data Engineer,Junior,Startups,Spark,Francia,Hibrido,68500,108
+Data Analyst,Junior,Salud,Docker,Espana,Hibrido,40000,99
+Data Engineer,Junior,Consultoria,Spark,Espana,Remoto,54000,107
+Product Manager,Mid,Gaming,AWS,Francia,Remoto,93000,45
+Data Engineer,Mid,Telecom,Java,Portugal,Hibrido,58500,42
+Product Manager,Junior,Salud,Spark,Francia,Presencial,68500,102
+ML Engineer,Junior,E-commerce,Spark,Alemania,Presencial,66000,97
+Frontend Developer,Mid,Gaming,SQL,Alemania,Hibrido,75500,33
+ML Engineer,Lead,E-commerce,Python,Alemania,Remoto,162000,30
+Data Engineer,Mid,Startups,Tableau,Espana,Hibrido,75000,36
+DevOps Engineer,Mid,Consultoria,Docker,Reino Unido,Presencial,86500,52
+Product Manager,Junior,Consultoria,SQL,Alemania,Presencial,75500,98
+Data Engineer,Junior,Telecom,AWS,Reino Unido,Hibrido,72500,100
+DevOps Engineer,Junior,Banca,Docker,Paises Bajos,Remoto,78500,106
+Data Engineer,Senior,E-commerce,Java,Portugal,Presencial,77500,34
+Frontend Developer,Senior,Banca,Python,Espana,Hibrido,80500,58
+DevOps Engineer,Senior,Consultoria,Tableau,Alemania,Remoto,155000,38
+ML Engineer,Lead,Salud,SQL,Espana,Remoto,134000,42
+Frontend Developer,Lead,E-commerce,Spark,Alemania,Presencial,113000,50
+Data Engineer,Lead,Consultoria,Spark,Espana,Remoto,117500,42
+Data Analyst,Junior,Telecom,PowerBI,Espana,Hibrido,37000,101
+Data Analyst,Junior,Startups,SQL,Paises Bajos,Remoto,58000,107
+ML Engineer,Junior,Banca,Spark,Alemania,Presencial,65000,105
+Product Manager,Mid,Gaming,Spark,Portugal,Hibrido,57000,37
+Data Scientist,Junior,Banca,AWS,Espana,Hibrido,57500,116
+ML Engineer,Senior,Salud,PowerBI,Espana,Hibrido,111000,40
+Frontend Developer,Mid,Startups,AWS,Alemania,Hibrido,76000,60
+Data Scientist,Mid,Telecom,Spark,Espana,Hibrido,59000,43
+Frontend Developer,Junior,E-commerce,Tableau,Espana,Hibrido,40500,100
+Data Engineer,Junior,E-commerce,PowerBI,Portugal,Presencial,43500,102
+DevOps Engineer,Junior,Telecom,Python,Espana,Hibrido,55000,103
+Backend Developer,Senior,Telecom,Docker,Espana,Presencial,65500,44
+Backend Developer,Mid,E-commerce,Docker,Reino Unido,Remoto,81000,36
+Data Scientist,Senior,Banca,PowerBI,Alemania,Remoto,123000,48
+ML Engineer,Junior,Salud,PowerBI,Reino Unido,Presencial,74500,101
+DevOps Engineer,Mid,Gaming,Java,Alemania,Presencial,81500,41
+Data Analyst,Mid,Salud,AWS,Paises Bajos,Presencial,53500,46
+DevOps Engineer,Senior,Startups,AWS,Espana,Hibrido,106000,54
+ML Engineer,Senior,Telecom,AWS,Alemania,Remoto,122000,44
+Frontend Developer,Junior,Telecom,SQL,Francia,Hibrido,49500,106
+Frontend Developer,Lead,Banca,React,Paises Bajos,Presencial,132500,58
+ML Engineer,Junior,Telecom,Spark,Alemania,Presencial,82500,99
+Data Engineer,Senior,Telecom,Spark,Reino Unido,Presencial,104000,46
+Frontend Developer,Junior,Consultoria,Docker,Espana,Remoto,40000,104
+Data Scientist,Junior,Gaming,Tableau,Espana,Hibrido,51500,108
+Backend Developer,Senior,Telecom,PowerBI,Espana,Hibrido,79000,47
+Data Analyst,Junior,Startups,Spark,Francia,Hibrido,39000,109
+Frontend Developer,Mid,Salud,Spark,Espana,Remoto,55000,35
+Frontend Developer,Mid,Banca,Java,Francia,Hibrido,59000,50
+Data Analyst,Junior,Gaming,Tableau,Espana,Remoto,48500,106
+DevOps Engineer,Senior,Gaming,SQL,Paises Bajos,Remoto,124500,42
+ML Engineer,Senior,Banca,React,Paises Bajos,Hibrido,142000,45
+DevOps Engineer,Senior,Telecom,AWS,Espana,Remoto,91500,37
+Data Analyst,Mid,E-commerce,Java,Espana,Presencial,43000,54
+Data Scientist,Mid,Startups,AWS,Espana,Hibrido,66500,38
+ML Engineer,Junior,Salud,PowerBI,Paises Bajos,Presencial,78000,111
+Data Scientist,Junior,Consultoria,Java,Espana,Hibrido,45000,97
+Data Engineer,Junior,Banca,React,Reino Unido,Presencial,68000,115
+Frontend Developer,Lead,Banca,SQL,Alemania,Presencial,97000,42
+Data Scientist,Senior,Telecom,Java,Paises Bajos,Presencial,107500,50
+Frontend Developer,Senior,Consultoria,Docker,Alemania,Hibrido,98000,36
+Data Analyst,Mid,Telecom,PowerBI,Reino Unido,Hibrido,59500,46
+Data Scientist,Mid,E-commerce,SQL,Portugal,Hibrido,54500,43
+Backend Developer,Mid,Startups,SQL,Espana,Hibrido,49000,46
+DevOps Engineer,Mid,Startups,SQL,Paises Bajos,Remoto,82000,53
+Data Scientist,Mid,Banca,Python,Espana,Remoto,77500,43
+Data Engineer,Junior,Gaming,Java,Alemania,Presencial,65500,106
+Product Manager,Junior,Startups,Docker,Paises Bajos,Hibrido,61500,101
+Product Manager,Lead,Consultoria,Tableau,Francia,Hibrido,144000,43
+Backend Developer,Mid,Banca,PowerBI,Francia,Hibrido,54500,47
+ML Engineer,Lead,Startups,Java,Espana,Hibrido,116500,46
+Data Engineer,Junior,Salud,AWS,Alemania,Hibrido,74000,104
+Backend Developer,Mid,Banca,Tableau,Alemania,Presencial,68000,49
+Backend Developer,Junior,Telecom,PowerBI,Reino Unido,Hibrido,68000,106
+Data Engineer,Junior,Gaming,Spark,Alemania,Hibrido,64500,111
+Data Analyst,Junior,Banca,Python,Espana,Hibrido,38500,98
+Data Scientist,Junior,E-commerce,PowerBI,Espana,Remoto,56000,112
+Product Manager,Senior,Banca,React,Espana,Presencial,74500,49
+ML Engineer,Mid,Startups,Python,Alemania,Presencial,92000,49
+ML Engineer,Mid,Banca,SQL,Espana,Presencial,71500,45
+ML Engineer,Mid,Telecom,Spark,Paises Bajos,Presencial,101000,41
+DevOps Engineer,Mid,Salud,React,Reino Unido,Presencial,97000,53
+Data Analyst,Mid,Gaming,Tableau,Espana,Hibrido,42500,34
+Data Analyst,Junior,Telecom,Tableau,Francia,Hibrido,51000,113
+Data Engineer,Lead,Startups,PowerBI,Paises Bajos,Hibrido,139000,64
+ML Engineer,Senior,Banca,Spark,Espana,Hibrido,95000,46
+Frontend Developer,Senior,Banca,Java,Espana,Presencial,74000,47
+ML Engineer,Mid,Banca,Python,Espana,Hibrido,70500,48
+ML Engineer,Junior,Gaming,SQL,Espana,Presencial,66500,111
+Product Manager,Lead,Salud,React,Paises Bajos,Remoto,168500,38
+Data Scientist,Mid,Banca,PowerBI,Portugal,Presencial,57000,41
+Backend Developer,Junior,E-commerce,SQL,Espana,Hibrido,48000,103
+Backend Developer,Mid,Salud,AWS,Francia,Remoto,76500,49
+ML Engineer,Senior,Telecom,Python,Espana,Hibrido,112500,34
+DevOps Engineer,Mid,Consultoria,Java,Reino Unido,Hibrido,101000,55
+Data Engineer,Senior,Startups,Java,Francia,Hibrido,118000,46
+Product Manager,Senior,Startups,Spark,Alemania,Presencial,129000,48
+Data Engineer,Junior,Telecom,AWS,Espana,Hibrido,58500,113
+Backend Developer,Lead,Salud,Spark,Reino Unido,Remoto,135000,45
+Backend Developer,Mid,Startups,AWS,Portugal,Remoto,52500,45
+DevOps Engineer,Mid,Telecom,Spark,Espana,Hibrido,79500,42
+ML Engineer,Junior,Salud,Spark,Espana,Hibrido,67000,112
+Data Engineer,Lead,Salud,AWS,Espana,Remoto,124000,39
+Data Analyst,Junior,Telecom,React,Reino Unido,Hibrido,47500,104
+Data Engineer,Junior,Salud,Java,Reino Unido,Presencial,77500,112
+DevOps Engineer,Mid,E-commerce,Spark,Paises Bajos,Presencial,89500,38
+Data Analyst,Junior,Startups,Docker,Francia,Presencial,46500,106
+Product Manager,Junior,Banca,SQL,Paises Bajos,Hibrido,66000,92
+Backend Developer,Mid,Gaming,Docker,Paises Bajos,Presencial,69500,49
+Data Scientist,Mid,Gaming,Spark,Espana,Presencial,62000,58
+Data Engineer,Lead,Gaming,Tableau,Reino Unido,Presencial,142000,55
+Backend Developer,Junior,Banca,SQL,Espana,Remoto,47000,105
+Data Engineer,Senior,Salud,Java,Espana,Presencial,97000,56
+Data Analyst,Mid,Startups,Spark,Portugal,Presencial,41500,51
+Frontend Developer,Mid,E-commerce,React,Francia,Hibrido,64500,47
+Frontend Developer,Mid,Gaming,Python,Portugal,Presencial,51000,40
+Data Analyst,Mid,Startups,Tableau,Alemania,Remoto,70000,53
+Data Engineer,Lead,Startups,SQL,Reino Unido,Remoto,157000,45
+Data Scientist,Mid,Salud,Docker,Alemania,Hibrido,83500,62
+Frontend Developer,Junior,Consultoria,AWS,Espana,Hibrido,40500,106
+Frontend Developer,Senior,Gaming,Java,Espana,Hibrido,63500,37
+Frontend Developer,Senior,Salud,React,Reino Unido,Presencial,100500,35
+Product Manager,Junior,Gaming,Tableau,Espana,Presencial,57000,103
+DevOps Engineer,Mid,Telecom,Python,Portugal,Presencial,77000,52
+Data Engineer,Senior,Gaming,SQL,Espana,Presencial,108000,49
+Data Analyst,Senior,E-commerce,SQL,Espana,Hibrido,74500,40
+Backend Developer,Lead,Telecom,Docker,Paises Bajos,Presencial,124000,27
+Product Manager,Mid,Salud,Docker,Espana,Presencial,71000,58
+Product Manager,Mid,Startups,Tableau,Portugal,Hibrido,56500,39
+Data Scientist,Junior,Gaming,Docker,Francia,Hibrido,48500,120
+Data Scientist,Lead,Startups,Spark,Espana,Presencial,102000,40
+Data Analyst,Mid,Startups,Java,Francia,Presencial,56500,45
+Data Scientist,Senior,Startups,AWS,Reino Unido,Presencial,92500,46
+Backend Developer,Mid,Telecom,Spark,Francia,Presencial,61500,48
+Backend Developer,Mid,Gaming,Spark,Paises Bajos,Remoto,69500,48
+Data Engineer,Senior,Banca,AWS,Francia,Remoto,115500,49
+Data Engineer,Mid,Consultoria,AWS,Reino Unido,Hibrido,79000,37
+DevOps Engineer,Senior,Salud,SQL,Espana,Hibrido,95000,50
+ML Engineer,Mid,Telecom,AWS,Francia,Hibrido,99500,54
+DevOps Engineer,Mid,Gaming,SQL,Portugal,Hibrido,65500,40
+Product Manager,Mid,Salud,Docker,Reino Unido,Presencial,86000,40
+Data Engineer,Mid,E-commerce,AWS,Francia,Presencial,76000,42
+Data Scientist,Mid,Telecom,Python,Alemania,Hibrido,77500,44
+Product Manager,Junior,Salud,PowerBI,Francia,Hibrido,61000,111
+Frontend Developer,Junior,Banca,React,Portugal,Presencial,33000,119
+Data Engineer,Senior,E-commerce,AWS,Espana,Presencial,104000,43
+Backend Developer,Mid,Startups,React,Espana,Hibrido,52500,45
+Backend Developer,Senior,Banca,PowerBI,Reino Unido,Presencial,92500,40
+Product Manager,Junior,Consultoria,Java,Alemania,Hibrido,69500,97
+Data Engineer,Mid,Salud,Spark,Reino Unido,Hibrido,85500,42
+Product Manager,Junior,Banca,Python,Espana,Hibrido,45000,102
+Product Manager,Senior,E-commerce,AWS,Alemania,Presencial,126500,44
+Data Scientist,Senior,Startups,Docker,Reino Unido,Presencial,127000,48
+Data Scientist,Junior,Gaming,React,Reino Unido,Remoto,71500,104
+Backend Developer,Senior,E-commerce,React,Francia,Hibrido,115000,51
+Data Analyst,Junior,E-commerce,React,Francia,Presencial,51000,108
+Data Engineer,Junior,Consultoria,AWS,Francia,Presencial,70500,103
+ML Engineer,Junior,Telecom,Spark,Paises Bajos,Remoto,95500,90
+Product Manager,Junior,Telecom,Docker,Reino Unido,Remoto,83000,103
+Product Manager,Senior,E-commerce,PowerBI,Reino Unido,Remoto,142000,50
+Data Scientist,Senior,Telecom,Spark,Reino Unido,Hibrido,128500,37
+Product Manager,Junior,Startups,Spark,Espana,Hibrido,53000,110
+Data Analyst,Mid,E-commerce,React,Espana,Hibrido,48500,32
+Frontend Developer,Senior,Banca,Python,Reino Unido,Presencial,88000,48
+DevOps Engineer,Lead,Startups,Python,Paises Bajos,Hibrido,155500,49
+Product Manager,Mid,Salud,Java,Francia,Hibrido,77000,47
+Data Scientist,Junior,Telecom,Python,Espana,Presencial,46000,109
+Product Manager,Mid,Consultoria,SQL,Reino Unido,Remoto,100500,30
+Data Analyst,Mid,Consultoria,Docker,Espana,Hibrido,47500,56
+Backend Developer,Lead,E-commerce,AWS,Francia,Presencial,94500,54
+ML Engineer,Mid,E-commerce,Java,Paises Bajos,Hibrido,75000,45
+Data Engineer,Senior,Salud,Tableau,Reino Unido,Remoto,115000,48
+Data Analyst,Junior,Banca,Python,Reino Unido,Remoto,48000,105
+DevOps Engineer,Mid,Telecom,SQL,Espana,Hibrido,71000,43
+Data Engineer,Senior,Salud,Java,Alemania,Remoto,127500,41
+Frontend Developer,Mid,Startups,Python,Paises Bajos,Remoto,71500,43
+ML Engineer,Mid,Salud,PowerBI,Francia,Remoto,97000,40
+Data Engineer,Lead,Consultoria,AWS,Reino Unido,Remoto,178500,48
+Product Manager,Senior,Salud,AWS,Alemania,Hibrido,134500,36
+Data Analyst,Mid,E-commerce,Docker,Espana,Remoto,52000,39
+Frontend Developer,Mid,Telecom,PowerBI,Espana,Hibrido,55500,45
+Frontend Developer,Mid,Telecom,PowerBI,Espana,Hibrido,54500,43
+ML Engineer,Mid,E-commerce,AWS,Alemania,Presencial,93500,57
+Data Engineer,Mid,Gaming,AWS,Portugal,Hibrido,66000,48
+Data Analyst,Junior,Salud,Java,Reino Unido,Remoto,40500,109
+Product Manager,Senior,E-commerce,Python,Espana,Hibrido,98500,55
+Product Manager,Lead,Banca,Spark,Espana,Remoto,129500,38
+Data Scientist,Senior,Telecom,PowerBI,Espana,Hibrido,100500,50
+Data Analyst,Lead,E-commerce,PowerBI,Paises Bajos,Presencial,122000,48
+Data Analyst,Senior,Salud,Python,Alemania,Presencial,74500,49
+Data Analyst,Senior,E-commerce,React,Paises Bajos,Remoto,102500,47
+DevOps Engineer,Senior,Gaming,Tableau,Paises Bajos,Hibrido,106000,54
+Product Manager,Mid,Banca,Spark,Espana,Hibrido,62000,36
+Data Scientist,Mid,Consultoria,Java,Reino Unido,Hibrido,78500,40
+Frontend Developer,Junior,Salud,Docker,Portugal,Hibrido,35000,112
+Data Scientist,Mid,Salud,AWS,Alemania,Hibrido,65500,41
+Data Engineer,Junior,Gaming,Spark,Espana,Remoto,58500,105
+Backend Developer,Junior,E-commerce,Spark,Portugal,Hibrido,42500,102
+Frontend Developer,Mid,Salud,PowerBI,Paises Bajos,Remoto,71500,35
+DevOps Engineer,Mid,Telecom,Python,Reino Unido,Hibrido,84500,46
+Data Analyst,Junior,Consultoria,Tableau,Reino Unido,Remoto,52500,102
+Data Scientist,Senior,E-commerce,Python,Espana,Presencial,89500,43
+Data Engineer,Senior,Telecom,Python,Paises Bajos,Presencial,134500,28
+Data Engineer,Junior,Telecom,AWS,Alemania,Presencial,46500,102
+Product Manager,Junior,Gaming,Java,Espana,Hibrido,50500,96
+DevOps Engineer,Mid,Telecom,React,Francia,Hibrido,80500,49
+Data Engineer,Senior,Telecom,Python,Portugal,Hibrido,75500,31
+Product Manager,Senior,Telecom,Spark,Paises Bajos,Hibrido,120500,45
+ML Engineer,Junior,Salud,AWS,Espana,Presencial,57000,110
+Backend Developer,Senior,Banca,PowerBI,Espana,Hibrido,74500,42
+ML Engineer,Junior,Gaming,Docker,Portugal,Remoto,55500,102
+Data Scientist,Mid,E-commerce,Java,Portugal,Presencial,59500,46
+Product Manager,Lead,Telecom,Tableau,Reino Unido,Presencial,160000,45
+Data Analyst,Junior,Salud,Python,Francia,Presencial,43500,100
+Data Scientist,Junior,Startups,Python,Alemania,Hibrido,61000,102
+Data Scientist,Mid,Gaming,SQL,Alemania,Presencial,77500,48
+Data Engineer,Mid,Salud,PowerBI,Espana,Hibrido,53500,48
+Data Scientist,Lead,Startups,Spark,Espana,Hibrido,117000,50
+Data Analyst,Lead,Salud,Spark,Espana,Hibrido,82500,43
+Frontend Developer,Junior,Consultoria,Java,Paises Bajos,Hibrido,55000,113
+Product Manager,Junior,Consultoria,React,Espana,Presencial,59500,106
+Data Analyst,Senior,Startups,AWS,Espana,Remoto,82500,43
+Data Engineer,Junior,Telecom,React,Reino Unido,Hibrido,61000,112
+Backend Developer,Senior,E-commerce,Java,Espana,Hibrido,77000,39
+Product Manager,Senior,Salud,Java,Espana,Presencial,89000,37
+Frontend Developer,Junior,Consultoria,React,Reino Unido,Hibrido,48500,98
+DevOps Engineer,Senior,Gaming,SQL,Alemania,Remoto,147000,35
+Backend Developer,Junior,Banca,Java,Reino Unido,Presencial,65500,108
+ML Engineer,Mid,Gaming,Docker,Portugal,Presencial,57500,43
+Data Scientist,Mid,Telecom,Docker,Espana,Presencial,59000,33
+DevOps Engineer,Mid,E-commerce,PowerBI,Portugal,Hibrido,60500,50
+DevOps Engineer,Senior,E-commerce,Java,Portugal,Remoto,99500,38
+Data Analyst,Mid,Gaming,React,Paises Bajos,Hibrido,48500,39
+Frontend Developer,Lead,E-commerce,React,Reino Unido,Hibrido,98000,40
+Data Analyst,Lead,Startups,Docker,Reino Unido,Remoto,125000,39
+Frontend Developer,Mid,Telecom,React,Reino Unido,Hibrido,52500,48
+DevOps Engineer,Junior,Startups,AWS,Francia,Presencial,61500,113
+Data Scientist,Senior,Salud,Java,Espana,Presencial,91500,50
+ML Engineer,Lead,Startups,AWS,Portugal,Hibrido,121500,47
+Data Analyst,Junior,Banca,React,Reino Unido,Remoto,52000,107
+Backend Developer,Mid,Consultoria,React,Paises Bajos,Hibrido,64500,43
+Product Manager,Mid,Banca,Docker,Alemania,Hibrido,95000,40
+Data Analyst,Junior,Gaming,PowerBI,Espana,Remoto,42000,99
+ML Engineer,Senior,Salud,Tableau,Reino Unido,Presencial,127000,46
+Product Manager,Mid,Consultoria,SQL,Reino Unido,Hibrido,91500,54
+Data Engineer,Senior,Consultoria,PowerBI,Alemania,Presencial,122500,41
+Data Scientist,Senior,Gaming,PowerBI,Espana,Remoto,111500,51
+ML Engineer,Senior,E-commerce,Tableau,Espana,Hibrido,112500,55
+Backend Developer,Mid,Salud,Java,Reino Unido,Presencial,80000,43
+Frontend Developer,Mid,Gaming,React,Alemania,Presencial,58500,54
+Data Engineer,Senior,E-commerce,SQL,Portugal,Hibrido,80500,61
+Product Manager,Senior,E-commerce,AWS,Espana,Hibrido,99000,60
+Backend Developer,Mid,Consultoria,Java,Espana,Hibrido,54000,46
+Data Engineer,Senior,Gaming,React,Espana,Presencial,84500,46
+Product Manager,Junior,E-commerce,React,Reino Unido,Remoto,87000,93
+Product Manager,Senior,Consultoria,React,Alemania,Remoto,146500,50
+ML Engineer,Junior,Salud,React,Francia,Hibrido,66000,109
+Data Analyst,Junior,E-commerce,Docker,Portugal,Hibrido,37000,96
+Backend Developer,Mid,Salud,PowerBI,Espana,Remoto,59500,47
+Backend Developer,Junior,Banca,Spark,Francia,Remoto,59000,107
+Data Scientist,Junior,Banca,PowerBI,Espana,Hibrido,43000,107
+Frontend Developer,Junior,E-commerce,Java,Espana,Hibrido,39500,97
+DevOps Engineer,Mid,Consultoria,Python,Alemania,Hibrido,84500,47
+Data Analyst,Senior,Banca,Java,Espana,Remoto,78500,38
+Frontend Developer,Junior,Startups,Tableau,Reino Unido,Hibrido,48500,121
+Data Scientist,Mid,Consultoria,Docker,Francia,Presencial,55000,39
+Frontend Developer,Senior,Telecom,SQL,Francia,Presencial,76500,43
+ML Engineer,Junior,Startups,Docker,Reino Unido,Remoto,79000,107
+Data Analyst,Junior,Telecom,Tableau,Reino Unido,Remoto,53500,104
+Product Manager,Senior,Telecom,PowerBI,Alemania,Remoto,157000,43
+Data Scientist,Senior,Banca,PowerBI,Espana,Hibrido,95000,48
+Backend Developer,Mid,Consultoria,PowerBI,Espana,Remoto,59000,54
+Data Scientist,Senior,Telecom,Docker,Francia,Remoto,112000,51
+Product Manager,Junior,Gaming,SQL,Portugal,Hibrido,56000,101
+Frontend Developer,Mid,Banca,Java,Espana,Presencial,47000,49
+DevOps Engineer,Senior,Salud,Docker,Reino Unido,Remoto,134000,45
+ML Engineer,Junior,Telecom,SQL,Francia,Presencial,60500,118
+ML Engineer,Senior,Telecom,Spark,Paises Bajos,Hibrido,145500,37
+Frontend Developer,Mid,Consultoria,Tableau,Reino Unido,Hibrido,67500,47
+DevOps Engineer,Senior,E-commerce,Java,Reino Unido,Hibrido,119000,49
+DevOps Engineer,Mid,Consultoria,Docker,Francia,Presencial,79500,40
+Data Analyst,Mid,Consultoria,React,Paises Bajos,Hibrido,61500,36
+Frontend Developer,Junior,Consultoria,React,Espana,Presencial,39000,101
+Data Analyst,Junior,Consultoria,AWS,Portugal,Remoto,34500,98
+Data Engineer,Senior,Salud,PowerBI,Espana,Presencial,88000,55
+DevOps Engineer,Junior,Banca,SQL,Paises Bajos,Hibrido,68500,102
+Data Engineer,Junior,E-commerce,Tableau,Espana,Remoto,53000,99
+DevOps Engineer,Junior,Consultoria,SQL,Espana,Presencial,52000,112
+ML Engineer,Junior,E-commerce,Python,Espana,Presencial,50000,99
+Data Scientist,Senior,Startups,React,Alemania,Remoto,120000,45
+Data Engineer,Mid,Gaming,React,Espana,Presencial,64000,43
+Backend Developer,Lead,Startups,Tableau,Espana,Presencial,96000,40
+DevOps Engineer,Junior,Salud,Python,Alemania,Hibrido,69500,99
+Backend Developer,Mid,Banca,Python,Alemania,Remoto,78500,50
+Product Manager,Mid,Startups,SQL,Paises Bajos,Hibrido,91500,50
+DevOps Engineer,Mid,Salud,Java,Paises Bajos,Hibrido,87500,42
+DevOps Engineer,Senior,Gaming,SQL,Francia,Remoto,120500,44
+Backend Developer,Lead,Consultoria,Spark,Espana,Hibrido,93500,63
+Data Engineer,Senior,Salud,React,Espana,Hibrido,84500,42
+ML Engineer,Junior,Salud,React,Portugal,Hibrido,49000,100
+Data Analyst,Junior,E-commerce,Java,Espana,Hibrido,38500,122
+Data Engineer,Mid,Salud,Spark,Alemania,Hibrido,75000,58
+Product Manager,Junior,Telecom,PowerBI,Portugal,Hibrido,51000,96
+ML Engineer,Senior,Banca,SQL,Portugal,Presencial,85000,51
+Data Analyst,Mid,Banca,React,Alemania,Hibrido,50000,49
+Frontend Developer,Mid,Telecom,Python,Francia,Presencial,64000,50
+Product Manager,Senior,Salud,Java,Alemania,Hibrido,121000,37
+DevOps Engineer,Senior,Startups,Tableau,Francia,Presencial,106500,45
+Data Engineer,Junior,Gaming,Java,Espana,Hibrido,46500,102
+ML Engineer,Junior,Gaming,Tableau,Espana,Hibrido,60000,108
+Backend Developer,Mid,Startups,SQL,Reino Unido,Hibrido,81500,47
+Data Scientist,Mid,Gaming,Java,Espana,Presencial,59500,42
+Data Engineer,Junior,Consultoria,PowerBI,Francia,Presencial,60000,106
+Data Scientist,Mid,Salud,Tableau,Alemania,Remoto,91000,37
+Product Manager,Senior,E-commerce,AWS,Paises Bajos,Presencial,101500,41
+Frontend Developer,Senior,Consultoria,AWS,Paises Bajos,Remoto,112000,46
+DevOps Engineer,Mid,Gaming,Tableau,Alemania,Hibrido,106000,43
+DevOps Engineer,Mid,E-commerce,Spark,Paises Bajos,Presencial,60500,31
+Product Manager,Junior,Gaming,Spark,Espana,Hibrido,55500,93
+Data Analyst,Mid,Gaming,Spark,Alemania,Hibrido,55500,56
+Product Manager,Junior,Consultoria,Python,Espana,Presencial,54500,107
+Data Analyst,Mid,Banca,Docker,Paises Bajos,Remoto,59500,46
+ML Engineer,Senior,Gaming,Spark,Paises Bajos,Presencial,137500,52
+Backend Developer,Junior,Telecom,SQL,Portugal,Hibrido,39000,110
+Data Engineer,Junior,Telecom,SQL,Paises Bajos,Hibrido,57500,129
+Data Scientist,Junior,Consultoria,Docker,Portugal,Hibrido,44000,103
+Data Scientist,Senior,Gaming,Tableau,Espana,Remoto,100000,38
+DevOps Engineer,Mid,Consultoria,Spark,Portugal,Presencial,54000,42
+Data Engineer,Junior,Consultoria,AWS,Reino Unido,Remoto,60000,108
+Data Engineer,Senior,Consultoria,Python,Alemania,Hibrido,141500,40
+Product Manager,Mid,E-commerce,Spark,Reino Unido,Remoto,90500,24
+Data Scientist,Mid,Startups,Spark,Alemania,Remoto,81000,49
+Product Manager,Lead,Gaming,React,Espana,Remoto,128000,46
+Product Manager,Junior,E-commerce,Python,Espana,Hibrido,59000,113
+Backend Developer,Junior,Startups,AWS,Espana,Hibrido,52000,103
+Data Scientist,Mid,E-commerce,React,Alemania,Hibrido,82000,52
+Data Scientist,Junior,Gaming,React,Paises Bajos,Hibrido,51500,105
+Data Engineer,Senior,E-commerce,Tableau,Reino Unido,Hibrido,105500,45
+Backend Developer,Junior,Consultoria,Spark,Reino Unido,Hibrido,55000,112
+Data Scientist,Junior,Gaming,AWS,Alemania,Presencial,60500,93
+ML Engineer,Junior,Startups,Spark,Alemania,Remoto,63000,116
+Data Analyst,Mid,Startups,PowerBI,Espana,Presencial,52000,55
+Backend Developer,Junior,Startups,Spark,Paises Bajos,Remoto,50500,101
+Data Analyst,Junior,E-commerce,PowerBI,Espana,Presencial,44000,106
+Frontend Developer,Senior,Banca,PowerBI,Francia,Presencial,101000,29
+Data Analyst,Mid,Startups,Docker,Francia,Remoto,58500,36
+Data Scientist,Mid,Startups,AWS,Reino Unido,Remoto,89000,47
+Data Scientist,Junior,E-commerce,Docker,Paises Bajos,Hibrido,53000,92
+DevOps Engineer,Mid,Banca,AWS,Espana,Remoto,76500,43
+Data Analyst,Junior,Gaming,Java,Paises Bajos,Presencial,44500,107
+ML Engineer,Mid,Banca,PowerBI,Francia,Remoto,80500,57
+Backend Developer,Junior,Banca,React,Paises Bajos,Hibrido,52000,112
+Backend Developer,Senior,Startups,Tableau,Francia,Hibrido,89500,56
+Frontend Developer,Lead,Salud,React,Paises Bajos,Hibrido,106000,51
+DevOps Engineer,Junior,Banca,AWS,Portugal,Presencial,53500,107
+ML Engineer,Junior,Gaming,Tableau,Alemania,Hibrido,66500,107
+DevOps Engineer,Junior,Consultoria,Tableau,Paises Bajos,Hibrido,78000,102
+Data Engineer,Mid,Salud,Java,Francia,Presencial,66500,41
+Product Manager,Junior,Startups,PowerBI,Alemania,Remoto,86000,109
+Backend Developer,Senior,E-commerce,Python,Portugal,Hibrido,64500,36
+Frontend Developer,Senior,Gaming,React,Alemania,Presencial,90500,49
+Product Manager,Senior,Telecom,Java,Reino Unido,Hibrido,125500,42
+DevOps Engineer,Mid,Consultoria,Python,Espana,Presencial,65500,42
+DevOps Engineer,Lead,Startups,Docker,Espana,Presencial,132000,39
+Backend Developer,Junior,Salud,PowerBI,Paises Bajos,Hibrido,61500,94
+Data Analyst,Mid,Salud,Python,Alemania,Presencial,67000,52
+ML Engineer,Mid,Startups,Tableau,Alemania,Presencial,86500,43
+Data Scientist,Lead,Gaming,React,Espana,Hibrido,113500,46
+Product Manager,Mid,Startups,Spark,Alemania,Presencial,80500,39
+Data Scientist,Senior,Telecom,Docker,Paises Bajos,Remoto,104500,47
+Data Scientist,Junior,Gaming,AWS,Paises Bajos,Remoto,57000,103
+Data Scientist,Lead,E-commerce,Spark,Espana,Presencial,106500,65
+Frontend Developer,Mid,Consultoria,AWS,Reino Unido,Hibrido,66500,45
+Backend Developer,Mid,Startups,Tableau,Alemania,Presencial,55500,49
+Product Manager,Lead,Gaming,Java,Reino Unido,Hibrido,163000,50
+ML Engineer,Mid,E-commerce,Docker,Alemania,Presencial,103500,44
+Data Engineer,Mid,Consultoria,SQL,Alemania,Remoto,96000,43
+Data Analyst,Mid,Telecom,Docker,Alemania,Presencial,56500,42
+Data Analyst,Junior,E-commerce,Tableau,Reino Unido,Hibrido,43000,104
+Data Engineer,Mid,Banca,SQL,Reino Unido,Presencial,88500,53
+Product Manager,Junior,Telecom,Docker,Alemania,Presencial,54000,106
+Backend Developer,Junior,Consultoria,AWS,Paises Bajos,Hibrido,59500,113
+Product Manager,Senior,Telecom,PowerBI,Francia,Hibrido,117000,42
+Data Analyst,Mid,Salud,Java,Alemania,Remoto,75000,62
+Data Analyst,Mid,Startups,Python,Paises Bajos,Presencial,48500,47
+DevOps Engineer,Mid,Salud,SQL,Paises Bajos,Presencial,90500,48
+Data Analyst,Mid,Startups,Java,Espana,Hibrido,47500,50
+Data Analyst,Mid,Telecom,Spark,Reino Unido,Hibrido,60500,47
+ML Engineer,Lead,E-commerce,Python,Espana,Remoto,118500,49
+Product Manager,Lead,Startups,Python,Francia,Remoto,167000,47
+Frontend Developer,Mid,Telecom,React,Espana,Remoto,56500,37
+Data Analyst,Mid,Banca,SQL,Francia,Presencial,67000,59
+DevOps Engineer,Mid,Banca,Python,Espana,Hibrido,75000,48
+DevOps Engineer,Mid,E-commerce,PowerBI,Reino Unido,Hibrido,83000,49
+DevOps Engineer,Mid,Banca,SQL,Portugal,Hibrido,55000,44
+Product Manager,Mid,Consultoria,PowerBI,Alemania,Hibrido,75500,35
+Data Scientist,Mid,Startups,Tableau,Paises Bajos,Presencial,87000,42
+Product Manager,Mid,Salud,PowerBI,Portugal,Hibrido,58000,56
+Data Engineer,Mid,Banca,Tableau,Paises Bajos,Remoto,96500,35
+DevOps Engineer,Mid,Salud,React,Espana,Presencial,71500,43
+Backend Developer,Junior,E-commerce,PowerBI,Paises Bajos,Remoto,59000,114
+DevOps Engineer,Junior,Telecom,AWS,Espana,Hibrido,52500,106
+Frontend Developer,Senior,Banca,Python,Alemania,Presencial,96500,43
+Frontend Developer,Mid,Telecom,Spark,Paises Bajos,Presencial,61000,36
+Backend Developer,Junior,Salud,SQL,Francia,Presencial,50000,101
+DevOps Engineer,Mid,Banca,Python,Reino Unido,Hibrido,94500,49
+Frontend Developer,Senior,Gaming,Spark,Alemania,Presencial,89500,45
+Data Scientist,Junior,Salud,SQL,Paises Bajos,Hibrido,55500,95
+DevOps Engineer,Senior,Telecom,Python,Francia,Remoto,130500,47
+Backend Developer,Lead,Gaming,Spark,Alemania,Hibrido,123000,48
+Data Engineer,Mid,Telecom,Tableau,Paises Bajos,Presencial,83000,41
+Backend Developer,Senior,Salud,SQL,Espana,Hibrido,76000,40
+Product Manager,Junior,Banca,Spark,Espana,Remoto,52000,97
+DevOps Engineer,Lead,Banca,Python,Francia,Hibrido,169500,40
+DevOps Engineer,Mid,Salud,Python,Portugal,Presencial,70500,45
+ML Engineer,Lead,Consultoria,SQL,Espana,Hibrido,141000,63
+DevOps Engineer,Mid,Telecom,Tableau,Espana,Hibrido,65500,42
+ML Engineer,Junior,Consultoria,PowerBI,Espana,Hibrido,56000,113
+Frontend Developer,Junior,Startups,React,Paises Bajos,Presencial,55500,103
+Frontend Developer,Senior,E-commerce,PowerBI,Espana,Remoto,74000,43
+Data Scientist,Mid,Consultoria,PowerBI,Reino Unido,Presencial,75500,35
+Data Engineer,Junior,Telecom,Docker,Portugal,Presencial,55500,101
+Data Analyst,Senior,Banca,Spark,Espana,Presencial,69500,49
+Data Scientist,Senior,Consultoria,React,Reino Unido,Hibrido,137500,51
+ML Engineer,Mid,Telecom,Docker,Reino Unido,Hibrido,80500,43
+ML Engineer,Mid,Gaming,PowerBI,Paises Bajos,Presencial,92500,51
+Data Scientist,Junior,Telecom,React,Alemania,Hibrido,75000,116
+ML Engineer,Senior,Salud,SQL,Alemania,Hibrido,131000,41
+Backend Developer,Mid,Startups,React,Espana,Presencial,53500,49
+Data Scientist,Senior,Startups,PowerBI,Francia,Remoto,99500,62
+Data Engineer,Mid,Startups,SQL,Paises Bajos,Hibrido,88000,45
+Data Engineer,Mid,Banca,Python,Espana,Presencial,60000,40
+Backend Developer,Junior,Gaming,Java,Alemania,Remoto,57500,107
+Data Engineer,Junior,Banca,AWS,Paises Bajos,Remoto,59000,102
+Frontend Developer,Senior,E-commerce,Spark,Espana,Hibrido,84000,52
+Data Engineer,Mid,Consultoria,AWS,Espana,Remoto,77000,42
+ML Engineer,Mid,Gaming,Docker,Reino Unido,Hibrido,93500,39
+ML Engineer,Lead,Salud,AWS,Espana,Hibrido,114500,55
+Data Scientist,Lead,Startups,Python,Espana,Remoto,136500,44
+Frontend Developer,Senior,Consultoria,Spark,Alemania,Remoto,92500,35
+Data Scientist,Junior,Gaming,SQL,Espana,Presencial,44000,113
+Data Engineer,Mid,Telecom,Java,Reino Unido,Hibrido,69500,49
+DevOps Engineer,Senior,Startups,React,Francia,Hibrido,109000,54
+Product Manager,Mid,E-commerce,React,Reino Unido,Presencial,78000,47
+Frontend Developer,Junior,Telecom,PowerBI,Espana,Remoto,40000,89
+Product Manager,Senior,Banca,Java,Paises Bajos,Hibrido,133000,38
+DevOps Engineer,Mid,Salud,AWS,Espana,Hibrido,65500,35
+ML Engineer,Mid,Consultoria,PowerBI,Paises Bajos,Hibrido,91000,46
+DevOps Engineer,Lead,Startups,Python,Alemania,Hibrido,142000,33
+Data Engineer,Mid,Telecom,Tableau,Paises Bajos,Presencial,80000,54
+ML Engineer,Mid,Startups,PowerBI,Espana,Remoto,91000,34
+Backend Developer,Mid,Telecom,Python,Espana,Hibrido,53000,43
+Product Manager,Mid,Consultoria,Tableau,Alemania,Hibrido,91000,58
+DevOps Engineer,Junior,Telecom,Java,Espana,Hibrido,46000,94
+ML Engineer,Senior,Banca,AWS,Espana,Presencial,120500,42
+Frontend Developer,Senior,Salud,Tableau,Francia,Presencial,81500,46
+Data Scientist,Junior,Banca,Spark,Paises Bajos,Hibrido,67000,104
+DevOps Engineer,Junior,Telecom,Spark,Espana,Presencial,53500,117
+Backend Developer,Senior,Startups,SQL,Paises Bajos,Hibrido,103000,48
+Backend Developer,Junior,Gaming,Spark,Paises Bajos,Remoto,60500,106
+DevOps Engineer,Mid,Telecom,React,Paises Bajos,Hibrido,79000,46
+Frontend Developer,Mid,E-commerce,Docker,Francia,Hibrido,65500,42
+Data Analyst,Senior,Startups,PowerBI,Francia,Hibrido,76000,34
+Data Engineer,Junior,Salud,PowerBI,Reino Unido,Presencial,73000,100
+Data Scientist,Senior,Gaming,PowerBI,Francia,Remoto,108000,49
+Frontend Developer,Mid,Telecom,Tableau,Portugal,Hibrido,46500,46
+Data Analyst,Mid,Gaming,AWS,Espana,Presencial,46000,31
+Data Scientist,Junior,Consultoria,PowerBI,Espana,Presencial,50000,107
+Backend Developer,Mid,Gaming,React,Espana,Remoto,52000,29
+Frontend Developer,Mid,Gaming,AWS,Portugal,Presencial,46000,47
+Backend Developer,Junior,Startups,PowerBI,Alemania,Hibrido,55000,112
+DevOps Engineer,Junior,Salud,Tableau,Francia,Presencial,60500,106
+Product Manager,Junior,Salud,Spark,Paises Bajos,Presencial,68000,101
+Data Scientist,Mid,Salud,Spark,Portugal,Remoto,60000,38
+Product Manager,Junior,Banca,Python,Espana,Presencial,52500,106
+Backend Developer,Lead,Banca,AWS,Paises Bajos,Presencial,119000,52
+Frontend Developer,Mid,Banca,Java,Paises Bajos,Hibrido,55000,45
+Data Analyst,Senior,Gaming,Java,Espana,Remoto,91000,50
+Backend Developer,Lead,Consultoria,Docker,Francia,Hibrido,129000,48
+Frontend Developer,Junior,Startups,Python,Alemania,Presencial,51500,92
+Backend Developer,Mid,Gaming,Java,Francia,Remoto,77000,44
+Data Analyst,Senior,Banca,React,Reino Unido,Hibrido,72500,45
+Backend Developer,Mid,Banca,AWS,Espana,Remoto,43500,40
+Product Manager,Mid,Consultoria,Spark,Espana,Remoto,71000,52
+Frontend Developer,Mid,Startups,AWS,Espana,Hibrido,43000,34
+Data Scientist,Junior,Banca,Java,Espana,Hibrido,48500,98
+Product Manager,Mid,E-commerce,React,Reino Unido,Hibrido,93000,38
+Product Manager,Lead,Banca,PowerBI,Alemania,Hibrido,172000,43
+Data Scientist,Lead,Consultoria,Tableau,Espana,Hibrido,99000,57
+DevOps Engineer,Junior,Startups,PowerBI,Francia,Remoto,71000,105
+ML Engineer,Senior,Gaming,Python,Francia,Hibrido,123500,52
+Backend Developer,Junior,Salud,PowerBI,Reino Unido,Presencial,59000,113
+ML Engineer,Senior,E-commerce,Python,Portugal,Hibrido,89000,39
+DevOps Engineer,Junior,Consultoria,Docker,Alemania,Hibrido,77500,108
+Product Manager,Lead,Salud,Docker,Paises Bajos,Hibrido,152000,53
+DevOps Engineer,Senior,E-commerce,Tableau,Espana,Remoto,123000,48
+Product Manager,Junior,Gaming,AWS,Francia,Hibrido,61000,108
+Product Manager,Junior,Startups,Java,Portugal,Presencial,54000,104
+Data Analyst,Senior,E-commerce,PowerBI,Paises Bajos,Hibrido,84500,47
+Data Engineer,Junior,E-commerce,Java,Reino Unido,Hibrido,65500,96
+Frontend Developer,Mid,Banca,Tableau,Reino Unido,Remoto,73500,48
+Backend Developer,Senior,Telecom,Spark,Alemania,Hibrido,96500,42
+Data Analyst,Mid,Salud,Python,Francia,Hibrido,41500,46
+Data Analyst,Mid,E-commerce,Spark,Paises Bajos,Hibrido,40500,50
+Backend Developer,Mid,E-commerce,Tableau,Portugal,Hibrido,56000,69
+Backend Developer,Junior,Banca,AWS,Alemania,Presencial,62000,98
+Data Scientist,Lead,Salud,Tableau,Espana,Remoto,140500,51
+Data Scientist,Junior,Gaming,Spark,Reino Unido,Remoto,68000,104
+Data Scientist,Junior,E-commerce,Docker,Espana,Hibrido,43000,112
+Backend Developer,Junior,Banca,AWS,Espana,Hibrido,42000,99
+Data Analyst,Lead,Salud,React,Espana,Presencial,86500,44
+Backend Developer,Junior,Gaming,AWS,Francia,Hibrido,46500,106
+ML Engineer,Senior,Consultoria,AWS,Espana,Hibrido,121500,50
+ML Engineer,Senior,E-commerce,PowerBI,Espana,Hibrido,128000,38
+Frontend Developer,Senior,E-commerce,Spark,Espana,Presencial,76000,60
+Backend Developer,Lead,Telecom,SQL,Paises Bajos,Hibrido,120500,41
+Frontend Developer,Senior,Startups,AWS,Francia,Presencial,74500,40
+DevOps Engineer,Lead,Telecom,React,Espana,Hibrido,141500,45
+Product Manager,Junior,Salud,SQL,Espana,Hibrido,56500,102
+DevOps Engineer,Senior,Telecom,AWS,Reino Unido,Presencial,124500,40
+Backend Developer,Mid,Consultoria,Java,Espana,Hibrido,57500,48
+ML Engineer,Mid,Banca,Java,Reino Unido,Remoto,93500,36
+Data Scientist,Senior,Consultoria,AWS,Alemania,Hibrido,114000,38
+Backend Developer,Lead,Gaming,Python,Portugal,Presencial,76000,39
+Data Scientist,Senior,Gaming,Python,Espana,Hibrido,99500,47
+Product Manager,Mid,Startups,Tableau,Francia,Hibrido,81500,39
+DevOps Engineer,Mid,Startups,React,Espana,Hibrido,76000,35
+Data Analyst,Mid,E-commerce,Python,Portugal,Hibrido,42500,34
+DevOps Engineer,Mid,Banca,React,Portugal,Presencial,60500,50
+Data Analyst,Mid,E-commerce,Java,Francia,Hibrido,50000,48
+Frontend Developer,Junior,Startups,Python,Alemania,Hibrido,54000,100
+Data Analyst,Junior,Telecom,AWS,Espana,Remoto,37000,105
+ML Engineer,Senior,Banca,SQL,Paises Bajos,Presencial,121000,55
+Frontend Developer,Mid,E-commerce,Docker,Francia,Hibrido,59000,59
+Frontend Developer,Lead,Salud,Tableau,Espana,Hibrido,91000,47
+ML Engineer,Mid,Gaming,Spark,Alemania,Presencial,74500,37
+Product Manager,Junior,Startups,Spark,Alemania,Hibrido,68500,99
+DevOps Engineer,Junior,Telecom,PowerBI,Paises Bajos,Presencial,71500,108
+Data Scientist,Junior,E-commerce,Python,Francia,Presencial,56500,99
+Frontend Developer,Lead,Banca,Spark,Francia,Hibrido,104000,47
+Frontend Developer,Junior,Gaming,SQL,Francia,Presencial,48000,98
+Data Engineer,Mid,Salud,PowerBI,Espana,Hibrido,64000,33
+Frontend Developer,Lead,Startups,Java,Alemania,Presencial,101000,44
+Product Manager,Lead,Gaming,Tableau,Espana,Hibrido,125500,52
+DevOps Engineer,Junior,Salud,SQL,Paises Bajos,Hibrido,73000,102
+DevOps Engineer,Junior,Consultoria,AWS,Alemania,Remoto,64500,107
+Frontend Developer,Junior,Banca,React,Alemania,Remoto,51000,105
+Data Engineer,Junior,Startups,SQL,Espana,Hibrido,45000,106
+DevOps Engineer,Junior,Telecom,SQL,Espana,Hibrido,59500,94
+Data Engineer,Mid,E-commerce,SQL,Reino Unido,Presencial,83500,40
+Backend Developer,Senior,Gaming,React,Espana,Hibrido,73000,45
+Data Engineer,Mid,Consultoria,SQL,Espana,Presencial,65500,42
+Data Engineer,Mid,Salud,PowerBI,Paises Bajos,Hibrido,70000,39
+Data Scientist,Junior,Telecom,Docker,Alemania,Presencial,55500,121
+Product Manager,Senior,Telecom,PowerBI,Alemania,Remoto,115000,45
+Data Scientist,Mid,E-commerce,AWS,Alemania,Hibrido,69000,40
+Data Analyst,Senior,Consultoria,SQL,Paises Bajos,Hibrido,96500,49
+Product Manager,Lead,Telecom,Python,Espana,Hibrido,117000,35
+Backend Developer,Mid,Startups,SQL,Francia,Presencial,68000,35
+ML Engineer,Junior,Banca,Docker,Portugal,Presencial,47500,108
+Frontend Developer,Junior,Telecom,SQL,Francia,Remoto,54000,108
+ML Engineer,Mid,Salud,Python,Alemania,Remoto,85500,37
+Data Scientist,Lead,Gaming,React,Francia,Presencial,132000,47
+Frontend Developer,Mid,Banca,AWS,Alemania,Hibrido,63000,46
+Data Scientist,Senior,Gaming,AWS,Alemania,Hibrido,138500,52
+Backend Developer,Mid,Gaming,Java,Reino Unido,Presencial,76000,48
+Product Manager,Junior,Gaming,Tableau,Espana,Hibrido,52500,108
+Product Manager,Mid,Telecom,Docker,Espana,Presencial,75000,49
+Data Engineer,Mid,Startups,Tableau,Alemania,Presencial,98500,46
+DevOps Engineer,Senior,Telecom,Java,Espana,Hibrido,82500,49
+Backend Developer,Mid,Telecom,React,Alemania,Presencial,63000,33
+ML Engineer,Junior,Startups,Tableau,Reino Unido,Remoto,77500,92
+Data Scientist,Senior,Gaming,Spark,Portugal,Hibrido,77500,52
+ML Engineer,Junior,Gaming,Docker,Espana,Remoto,59000,113
+Frontend Developer,Lead,Salud,Spark,Reino Unido,Hibrido,101500,45
+Product Manager,Junior,Telecom,Python,Alemania,Remoto,84500,96
+Data Analyst,Junior,Banca,PowerBI,Espana,Hibrido,33000,95
+Frontend Developer,Mid,Salud,Docker,Espana,Hibrido,49000,48
+DevOps Engineer,Mid,Consultoria,Python,Espana,Hibrido,75000,45
+Product Manager,Mid,Startups,React,Espana,Remoto,74000,42
+ML Engineer,Mid,Banca,React,Espana,Presencial,65000,46
+Data Analyst,Lead,Gaming,Docker,Alemania,Hibrido,93500,38
+Data Engineer,Mid,E-commerce,AWS,Reino Unido,Remoto,87500,43
+DevOps Engineer,Mid,Startups,Spark,Espana,Hibrido,63000,59
+Product Manager,Mid,Telecom,Tableau,Espana,Remoto,75500,42
+Frontend Developer,Junior,E-commerce,SQL,Espana,Hibrido,34500,109
+Data Analyst,Mid,Startups,React,Reino Unido,Presencial,67500,39
+Data Analyst,Junior,Salud,PowerBI,Espana,Hibrido,39000,104
+ML Engineer,Mid,Startups,Tableau,Reino Unido,Hibrido,95500,33
+Backend Developer,Junior,Telecom,Tableau,Espana,Presencial,50500,110
+Data Analyst,Lead,Banca,Java,Espana,Presencial,82500,50
+Frontend Developer,Mid,E-commerce,Tableau,Portugal,Presencial,41500,49
+Backend Developer,Senior,Consultoria,React,Espana,Remoto,80000,42
+Data Analyst,Mid,E-commerce,Docker,Espana,Remoto,50000,48
+Data Analyst,Junior,Banca,Docker,Espana,Hibrido,38000,125
+ML Engineer,Senior,Startups,PowerBI,Portugal,Presencial,86000,41
+Frontend Developer,Mid,Startups,Java,Reino Unido,Hibrido,52000,52
+DevOps Engineer,Senior,Salud,Spark,Reino Unido,Remoto,128000,41
+ML Engineer,Mid,E-commerce,Python,Portugal,Hibrido,67000,37
+Data Engineer,Mid,E-commerce,AWS,Espana,Presencial,66000,35
+Product Manager,Senior,Startups,React,Portugal,Presencial,102500,45
+ML Engineer,Mid,Consultoria,SQL,Espana,Remoto,91000,45
+Data Engineer,Mid,Banca,Tableau,Reino Unido,Remoto,96500,44
+ML Engineer,Senior,Consultoria,SQL,Alemania,Presencial,148500,51
+Data Analyst,Senior,Salud,AWS,Alemania,Remoto,99500,48
+Data Engineer,Lead,Gaming,SQL,Portugal,Presencial,123500,52
+Backend Developer,Mid,Consultoria,Java,Espana,Presencial,65000,43
+Product Manager,Mid,Startups,React,Portugal,Remoto,73000,50
+Frontend Developer,Senior,Gaming,Java,Alemania,Hibrido,97000,52
+DevOps Engineer,Mid,Startups,Java,Francia,Hibrido,78500,54
+Backend Developer,Senior,Consultoria,Spark,Portugal,Remoto,76000,46
+Data Analyst,Mid,Gaming,Tableau,Espana,Remoto,49000,35
+ML Engineer,Junior,Consultoria,Python,Portugal,Presencial,55000,109
+Product Manager,Senior,Gaming,AWS,Reino Unido,Hibrido,122500,43
+Data Analyst,Junior,Telecom,Tableau,Francia,Remoto,47000,101
+Product Manager,Junior,Consultoria,Java,Espana,Hibrido,43000,113
+Frontend Developer,Mid,Startups,Python,Reino Unido,Remoto,81000,37
+Data Engineer,Senior,Startups,React,Francia,Hibrido,109000,38
+DevOps Engineer,Senior,Startups,Tableau,Alemania,Presencial,129000,31
+DevOps Engineer,Junior,E-commerce,React,Espana,Presencial,62500,103
+Data Analyst,Junior,Telecom,Tableau,Espana,Remoto,42000,103
+Data Analyst,Lead,Banca,Tableau,Paises Bajos,Remoto,128000,39
+Frontend Developer,Junior,Banca,Java,Espana,Presencial,35000,100
+Product Manager,Junior,Startups,React,Francia,Presencial,82000,96
+Data Analyst,Junior,E-commerce,SQL,Portugal,Remoto,40500,117
+Frontend Developer,Mid,Startups,Tableau,Espana,Presencial,51000,47
+Data Scientist,Senior,Salud,Python,Espana,Presencial,102500,43
+Frontend Developer,Senior,Consultoria,Tableau,Francia,Remoto,80000,51
+Backend Developer,Senior,Banca,React,Espana,Remoto,82000,45
+Data Analyst,Junior,Gaming,React,Reino Unido,Remoto,60500,94
+Frontend Developer,Mid,Telecom,Spark,Francia,Hibrido,48000,42
+Product Manager,Mid,Salud,AWS,Reino Unido,Hibrido,96000,52
+DevOps Engineer,Junior,Telecom,Tableau,Alemania,Remoto,76000,100
+Data Analyst,Junior,Consultoria,AWS,Francia,Presencial,54000,118
+Data Scientist,Junior,Salud,SQL,Reino Unido,Presencial,54500,98
+Data Scientist,Junior,Consultoria,Spark,Espana,Remoto,61000,107
+ML Engineer,Mid,Gaming,AWS,Reino Unido,Hibrido,88500,38
+Data Scientist,Senior,Banca,Tableau,Paises Bajos,Remoto,111000,48
+DevOps Engineer,Junior,Salud,Docker,Francia,Presencial,56500,103
+DevOps Engineer,Mid,Salud,Tableau,Alemania,Remoto,80500,48
+DevOps Engineer,Senior,Salud,AWS,Espana,Hibrido,102500,51
+Data Scientist,Senior,Salud,PowerBI,Espana,Hibrido,80000,55
+Data Analyst,Senior,Gaming,Java,Espana,Remoto,79000,44
+Product Manager,Mid,Salud,AWS,Espana,Hibrido,65500,45
+Data Engineer,Senior,E-commerce,Tableau,Portugal,Hibrido,74500,40
+Frontend Developer,Junior,E-commerce,SQL,Espana,Hibrido,38000,101
+Product Manager,Mid,Gaming,React,Paises Bajos,Remoto,93500,46
+Data Analyst,Junior,Startups,React,Espana,Remoto,39500,108
+Data Analyst,Mid,Telecom,SQL,Espana,Hibrido,48000,34
+Data Analyst,Mid,Gaming,AWS,Alemania,Presencial,64000,50
+Data Scientist,Junior,Startups,Spark,Espana,Presencial,55000,106
+Data Analyst,Senior,Startups,Docker,Paises Bajos,Remoto,87000,35
+DevOps Engineer,Junior,Salud,Python,Portugal,Remoto,46500,108
+Backend Developer,Junior,Banca,SQL,Paises Bajos,Remoto,57500,112
+Product Manager,Junior,Gaming,Spark,Espana,Presencial,58500,105
+DevOps Engineer,Mid,Gaming,PowerBI,Paises Bajos,Hibrido,71000,39
+Product Manager,Junior,E-commerce,Spark,Espana,Remoto,54000,108
+Data Scientist,Mid,Telecom,Tableau,Portugal,Remoto,55000,42
+Data Engineer,Junior,Startups,Java,Reino Unido,Presencial,66000,115
+DevOps Engineer,Senior,Consultoria,React,Espana,Hibrido,91000,36
+Data Scientist,Lead,Salud,Python,Espana,Presencial,119500,29
+Data Analyst,Mid,E-commerce,SQL,Espana,Hibrido,40500,47
+Frontend Developer,Mid,E-commerce,Python,Espana,Presencial,42000,41
+DevOps Engineer,Senior,E-commerce,Docker,Portugal,Presencial,86000,43
+Product Manager,Lead,Consultoria,PowerBI,Paises Bajos,Presencial,151000,47
+Product Manager,Mid,E-commerce,Tableau,Portugal,Remoto,57000,50
+Data Analyst,Senior,E-commerce,React,Espana,Hibrido,65500,54
+DevOps Engineer,Senior,Salud,PowerBI,Reino Unido,Remoto,130500,31
+DevOps Engineer,Senior,Gaming,Spark,Espana,Hibrido,94500,51
+Frontend Developer,Mid,Consultoria,Tableau,Reino Unido,Hibrido,66000,43
+DevOps Engineer,Junior,Salud,Java,Espana,Hibrido,51000,98
+DevOps Engineer,Junior,E-commerce,Python,Espana,Hibrido,62500,114
+ML Engineer,Mid,Gaming,PowerBI,Reino Unido,Hibrido,98000,56
+Data Analyst,Mid,Gaming,Tableau,Espana,Hibrido,44000,44
+ML Engineer,Mid,Startups,Python,Alemania,Remoto,96500,45
+Data Scientist,Mid,Banca,Spark,Francia,Remoto,78500,45
+Data Analyst,Mid,Telecom,Tableau,Espana,Presencial,54000,39
+Data Analyst,Senior,Consultoria,AWS,Portugal,Hibrido,59000,49
+Frontend Developer,Junior,Banca,Spark,Reino Unido,Presencial,56000,104
+Backend Developer,Junior,Gaming,PowerBI,Paises Bajos,Presencial,54000,99
+Backend Developer,Senior,E-commerce,AWS,Francia,Hibrido,108000,48
+Frontend Developer,Senior,E-commerce,Tableau,Francia,Hibrido,96500,46
+Backend Developer,Lead,Startups,React,Francia,Hibrido,119000,43
+Frontend Developer,Senior,E-commerce,Python,Paises Bajos,Presencial,86000,27
+Data Analyst,Senior,Salud,AWS,Reino Unido,Remoto,101000,49
+DevOps Engineer,Junior,E-commerce,Python,Espana,Remoto,56500,97
+ML Engineer,Mid,Banca,Docker,Espana,Hibrido,84000,34
+Data Scientist,Junior,Banca,SQL,Reino Unido,Remoto,69000,107
+DevOps Engineer,Mid,Banca,React,Espana,Presencial,65000,45
+Frontend Developer,Lead,Salud,SQL,Espana,Hibrido,86000,45
+Data Analyst,Mid,Salud,Spark,Espana,Remoto,44500,57
+Data Scientist,Mid,Banca,PowerBI,Reino Unido,Remoto,90000,43
+Data Analyst,Junior,Consultoria,React,Espana,Remoto,37500,111
+Data Engineer,Junior,E-commerce,SQL,Reino Unido,Hibrido,75000,117
+Data Analyst,Junior,Salud,SQL,Paises Bajos,Remoto,43000,112
+Frontend Developer,Junior,Startups,React,Paises Bajos,Hibrido,49500,100
+Backend Developer,Lead,Gaming,Spark,Espana,Presencial,110500,42
+Product Manager,Mid,Startups,SQL,Reino Unido,Presencial,71500,53
+Frontend Developer,Senior,E-commerce,Java,Reino Unido,Remoto,120000,42
+Backend Developer,Senior,E-commerce,Python,Alemania,Hibrido,95500,36
+Backend Developer,Junior,Telecom,React,Francia,Hibrido,52500,102
+Data Analyst,Junior,Consultoria,React,Espana,Remoto,43000,114
+Data Analyst,Senior,Telecom,React,Portugal,Hibrido,67000,51
+Backend Developer,Junior,Salud,Spark,Espana,Hibrido,45000,116
+Data Analyst,Senior,E-commerce,SQL,Paises Bajos,Hibrido,93500,45
+Data Analyst,Junior,Telecom,AWS,Reino Unido,Hibrido,52500,115
+Data Scientist,Senior,Salud,AWS,Espana,Remoto,112000,52
+Product Manager,Senior,Telecom,Docker,Francia,Hibrido,126000,51
+ML Engineer,Junior,Salud,PowerBI,Espana,Hibrido,69000,117
+Frontend Developer,Junior,Banca,Docker,Paises Bajos,Hibrido,53000,98
+ML Engineer,Lead,Gaming,Java,Reino Unido,Hibrido,138000,45
+Data Scientist,Junior,Banca,Java,Espana,Remoto,66500,109
+Data Engineer,Mid,Gaming,SQL,Espana,Presencial,61500,51
+Data Analyst,Mid,Consultoria,Python,Francia,Remoto,69000,53
+DevOps Engineer,Junior,Telecom,Python,Espana,Hibrido,54500,108
+Data Scientist,Senior,Startups,PowerBI,Paises Bajos,Presencial,121500,40
+ML Engineer,Senior,Consultoria,SQL,Paises Bajos,Hibrido,118500,41
+Product Manager,Mid,Startups,Docker,Francia,Hibrido,88000,43
+Backend Developer,Senior,Banca,SQL,Espana,Hibrido,77500,55
+ML Engineer,Junior,Banca,Docker,Francia,Remoto,83500,106
+Backend Developer,Junior,Startups,Java,Portugal,Hibrido,41500,88
+DevOps Engineer,Mid,Gaming,Python,Espana,Presencial,74500,45
+Data Engineer,Lead,Salud,Python,Espana,Hibrido,91500,49
+Frontend Developer,Junior,E-commerce,AWS,Espana,Hibrido,39500,99
+DevOps Engineer,Junior,Consultoria,AWS,Alemania,Hibrido,71000,101
+Backend Developer,Mid,Gaming,Spark,Francia,Remoto,70500,40
+ML Engineer,Senior,Telecom,Tableau,Alemania,Hibrido,143000,39
+Data Scientist,Junior,Startups,SQL,Reino Unido,Presencial,62000,106
+Data Scientist,Mid,Consultoria,SQL,Espana,Hibrido,62500,39
+Product Manager,Senior,Salud,Java,Espana,Presencial,113500,46
+Backend Developer,Mid,E-commerce,Docker,Espana,Hibrido,42500,45
+Data Engineer,Junior,Banca,Spark,Paises Bajos,Presencial,67000,104
+ML Engineer,Junior,Salud,Docker,Reino Unido,Hibrido,72500,96
+Backend Developer,Mid,Gaming,AWS,Alemania,Remoto,66000,42
+Backend Developer,Mid,Banca,AWS,Paises Bajos,Hibrido,69500,44
+Frontend Developer,Senior,Consultoria,Python,Espana,Presencial,81500,69
+Data Engineer,Mid,Gaming,AWS,Espana,Hibrido,72000,47
+Frontend Developer,Senior,Telecom,Tableau,Espana,Hibrido,71500,46
+ML Engineer,Lead,Startups,PowerBI,Portugal,Hibrido,127000,42
+Product Manager,Mid,Consultoria,SQL,Francia,Presencial,90000,35
+Data Scientist,Mid,Consultoria,SQL,Reino Unido,Remoto,84500,53
+Data Scientist,Lead,Startups,AWS,Espana,Hibrido,104000,36
+ML Engineer,Junior,Gaming,Python,Espana,Hibrido,54000,107
+Backend Developer,Senior,E-commerce,SQL,Reino Unido,Presencial,112500,52
+Frontend Developer,Senior,Gaming,PowerBI,Alemania,Hibrido,90000,42
+ML Engineer,Junior,E-commerce,Docker,Portugal,Hibrido,46500,102
+Product Manager,Mid,Salud,PowerBI,Paises Bajos,Presencial,71000,37
+ML Engineer,Junior,Consultoria,SQL,Alemania,Hibrido,78000,104
+Data Scientist,Junior,Startups,Docker,Francia,Hibrido,55500,97
+Data Analyst,Mid,Banca,Tableau,Portugal,Remoto,47500,45
+Product Manager,Junior,Telecom,Java,Alemania,Remoto,83500,109
+Data Scientist,Senior,E-commerce,SQL,Francia,Presencial,92000,37
+Product Manager,Senior,Banca,PowerBI,Portugal,Presencial,91000,41
+Data Engineer,Senior,Gaming,Python,Espana,Remoto,98000,45
+Data Analyst,Junior,Gaming,PowerBI,Paises Bajos,Remoto,51500,95
+Data Engineer,Junior,Banca,SQL,Espana,Remoto,62000,111
+Backend Developer,Junior,Banca,Docker,Francia,Presencial,45000,110
+ML Engineer,Junior,Banca,Python,Paises Bajos,Presencial,74500,100
+DevOps Engineer,Lead,Consultoria,PowerBI,Reino Unido,Presencial,175500,48
+Backend Developer,Mid,Banca,SQL,Alemania,Remoto,71500,50
+ML Engineer,Junior,Gaming,Java,Reino Unido,Hibrido,74000,107
+Frontend Developer,Senior,Banca,Tableau,Espana,Hibrido,75500,46
+Product Manager,Mid,Telecom,Docker,Espana,Hibrido,72500,45
+ML Engineer,Junior,Startups,PowerBI,Espana,Presencial,61000,108
+Data Scientist,Junior,Telecom,AWS,Reino Unido,Hibrido,68000,104
+ML Engineer,Mid,Startups,Python,Alemania,Presencial,81000,44
+DevOps Engineer,Senior,Startups,PowerBI,Espana,Hibrido,108500,49
+Data Scientist,Junior,Banca,AWS,Paises Bajos,Hibrido,67500,103
+Product Manager,Senior,Consultoria,Python,Alemania,Hibrido,129000,38
+Backend Developer,Senior,Telecom,PowerBI,Alemania,Hibrido,85000,43
+Backend Developer,Senior,Consultoria,SQL,Alemania,Remoto,104500,45
+Data Engineer,Junior,Telecom,Spark,Espana,Hibrido,53000,93
+Product Manager,Junior,Telecom,Python,Francia,Presencial,58500,117
+Data Analyst,Senior,Startups,AWS,Alemania,Presencial,84000,62
+Data Engineer,Junior,Consultoria,SQL,Espana,Hibrido,44500,95
+ML Engineer,Mid,Consultoria,Python,Portugal,Presencial,68500,56
+ML Engineer,Senior,Banca,AWS,Paises Bajos,Presencial,129500,51
+ML Engineer,Junior,E-commerce,SQL,Francia,Presencial,57000,110
+Data Scientist,Senior,E-commerce,SQL,Paises Bajos,Presencial,113500,38
+Data Scientist,Lead,Salud,Tableau,Portugal,Hibrido,100000,49
+Data Analyst,Senior,Consultoria,Python,Espana,Hibrido,73000,39
+Backend Developer,Mid,Telecom,Docker,Reino Unido,Presencial,68500,61
+Data Engineer,Senior,Telecom,Tableau,Reino Unido,Hibrido,112500,52
+Backend Developer,Mid,Telecom,Docker,Espana,Presencial,51000,52
+Backend Developer,Senior,Banca,React,Espana,Hibrido,75500,45
+Frontend Developer,Senior,Salud,Docker,Espana,Presencial,72500,35
+Backend Developer,Senior,Telecom,Tableau,Francia,Remoto,101000,48
+Frontend Developer,Junior,E-commerce,AWS,Paises Bajos,Remoto,50500,108
+Backend Developer,Junior,Consultoria,Java,Paises Bajos,Hibrido,51500,126
+Frontend Developer,Junior,Telecom,Python,Espana,Presencial,38500,112
+Backend Developer,Mid,Telecom,React,Espana,Presencial,69000,40
+Data Engineer,Mid,Telecom,Spark,Alemania,Presencial,75000,59
+Data Scientist,Mid,Salud,Python,Reino Unido,Remoto,80500,42
+DevOps Engineer,Mid,Consultoria,Spark,Portugal,Presencial,81500,41
+Data Engineer,Senior,Consultoria,Spark,Paises Bajos,Remoto,127000,53
+Backend Developer,Senior,Gaming,Python,Portugal,Hibrido,62000,44
+Data Scientist,Junior,Consultoria,Java,Paises Bajos,Hibrido,65500,106
+ML Engineer,Senior,Consultoria,Python,Portugal,Remoto,90500,41
+Backend Developer,Senior,E-commerce,React,Alemania,Presencial,108500,39
+Frontend Developer,Mid,Salud,Tableau,Espana,Remoto,52000,36
+Backend Developer,Junior,E-commerce,Java,Espana,Presencial,42000,101
+Data Engineer,Senior,Salud,AWS,Alemania,Remoto,145000,60
+Product Manager,Lead,Startups,SQL,Espana,Hibrido,133000,43
+Backend Developer,Senior,Telecom,SQL,Espana,Presencial,87500,35
+DevOps Engineer,Senior,Salud,PowerBI,Portugal,Remoto,98000,53
+Frontend Developer,Lead,Startups,Java,Espana,Presencial,86000,39
+Backend Developer,Mid,Startups,Spark,Portugal,Presencial,52500,49
+Product Manager,Mid,Salud,AWS,Paises Bajos,Remoto,101500,29
+Data Scientist,Mid,Telecom,Docker,Francia,Hibrido,74000,52
+Product Manager,Lead,Consultoria,React,Francia,Remoto,186000,36
+DevOps Engineer,Junior,Startups,AWS,Espana,Hibrido,59000,117
+Backend Developer,Mid,Consultoria,Spark,Francia,Hibrido,66500,31
+Frontend Developer,Senior,E-commerce,Spark,Espana,Presencial,74500,48
+Backend Developer,Junior,Banca,Tableau,Portugal,Presencial,40000,115
+Data Engineer,Senior,Telecom,PowerBI,Espana,Remoto,87500,42
+DevOps Engineer,Mid,Consultoria,SQL,Espana,Presencial,67500,42
+Data Scientist,Lead,Telecom,Python,Francia,Hibrido,134500,51
+Data Engineer,Senior,Banca,Tableau,Francia,Presencial,106500,50
+Backend Developer,Junior,Salud,React,Alemania,Presencial,57000,106
+DevOps Engineer,Senior,Consultoria,SQL,Reino Unido,Hibrido,128500,46
+ML Engineer,Mid,Salud,AWS,Espana,Remoto,82000,37
+ML Engineer,Mid,E-commerce,SQL,Francia,Remoto,96000,41
+Data Analyst,Mid,Banca,Spark,Espana,Remoto,51500,38
+Data Analyst,Senior,Consultoria,PowerBI,Espana,Presencial,60000,49
+Data Analyst,Junior,Salud,Spark,Espana,Hibrido,45500,110
+Data Analyst,Junior,Telecom,Spark,Espana,Presencial,38000,108
+DevOps Engineer,Senior,Salud,Docker,Espana,Hibrido,98000,47
+DevOps Engineer,Mid,E-commerce,SQL,Alemania,Hibrido,82000,30
+DevOps Engineer,Mid,E-commerce,SQL,Espana,Hibrido,64500,34
+Data Analyst,Junior,Gaming,Docker,Espana,Presencial,44500,102
+Data Analyst,Mid,Salud,Tableau,Reino Unido,Remoto,75500,36
+Data Engineer,Senior,Startups,Python,Espana,Remoto,104500,44
+Backend Developer,Junior,Salud,AWS,Francia,Remoto,54500,117
+Data Engineer,Mid,Salud,PowerBI,Portugal,Presencial,62000,49
+ML Engineer,Lead,Banca,Spark,Alemania,Remoto,173000,52
+Data Scientist,Junior,E-commerce,Tableau,Portugal,Presencial,44000,111
+Frontend Developer,Senior,Telecom,PowerBI,Espana,Hibrido,75000,45
+Data Engineer,Junior,Consultoria,Spark,Espana,Presencial,49500,106
+Data Analyst,Senior,Consultoria,React,Francia,Presencial,84000,39
+Frontend Developer,Senior,Gaming,Tableau,Paises Bajos,Hibrido,90500,42
+Product Manager,Senior,Banca,Docker,Paises Bajos,Presencial,131500,43
+Data Analyst,Junior,Salud,Python,Espana,Hibrido,36000,106
+ML Engineer,Mid,Consultoria,Spark,Paises Bajos,Hibrido,94000,46
+DevOps Engineer,Senior,E-commerce,Java,Alemania,Remoto,119000,49
+Frontend Developer,Junior,Consultoria,Docker,Espana,Hibrido,37500,109
+DevOps Engineer,Junior,Salud,SQL,Espana,Hibrido,51500,109
+ML Engineer,Junior,E-commerce,Docker,Portugal,Presencial,46500,110
+Data Engineer,Lead,Salud,SQL,Espana,Remoto,136500,33
+Frontend Developer,Senior,Telecom,AWS,Paises Bajos,Presencial,80000,42
+Data Scientist,Mid,E-commerce,Spark,Reino Unido,Presencial,75000,50
+Data Scientist,Senior,Startups,AWS,Francia,Presencial,119500,40
+Backend Developer,Mid,Gaming,Docker,Francia,Hibrido,61000,40
+Frontend Developer,Mid,Telecom,Java,Paises Bajos,Hibrido,60000,38
+Data Analyst,Mid,Banca,React,Espana,Hibrido,43000,43
+Backend Developer,Mid,Telecom,Spark,Espana,Hibrido,59500,42
+Data Engineer,Junior,Consultoria,Docker,Reino Unido,Hibrido,73500,111
+Backend Developer,Senior,Gaming,AWS,Alemania,Hibrido,107000,43
+Product Manager,Senior,Telecom,PowerBI,Espana,Presencial,107000,57
+Data Analyst,Mid,E-commerce,Java,Espana,Hibrido,48500,41
+Product Manager,Mid,E-commerce,PowerBI,Espana,Hibrido,66500,41
+ML Engineer,Junior,Banca,PowerBI,Espana,Hibrido,53000,103
+DevOps Engineer,Lead,Gaming,Tableau,Espana,Presencial,138000,56
+ML Engineer,Senior,Telecom,PowerBI,Portugal,Hibrido,101000,64
+Data Engineer,Lead,Consultoria,Docker,Espana,Hibrido,109000,40
+DevOps Engineer,Mid,E-commerce,AWS,Portugal,Presencial,61500,43
+Frontend Developer,Junior,Consultoria,Tableau,Portugal,Presencial,35000,101
+Data Scientist,Junior,Consultoria,SQL,Espana,Hibrido,44000,99
+Frontend Developer,Junior,Startups,AWS,Francia,Hibrido,48000,113
+DevOps Engineer,Junior,Banca,Java,Reino Unido,Hibrido,68000,102
+ML Engineer,Junior,Consultoria,PowerBI,Francia,Presencial,61500,96
+Product Manager,Lead,Gaming,SQL,Espana,Remoto,114000,44
+Frontend Developer,Junior,E-commerce,Tableau,Espana,Presencial,33500,113
+Data Engineer,Junior,Startups,React,Espana,Hibrido,50000,121
+Data Analyst,Senior,Startups,SQL,Reino Unido,Remoto,95000,55
+Frontend Developer,Mid,Consultoria,Python,Portugal,Hibrido,41000,36
+Data Scientist,Senior,Telecom,AWS,Francia,Presencial,113000,50
+DevOps Engineer,Mid,Telecom,PowerBI,Francia,Hibrido,79500,42
+Backend Developer,Senior,Gaming,Spark,Portugal,Remoto,80500,48
+ML Engineer,Mid,E-commerce,React,Francia,Remoto,88500,43
+Data Scientist,Mid,Banca,React,Espana,Presencial,57000,46
+Frontend Developer,Senior,Consultoria,Tableau,Paises Bajos,Remoto,95000,46
+Data Scientist,Mid,Banca,AWS,Alemania,Hibrido,67500,47
+ML Engineer,Mid,Consultoria,Python,Espana,Presencial,76000,36
+DevOps Engineer,Mid,Gaming,React,Reino Unido,Hibrido,80000,36
+Product Manager,Junior,Gaming,Docker,Portugal,Hibrido,55000,105
+Product Manager,Senior,E-commerce,AWS,Espana,Hibrido,98000,53
+Product Manager,Junior,Banca,Tableau,Alemania,Remoto,82000,103
+Backend Developer,Junior,E-commerce,Java,Espana,Hibrido,39000,105
+Data Scientist,Junior,Salud,Java,Espana,Hibrido,46000,107
+DevOps Engineer,Senior,Telecom,SQL,Espana,Hibrido,102500,38
+DevOps Engineer,Mid,Consultoria,Java,Francia,Presencial,89500,55
+Product Manager,Senior,Consultoria,Docker,Paises Bajos,Hibrido,144500,53
+Frontend Developer,Senior,Salud,Java,Espana,Remoto,77000,57
+Data Scientist,Junior,Banca,Tableau,Espana,Hibrido,58500,117
+Backend Developer,Senior,E-commerce,Tableau,Espana,Presencial,77500,49
+ML Engineer,Junior,Banca,Spark,Espana,Hibrido,64000,129
+DevOps Engineer,Junior,Salud,PowerBI,Reino Unido,Remoto,68000,120
+ML Engineer,Senior,Salud,Spark,Francia,Remoto,136000,53
+Data Engineer,Senior,Gaming,AWS,Francia,Hibrido,85000,46
+Data Analyst,Junior,Gaming,Spark,Alemania,Hibrido,42500,112
+DevOps Engineer,Mid,Consultoria,AWS,Reino Unido,Hibrido,92500,45
+DevOps Engineer,Junior,Startups,AWS,Espana,Remoto,50000,110
+Data Analyst,Mid,Startups,Python,Espana,Remoto,53000,49
+ML Engineer,Mid,Banca,Java,Portugal,Remoto,75000,48
+ML Engineer,Mid,Startups,AWS,Paises Bajos,Hibrido,83500,49
+ML Engineer,Mid,E-commerce,Docker,Portugal,Presencial,58500,46
+Product Manager,Junior,E-commerce,SQL,Portugal,Hibrido,48000,109
+Data Scientist,Senior,Salud,Java,Francia,Presencial,96000,39
+Data Engineer,Senior,Banca,SQL,Portugal,Presencial,84000,44
+Data Scientist,Senior,Consultoria,Tableau,Alemania,Hibrido,113500,40
+Data Scientist,Junior,E-commerce,Tableau,Espana,Hibrido,48000,111
+Product Manager,Mid,Salud,Tableau,Espana,Remoto,86500,40
+Product Manager,Mid,Telecom,PowerBI,Espana,Remoto,69000,47
+Data Analyst,Junior,Startups,React,Espana,Remoto,46500,112
+Frontend Developer,Junior,E-commerce,Spark,Alemania,Remoto,47500,101
+Data Scientist,Mid,Salud,React,Francia,Hibrido,73500,47
+Data Scientist,Senior,Salud,SQL,Paises Bajos,Presencial,122500,38
+Data Engineer,Junior,Consultoria,Spark,Reino Unido,Hibrido,75000,118
+Data Scientist,Senior,Gaming,Spark,Espana,Presencial,86000,46
+ML Engineer,Mid,Startups,Docker,Francia,Presencial,89500,44
+Product Manager,Senior,Consultoria,SQL,Alemania,Presencial,132000,43
+Backend Developer,Mid,Banca,AWS,Espana,Remoto,55000,37
+Frontend Developer,Mid,Startups,AWS,Espana,Hibrido,53000,47
+ML Engineer,Mid,Startups,React,Espana,Remoto,90500,38
+Data Analyst,Lead,Consultoria,Tableau,Espana,Remoto,96000,48
+Data Analyst,Mid,Salud,Docker,Paises Bajos,Remoto,65500,40
+Data Engineer,Mid,Startups,Java,Francia,Presencial,82000,45
+Data Scientist,Mid,Salud,Java,Francia,Remoto,66000,34
+DevOps Engineer,Senior,Salud,Java,Espana,Remoto,109500,50
+DevOps Engineer,Junior,Startups,SQL,Paises Bajos,Remoto,63000,98
+DevOps Engineer,Mid,Telecom,Tableau,Francia,Presencial,75500,40
+Frontend Developer,Mid,Salud,PowerBI,Espana,Presencial,61000,45
+Backend Developer,Lead,E-commerce,SQL,Francia,Remoto,120500,51
+Frontend Developer,Mid,Salud,SQL,Alemania,Presencial,58000,47
+ML Engineer,Mid,Gaming,SQL,Alemania,Hibrido,100500,47
+Frontend Developer,Lead,E-commerce,React,Espana,Hibrido,81500,45
+DevOps Engineer,Mid,Salud,PowerBI,Reino Unido,Presencial,84500,43
+DevOps Engineer,Junior,Gaming,Spark,Espana,Presencial,61000,103
+Backend Developer,Junior,Banca,Java,Espana,Remoto,47000,107
+Data Analyst,Junior,Salud,Java,Espana,Remoto,34500,94
+Frontend Developer,Junior,Telecom,React,Portugal,Remoto,40000,100
+Data Engineer,Mid,E-commerce,Docker,Espana,Presencial,62500,55
+Frontend Developer,Senior,Salud,React,Alemania,Presencial,104500,38
+Backend Developer,Senior,Gaming,SQL,Espana,Hibrido,75000,51
+Product Manager,Junior,Banca,Java,Paises Bajos,Hibrido,75500,98
+Data Engineer,Mid,Gaming,AWS,Reino Unido,Presencial,99500,48
+Product Manager,Junior,E-commerce,AWS,Portugal,Remoto,49000,109
+DevOps Engineer,Lead,Consultoria,PowerBI,Espana,Remoto,127000,53
+Data Engineer,Junior,Gaming,PowerBI,Espana,Hibrido,54000,98
+ML Engineer,Mid,Banca,AWS,Reino Unido,Hibrido,85500,40
+Backend Developer,Mid,Banca,Docker,Alemania,Hibrido,70500,46
+DevOps Engineer,Mid,Salud,SQL,Paises Bajos,Presencial,81000,52
+Frontend Developer,Mid,Startups,Python,Paises Bajos,Presencial,59500,32
+DevOps Engineer,Senior,Banca,Python,Alemania,Hibrido,124000,44
+Data Engineer,Junior,Telecom,React,Portugal,Hibrido,47000,108
+Backend Developer,Senior,Banca,AWS,Reino Unido,Hibrido,105500,48
+ML Engineer,Mid,Salud,AWS,Espana,Remoto,71500,48
+Product Manager,Senior,Salud,PowerBI,Alemania,Presencial,120000,44
+Data Engineer,Senior,Salud,AWS,Espana,Presencial,93000,44
+Backend Developer,Lead,Banca,PowerBI,Paises Bajos,Presencial,120000,54
+Data Analyst,Junior,Telecom,Python,Espana,Presencial,36500,109
+DevOps Engineer,Junior,E-commerce,SQL,Espana,Hibrido,56000,111
+ML Engineer,Junior,Telecom,Docker,Reino Unido,Remoto,65000,90
+Data Engineer,Junior,Gaming,Tableau,Espana,Remoto,51000,107
+Backend Developer,Mid,Salud,SQL,Espana,Hibrido,53500,50
+ML Engineer,Lead,Consultoria,AWS,Francia,Hibrido,140000,34
+DevOps Engineer,Lead,Gaming,AWS,Espana,Presencial,142500,51
+Backend Developer,Mid,Startups,Spark,Alemania,Hibrido,69000,51
+Backend Developer,Mid,Startups,Spark,Espana,Hibrido,56000,43
+Data Analyst,Senior,Startups,Java,Espana,Remoto,70000,38
+Data Analyst,Lead,E-commerce,Python,Espana,Hibrido,86500,48
+ML Engineer,Junior,Gaming,Spark,Paises Bajos,Presencial,61500,110
+Product Manager,Mid,Consultoria,Tableau,Portugal,Presencial,62000,45
+Product Manager,Senior,Startups,Tableau,Espana,Presencial,92000,44
+Frontend Developer,Junior,Startups,React,Portugal,Remoto,37000,108
+Frontend Developer,Mid,Startups,Docker,Reino Unido,Presencial,48500,45
+ML Engineer,Lead,E-commerce,Spark,Francia,Presencial,135500,32
+Data Scientist,Lead,Consultoria,Tableau,Francia,Presencial,151000,49
+Data Analyst,Senior,Gaming,Python,Francia,Remoto,94500,42
+Data Engineer,Senior,Telecom,PowerBI,Paises Bajos,Hibrido,130000,51
+Data Engineer,Junior,Consultoria,SQL,Alemania,Hibrido,74000,104
+Data Scientist,Mid,Banca,Python,Reino Unido,Hibrido,86000,51
+Data Engineer,Mid,Banca,Java,Espana,Presencial,62000,53
+Data Analyst,Mid,Gaming,SQL,Espana,Remoto,45500,43
+Backend Developer,Mid,Salud,Tableau,Francia,Presencial,72500,46
+Product Manager,Mid,Salud,Python,Espana,Presencial,70500,56
+Frontend Developer,Mid,Telecom,Java,Espana,Hibrido,62500,33
+ML Engineer,Senior,Banca,Java,Espana,Presencial,100500,53
+ML Engineer,Mid,Telecom,PowerBI,Espana,Presencial,86000,45
+Data Engineer,Mid,E-commerce,React,Reino Unido,Remoto,88000,38
+Data Scientist,Junior,Startups,AWS,Reino Unido,Hibrido,73000,104
+Backend Developer,Junior,Startups,SQL,Alemania,Presencial,64500,112
+Backend Developer,Senior,Salud,SQL,Espana,Hibrido,71500,58
+Data Analyst,Mid,Consultoria,SQL,Alemania,Hibrido,57000,45
+ML Engineer,Junior,E-commerce,SQL,Alemania,Presencial,64500,103
+Data Engineer,Senior,E-commerce,Spark,Francia,Presencial,97500,49
+Data Scientist,Mid,Startups,SQL,Reino Unido,Hibrido,86000,43
+Frontend Developer,Junior,E-commerce,PowerBI,Alemania,Hibrido,49000,94
+Backend Developer,Junior,Salud,SQL,Alemania,Remoto,58500,103
+Frontend Developer,Junior,Salud,PowerBI,Portugal,Hibrido,38000,104
+Frontend Developer,Mid,Gaming,AWS,Francia,Presencial,48000,49
+Product Manager,Junior,Telecom,Java,Alemania,Hibrido,79000,126
+DevOps Engineer,Junior,Salud,Tableau,Alemania,Hibrido,65500,106
+Backend Developer,Junior,Telecom,Docker,Espana,Presencial,46500,112
+Product Manager,Mid,Salud,AWS,Portugal,Hibrido,67000,44
+ML Engineer,Junior,Salud,Spark,Espana,Presencial,65500,104
+Product Manager,Senior,E-commerce,PowerBI,Espana,Remoto,106500,44
+DevOps Engineer,Junior,E-commerce,PowerBI,Portugal,Remoto,41000,115
+Frontend Developer,Mid,Salud,AWS,Francia,Hibrido,59500,50
+Product Manager,Mid,Banca,PowerBI,Espana,Remoto,75500,51
+Backend Developer,Mid,Consultoria,Tableau,Espana,Remoto,52500,36
+Frontend Developer,Junior,Salud,Spark,Espana,Presencial,40500,111
+Data Engineer,Senior,Salud,Spark,Reino Unido,Hibrido,118000,37
+Product Manager,Senior,Telecom,Docker,Espana,Hibrido,88000,43
+Backend Developer,Junior,Startups,Java,Portugal,Presencial,42500,111
+DevOps Engineer,Junior,Telecom,Python,Portugal,Hibrido,46000,104
+ML Engineer,Senior,Banca,Docker,Reino Unido,Presencial,130000,46
+DevOps Engineer,Mid,Consultoria,Java,Reino Unido,Remoto,89500,49
+Data Analyst,Junior,Telecom,Python,Espana,Hibrido,43000,107
+Data Analyst,Junior,Gaming,Java,Espana,Remoto,40500,108
+Backend Developer,Mid,Salud,PowerBI,Francia,Hibrido,65500,55
+Frontend Developer,Senior,Salud,Docker,Espana,Presencial,69500,41
+DevOps Engineer,Mid,Consultoria,Tableau,Espana,Remoto,75500,52
+ML Engineer,Lead,Gaming,Tableau,Espana,Presencial,147000,41
+Frontend Developer,Mid,E-commerce,Spark,Espana,Presencial,53000,52
+Backend Developer,Junior,Salud,Spark,Alemania,Hibrido,59000,99
+Product Manager,Mid,E-commerce,PowerBI,Francia,Hibrido,87500,44
+Frontend Developer,Mid,Gaming,React,Paises Bajos,Hibrido,52500,37
+ML Engineer,Junior,Startups,Docker,Reino Unido,Presencial,68500,100
+Product Manager,Junior,Salud,Java,Paises Bajos,Hibrido,67000,110
+Data Analyst,Mid,Consultoria,PowerBI,Alemania,Presencial,55500,45
+Product Manager,Senior,Startups,Tableau,Paises Bajos,Presencial,110500,51
+Data Scientist,Junior,Gaming,AWS,Reino Unido,Hibrido,52500,107
+Data Engineer,Mid,Consultoria,Java,Espana,Presencial,56000,35
+DevOps Engineer,Mid,Banca,Spark,Portugal,Presencial,59500,51
+Frontend Developer,Mid,Banca,Spark,Espana,Hibrido,49500,46
+Product Manager,Senior,E-commerce,React,Espana,Hibrido,93500,50
+Frontend Developer,Senior,E-commerce,PowerBI,Espana,Presencial,73000,44
+Frontend Developer,Senior,Telecom,AWS,Alemania,Hibrido,86500,52
+Data Engineer,Junior,Salud,React,Alemania,Presencial,72000,113
+Data Analyst,Mid,Startups,Docker,Reino Unido,Remoto,65000,46
+Data Analyst,Mid,Salud,Spark,Paises Bajos,Presencial,62500,54
+Data Engineer,Junior,Startups,Tableau,Espana,Presencial,53000,105
+Data Analyst,Junior,Salud,Tableau,Reino Unido,Hibrido,43000,99
+Backend Developer,Junior,Consultoria,Java,Alemania,Presencial,54500,95
+DevOps Engineer,Mid,Telecom,Docker,Paises Bajos,Presencial,72500,47
+Product Manager,Mid,Salud,Tableau,Espana,Presencial,69000,53
+ML Engineer,Junior,E-commerce,React,Espana,Hibrido,53500,103
+Product Manager,Senior,Salud,PowerBI,Reino Unido,Hibrido,137000,48
+Product Manager,Lead,Gaming,React,Francia,Hibrido,128500,46
+DevOps Engineer,Junior,Consultoria,AWS,Paises Bajos,Remoto,70500,109
+ML Engineer,Lead,Gaming,AWS,Reino Unido,Hibrido,178000,44
+Data Engineer,Junior,Startups,AWS,Paises Bajos,Remoto,73500,98
+Product Manager,Lead,Consultoria,Docker,Alemania,Hibrido,145500,41
+Data Scientist,Lead,Consultoria,PowerBI,Espana,Remoto,118500,51
+ML Engineer,Junior,Consultoria,SQL,Espana,Hibrido,58500,106
+Data Analyst,Senior,Telecom,Python,Espana,Hibrido,80500,40
+DevOps Engineer,Lead,E-commerce,Tableau,Espana,Presencial,104500,47
+Frontend Developer,Senior,Startups,React,Alemania,Hibrido,82500,55
+Data Analyst,Lead,Consultoria,Tableau,Alemania,Presencial,138500,44
+Data Scientist,Mid,Telecom,PowerBI,Reino Unido,Hibrido,78500,43
+Backend Developer,Junior,Telecom,React,Alemania,Presencial,44500,103
+Backend Developer,Senior,Telecom,Tableau,Francia,Presencial,88500,51
+DevOps Engineer,Mid,Startups,Docker,Francia,Remoto,61500,52
+Data Engineer,Mid,E-commerce,PowerBI,Espana,Hibrido,66500,45
+Product Manager,Mid,Gaming,Java,Alemania,Hibrido,94500,53
+ML Engineer,Mid,Banca,React,Reino Unido,Hibrido,85000,37
+DevOps Engineer,Junior,Consultoria,PowerBI,Reino Unido,Hibrido,67500,100
+Data Scientist,Senior,Banca,Python,Espana,Remoto,104000,38
+Data Analyst,Junior,Gaming,AWS,Espana,Hibrido,31500,104
+Data Analyst,Senior,Gaming,SQL,Francia,Hibrido,71500,45
+Data Engineer,Senior,Telecom,Tableau,Francia,Hibrido,108500,55
+Product Manager,Mid,E-commerce,SQL,Espana,Hibrido,64500,49
+Data Analyst,Mid,Consultoria,Tableau,Alemania,Hibrido,58000,52
+Data Engineer,Junior,Gaming,AWS,Paises Bajos,Remoto,58500,101
+Data Analyst,Lead,Telecom,Python,Espana,Hibrido,88500,44
+Product Manager,Senior,Startups,SQL,Paises Bajos,Hibrido,122000,51
+Frontend Developer,Mid,Banca,Tableau,Espana,Hibrido,52500,41
+DevOps Engineer,Junior,Consultoria,Python,Reino Unido,Hibrido,72000,107
+Frontend Developer,Junior,Banca,React,Alemania,Remoto,54000,102
+Frontend Developer,Mid,Telecom,Java,Espana,Hibrido,43000,44
+DevOps Engineer,Lead,Banca,Java,Portugal,Hibrido,115500,45
+Data Analyst,Senior,Telecom,SQL,Alemania,Hibrido,84000,47
+DevOps Engineer,Junior,E-commerce,React,Portugal,Hibrido,48000,114
+Frontend Developer,Senior,Banca,PowerBI,Espana,Presencial,80000,36
+Frontend Developer,Mid,Startups,AWS,Paises Bajos,Hibrido,56500,52
+ML Engineer,Senior,Salud,Python,Portugal,Remoto,113000,65
+DevOps Engineer,Junior,Consultoria,Tableau,Reino Unido,Hibrido,81000,106
+ML Engineer,Mid,Gaming,React,Espana,Presencial,77500,41
+Data Analyst,Lead,E-commerce,Python,Francia,Hibrido,92000,54
+Product Manager,Junior,Gaming,Python,Reino Unido,Hibrido,57000,100
+Data Scientist,Senior,Salud,AWS,Portugal,Presencial,89500,32
+Data Analyst,Lead,E-commerce,Tableau,Alemania,Hibrido,109000,47
+Backend Developer,Junior,Consultoria,Tableau,Espana,Hibrido,40500,101
+Data Scientist,Junior,Banca,AWS,Espana,Remoto,58500,118
+DevOps Engineer,Senior,Consultoria,Spark,Francia,Presencial,106500,47
+ML Engineer,Mid,Gaming,Python,Portugal,Presencial,62000,49
+Data Analyst,Junior,Banca,Python,Espana,Hibrido,40500,93
+Product Manager,Mid,Banca,Python,Francia,Presencial,73500,50
+Backend Developer,Senior,Gaming,Java,Portugal,Hibrido,71000,42
+Data Engineer,Junior,Consultoria,React,Espana,Remoto,61000,95
+Frontend Developer,Mid,Banca,AWS,Espana,Presencial,51000,44
+Backend Developer,Senior,Telecom,Python,Francia,Hibrido,106000,48
+Data Analyst,Mid,Telecom,AWS,Francia,Remoto,67000,45
+DevOps Engineer,Senior,Banca,Docker,Espana,Hibrido,98500,44
+ML Engineer,Mid,E-commerce,Spark,Paises Bajos,Hibrido,67500,28
+Frontend Developer,Lead,Consultoria,Tableau,Reino Unido,Hibrido,104000,49
+Product Manager,Mid,Telecom,Tableau,Portugal,Presencial,68000,33
+Backend Developer,Junior,Banca,Spark,Paises Bajos,Presencial,45500,109
+Frontend Developer,Senior,Telecom,AWS,Paises Bajos,Hibrido,85500,50
+Data Engineer,Mid,Consultoria,Tableau,Reino Unido,Hibrido,87500,48
+Data Scientist,Junior,Banca,Tableau,Espana,Presencial,57000,112
+ML Engineer,Junior,Startups,Java,Reino Unido,Presencial,70500,116
+DevOps Engineer,Senior,Banca,PowerBI,Espana,Remoto,98000,45
+Backend Developer,Junior,Banca,Python,Francia,Presencial,51500,103
+Data Engineer,Junior,Startups,Python,Espana,Hibrido,54000,100
+DevOps Engineer,Junior,Salud,AWS,Reino Unido,Hibrido,69500,109
+DevOps Engineer,Mid,Salud,Docker,Espana,Hibrido,75000,45
+Product Manager,Mid,Gaming,Python,Espana,Presencial,64500,50
+Data Engineer,Mid,Gaming,Python,Espana,Presencial,66000,39
+Frontend Developer,Junior,Gaming,Java,Reino Unido,Hibrido,54500,100
+Backend Developer,Junior,Banca,Tableau,Paises Bajos,Hibrido,51500,97
+ML Engineer,Mid,Salud,Spark,Espana,Presencial,78000,46
+ML Engineer,Mid,E-commerce,SQL,Paises Bajos,Hibrido,89000,45
+Data Analyst,Mid,Telecom,PowerBI,Paises Bajos,Hibrido,63000,51
+Data Engineer,Junior,Salud,Tableau,Alemania,Presencial,66500,113
+Backend Developer,Junior,Banca,PowerBI,Francia,Hibrido,54000,99
+Product Manager,Junior,Startups,Spark,Alemania,Presencial,65500,113
+DevOps Engineer,Mid,E-commerce,Tableau,Espana,Hibrido,63500,31
+Data Scientist,Mid,E-commerce,React,Reino Unido,Presencial,90500,44
+Frontend Developer,Senior,Startups,Spark,Espana,Hibrido,77000,63
+Data Analyst,Mid,Telecom,AWS,Paises Bajos,Hibrido,52500,50
+Frontend Developer,Mid,Startups,SQL,Portugal,Hibrido,46000,35
+Data Engineer,Mid,Gaming,PowerBI,Paises Bajos,Hibrido,60500,41
+ML Engineer,Junior,Startups,Python,Reino Unido,Remoto,75000,104
+Frontend Developer,Mid,Banca,Spark,Reino Unido,Hibrido,71000,32
+ML Engineer,Mid,Gaming,Java,Portugal,Remoto,68000,57
+DevOps Engineer,Mid,Consultoria,Python,Espana,Presencial,69000,47
+Backend Developer,Junior,Consultoria,Docker,Espana,Hibrido,30500,123
+Product Manager,Senior,E-commerce,AWS,Reino Unido,Presencial,127000,47
+Frontend Developer,Lead,E-commerce,AWS,Espana,Hibrido,93000,48
+Data Engineer,Junior,Salud,Tableau,Espana,Hibrido,54500,102
+DevOps Engineer,Mid,Startups,PowerBI,Espana,Remoto,79000,38
+ML Engineer,Senior,Gaming,Tableau,Reino Unido,Hibrido,133000,56
+Backend Developer,Junior,Consultoria,React,Espana,Hibrido,43500,102
+Data Scientist,Senior,Salud,Docker,Espana,Presencial,78000,51
+Data Analyst,Mid,Salud,SQL,Espana,Presencial,47000,45
+Backend Developer,Lead,E-commerce,Java,Alemania,Remoto,114500,36
+Data Scientist,Lead,Salud,Spark,Paises Bajos,Presencial,111000,47
+Product Manager,Junior,Gaming,Docker,Espana,Presencial,50000,116
+DevOps Engineer,Mid,E-commerce,Spark,Francia,Remoto,98000,57
+Frontend Developer,Mid,Gaming,Spark,Francia,Remoto,61000,44
+Frontend Developer,Junior,Gaming,Java,Espana,Hibrido,41000,112
+Backend Developer,Mid,Salud,React,Paises Bajos,Hibrido,63500,39
+Data Analyst,Lead,Consultoria,SQL,Francia,Remoto,88500,58
+ML Engineer,Junior,Salud,PowerBI,Reino Unido,Presencial,82000,106
+ML Engineer,Mid,Telecom,AWS,Espana,Hibrido,56500,49
+Product Manager,Senior,E-commerce,PowerBI,Espana,Hibrido,96000,36
+Data Scientist,Mid,Gaming,PowerBI,Portugal,Remoto,59000,59
+ML Engineer,Mid,Gaming,Docker,Paises Bajos,Remoto,95500,43
+Data Engineer,Lead,Consultoria,Docker,Portugal,Hibrido,97500,54
+Data Scientist,Mid,Consultoria,PowerBI,Portugal,Presencial,45500,43
+Data Analyst,Junior,Startups,Java,Espana,Hibrido,35500,100
+Data Engineer,Junior,Consultoria,Docker,Paises Bajos,Presencial,58500,99
+Data Analyst,Lead,Gaming,SQL,Alemania,Remoto,105500,46
+Data Analyst,Junior,E-commerce,Java,Paises Bajos,Presencial,51500,100
+Data Engineer,Mid,Startups,Java,Espana,Presencial,57000,36
+Data Scientist,Junior,Gaming,SQL,Espana,Hibrido,51000,99
+Backend Developer,Mid,Telecom,React,Francia,Hibrido,66000,55
+Data Analyst,Lead,Gaming,Java,Paises Bajos,Remoto,122500,49
+Data Engineer,Mid,Consultoria,AWS,Reino Unido,Presencial,83500,38
+ML Engineer,Lead,Consultoria,Tableau,Espana,Remoto,148000,52
+Product Manager,Junior,Gaming,Tableau,Espana,Presencial,55000,111
+Frontend Developer,Mid,Startups,Docker,Portugal,Presencial,47000,56
+Product Manager,Senior,Banca,Docker,Alemania,Hibrido,108000,36
+Data Engineer,Mid,Telecom,React,Alemania,Presencial,60000,48
+ML Engineer,Junior,Telecom,PowerBI,Reino Unido,Hibrido,77500,114
+ML Engineer,Senior,Banca,Python,Alemania,Presencial,136000,53
+Product Manager,Mid,Banca,Docker,Reino Unido,Presencial,95500,46
+Product Manager,Mid,Gaming,SQL,Alemania,Hibrido,83000,43
+Product Manager,Lead,Telecom,SQL,Paises Bajos,Presencial,176500,49
+DevOps Engineer,Junior,Consultoria,Python,Portugal,Hibrido,46500,111
+Backend Developer,Junior,Gaming,Docker,Portugal,Hibrido,41500,109
+Backend Developer,Junior,Startups,Tableau,Reino Unido,Presencial,60500,112
+Product Manager,Mid,Consultoria,Spark,Alemania,Remoto,108500,58
+Data Engineer,Junior,E-commerce,Python,Francia,Presencial,59500,106
+Data Engineer,Senior,Startups,AWS,Paises Bajos,Hibrido,107500,56
+Product Manager,Junior,E-commerce,Java,Reino Unido,Presencial,62000,104
+ML Engineer,Senior,Salud,Docker,Francia,Remoto,151000,41
+Data Scientist,Junior,Salud,Tableau,Francia,Hibrido,61000,101
+Backend Developer,Mid,Salud,PowerBI,Francia,Hibrido,68000,44
+Data Engineer,Mid,E-commerce,React,Francia,Remoto,106500,40
+Product Manager,Senior,Gaming,Docker,Espana,Hibrido,105000,42
+Product Manager,Mid,Gaming,Spark,Alemania,Remoto,80500,43
+Data Engineer,Mid,E-commerce,Docker,Reino Unido,Hibrido,83000,50
+Backend Developer,Senior,Salud,Tableau,Espana,Remoto,76500,33
+Product Manager,Mid,Banca,Docker,Paises Bajos,Remoto,87000,46
+Frontend Developer,Junior,E-commerce,SQL,Reino Unido,Remoto,53000,100
+Data Scientist,Senior,Startups,Python,Espana,Presencial,84500,42
+Backend Developer,Mid,Salud,React,Paises Bajos,Remoto,61000,44
+Backend Developer,Junior,Gaming,Java,Francia,Remoto,64000,103
+Frontend Developer,Mid,Startups,SQL,Francia,Hibrido,61000,36
+Data Analyst,Junior,Gaming,Docker,Alemania,Presencial,47000,101
+Data Engineer,Junior,Telecom,Python,Paises Bajos,Remoto,72500,105

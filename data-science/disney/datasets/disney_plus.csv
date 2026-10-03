@@ -1,0 +1,2593 @@
+mes,titulo,franquicia,tipo,presupuesto_m_usd,imdb,region,horas_vistas,espectadores,completado_pct
+2023-01,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,1584285,178939,73.9
+2023-01,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,4184952,1110455,59.2
+2023-01,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,7624241,890620,73.0
+2023-01,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,7968185,1407685,59.1
+2023-02,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,10134670,2995849,85.2
+2023-02,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,5178672,686050,61.8
+2023-02,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,10032678,1200263,65.6
+2023-02,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,2439899,420648,77.5
+2023-03,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,10497611,1478892,100.0
+2023-03,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,3893690,785817,59.8
+2023-03,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,6175550,1492822,70.3
+2023-03,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,1651260,378602,81.8
+2023-04,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,13674940,1710207,54.4
+2023-04,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,8322917,1041202,75.5
+2023-04,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,4141935,875679,85.1
+2023-04,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,3867236,920891,73.0
+2023-05,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,9509175,1360571,50.1
+2023-05,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,4173489,725383,62.4
+2023-05,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,3027389,821058,59.0
+2023-05,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,7016654,1097824,67.0
+2023-06,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,8594858,1359628,82.7
+2023-06,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,10167203,3192307,65.1
+2023-06,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,7494693,1374877,52.9
+2023-06,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,1306084,389897,79.5
+2023-07,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,8456220,1212970,65.6
+2023-07,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,6118525,875841,67.4
+2023-07,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,5437039,1358635,66.6
+2023-07,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,2382793,324889,79.3
+2023-08,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,5183289,862979,79.2
+2023-08,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,7703805,1357035,70.5
+2023-08,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,2689017,396511,46.7
+2023-08,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,1016102,274027,57.0
+2023-09,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,10389348,1443317,66.3
+2023-09,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,15239215,1986211,83.1
+2023-09,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,1787682,385820,57.7
+2023-09,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,2465605,429948,46.1
+2023-10,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,10681364,1649550,63.1
+2023-10,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,1694932,224461,64.1
+2023-10,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,4544671,671905,96.0
+2023-10,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,2670269,761483,74.7
+2023-11,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,8997610,1508667,84.5
+2023-11,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,7170578,1980594,54.2
+2023-11,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,2261465,264476,66.2
+2023-11,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,1074993,164234,68.7
+2023-12,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,2326387,394716,76.7
+2023-12,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,10538030,1780087,100.0
+2023-12,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,5255851,817348,40.0
+2023-12,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,4006159,802931,65.8
+2024-01,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,4624111,1477506,88.0
+2024-01,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,6111231,1590847,56.5
+2024-01,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,988139,140491,71.2
+2024-01,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,13303241,1747693,86.7
+2024-02,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,5060803,1155095,57.5
+2024-02,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,3017137,577383,59.7
+2024-02,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,7378761,1504999,86.0
+2024-02,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,4400088,722469,71.4
+2024-03,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,4468851,1120673,65.2
+2024-03,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,2021833,225795,74.6
+2024-03,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,13344275,1599121,70.2
+2024-03,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,4064638,830267,75.3
+2024-04,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,5431524,1036165,78.4
+2024-04,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,18413686,4025057,53.6
+2024-04,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,1262744,337944,97.9
+2024-04,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,2801201,687308,93.9
+2024-05,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,3112185,640111,81.6
+2024-05,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,3930652,654623,69.5
+2024-05,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,4942514,1128959,73.4
+2024-05,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,5413061,1450835,71.3
+2024-06,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,3843477,592516,58.8
+2024-06,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,4125514,565724,52.1
+2024-06,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,3866383,1033095,79.3
+2024-06,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,2195320,456816,87.0
+2024-07,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,11605208,1328778,69.7
+2024-07,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,3088653,980787,75.6
+2024-07,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,4345206,1195253,73.4
+2024-07,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,3881596,441221,100.0
+2024-08,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,3812812,487187,50.0
+2024-08,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,3359942,1081403,90.1
+2024-08,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,2105488,270596,39.8
+2024-08,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,2839224,427845,64.1
+2024-09,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,3741449,541330,45.6
+2024-09,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,1666712,371450,52.7
+2024-09,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,1568917,198611,100.0
+2024-09,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,1266694,192899,77.1
+2024-10,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,30081783,6187110,68.3
+2024-10,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,10037815,2513733,66.4
+2024-10,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,3389749,917899,68.4
+2024-10,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,2613143,645563,63.7
+2024-11,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,11003269,1553193,74.3
+2024-11,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,7141298,1184853,72.0
+2024-11,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,2118202,649585,70.5
+2024-11,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,17256665,2684861,77.8
+2024-12,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Norteamerica,4098069,781822,75.9
+2024-12,The Mandalorian,National Geographic,Pelicula,306.2,7.9,Europa,2213467,276657,75.9
+2024-12,The Mandalorian,National Geographic,Pelicula,306.2,7.9,LatAm,5539638,1541066,85.9
+2024-12,The Mandalorian,National Geographic,Pelicula,306.2,7.9,APAC,4651548,523974,64.9
+2023-01,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,6168031,1013589,94.1
+2023-01,Loki,National Geographic,Serie,281.5,7.0,Europa,691537,130219,74.6
+2023-01,Loki,National Geographic,Serie,281.5,7.0,LatAm,4780808,1245452,45.6
+2023-01,Loki,National Geographic,Serie,281.5,7.0,APAC,4204099,956472,49.0
+2023-02,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,15059726,3033193,71.1
+2023-02,Loki,National Geographic,Serie,281.5,7.0,Europa,2321400,485520,91.5
+2023-02,Loki,National Geographic,Serie,281.5,7.0,LatAm,6013089,1021685,89.7
+2023-02,Loki,National Geographic,Serie,281.5,7.0,APAC,4594836,567869,78.6
+2023-03,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,14634067,2361729,73.0
+2023-03,Loki,National Geographic,Serie,281.5,7.0,Europa,3084996,416364,54.3
+2023-03,Loki,National Geographic,Serie,281.5,7.0,LatAm,7054705,864090,73.1
+2023-03,Loki,National Geographic,Serie,281.5,7.0,APAC,8253699,2311588,99.3
+2023-04,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,13539095,1571455,71.0
+2023-04,Loki,National Geographic,Serie,281.5,7.0,Europa,2110413,270381,94.7
+2023-04,Loki,National Geographic,Serie,281.5,7.0,LatAm,6282962,808546,56.8
+2023-04,Loki,National Geographic,Serie,281.5,7.0,APAC,3319750,507571,61.9
+2023-05,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,9684912,1515705,81.1
+2023-05,Loki,National Geographic,Serie,281.5,7.0,Europa,861963,140481,73.1
+2023-05,Loki,National Geographic,Serie,281.5,7.0,LatAm,5253669,882536,41.1
+2023-05,Loki,National Geographic,Serie,281.5,7.0,APAC,2015326,541987,48.3
+2023-06,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,24574784,3537375,84.7
+2023-06,Loki,National Geographic,Serie,281.5,7.0,Europa,3413487,485740,88.0
+2023-06,Loki,National Geographic,Serie,281.5,7.0,LatAm,4545405,600038,76.1
+2023-06,Loki,National Geographic,Serie,281.5,7.0,APAC,1620909,331702,69.7
+2023-07,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,10254091,1190016,56.1
+2023-07,Loki,National Geographic,Serie,281.5,7.0,Europa,4876765,660977,60.8
+2023-07,Loki,National Geographic,Serie,281.5,7.0,LatAm,1954265,254401,84.7
+2023-07,Loki,National Geographic,Serie,281.5,7.0,APAC,3263514,365873,84.9
+2023-08,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,14796900,3987446,100.0
+2023-08,Loki,National Geographic,Serie,281.5,7.0,Europa,4573871,1225736,96.1
+2023-08,Loki,National Geographic,Serie,281.5,7.0,LatAm,2616022,851066,91.6
+2023-08,Loki,National Geographic,Serie,281.5,7.0,APAC,897498,188069,48.0
+2023-09,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,3997433,830796,79.9
+2023-09,Loki,National Geographic,Serie,281.5,7.0,Europa,6722827,1835067,37.3
+2023-09,Loki,National Geographic,Serie,281.5,7.0,LatAm,3940459,837780,78.9
+2023-09,Loki,National Geographic,Serie,281.5,7.0,APAC,5670213,630399,62.1
+2023-10,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,8427960,2379002,75.4
+2023-10,Loki,National Geographic,Serie,281.5,7.0,Europa,8236217,1852930,69.3
+2023-10,Loki,National Geographic,Serie,281.5,7.0,LatAm,4416004,1054133,66.1
+2023-10,Loki,National Geographic,Serie,281.5,7.0,APAC,4906680,1525245,70.2
+2023-11,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,14652000,2208105,52.6
+2023-11,Loki,National Geographic,Serie,281.5,7.0,Europa,1646647,203378,61.8
+2023-11,Loki,National Geographic,Serie,281.5,7.0,LatAm,6871357,802094,75.0
+2023-11,Loki,National Geographic,Serie,281.5,7.0,APAC,7729450,962825,71.0
+2023-12,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,22283141,3286564,59.4
+2023-12,Loki,National Geographic,Serie,281.5,7.0,Europa,3350029,452234,58.7
+2023-12,Loki,National Geographic,Serie,281.5,7.0,LatAm,2833183,390276,97.8
+2023-12,Loki,National Geographic,Serie,281.5,7.0,APAC,1070278,321694,56.4
+2024-01,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,11031108,1328269,44.5
+2024-01,Loki,National Geographic,Serie,281.5,7.0,Europa,11326295,3190212,64.0
+2024-01,Loki,National Geographic,Serie,281.5,7.0,LatAm,1603217,278754,78.4
+2024-01,Loki,National Geographic,Serie,281.5,7.0,APAC,2779492,431968,77.4
+2024-02,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,21703879,4514065,49.8
+2024-02,Loki,National Geographic,Serie,281.5,7.0,Europa,12657720,1835676,88.7
+2024-02,Loki,National Geographic,Serie,281.5,7.0,LatAm,5126976,847417,77.2
+2024-02,Loki,National Geographic,Serie,281.5,7.0,APAC,15401637,4145456,73.0
+2024-03,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,8577256,1776481,59.3
+2024-03,Loki,National Geographic,Serie,281.5,7.0,Europa,7035338,1033426,76.7
+2024-03,Loki,National Geographic,Serie,281.5,7.0,LatAm,1936959,449851,40.9
+2024-03,Loki,National Geographic,Serie,281.5,7.0,APAC,1322807,411274,67.6
+2024-04,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,35543120,8164155,57.6
+2024-04,Loki,National Geographic,Serie,281.5,7.0,Europa,7118209,986993,67.7
+2024-04,Loki,National Geographic,Serie,281.5,7.0,LatAm,4375737,893502,66.9
+2024-04,Loki,National Geographic,Serie,281.5,7.0,APAC,7574179,1355312,72.1
+2024-05,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,60286045,9921284,93.5
+2024-05,Loki,National Geographic,Serie,281.5,7.0,Europa,5799116,680141,71.1
+2024-05,Loki,National Geographic,Serie,281.5,7.0,LatAm,3291977,422090,78.5
+2024-05,Loki,National Geographic,Serie,281.5,7.0,APAC,1636294,274322,81.2
+2024-06,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,12851105,1596022,77.5
+2024-06,Loki,National Geographic,Serie,281.5,7.0,Europa,4286585,856498,67.4
+2024-06,Loki,National Geographic,Serie,281.5,7.0,LatAm,7974525,1069522,67.0
+2024-06,Loki,National Geographic,Serie,281.5,7.0,APAC,657713,80807,92.5
+2024-07,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,15442287,2337954,49.5
+2024-07,Loki,National Geographic,Serie,281.5,7.0,Europa,503015,57483,100.0
+2024-07,Loki,National Geographic,Serie,281.5,7.0,LatAm,5342650,1098007,79.0
+2024-07,Loki,National Geographic,Serie,281.5,7.0,APAC,927648,174139,73.5
+2024-08,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,7043330,1655561,77.2
+2024-08,Loki,National Geographic,Serie,281.5,7.0,Europa,9199510,2302501,85.5
+2024-08,Loki,National Geographic,Serie,281.5,7.0,LatAm,13887151,2191848,58.7
+2024-08,Loki,National Geographic,Serie,281.5,7.0,APAC,9414878,2445692,93.1
+2024-09,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,5295900,1521681,74.0
+2024-09,Loki,National Geographic,Serie,281.5,7.0,Europa,6626471,1139359,66.6
+2024-09,Loki,National Geographic,Serie,281.5,7.0,LatAm,1776982,210477,78.8
+2024-09,Loki,National Geographic,Serie,281.5,7.0,APAC,924092,194449,63.9
+2024-10,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,18900942,3171437,60.2
+2024-10,Loki,National Geographic,Serie,281.5,7.0,Europa,1398380,173463,75.7
+2024-10,Loki,National Geographic,Serie,281.5,7.0,LatAm,3268833,465564,69.6
+2024-10,Loki,National Geographic,Serie,281.5,7.0,APAC,3805222,731822,82.6
+2024-11,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,12821128,1589355,80.3
+2024-11,Loki,National Geographic,Serie,281.5,7.0,Europa,6832043,842204,70.7
+2024-11,Loki,National Geographic,Serie,281.5,7.0,LatAm,2951011,452418,56.5
+2024-11,Loki,National Geographic,Serie,281.5,7.0,APAC,1194928,199390,64.3
+2024-12,Loki,National Geographic,Serie,281.5,7.0,Norteamerica,3705891,687381,77.0
+2024-12,Loki,National Geographic,Serie,281.5,7.0,Europa,5614783,1381237,85.5
+2024-12,Loki,National Geographic,Serie,281.5,7.0,LatAm,6816489,2164694,62.2
+2024-12,Loki,National Geographic,Serie,281.5,7.0,APAC,5014863,1035014,50.3
+2023-01,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,3063223,455691,90.7
+2023-01,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,5724984,679929,35.9
+2023-01,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,1944686,252818,55.9
+2023-01,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,7445019,1006834,54.4
+2023-02,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,5019624,724895,96.2
+2023-02,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,2635187,557196,99.3
+2023-02,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,1308356,403106,65.6
+2023-02,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,2771967,310994,75.6
+2023-03,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,2371105,433517,63.3
+2023-03,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,19422097,3066919,62.5
+2023-03,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,7561609,952883,78.7
+2023-03,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,1091497,331541,56.5
+2023-04,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,11840748,1626577,78.7
+2023-04,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,3675078,494188,82.7
+2023-04,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,5950613,1350199,93.8
+2023-04,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,2955022,976221,76.0
+2023-05,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,5975054,1880341,64.0
+2023-05,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,5040690,717058,56.4
+2023-05,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,711737,139880,100.0
+2023-05,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,3039863,464674,67.3
+2023-06,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,7801746,937783,55.3
+2023-06,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,11139558,2205171,49.6
+2023-06,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,8580877,954230,74.6
+2023-06,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,3209669,840023,81.2
+2023-07,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,2456625,458820,66.1
+2023-07,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,30726138,8072651,97.0
+2023-07,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,2028276,481561,76.8
+2023-07,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,2097592,308141,90.2
+2023-08,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,7570753,864709,71.7
+2023-08,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,3403877,723114,70.8
+2023-08,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,1253145,253055,79.2
+2023-08,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,2767247,371247,83.8
+2023-09,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,12197386,2543082,52.2
+2023-09,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,13674052,3477058,100.0
+2023-09,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,6864269,885501,69.5
+2023-09,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,8080459,1379496,90.8
+2023-10,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,6464124,819505,64.5
+2023-10,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,4945745,1203029,83.9
+2023-10,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,16262767,2350949,65.6
+2023-10,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,5404813,965518,86.3
+2023-11,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,1619154,447525,60.3
+2023-11,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,1094796,322645,58.3
+2023-11,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,4175754,856491,68.3
+2023-11,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,1842967,347269,87.7
+2023-12,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,4493171,1059179,80.4
+2023-12,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,5868651,1067093,71.8
+2023-12,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,8597828,1051517,71.8
+2023-12,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,3551876,598259,48.5
+2024-01,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,16978115,2209688,56.7
+2024-01,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,6487716,1314648,37.8
+2024-01,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,1481222,208636,93.9
+2024-01,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,5270354,614095,54.9
+2024-02,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,4005615,551028,72.9
+2024-02,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,10868239,2838229,76.2
+2024-02,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,5565985,1347718,84.1
+2024-02,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,1150423,171171,87.0
+2024-03,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,25368443,3878271,44.1
+2024-03,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,7584309,934003,99.0
+2024-03,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,7412863,970571,58.6
+2024-03,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,4242654,498387,56.8
+2024-04,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,50518038,5671151,89.0
+2024-04,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,3354066,683054,81.6
+2024-04,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,6988145,1625855,81.5
+2024-04,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,7599173,2190815,77.1
+2024-05,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,2354755,756133,63.7
+2024-05,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,2516781,347211,97.9
+2024-05,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,14549479,1744517,92.3
+2024-05,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,4244697,1099004,55.6
+2024-06,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,13476116,2229758,52.5
+2024-06,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,6725431,2169858,99.0
+2024-06,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,10029687,2666434,75.7
+2024-06,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,4355319,700527,55.8
+2024-07,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,8692707,2631666,53.2
+2024-07,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,10546891,1510642,45.2
+2024-07,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,4446116,676289,87.9
+2024-07,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,9551493,2112233,59.3
+2024-08,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,4122117,766620,77.7
+2024-08,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,19623318,3065364,70.0
+2024-08,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,1812693,328646,75.3
+2024-08,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,3576417,459920,75.8
+2024-09,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,6554551,1838876,76.7
+2024-09,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,5079737,715910,76.1
+2024-09,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,1971186,484243,93.6
+2024-09,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,1659247,285152,44.1
+2024-10,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,10040369,1903634,70.2
+2024-10,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,18508046,2505551,77.9
+2024-10,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,17104290,4714925,66.3
+2024-10,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,2301853,295541,67.1
+2024-11,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,30732298,4118726,67.0
+2024-11,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,32165738,6111826,98.3
+2024-11,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,4551877,848000,77.5
+2024-11,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,53469480,8243910,61.4
+2024-12,Ahsoka,Marvel,Pelicula,257.9,7.3,Norteamerica,21296106,2472758,64.7
+2024-12,Ahsoka,Marvel,Pelicula,257.9,7.3,Europa,14494000,2753819,76.2
+2024-12,Ahsoka,Marvel,Pelicula,257.9,7.3,LatAm,4959807,1247050,78.4
+2024-12,Ahsoka,Marvel,Pelicula,257.9,7.3,APAC,892663,102259,57.3
+2023-01,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,19070667,4634881,65.9
+2023-01,Elemental,Marvel,Serie,313.1,6.5,Europa,4388354,963068,76.2
+2023-01,Elemental,Marvel,Serie,313.1,6.5,LatAm,2189918,250105,72.9
+2023-01,Elemental,Marvel,Serie,313.1,6.5,APAC,925400,252554,71.8
+2023-02,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,8219851,1083152,71.6
+2023-02,Elemental,Marvel,Serie,313.1,6.5,Europa,8392190,942158,55.3
+2023-02,Elemental,Marvel,Serie,313.1,6.5,LatAm,1920530,559769,76.3
+2023-02,Elemental,Marvel,Serie,313.1,6.5,APAC,11381463,1801608,34.5
+2023-03,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,2509620,374540,63.6
+2023-03,Elemental,Marvel,Serie,313.1,6.5,Europa,5053811,1118215,67.3
+2023-03,Elemental,Marvel,Serie,313.1,6.5,LatAm,11354912,1745468,59.1
+2023-03,Elemental,Marvel,Serie,313.1,6.5,APAC,6166482,1179619,77.8
+2023-04,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,10647961,1394786,95.8
+2023-04,Elemental,Marvel,Serie,313.1,6.5,Europa,4259227,1143744,68.6
+2023-04,Elemental,Marvel,Serie,313.1,6.5,LatAm,1765732,384922,55.9
+2023-04,Elemental,Marvel,Serie,313.1,6.5,APAC,2303946,420320,80.3
+2023-05,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,5963107,821198,89.4
+2023-05,Elemental,Marvel,Serie,313.1,6.5,Europa,22107017,3574236,92.5
+2023-05,Elemental,Marvel,Serie,313.1,6.5,LatAm,1089305,274555,59.0
+2023-05,Elemental,Marvel,Serie,313.1,6.5,APAC,4624687,603417,69.5
+2023-06,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,44215077,7156310,78.2
+2023-06,Elemental,Marvel,Serie,313.1,6.5,Europa,5818475,1535003,72.1
+2023-06,Elemental,Marvel,Serie,313.1,6.5,LatAm,7020525,1191497,96.7
+2023-06,Elemental,Marvel,Serie,313.1,6.5,APAC,5385575,851272,54.7
+2023-07,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,9143329,2874964,85.0
+2023-07,Elemental,Marvel,Serie,313.1,6.5,Europa,8299053,1683651,79.4
+2023-07,Elemental,Marvel,Serie,313.1,6.5,LatAm,12812532,2371502,66.7
+2023-07,Elemental,Marvel,Serie,313.1,6.5,APAC,5499741,615760,77.7
+2023-08,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,529721,91133,78.8
+2023-08,Elemental,Marvel,Serie,313.1,6.5,Europa,10266407,2033627,61.3
+2023-08,Elemental,Marvel,Serie,313.1,6.5,LatAm,14681842,1890347,100.0
+2023-08,Elemental,Marvel,Serie,313.1,6.5,APAC,4197512,540790,96.3
+2023-09,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,10893296,1935575,70.4
+2023-09,Elemental,Marvel,Serie,313.1,6.5,Europa,6809816,760006,68.2
+2023-09,Elemental,Marvel,Serie,313.1,6.5,LatAm,2708581,471092,72.5
+2023-09,Elemental,Marvel,Serie,313.1,6.5,APAC,3352785,493514,75.3
+2023-10,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,16067157,3269045,56.4
+2023-10,Elemental,Marvel,Serie,313.1,6.5,Europa,16955581,2436248,50.7
+2023-10,Elemental,Marvel,Serie,313.1,6.5,LatAm,6995233,804015,49.0
+2023-10,Elemental,Marvel,Serie,313.1,6.5,APAC,5051137,714591,77.6
+2023-11,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,16263301,2854314,77.0
+2023-11,Elemental,Marvel,Serie,313.1,6.5,Europa,5500053,790240,85.1
+2023-11,Elemental,Marvel,Serie,313.1,6.5,LatAm,16016162,3081208,91.7
+2023-11,Elemental,Marvel,Serie,313.1,6.5,APAC,3850645,604410,83.5
+2023-12,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,10807802,1280163,84.4
+2023-12,Elemental,Marvel,Serie,313.1,6.5,Europa,6682068,1322088,65.8
+2023-12,Elemental,Marvel,Serie,313.1,6.5,LatAm,8144208,2168988,77.1
+2023-12,Elemental,Marvel,Serie,313.1,6.5,APAC,7185689,1036431,83.3
+2024-01,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,13281871,2678184,93.6
+2024-01,Elemental,Marvel,Serie,313.1,6.5,Europa,4693872,574962,56.3
+2024-01,Elemental,Marvel,Serie,313.1,6.5,LatAm,2166997,573860,67.9
+2024-01,Elemental,Marvel,Serie,313.1,6.5,APAC,3210936,683014,77.1
+2024-02,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,12631127,2996613,81.2
+2024-02,Elemental,Marvel,Serie,313.1,6.5,Europa,1297567,148845,39.3
+2024-02,Elemental,Marvel,Serie,313.1,6.5,LatAm,5048174,747559,87.7
+2024-02,Elemental,Marvel,Serie,313.1,6.5,APAC,10871401,2013947,64.5
+2024-03,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,14460992,2677778,72.0
+2024-03,Elemental,Marvel,Serie,313.1,6.5,Europa,15421501,2722887,84.1
+2024-03,Elemental,Marvel,Serie,313.1,6.5,LatAm,8432555,1709315,86.6
+2024-03,Elemental,Marvel,Serie,313.1,6.5,APAC,7351329,1082157,60.6
+2024-04,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,4933068,582002,80.1
+2024-04,Elemental,Marvel,Serie,313.1,6.5,Europa,3262042,367793,53.4
+2024-04,Elemental,Marvel,Serie,313.1,6.5,LatAm,4165864,549909,100.0
+2024-04,Elemental,Marvel,Serie,313.1,6.5,APAC,1396788,314495,74.2
+2024-05,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,13629866,2997649,78.7
+2024-05,Elemental,Marvel,Serie,313.1,6.5,Europa,6196010,1436542,65.2
+2024-05,Elemental,Marvel,Serie,313.1,6.5,LatAm,12133453,3028670,71.1
+2024-05,Elemental,Marvel,Serie,313.1,6.5,APAC,1783286,229065,93.7
+2024-06,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,9220608,1205936,55.3
+2024-06,Elemental,Marvel,Serie,313.1,6.5,Europa,5832347,648639,58.3
+2024-06,Elemental,Marvel,Serie,313.1,6.5,LatAm,5880298,1062038,100.0
+2024-06,Elemental,Marvel,Serie,313.1,6.5,APAC,2629411,295940,75.7
+2024-07,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,8691346,1122270,72.9
+2024-07,Elemental,Marvel,Serie,313.1,6.5,Europa,7653555,1096384,51.0
+2024-07,Elemental,Marvel,Serie,313.1,6.5,LatAm,1426578,351535,67.8
+2024-07,Elemental,Marvel,Serie,313.1,6.5,APAC,2609495,434582,83.9
+2024-08,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,11331847,1265809,90.4
+2024-08,Elemental,Marvel,Serie,313.1,6.5,Europa,24784094,3364177,86.6
+2024-08,Elemental,Marvel,Serie,313.1,6.5,LatAm,13246677,2296877,81.2
+2024-08,Elemental,Marvel,Serie,313.1,6.5,APAC,6784941,964648,55.5
+2024-09,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,17182724,2149796,60.1
+2024-09,Elemental,Marvel,Serie,313.1,6.5,Europa,19879832,4033014,94.3
+2024-09,Elemental,Marvel,Serie,313.1,6.5,LatAm,3946540,663557,68.4
+2024-09,Elemental,Marvel,Serie,313.1,6.5,APAC,4561507,551278,89.0
+2024-10,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,7347128,1184439,57.2
+2024-10,Elemental,Marvel,Serie,313.1,6.5,Europa,10045326,3344971,60.8
+2024-10,Elemental,Marvel,Serie,313.1,6.5,LatAm,4061349,1265600,67.9
+2024-10,Elemental,Marvel,Serie,313.1,6.5,APAC,17341475,4326709,68.3
+2024-11,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,1831921,230756,68.1
+2024-11,Elemental,Marvel,Serie,313.1,6.5,Europa,4047792,1138127,69.5
+2024-11,Elemental,Marvel,Serie,313.1,6.5,LatAm,13748560,3025177,72.6
+2024-11,Elemental,Marvel,Serie,313.1,6.5,APAC,3915687,521980,97.8
+2024-12,Elemental,Marvel,Serie,313.1,6.5,Norteamerica,1533629,355406,63.9
+2024-12,Elemental,Marvel,Serie,313.1,6.5,Europa,7088516,1908869,79.1
+2024-12,Elemental,Marvel,Serie,313.1,6.5,LatAm,3606659,890076,87.5
+2024-12,Elemental,Marvel,Serie,313.1,6.5,APAC,4870878,544698,76.1
+2023-01,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,24515964,2976266,50.7
+2023-01,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,2085133,300605,68.2
+2023-01,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,1129702,176556,59.1
+2023-01,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,23094698,3179687,65.8
+2023-02,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,5641190,853516,43.4
+2023-02,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,4908582,890536,70.7
+2023-02,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,1048803,164716,74.2
+2023-02,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,4334609,706939,52.2
+2023-03,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,14949984,2117587,81.5
+2023-03,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,5344021,1250454,67.3
+2023-03,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,5053623,1253452,69.9
+2023-03,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,11013116,1880478,68.2
+2023-04,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,13750279,3204394,100.0
+2023-04,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,2017964,285137,94.3
+2023-04,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,1617998,381431,64.7
+2023-04,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,4526030,1188510,62.2
+2023-05,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,4399943,851950,58.8
+2023-05,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,33441436,7287552,85.3
+2023-05,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,2551171,306255,61.3
+2023-05,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,387630,106362,44.8
+2023-06,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,1247491,334285,91.9
+2023-06,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,5201465,656845,78.2
+2023-06,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,7055881,2161032,79.9
+2023-06,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,5792912,666474,80.4
+2023-07,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,11868785,2950931,55.2
+2023-07,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,2090047,350559,37.7
+2023-07,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,4043129,750792,60.1
+2023-07,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,3303333,670521,81.3
+2023-08,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,26113848,3185832,57.0
+2023-08,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,20725367,3801413,87.7
+2023-08,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,3983671,465348,44.9
+2023-08,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,2819084,566584,86.5
+2023-09,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,25391025,4399832,76.5
+2023-09,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,3016738,612623,83.6
+2023-09,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,3658246,1025339,64.8
+2023-09,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,7193176,1348405,83.9
+2023-10,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,5276355,700410,70.3
+2023-10,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,2761140,322373,81.8
+2023-10,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,6065750,1829537,93.7
+2023-10,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,2395778,280424,62.6
+2023-11,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,7687886,2379228,96.3
+2023-11,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,7209848,2282179,89.9
+2023-11,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,664528,111152,83.9
+2023-11,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,3394099,439655,52.1
+2023-12,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,7406623,1413919,84.4
+2023-12,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,6173430,1557558,66.1
+2023-12,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,686915,110455,84.7
+2023-12,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,916831,112717,54.6
+2024-01,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,3485741,421549,40.7
+2024-01,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,8810161,1495635,68.2
+2024-01,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,518532,78053,90.5
+2024-01,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,350381,63639,54.3
+2024-02,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,14362460,1789424,78.1
+2024-02,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,8472772,1027500,69.0
+2024-02,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,5096989,881518,89.9
+2024-02,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,1759899,251056,71.7
+2024-03,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,2161179,666913,86.5
+2024-03,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,6813026,1589615,70.1
+2024-03,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,6830771,1348662,55.9
+2024-03,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,6520158,1200773,78.2
+2024-04,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,33400054,9585564,81.9
+2024-04,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,47138301,6926595,60.0
+2024-04,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,5312442,1652190,64.1
+2024-04,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,1415872,161772,76.9
+2024-05,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,4200205,873116,70.4
+2024-05,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,4402551,511018,52.6
+2024-05,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,5002392,624655,79.0
+2024-05,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,2393350,281753,65.8
+2024-06,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,6158243,1086091,85.7
+2024-06,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,1347056,276948,66.3
+2024-06,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,5100674,580529,91.9
+2024-06,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,8759788,1208736,49.3
+2024-07,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,14647336,1818883,47.9
+2024-07,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,5285945,679887,80.3
+2024-07,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,4347598,517970,94.1
+2024-07,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,8623499,1462197,67.2
+2024-08,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,6614345,1279470,73.4
+2024-08,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,14636167,4224469,77.0
+2024-08,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,1813313,211240,94.2
+2024-08,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,2095134,531067,43.9
+2024-09,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,33475563,7762943,69.3
+2024-09,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,8541414,963698,89.7
+2024-09,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,2911378,742393,64.6
+2024-09,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,2032248,316973,75.8
+2024-10,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,12709632,1881253,79.7
+2024-10,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,3855152,574818,48.5
+2024-10,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,10345631,2033577,59.2
+2024-10,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,19241755,3419510,86.6
+2024-11,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,7716643,1012066,68.9
+2024-11,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,7366288,1495873,74.7
+2024-11,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,1819678,324446,85.8
+2024-11,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,5459686,1360419,67.9
+2024-12,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Norteamerica,3588629,984838,47.5
+2024-12,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,Europa,6514616,1076946,65.4
+2024-12,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,LatAm,354629,59926,88.8
+2024-12,Inside Out 2,Disney Classics,Pelicula,161.8,7.1,APAC,1900207,558727,51.1
+2023-01,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,32999025,3937581,63.1
+2023-01,WandaVision,Marvel,Serie,55.8,9.2,Europa,5400101,680689,70.4
+2023-01,WandaVision,Marvel,Serie,55.8,9.2,LatAm,3575065,641955,70.3
+2023-01,WandaVision,Marvel,Serie,55.8,9.2,APAC,26461725,3899232,98.8
+2023-02,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,13055134,1856763,61.1
+2023-02,WandaVision,Marvel,Serie,55.8,9.2,Europa,3539007,637602,86.8
+2023-02,WandaVision,Marvel,Serie,55.8,9.2,LatAm,5065151,682686,51.6
+2023-02,WandaVision,Marvel,Serie,55.8,9.2,APAC,1342211,179650,73.6
+2023-03,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,24127712,3568686,38.1
+2023-03,WandaVision,Marvel,Serie,55.8,9.2,Europa,6014933,1297574,100.0
+2023-03,WandaVision,Marvel,Serie,55.8,9.2,LatAm,1528777,389344,97.6
+2023-03,WandaVision,Marvel,Serie,55.8,9.2,APAC,6025562,975586,73.7
+2023-04,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,12772325,1761956,59.9
+2023-04,WandaVision,Marvel,Serie,55.8,9.2,Europa,14144142,2409387,76.9
+2023-04,WandaVision,Marvel,Serie,55.8,9.2,LatAm,5658571,1166715,71.7
+2023-04,WandaVision,Marvel,Serie,55.8,9.2,APAC,2554856,353360,66.7
+2023-05,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,4055747,527181,54.7
+2023-05,WandaVision,Marvel,Serie,55.8,9.2,Europa,12384371,2176727,63.5
+2023-05,WandaVision,Marvel,Serie,55.8,9.2,LatAm,2975749,576152,77.0
+2023-05,WandaVision,Marvel,Serie,55.8,9.2,APAC,3548911,663055,40.4
+2023-06,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,9476538,1940688,74.0
+2023-06,WandaVision,Marvel,Serie,55.8,9.2,Europa,7397811,1313314,85.4
+2023-06,WandaVision,Marvel,Serie,55.8,9.2,LatAm,992235,224691,75.2
+2023-06,WandaVision,Marvel,Serie,55.8,9.2,APAC,2372933,396308,67.3
+2023-07,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,2086945,232063,30.8
+2023-07,WandaVision,Marvel,Serie,55.8,9.2,Europa,5809841,687420,65.6
+2023-07,WandaVision,Marvel,Serie,55.8,9.2,LatAm,11626442,3334297,69.4
+2023-07,WandaVision,Marvel,Serie,55.8,9.2,APAC,762062,127736,80.3
+2023-08,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,12564045,1990193,54.5
+2023-08,WandaVision,Marvel,Serie,55.8,9.2,Europa,34947887,8032028,83.2
+2023-08,WandaVision,Marvel,Serie,55.8,9.2,LatAm,1271631,141781,94.7
+2023-08,WandaVision,Marvel,Serie,55.8,9.2,APAC,3412032,698315,75.6
+2023-09,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,9019234,1358769,68.5
+2023-09,WandaVision,Marvel,Serie,55.8,9.2,Europa,1685838,265820,80.3
+2023-09,WandaVision,Marvel,Serie,55.8,9.2,LatAm,6730073,1613495,61.1
+2023-09,WandaVision,Marvel,Serie,55.8,9.2,APAC,2639662,487267,51.4
+2023-10,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,5933587,1429254,83.6
+2023-10,WandaVision,Marvel,Serie,55.8,9.2,Europa,13385215,2917268,66.1
+2023-10,WandaVision,Marvel,Serie,55.8,9.2,LatAm,5485554,776303,54.8
+2023-10,WandaVision,Marvel,Serie,55.8,9.2,APAC,1981494,425464,54.5
+2023-11,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,11167118,2001368,48.2
+2023-11,WandaVision,Marvel,Serie,55.8,9.2,Europa,7148886,933915,77.1
+2023-11,WandaVision,Marvel,Serie,55.8,9.2,LatAm,4854119,605950,53.1
+2023-11,WandaVision,Marvel,Serie,55.8,9.2,APAC,4304095,669689,38.8
+2023-12,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,12934617,3044880,69.7
+2023-12,WandaVision,Marvel,Serie,55.8,9.2,Europa,10880973,3078720,70.2
+2023-12,WandaVision,Marvel,Serie,55.8,9.2,LatAm,1341043,256449,86.1
+2023-12,WandaVision,Marvel,Serie,55.8,9.2,APAC,1911775,350123,51.2
+2024-01,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,3175135,463285,61.1
+2024-01,WandaVision,Marvel,Serie,55.8,9.2,Europa,9480437,1732833,76.8
+2024-01,WandaVision,Marvel,Serie,55.8,9.2,LatAm,5936141,1326436,56.0
+2024-01,WandaVision,Marvel,Serie,55.8,9.2,APAC,4023210,1121693,91.0
+2024-02,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,3145318,764865,92.4
+2024-02,WandaVision,Marvel,Serie,55.8,9.2,Europa,10520408,1352870,68.7
+2024-02,WandaVision,Marvel,Serie,55.8,9.2,LatAm,3607943,784986,68.2
+2024-02,WandaVision,Marvel,Serie,55.8,9.2,APAC,4063177,1066386,61.8
+2024-03,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,15014695,3453133,45.3
+2024-03,WandaVision,Marvel,Serie,55.8,9.2,Europa,9079904,2828013,80.7
+2024-03,WandaVision,Marvel,Serie,55.8,9.2,LatAm,5090747,661356,89.6
+2024-03,WandaVision,Marvel,Serie,55.8,9.2,APAC,4903577,604933,36.8
+2024-04,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,35011892,10599334,88.2
+2024-04,WandaVision,Marvel,Serie,55.8,9.2,Europa,2640459,393305,74.2
+2024-04,WandaVision,Marvel,Serie,55.8,9.2,LatAm,4838227,629565,88.3
+2024-04,WandaVision,Marvel,Serie,55.8,9.2,APAC,1024138,181348,72.1
+2024-05,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,8333640,1115819,79.5
+2024-05,WandaVision,Marvel,Serie,55.8,9.2,Europa,1015689,273987,49.6
+2024-05,WandaVision,Marvel,Serie,55.8,9.2,LatAm,5118928,848676,89.5
+2024-05,WandaVision,Marvel,Serie,55.8,9.2,APAC,3644080,471948,64.4
+2024-06,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,27156927,3660387,66.2
+2024-06,WandaVision,Marvel,Serie,55.8,9.2,Europa,5799064,1403730,77.8
+2024-06,WandaVision,Marvel,Serie,55.8,9.2,LatAm,1200005,163688,73.9
+2024-06,WandaVision,Marvel,Serie,55.8,9.2,APAC,28377299,5550784,70.5
+2024-07,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,41345190,4635229,61.6
+2024-07,WandaVision,Marvel,Serie,55.8,9.2,Europa,8381506,1015541,76.2
+2024-07,WandaVision,Marvel,Serie,55.8,9.2,LatAm,2804525,529485,48.0
+2024-07,WandaVision,Marvel,Serie,55.8,9.2,APAC,4683880,974200,68.6
+2024-08,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,2694695,405939,77.5
+2024-08,WandaVision,Marvel,Serie,55.8,9.2,Europa,3919803,1245684,49.5
+2024-08,WandaVision,Marvel,Serie,55.8,9.2,LatAm,2159443,338410,90.4
+2024-08,WandaVision,Marvel,Serie,55.8,9.2,APAC,2520419,495204,63.9
+2024-09,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,11961390,2223878,85.1
+2024-09,WandaVision,Marvel,Serie,55.8,9.2,Europa,4567676,609166,69.7
+2024-09,WandaVision,Marvel,Serie,55.8,9.2,LatAm,1623557,217157,74.7
+2024-09,WandaVision,Marvel,Serie,55.8,9.2,APAC,1547715,250125,65.0
+2024-10,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,65562978,14953429,75.1
+2024-10,WandaVision,Marvel,Serie,55.8,9.2,Europa,2841952,391447,74.1
+2024-10,WandaVision,Marvel,Serie,55.8,9.2,LatAm,763289,123316,100.0
+2024-10,WandaVision,Marvel,Serie,55.8,9.2,APAC,2924950,427459,87.4
+2024-11,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,8603448,1093124,37.9
+2024-11,WandaVision,Marvel,Serie,55.8,9.2,Europa,11700672,3042166,56.8
+2024-11,WandaVision,Marvel,Serie,55.8,9.2,LatAm,5427377,636165,64.1
+2024-11,WandaVision,Marvel,Serie,55.8,9.2,APAC,6828199,1598872,87.7
+2024-12,WandaVision,Marvel,Serie,55.8,9.2,Norteamerica,3206490,935429,100.0
+2024-12,WandaVision,Marvel,Serie,55.8,9.2,Europa,17265970,4549360,57.9
+2024-12,WandaVision,Marvel,Serie,55.8,9.2,LatAm,3211573,420005,72.6
+2024-12,WandaVision,Marvel,Serie,55.8,9.2,APAC,3909194,572288,68.8
+2023-01,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,6483868,833463,73.7
+2023-01,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,3949475,881950,79.6
+2023-01,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,1320977,185626,60.4
+2023-01,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,2038199,268532,64.6
+2023-02,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,15413539,2160753,62.7
+2023-02,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,3187996,497114,88.5
+2023-02,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,6239197,926910,100.0
+2023-02,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,1417777,372073,54.4
+2023-03,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,4050648,570873,56.1
+2023-03,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,2323279,425960,53.7
+2023-03,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,7400266,1310761,100.0
+2023-03,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,2253661,298003,52.6
+2023-04,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,29542653,4397329,76.5
+2023-04,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,1835005,297313,55.2
+2023-04,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,12154490,3542444,73.4
+2023-04,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,460502,53985,82.3
+2023-05,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,19910926,2269516,48.1
+2023-05,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,6860163,1594831,47.1
+2023-05,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,3749006,670462,67.5
+2023-05,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,734867,230156,67.1
+2023-06,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,6702655,775190,65.4
+2023-06,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,5221185,1053203,67.4
+2023-06,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,2718541,359697,43.2
+2023-06,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,4736468,789245,72.6
+2023-07,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,16273680,1809599,42.4
+2023-07,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,6709554,1490151,74.6
+2023-07,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,2606772,290897,86.0
+2023-07,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,4762866,696920,40.4
+2023-08,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,13962157,3306089,81.7
+2023-08,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,2666523,553310,84.9
+2023-08,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,13129577,1473531,68.6
+2023-08,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,5879557,1274070,55.2
+2023-09,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,10513442,1651845,73.3
+2023-09,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,6424747,1178866,94.2
+2023-09,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,1835396,368253,72.2
+2023-09,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,6532743,806200,52.3
+2023-10,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,1478131,195622,55.2
+2023-10,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,3962397,808954,62.4
+2023-10,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,4539605,976220,82.1
+2023-10,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,4729248,728656,69.5
+2023-11,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,17391062,4422525,51.0
+2023-11,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,9106458,1609737,93.2
+2023-11,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,8559943,1024123,74.4
+2023-11,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,2735838,324789,66.4
+2023-12,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,9110408,2160532,63.6
+2023-12,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,3292131,499067,56.0
+2023-12,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,873801,181980,99.1
+2023-12,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,10114064,2326946,82.9
+2024-01,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,23538720,3238475,73.5
+2024-01,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,1081311,157532,56.0
+2024-01,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,4426116,562895,80.1
+2024-01,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,7339523,1254590,54.9
+2024-02,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,1344662,413067,63.3
+2024-02,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,1558422,284197,65.3
+2024-02,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,1595561,186525,88.1
+2024-02,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,5238385,1685904,81.3
+2024-03,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,2980920,970253,74.2
+2024-03,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,3701063,438753,60.3
+2024-03,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,5672733,1635294,28.2
+2024-03,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,8380506,1252987,62.8
+2024-04,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,17137004,4370036,50.0
+2024-04,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,2246783,304496,43.2
+2024-04,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,9309239,1536436,54.1
+2024-04,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,2028246,274133,85.0
+2024-05,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,13557012,3140030,65.9
+2024-05,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,2701861,364875,51.7
+2024-05,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,13615349,2583948,54.6
+2024-05,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,1881076,280257,52.9
+2024-06,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,8140268,1137296,39.3
+2024-06,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,3977877,1126745,60.7
+2024-06,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,1823088,531905,100.0
+2024-06,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,3383102,718168,45.4
+2024-07,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,4471800,730634,56.6
+2024-07,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,11144428,1278345,67.7
+2024-07,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,2360735,284064,62.4
+2024-07,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,2603740,664873,61.0
+2024-08,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,11123241,2356837,70.7
+2024-08,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,3819512,696213,68.5
+2024-08,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,2951922,924711,97.4
+2024-08,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,1106695,160204,43.6
+2024-09,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,8978027,1999665,79.3
+2024-09,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,6177968,785819,72.5
+2024-09,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,3083805,470013,67.7
+2024-09,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,3790010,747685,59.9
+2024-10,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,2541531,330200,80.2
+2024-10,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,6487114,981670,73.3
+2024-10,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,5162511,668257,70.6
+2024-10,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,2114897,238002,65.2
+2024-11,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,4429379,705098,75.8
+2024-11,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,1751821,196263,70.6
+2024-11,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,1551263,192561,81.4
+2024-11,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,1175895,132595,81.9
+2024-12,Andor,Disney Classics,Pelicula,147.3,5.9,Norteamerica,7484279,862989,74.4
+2024-12,Andor,Disney Classics,Pelicula,147.3,5.9,Europa,5269961,1486920,80.7
+2024-12,Andor,Disney Classics,Pelicula,147.3,5.9,LatAm,5523970,918445,60.2
+2024-12,Andor,Disney Classics,Pelicula,147.3,5.9,APAC,3588045,595301,52.0
+2023-01,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,5147418,581027,64.6
+2023-01,Soul,Pixar,Pelicula,305.2,7.3,Europa,9134667,2866751,73.7
+2023-01,Soul,Pixar,Pelicula,305.2,7.3,LatAm,6802455,960770,86.9
+2023-01,Soul,Pixar,Pelicula,305.2,7.3,APAC,1460392,318803,85.8
+2023-02,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,12794196,1752507,60.5
+2023-02,Soul,Pixar,Pelicula,305.2,7.3,Europa,1788129,220328,81.9
+2023-02,Soul,Pixar,Pelicula,305.2,7.3,LatAm,5618995,668884,55.2
+2023-02,Soul,Pixar,Pelicula,305.2,7.3,APAC,5972452,1000812,89.4
+2023-03,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,74211002,9917723,72.8
+2023-03,Soul,Pixar,Pelicula,305.2,7.3,Europa,8593240,996728,44.8
+2023-03,Soul,Pixar,Pelicula,305.2,7.3,LatAm,2329465,319914,50.3
+2023-03,Soul,Pixar,Pelicula,305.2,7.3,APAC,12826992,3225180,77.7
+2023-04,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,5892873,1448779,86.5
+2023-04,Soul,Pixar,Pelicula,305.2,7.3,Europa,5252056,613127,69.1
+2023-04,Soul,Pixar,Pelicula,305.2,7.3,LatAm,2869369,786236,42.3
+2023-04,Soul,Pixar,Pelicula,305.2,7.3,APAC,2623250,820570,63.4
+2023-05,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,2696777,511554,72.8
+2023-05,Soul,Pixar,Pelicula,305.2,7.3,Europa,960484,193351,78.1
+2023-05,Soul,Pixar,Pelicula,305.2,7.3,LatAm,5142099,1220622,74.4
+2023-05,Soul,Pixar,Pelicula,305.2,7.3,APAC,7327171,854863,70.6
+2023-06,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,5189205,1061732,79.0
+2023-06,Soul,Pixar,Pelicula,305.2,7.3,Europa,6300144,781109,74.0
+2023-06,Soul,Pixar,Pelicula,305.2,7.3,LatAm,7263237,955531,83.8
+2023-06,Soul,Pixar,Pelicula,305.2,7.3,APAC,6490386,756856,44.9
+2023-07,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,25939216,3403853,46.3
+2023-07,Soul,Pixar,Pelicula,305.2,7.3,Europa,3044795,949991,67.8
+2023-07,Soul,Pixar,Pelicula,305.2,7.3,LatAm,2504690,378668,56.3
+2023-07,Soul,Pixar,Pelicula,305.2,7.3,APAC,1707689,366807,77.9
+2023-08,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,11223795,1972791,75.0
+2023-08,Soul,Pixar,Pelicula,305.2,7.3,Europa,7972487,1436324,72.9
+2023-08,Soul,Pixar,Pelicula,305.2,7.3,LatAm,4111721,491688,83.6
+2023-08,Soul,Pixar,Pelicula,305.2,7.3,APAC,5041886,838208,59.9
+2023-09,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,7965332,1324007,74.9
+2023-09,Soul,Pixar,Pelicula,305.2,7.3,Europa,31491248,4924553,78.3
+2023-09,Soul,Pixar,Pelicula,305.2,7.3,LatAm,8869196,1953425,100.0
+2023-09,Soul,Pixar,Pelicula,305.2,7.3,APAC,2389854,271402,60.0
+2023-10,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,5695873,924840,84.7
+2023-10,Soul,Pixar,Pelicula,305.2,7.3,Europa,6957118,1069507,70.6
+2023-10,Soul,Pixar,Pelicula,305.2,7.3,LatAm,2892379,783605,77.9
+2023-10,Soul,Pixar,Pelicula,305.2,7.3,APAC,1818621,542371,57.9
+2023-11,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,15962100,4687615,73.9
+2023-11,Soul,Pixar,Pelicula,305.2,7.3,Europa,5122704,734169,59.3
+2023-11,Soul,Pixar,Pelicula,305.2,7.3,LatAm,1595770,190690,81.0
+2023-11,Soul,Pixar,Pelicula,305.2,7.3,APAC,4219386,646568,82.2
+2023-12,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,4161488,1056819,57.8
+2023-12,Soul,Pixar,Pelicula,305.2,7.3,Europa,15262763,2589429,81.1
+2023-12,Soul,Pixar,Pelicula,305.2,7.3,LatAm,10232650,2777505,46.4
+2023-12,Soul,Pixar,Pelicula,305.2,7.3,APAC,1791337,366453,59.2
+2024-01,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,3186410,579666,53.8
+2024-01,Soul,Pixar,Pelicula,305.2,7.3,Europa,7046445,1559001,79.2
+2024-01,Soul,Pixar,Pelicula,305.2,7.3,LatAm,5663246,1751966,66.4
+2024-01,Soul,Pixar,Pelicula,305.2,7.3,APAC,17647224,2545484,44.1
+2024-02,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,3384008,451737,72.3
+2024-02,Soul,Pixar,Pelicula,305.2,7.3,Europa,4889281,993561,100.0
+2024-02,Soul,Pixar,Pelicula,305.2,7.3,LatAm,5853271,1224223,58.0
+2024-02,Soul,Pixar,Pelicula,305.2,7.3,APAC,1454042,321172,74.6
+2024-03,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,1709006,373849,72.2
+2024-03,Soul,Pixar,Pelicula,305.2,7.3,Europa,4537472,894559,63.9
+2024-03,Soul,Pixar,Pelicula,305.2,7.3,LatAm,3275030,621069,81.1
+2024-03,Soul,Pixar,Pelicula,305.2,7.3,APAC,7677920,1252131,65.2
+2024-04,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,10709018,3194517,65.5
+2024-04,Soul,Pixar,Pelicula,305.2,7.3,Europa,10143207,1137096,91.4
+2024-04,Soul,Pixar,Pelicula,305.2,7.3,LatAm,15650004,2456037,72.2
+2024-04,Soul,Pixar,Pelicula,305.2,7.3,APAC,3263127,539711,62.3
+2024-05,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,2299086,339414,60.5
+2024-05,Soul,Pixar,Pelicula,305.2,7.3,Europa,5773533,716787,55.5
+2024-05,Soul,Pixar,Pelicula,305.2,7.3,LatAm,4550573,718079,80.7
+2024-05,Soul,Pixar,Pelicula,305.2,7.3,APAC,18585000,2697236,79.3
+2024-06,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,3186466,632971,95.7
+2024-06,Soul,Pixar,Pelicula,305.2,7.3,Europa,2574629,722906,71.4
+2024-06,Soul,Pixar,Pelicula,305.2,7.3,LatAm,3510156,835996,67.4
+2024-06,Soul,Pixar,Pelicula,305.2,7.3,APAC,8646584,1192779,51.1
+2024-07,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,16039213,3345160,62.7
+2024-07,Soul,Pixar,Pelicula,305.2,7.3,Europa,1520069,466414,71.2
+2024-07,Soul,Pixar,Pelicula,305.2,7.3,LatAm,9586464,1102748,70.7
+2024-07,Soul,Pixar,Pelicula,305.2,7.3,APAC,5549897,938073,87.5
+2024-08,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,2929996,477954,75.7
+2024-08,Soul,Pixar,Pelicula,305.2,7.3,Europa,12834778,1530004,36.3
+2024-08,Soul,Pixar,Pelicula,305.2,7.3,LatAm,2013734,379369,69.1
+2024-08,Soul,Pixar,Pelicula,305.2,7.3,APAC,4738650,1002923,81.1
+2024-09,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,6356905,1063430,65.2
+2024-09,Soul,Pixar,Pelicula,305.2,7.3,Europa,7520134,2210589,81.5
+2024-09,Soul,Pixar,Pelicula,305.2,7.3,LatAm,7803162,1705095,26.0
+2024-09,Soul,Pixar,Pelicula,305.2,7.3,APAC,1163221,277704,63.8
+2024-10,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,1542874,238001,72.2
+2024-10,Soul,Pixar,Pelicula,305.2,7.3,Europa,13045481,3404812,78.9
+2024-10,Soul,Pixar,Pelicula,305.2,7.3,LatAm,5044113,614429,100.0
+2024-10,Soul,Pixar,Pelicula,305.2,7.3,APAC,7031984,2059242,78.7
+2024-11,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,18805441,2552560,65.6
+2024-11,Soul,Pixar,Pelicula,305.2,7.3,Europa,13686979,4027489,100.0
+2024-11,Soul,Pixar,Pelicula,305.2,7.3,LatAm,2070547,585964,67.4
+2024-11,Soul,Pixar,Pelicula,305.2,7.3,APAC,2184716,268994,30.6
+2024-12,Soul,Pixar,Pelicula,305.2,7.3,Norteamerica,5329205,958927,64.6
+2024-12,Soul,Pixar,Pelicula,305.2,7.3,Europa,25350396,4222275,91.4
+2024-12,Soul,Pixar,Pelicula,305.2,7.3,LatAm,4650388,582447,76.2
+2024-12,Soul,Pixar,Pelicula,305.2,7.3,APAC,9666743,1162146,79.4
+2023-01,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,6077808,1052731,90.9
+2023-01,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,13419274,2978673,36.2
+2023-01,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,5704051,692859,94.0
+2023-01,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,3703368,517002,58.5
+2023-02,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,2179195,558252,71.5
+2023-02,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,3637355,480273,100.0
+2023-02,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,7355401,982235,84.7
+2023-02,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,10561692,1401414,41.2
+2023-03,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,6488898,987484,57.5
+2023-03,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,4680461,1131380,94.5
+2023-03,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,6871484,1044509,81.3
+2023-03,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,3138874,375676,54.2
+2023-04,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,1312335,207147,76.9
+2023-04,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,14180972,1650549,95.5
+2023-04,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,1697905,308627,79.2
+2023-04,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,24512607,6727353,88.8
+2023-05,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,5533006,1625325,83.8
+2023-05,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,2234372,533532,70.3
+2023-05,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,13492637,1605947,35.4
+2023-05,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,4841475,677026,72.6
+2023-06,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,7039927,883393,83.9
+2023-06,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,1581221,320423,82.3
+2023-06,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,2308381,353767,82.0
+2023-06,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,7941796,1053746,42.6
+2023-07,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,13273074,3149433,76.6
+2023-07,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,2649890,412150,65.4
+2023-07,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,3258205,501426,80.8
+2023-07,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,2263264,309134,76.2
+2023-08,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,4318533,639918,80.6
+2023-08,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,2695914,747378,76.4
+2023-08,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,2840966,344864,64.0
+2023-08,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,1572767,239983,46.5
+2023-09,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,2381858,299053,92.4
+2023-09,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,2969825,590240,81.2
+2023-09,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,586334,79882,67.8
+2023-09,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,11173850,3383678,73.5
+2023-10,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,18690083,3566604,63.3
+2023-10,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,5317589,1206064,49.2
+2023-10,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,8583822,1087332,73.5
+2023-10,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,2663306,340740,57.3
+2023-11,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,9413013,2847540,70.1
+2023-11,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,5700648,929526,57.4
+2023-11,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,6818015,861218,100.0
+2023-11,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,2393556,337211,83.5
+2023-12,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,14530429,3115985,66.0
+2023-12,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,8309455,963708,65.8
+2023-12,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,4053127,701767,62.9
+2023-12,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,740637,206851,53.1
+2024-01,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,2639072,681051,54.2
+2024-01,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,3071866,715921,65.4
+2024-01,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,10867948,2086555,72.2
+2024-01,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,2236344,572546,76.9
+2024-02,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,12040752,1509901,72.5
+2024-02,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,1060980,155221,83.4
+2024-02,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,3015481,344683,58.8
+2024-02,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,3848240,731091,70.5
+2024-03,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,6886093,1139489,84.7
+2024-03,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,16227030,3606843,75.4
+2024-03,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,3766003,427004,61.5
+2024-03,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,5968097,1252811,88.4
+2024-04,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,44233144,6445684,39.1
+2024-04,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,3476517,485775,80.3
+2024-04,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,4604091,796236,79.3
+2024-04,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,8566369,1211673,94.8
+2024-05,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,10054281,1517932,67.4
+2024-05,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,3331160,925396,75.2
+2024-05,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,7183013,2320979,63.2
+2024-05,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,3262357,409810,80.3
+2024-06,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,1918959,267251,98.7
+2024-06,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,4542383,566579,100.0
+2024-06,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,6512533,2154067,66.4
+2024-06,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,7687113,1923722,89.2
+2024-07,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,11643148,1530791,74.2
+2024-07,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,4685698,1250699,59.0
+2024-07,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,1888041,534491,81.2
+2024-07,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,5358341,615618,78.1
+2024-08,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,5838823,1017132,71.3
+2024-08,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,3650260,944453,100.0
+2024-08,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,941607,134586,46.8
+2024-08,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,2965593,374653,40.7
+2024-09,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,10300492,2226253,40.5
+2024-09,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,10550190,1292073,94.4
+2024-09,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,5027785,608332,91.9
+2024-09,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,12423262,1446087,57.9
+2024-10,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,8864349,1393274,44.9
+2024-10,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,7845796,1763938,81.6
+2024-10,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,12262489,1472693,70.9
+2024-10,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,4387154,787419,57.5
+2024-11,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,20780297,2617952,57.1
+2024-11,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,11691808,1546553,77.1
+2024-11,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,5452037,1148691,73.2
+2024-11,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,9992086,1282269,81.4
+2024-12,Luca,Disney Classics,Pelicula,169.8,9.1,Norteamerica,3874248,432461,79.0
+2024-12,Luca,Disney Classics,Pelicula,169.8,9.1,Europa,9534219,1276765,59.7
+2024-12,Luca,Disney Classics,Pelicula,169.8,9.1,LatAm,10156576,1892568,43.3
+2024-12,Luca,Disney Classics,Pelicula,169.8,9.1,APAC,7420865,1704123,93.2
+2023-01,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,3409904,407348,84.4
+2023-01,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,1858533,320235,84.4
+2023-01,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,2328983,431943,44.1
+2023-01,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,1878512,312777,86.0
+2023-02,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,4071361,544744,61.7
+2023-02,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,3120571,384216,75.2
+2023-02,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,2425880,514844,92.3
+2023-02,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,10450251,1486856,71.4
+2023-03,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,8109913,933044,71.2
+2023-03,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,5412698,606691,90.1
+2023-03,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,2899235,540921,82.0
+2023-03,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,2024885,326781,70.7
+2023-04,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,3474473,478752,93.7
+2023-04,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,4755739,1085862,64.3
+2023-04,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,4762528,539237,56.1
+2023-04,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,708512,86791,59.6
+2023-05,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,7421614,829672,76.0
+2023-05,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,2519500,414818,78.7
+2023-05,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,1683992,308307,66.8
+2023-05,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,1031084,133763,73.8
+2023-06,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,5481191,655846,71.7
+2023-06,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,3189597,503865,93.5
+2023-06,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,2602077,451731,68.4
+2023-06,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,4332105,598342,79.6
+2023-07,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,1826186,226392,90.5
+2023-07,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,4514130,874256,61.6
+2023-07,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,1149564,279022,45.7
+2023-07,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,2669382,613399,43.4
+2023-08,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,2711126,778005,71.1
+2023-08,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,4022549,489473,86.3
+2023-08,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,5607095,911639,77.9
+2023-08,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,1622678,450352,55.3
+2023-09,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,14720826,1698132,75.2
+2023-09,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,4681033,581731,29.1
+2023-09,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,4804827,616234,71.2
+2023-09,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,5691021,756327,54.9
+2023-10,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,6738514,1107526,73.7
+2023-10,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,6135091,1657378,55.7
+2023-10,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,4342172,849995,46.0
+2023-10,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,3733630,524305,66.4
+2023-11,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,3658728,688703,99.6
+2023-11,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,1960001,263476,52.5
+2023-11,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,15025505,2319470,71.6
+2023-11,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,2343012,331078,68.5
+2023-12,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,53922970,9055413,59.2
+2023-12,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,9048045,2436104,45.4
+2023-12,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,8528583,1154667,87.7
+2023-12,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,2220587,679123,83.2
+2024-01,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,10320771,3256016,47.7
+2024-01,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,5903760,897179,54.0
+2024-01,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,6289125,1330509,83.3
+2024-01,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,6496374,743703,47.7
+2024-02,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,4924122,850265,63.9
+2024-02,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,3093350,416998,98.3
+2024-02,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,7303731,1264322,86.5
+2024-02,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,5129614,747865,69.5
+2024-03,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,5359711,1024748,80.3
+2024-03,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,3718978,664341,56.8
+2024-03,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,12571343,2953401,79.5
+2024-03,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,7587073,2241212,73.4
+2024-04,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,7611066,1441103,63.3
+2024-04,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,3761819,763817,70.4
+2024-04,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,2012097,288878,88.5
+2024-04,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,5551949,1011917,68.1
+2024-05,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,11937105,3292539,68.1
+2024-05,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,11708710,2143412,57.3
+2024-05,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,1902927,591460,97.9
+2024-05,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,698522,223772,51.4
+2024-06,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,4542587,977442,65.7
+2024-06,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,3516452,1169834,64.0
+2024-06,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,1170988,185928,83.3
+2024-06,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,6348402,1465825,76.5
+2024-07,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,12958406,3550395,72.1
+2024-07,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,4910992,552563,100.0
+2024-07,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,996336,111694,58.3
+2024-07,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,7086577,1677662,57.1
+2024-08,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,11196216,2111015,80.3
+2024-08,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,6481988,721630,73.1
+2024-08,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,3298656,374530,80.7
+2024-08,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,5807292,906416,56.3
+2024-09,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,4791214,772735,83.8
+2024-09,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,11766737,2994148,93.5
+2024-09,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,11275023,3515944,59.7
+2024-09,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,11404011,3745285,73.9
+2024-10,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,5750447,1711470,50.0
+2024-10,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,8942221,1369641,100.0
+2024-10,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,1582420,241010,79.7
+2024-10,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,10991415,1325633,80.6
+2024-11,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,1726547,350247,55.9
+2024-11,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,1183472,385857,38.4
+2024-11,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,1310040,166053,59.5
+2024-11,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,4440604,805966,85.4
+2024-12,The Marvels,Star Wars,Pelicula,116.3,6.3,Norteamerica,13775183,1574997,72.0
+2024-12,The Marvels,Star Wars,Pelicula,116.3,6.3,Europa,6870679,896940,74.1
+2024-12,The Marvels,Star Wars,Pelicula,116.3,6.3,LatAm,2745763,449589,59.7
+2024-12,The Marvels,Star Wars,Pelicula,116.3,6.3,APAC,4531066,1475506,62.1
+2023-01,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,3783773,768633,63.6
+2023-01,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,1749428,426699,63.9
+2023-01,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,2720172,721704,89.1
+2023-01,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,3286074,415056,80.2
+2023-02,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,5119055,701549,72.0
+2023-02,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,901640,193099,100.0
+2023-02,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,13310467,3917012,56.7
+2023-02,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,6708569,1065981,75.4
+2023-03,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,2725357,351877,61.9
+2023-03,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,11059985,1757302,76.2
+2023-03,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,1280790,184799,60.8
+2023-03,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,6484433,1807014,87.8
+2023-04,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,4123845,922740,45.5
+2023-04,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,16806925,2197987,60.7
+2023-04,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,14040453,4038055,72.4
+2023-04,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,2557272,306781,75.4
+2023-05,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,27139751,5809474,82.9
+2023-05,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,13734426,3869551,83.3
+2023-05,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,2980703,399879,40.1
+2023-05,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,1432139,293174,73.7
+2023-06,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,8744763,1071914,53.0
+2023-06,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,5272701,681277,61.0
+2023-06,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,3859261,880985,93.1
+2023-06,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,1874556,279504,71.5
+2023-07,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,17174135,2520697,71.5
+2023-07,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,3377939,445148,76.8
+2023-07,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,2014573,293877,62.8
+2023-07,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,20356394,2446873,95.2
+2023-08,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,6452475,838307,52.2
+2023-08,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,3769081,963963,95.8
+2023-08,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,4505958,684101,81.6
+2023-08,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,11888658,1432911,100.0
+2023-09,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,5117390,937558,53.8
+2023-09,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,34789276,6113302,67.0
+2023-09,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,10247488,1298040,100.0
+2023-09,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,937440,111059,65.1
+2023-10,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,1555839,233860,67.9
+2023-10,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,9739545,2644141,66.7
+2023-10,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,2693636,356031,86.8
+2023-10,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,2055036,359166,87.9
+2023-11,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,10215162,1238360,64.0
+2023-11,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,1049912,119478,94.5
+2023-11,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,5203633,1486169,69.4
+2023-11,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,3268245,374832,51.6
+2023-12,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,3850497,508986,70.5
+2023-12,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,8516255,1707059,77.4
+2023-12,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,9034778,1047360,74.1
+2023-12,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,2995038,412143,70.9
+2024-01,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,20670888,3042217,58.7
+2024-01,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,3635300,786237,66.4
+2024-01,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,5562552,1113788,85.3
+2024-01,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,10099757,2438072,58.0
+2024-02,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,3662456,970633,65.2
+2024-02,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,2168049,389882,64.9
+2024-02,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,2204137,676583,89.7
+2024-02,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,3792609,470643,74.6
+2024-03,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,5982921,1137603,75.8
+2024-03,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,7634615,850549,59.3
+2024-03,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,7501112,1097140,48.4
+2024-03,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,5990787,735011,59.1
+2024-04,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,7491841,1136647,53.1
+2024-04,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,12464855,3027778,55.4
+2024-04,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,4532994,1356583,64.9
+2024-04,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,5842300,656926,58.4
+2024-05,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,8535429,1170913,90.6
+2024-05,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,3165908,885037,60.2
+2024-05,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,16261201,2454593,91.9
+2024-05,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,1912621,263280,80.9
+2024-06,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,3347281,1032764,83.7
+2024-06,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,12510958,4134238,72.7
+2024-06,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,6920561,1523016,52.6
+2024-06,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,1687561,504328,90.2
+2024-07,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,27487947,3358558,76.3
+2024-07,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,9811356,2352743,69.7
+2024-07,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,1951327,271035,77.0
+2024-07,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,3751195,592600,80.2
+2024-08,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,9162115,1066507,71.4
+2024-08,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,7499246,882255,77.5
+2024-08,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,6440129,1170884,72.8
+2024-08,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,1963604,536955,55.1
+2024-09,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,20771495,2881877,80.1
+2024-09,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,26108115,6731294,100.0
+2024-09,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,3144927,671486,66.0
+2024-09,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,4355869,553391,70.3
+2024-10,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,31259944,8153285,76.1
+2024-10,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,2604631,624757,70.0
+2024-10,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,2319200,411490,100.0
+2024-10,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,2619234,727647,61.5
+2024-11,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,7240624,829904,80.3
+2024-11,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,9260713,1877494,77.1
+2024-11,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,1871924,219839,58.2
+2024-11,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,1249761,197206,82.3
+2024-12,Secret Invasion,Star / General,Pelicula,223.6,7.2,Norteamerica,16482413,1991461,83.7
+2024-12,Secret Invasion,Star / General,Pelicula,223.6,7.2,Europa,1317133,208470,74.7
+2024-12,Secret Invasion,Star / General,Pelicula,223.6,7.2,LatAm,6230784,1932708,57.2
+2024-12,Secret Invasion,Star / General,Pelicula,223.6,7.2,APAC,975536,201038,80.5
+2023-01,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,7370473,1464669,50.7
+2023-01,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,3630554,478935,54.3
+2023-01,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,4470659,510460,52.5
+2023-01,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,3563957,490933,65.7
+2023-02,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,6199013,1050535,67.4
+2023-02,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,16953083,4668283,66.9
+2023-02,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,7198921,1546887,87.3
+2023-02,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,2711092,396800,71.1
+2023-03,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,17229869,4865776,87.3
+2023-03,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,10174826,1389480,90.1
+2023-03,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,29296065,4947078,93.4
+2023-03,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,4501115,752458,44.3
+2023-04,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,12029856,1389922,58.3
+2023-04,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,6663576,740689,52.5
+2023-04,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,8025684,2380581,65.3
+2023-04,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,14068308,4102280,85.0
+2023-05,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,6656150,1060517,88.5
+2023-05,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,12678138,3746677,54.7
+2023-05,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,11954485,3402592,75.9
+2023-05,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,5168719,922291,77.1
+2023-06,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,4994203,753745,85.1
+2023-06,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,8129678,1004577,71.3
+2023-06,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,1593682,183924,66.4
+2023-06,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,5526920,1240319,96.7
+2023-07,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,4865035,791319,73.6
+2023-07,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,2924454,477491,96.2
+2023-07,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,3312850,839629,30.8
+2023-07,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,4075056,579557,59.7
+2023-08,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,23300767,3048602,69.3
+2023-08,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,5181524,1401701,55.0
+2023-08,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,10580932,1771475,60.5
+2023-08,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,3053388,518961,83.5
+2023-09,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,6281378,1279724,60.9
+2023-09,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,15707425,2387656,88.1
+2023-09,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,3544056,494684,68.7
+2023-09,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,5248295,929518,80.3
+2023-10,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,6152945,756728,78.6
+2023-10,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,6673305,1203260,74.3
+2023-10,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,7616993,1329422,86.1
+2023-10,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,9178098,1119600,79.7
+2023-11,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,14455005,3428552,56.9
+2023-11,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,4912251,566764,81.7
+2023-11,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,4266693,1114099,88.3
+2023-11,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,8385874,2645333,62.0
+2023-12,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,24325999,7053694,47.9
+2023-12,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,5453897,791822,83.7
+2023-12,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,10157983,1654248,80.8
+2023-12,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,4425297,561939,68.1
+2024-01,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,9959420,1650043,43.7
+2024-01,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,5098095,1340241,67.8
+2024-01,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,4025784,839216,55.8
+2024-01,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,1142929,148033,83.5
+2024-02,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,37840061,4634646,50.0
+2024-02,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,5818019,1074291,74.7
+2024-02,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,7550565,2146169,73.0
+2024-02,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,5884291,742059,59.9
+2024-03,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,7442452,835512,62.7
+2024-03,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,4605824,926219,74.5
+2024-03,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,4689952,713036,75.2
+2024-03,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,2000443,616927,52.8
+2024-04,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,10047573,2001498,76.5
+2024-04,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,7741624,1558108,49.0
+2024-04,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,1504427,236714,71.9
+2024-04,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,2584235,288896,67.8
+2024-05,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,4532690,538719,75.4
+2024-05,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,9086242,1592157,62.0
+2024-05,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,4624627,977888,71.6
+2024-05,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,2816608,419244,64.3
+2024-06,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,4155214,472152,60.1
+2024-06,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,3031872,480182,81.0
+2024-06,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,2379940,425444,44.1
+2024-06,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,2830790,329442,84.4
+2024-07,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,5544953,766784,49.3
+2024-07,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,2582483,358683,97.1
+2024-07,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,7278496,1215057,48.8
+2024-07,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,4070452,500315,41.7
+2024-08,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,10879209,1377438,55.4
+2024-08,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,7383736,1379556,86.2
+2024-08,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,5470995,851774,72.1
+2024-08,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,3833430,524476,57.3
+2024-09,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,93212693,11859696,77.7
+2024-09,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,10664606,1218193,83.9
+2024-09,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,1358164,153854,66.9
+2024-09,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,4580243,688077,79.9
+2024-10,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,5825393,767280,67.7
+2024-10,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,32683290,8934900,72.7
+2024-10,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,5162190,922816,88.6
+2024-10,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,3231324,402621,86.7
+2024-11,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,6376929,2057772,48.3
+2024-11,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,12307464,1702099,82.8
+2024-11,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,15793810,2410142,75.5
+2024-11,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,1976841,237236,83.6
+2024-12,Moana 2,Marvel,Pelicula,255.8,6.4,Norteamerica,10641723,2445537,52.3
+2024-12,Moana 2,Marvel,Pelicula,255.8,6.4,Europa,2320824,394665,100.0
+2024-12,Moana 2,Marvel,Pelicula,255.8,6.4,LatAm,14587213,1798272,93.3
+2024-12,Moana 2,Marvel,Pelicula,255.8,6.4,APAC,8891968,1755840,67.5
+2023-01,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,1364736,224244,89.1
+2023-01,Frozen III,Star Wars,Serie,194.5,7.6,Europa,5469596,649053,85.3
+2023-01,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,8228600,1045148,85.1
+2023-01,Frozen III,Star Wars,Serie,194.5,7.6,APAC,7681106,957360,76.0
+2023-02,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,8105711,2109378,53.8
+2023-02,Frozen III,Star Wars,Serie,194.5,7.6,Europa,2509893,508701,75.6
+2023-02,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,11946813,2631424,87.1
+2023-02,Frozen III,Star Wars,Serie,194.5,7.6,APAC,7668464,1009747,80.9
+2023-03,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,6209865,846622,81.5
+2023-03,Frozen III,Star Wars,Serie,194.5,7.6,Europa,2079447,389214,96.7
+2023-03,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,3263596,686268,80.2
+2023-03,Frozen III,Star Wars,Serie,194.5,7.6,APAC,1411094,180079,51.1
+2023-04,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,4574339,509048,77.4
+2023-04,Frozen III,Star Wars,Serie,194.5,7.6,Europa,4224526,894834,71.1
+2023-04,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,3810945,882103,61.1
+2023-04,Frozen III,Star Wars,Serie,194.5,7.6,APAC,3339873,865435,48.2
+2023-05,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,3613211,829732,77.8
+2023-05,Frozen III,Star Wars,Serie,194.5,7.6,Europa,1869402,279426,70.3
+2023-05,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,13154497,1835375,91.6
+2023-05,Frozen III,Star Wars,Serie,194.5,7.6,APAC,4285376,870391,52.0
+2023-06,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,15974281,3424234,84.9
+2023-06,Frozen III,Star Wars,Serie,194.5,7.6,Europa,2809912,400805,77.3
+2023-06,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,3335384,474137,68.0
+2023-06,Frozen III,Star Wars,Serie,194.5,7.6,APAC,1924018,528818,87.7
+2023-07,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,4105263,747212,60.9
+2023-07,Frozen III,Star Wars,Serie,194.5,7.6,Europa,2089117,263352,46.4
+2023-07,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,7919271,1276011,68.8
+2023-07,Frozen III,Star Wars,Serie,194.5,7.6,APAC,4488258,568493,59.6
+2023-08,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,13398492,1778104,53.2
+2023-08,Frozen III,Star Wars,Serie,194.5,7.6,Europa,4704831,1049621,97.1
+2023-08,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,6697225,1571692,79.4
+2023-08,Frozen III,Star Wars,Serie,194.5,7.6,APAC,6387561,1302007,83.8
+2023-09,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,10090275,1833822,71.3
+2023-09,Frozen III,Star Wars,Serie,194.5,7.6,Europa,3312805,774735,77.1
+2023-09,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,4378283,618689,51.9
+2023-09,Frozen III,Star Wars,Serie,194.5,7.6,APAC,5417731,1269584,73.2
+2023-10,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,7182370,1112695,100.0
+2023-10,Frozen III,Star Wars,Serie,194.5,7.6,Europa,2376363,497404,60.0
+2023-10,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,2435642,294519,92.2
+2023-10,Frozen III,Star Wars,Serie,194.5,7.6,APAC,13659787,2925650,66.4
+2023-11,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,55431763,13768374,63.4
+2023-11,Frozen III,Star Wars,Serie,194.5,7.6,Europa,1302825,317233,86.5
+2023-11,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,26103226,2995648,93.9
+2023-11,Frozen III,Star Wars,Serie,194.5,7.6,APAC,3420450,1057828,47.3
+2023-12,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,24420602,3904007,71.4
+2023-12,Frozen III,Star Wars,Serie,194.5,7.6,Europa,9030245,1882686,63.3
+2023-12,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,2604026,466657,74.0
+2023-12,Frozen III,Star Wars,Serie,194.5,7.6,APAC,734534,113981,89.9
+2024-01,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,4305470,1098725,68.0
+2024-01,Frozen III,Star Wars,Serie,194.5,7.6,Europa,7008394,1243899,58.7
+2024-01,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,8753681,1159392,100.0
+2024-01,Frozen III,Star Wars,Serie,194.5,7.6,APAC,3355872,413637,90.4
+2024-02,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,12498414,1600142,89.9
+2024-02,Frozen III,Star Wars,Serie,194.5,7.6,Europa,3197126,468119,69.4
+2024-02,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,1343418,240404,92.0
+2024-02,Frozen III,Star Wars,Serie,194.5,7.6,APAC,3909987,445769,48.7
+2024-03,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,28582153,3789973,62.3
+2024-03,Frozen III,Star Wars,Serie,194.5,7.6,Europa,4328824,672057,93.3
+2024-03,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,2754875,311293,72.8
+2024-03,Frozen III,Star Wars,Serie,194.5,7.6,APAC,10148129,1305264,84.8
+2024-04,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,13413157,3244781,77.2
+2024-04,Frozen III,Star Wars,Serie,194.5,7.6,Europa,4473668,1263454,58.4
+2024-04,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,3785812,458421,78.0
+2024-04,Frozen III,Star Wars,Serie,194.5,7.6,APAC,2293515,653581,69.5
+2024-05,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,2128462,283497,55.5
+2024-05,Frozen III,Star Wars,Serie,194.5,7.6,Europa,1345789,294487,79.3
+2024-05,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,5749845,1440893,43.0
+2024-05,Frozen III,Star Wars,Serie,194.5,7.6,APAC,1088554,308342,56.3
+2024-06,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,12300433,1589166,73.2
+2024-06,Frozen III,Star Wars,Serie,194.5,7.6,Europa,3247501,465771,74.1
+2024-06,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,2635789,300629,76.0
+2024-06,Frozen III,Star Wars,Serie,194.5,7.6,APAC,1225671,158058,100.0
+2024-07,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,22222331,6404953,70.7
+2024-07,Frozen III,Star Wars,Serie,194.5,7.6,Europa,1142806,325599,91.2
+2024-07,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,2005733,460333,69.5
+2024-07,Frozen III,Star Wars,Serie,194.5,7.6,APAC,1382684,157816,71.2
+2024-08,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,3697800,514378,60.3
+2024-08,Frozen III,Star Wars,Serie,194.5,7.6,Europa,8185609,2607092,69.3
+2024-08,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,6082228,879120,67.8
+2024-08,Frozen III,Star Wars,Serie,194.5,7.6,APAC,4711583,857947,69.8
+2024-09,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,8048195,1898258,59.1
+2024-09,Frozen III,Star Wars,Serie,194.5,7.6,Europa,9972262,3195350,78.8
+2024-09,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,4723254,696900,82.4
+2024-09,Frozen III,Star Wars,Serie,194.5,7.6,APAC,6832911,1066553,70.5
+2024-10,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,22886697,6792170,81.5
+2024-10,Frozen III,Star Wars,Serie,194.5,7.6,Europa,6754167,1213276,61.0
+2024-10,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,6612059,821816,66.4
+2024-10,Frozen III,Star Wars,Serie,194.5,7.6,APAC,3422802,549400,64.7
+2024-11,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,25959075,4140270,64.9
+2024-11,Frozen III,Star Wars,Serie,194.5,7.6,Europa,1513606,175721,46.4
+2024-11,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,6254231,929923,66.5
+2024-11,Frozen III,Star Wars,Serie,194.5,7.6,APAC,852363,179753,61.1
+2024-12,Frozen III,Star Wars,Serie,194.5,7.6,Norteamerica,21336926,6586179,62.5
+2024-12,Frozen III,Star Wars,Serie,194.5,7.6,Europa,4674505,658811,68.6
+2024-12,Frozen III,Star Wars,Serie,194.5,7.6,LatAm,2535611,381365,69.8
+2024-12,Frozen III,Star Wars,Serie,194.5,7.6,APAC,1169036,161632,45.2
+2023-01,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,7162973,1081499,85.9
+2023-01,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,7701400,1369084,83.3
+2023-01,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,2654466,456110,78.3
+2023-01,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,5005489,988785,58.0
+2023-02,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,3653979,572469,70.9
+2023-02,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,1192295,205488,44.2
+2023-02,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,1771114,482707,99.4
+2023-02,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,1222794,223387,72.6
+2023-03,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,31372861,10055792,64.8
+2023-03,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,18605735,2192109,82.8
+2023-03,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,1157312,130819,81.3
+2023-03,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,857260,105882,84.6
+2023-04,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,7250260,1880864,60.8
+2023-04,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,4517526,735872,86.7
+2023-04,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,461948,94926,74.4
+2023-04,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,2987907,719304,76.0
+2023-05,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,5912491,817857,68.3
+2023-05,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,13510718,1715117,71.1
+2023-05,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,4368799,551664,67.5
+2023-05,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,6963687,849998,71.0
+2023-06,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,6375015,1320024,68.2
+2023-06,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,10674752,1533119,75.5
+2023-06,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,1533627,187003,100.0
+2023-06,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,2804999,660914,93.5
+2023-07,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,9453721,1185882,69.9
+2023-07,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,4176823,674925,51.3
+2023-07,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,3516522,1093395,99.8
+2023-07,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,3464135,685135,70.6
+2023-08,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,67529530,18972650,59.8
+2023-08,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,8648402,2086309,51.7
+2023-08,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,2855134,344393,43.9
+2023-08,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,1289605,156230,65.9
+2023-09,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,10348180,1182087,82.7
+2023-09,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,2090664,612445,46.3
+2023-09,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,1574237,181332,97.0
+2023-09,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,4160762,850311,72.3
+2023-10,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,3319595,714953,53.8
+2023-10,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,1937738,323614,65.9
+2023-10,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,1536138,397957,52.5
+2023-10,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,4099111,668552,93.1
+2023-11,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,9776062,2319982,60.7
+2023-11,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,5637293,945710,65.8
+2023-11,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,3059131,541811,53.8
+2023-11,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,1043781,199481,56.2
+2023-12,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,12465399,2149014,51.5
+2023-12,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,22583245,2543808,76.8
+2023-12,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,6307051,1276358,49.2
+2023-12,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,2688050,752659,100.0
+2024-01,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,2106570,516047,56.4
+2024-01,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,1627688,200671,100.0
+2024-01,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,2578518,628166,38.4
+2024-01,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,2660134,670148,62.2
+2024-02,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,9007538,2232792,76.8
+2024-02,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,4185346,654892,82.0
+2024-02,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,3810748,666607,83.9
+2024-02,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,1036919,239463,60.7
+2024-03,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,3241218,385207,77.3
+2024-03,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,12985542,1878756,75.1
+2024-03,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,9851249,1168439,73.0
+2024-03,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,10570068,1544823,67.4
+2024-04,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,3860138,791019,90.6
+2024-04,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,5175932,652757,42.4
+2024-04,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,3609076,946843,61.1
+2024-04,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,21774784,4776439,65.9
+2024-05,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,7703936,1054594,60.6
+2024-05,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,11835238,1883692,59.6
+2024-05,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,10755690,1328200,79.8
+2024-05,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,2246941,418370,59.9
+2024-06,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,3404653,471431,62.7
+2024-06,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,2355404,634424,75.3
+2024-06,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,4551655,634705,62.0
+2024-06,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,4098185,764993,68.2
+2024-07,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,13686754,3380352,76.9
+2024-07,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,4392847,637082,51.5
+2024-07,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,1979967,347109,55.1
+2024-07,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,4597915,623393,58.4
+2024-08,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,9466079,1108525,67.4
+2024-08,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,3102554,902042,61.8
+2024-08,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,8475187,1116790,62.3
+2024-08,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,1186514,274934,85.4
+2024-09,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,9389750,1395046,93.4
+2024-09,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,4214231,883441,79.0
+2024-09,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,1929766,399122,77.4
+2024-09,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,3970257,545964,97.8
+2024-10,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,8651441,1415604,94.6
+2024-10,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,11687615,1532829,72.1
+2024-10,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,4411078,957420,51.7
+2024-10,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,941459,191824,57.5
+2024-11,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,4508220,578773,69.5
+2024-11,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,6306653,702375,65.1
+2024-11,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,6035270,1027168,61.1
+2024-11,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,3680298,498223,71.7
+2024-12,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Norteamerica,4333658,714894,73.4
+2024-12,Toy Story 5,Star Wars,Pelicula,126.1,7.6,Europa,4775767,793544,50.3
+2024-12,Toy Story 5,Star Wars,Pelicula,126.1,7.6,LatAm,1746668,224673,69.5
+2024-12,Toy Story 5,Star Wars,Pelicula,126.1,7.6,APAC,2055897,642286,72.9
+2023-01,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,11925014,2170524,85.0
+2023-01,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,9537751,1470688,70.5
+2023-01,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,4589476,1339396,62.2
+2023-01,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,1956070,318438,78.2
+2023-02,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,3902730,725662,70.6
+2023-02,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,916003,293926,69.6
+2023-02,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,3318723,576439,53.8
+2023-02,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,1671908,186305,64.8
+2023-03,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,5498343,868157,88.6
+2023-03,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,10729355,1549606,66.4
+2023-03,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,8574273,2277776,59.7
+2023-03,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,819275,96240,83.3
+2023-04,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,46627599,12259149,60.5
+2023-04,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,2088648,599388,45.5
+2023-04,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,5859654,731057,78.5
+2023-04,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,2712672,732189,74.6
+2023-05,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,4048970,1120303,66.7
+2023-05,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,10025093,2758020,91.1
+2023-05,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,12216964,1627520,80.4
+2023-05,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,5055495,888044,80.2
+2023-06,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,3951350,768721,88.9
+2023-06,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,11754258,1835082,61.0
+2023-06,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,2250915,656815,57.0
+2023-06,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,4301801,1051688,70.7
+2023-07,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,16928737,4321995,68.8
+2023-07,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,2466234,372586,60.5
+2023-07,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,4990978,1100623,56.2
+2023-07,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,1986513,268668,75.0
+2023-08,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,3365718,834913,69.8
+2023-08,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,85432497,12324647,66.3
+2023-08,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,11749807,2005871,73.4
+2023-08,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,15945977,3481613,46.0
+2023-09,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,5497136,1316796,77.6
+2023-09,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,2754964,706582,63.6
+2023-09,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,5036809,623592,87.8
+2023-09,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,4657475,804259,52.1
+2023-10,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,11560143,1320401,68.6
+2023-10,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,6874437,869995,56.6
+2023-10,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,3499141,631899,87.9
+2023-10,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,5255665,696888,60.8
+2023-11,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,3203474,750295,78.1
+2023-11,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,7055365,866707,60.2
+2023-11,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,9888975,3248582,50.7
+2023-11,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,21291773,5634915,77.8
+2023-12,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,10387274,1227989,61.1
+2023-12,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,29424552,4439101,84.3
+2023-12,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,5982543,1734306,91.2
+2023-12,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,1647333,304060,47.4
+2024-01,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,1474434,237879,59.9
+2024-01,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,1097632,150708,100.0
+2024-01,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,11466877,3731137,72.1
+2024-01,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,6578645,1298703,66.8
+2024-02,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,7754736,1266672,80.3
+2024-02,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,4845392,611913,72.8
+2024-02,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,11377985,1321708,79.2
+2024-02,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,12793677,2377243,96.3
+2024-03,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,11646131,1735316,54.1
+2024-03,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,3104998,492404,78.0
+2024-03,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,17956024,2233241,85.6
+2024-03,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,8195901,948783,57.6
+2024-04,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,23270087,2893747,81.0
+2024-04,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,6346906,2015091,70.8
+2024-04,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,6299325,1673323,59.3
+2024-04,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,1397647,160689,75.3
+2024-05,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,7384601,1207124,79.5
+2024-05,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,3262953,956853,68.0
+2024-05,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,2667316,319252,44.5
+2024-05,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,1718129,351836,45.9
+2024-06,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,18449200,4139679,66.5
+2024-06,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,6806919,767162,65.0
+2024-06,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,7553680,1156300,64.8
+2024-06,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,1706073,362682,89.4
+2024-07,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,6512160,1630567,55.8
+2024-07,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,7390304,1006638,77.9
+2024-07,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,2768476,876861,68.4
+2024-07,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,2389384,549225,93.1
+2024-08,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,989649,116543,65.0
+2024-08,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,3881481,530195,61.3
+2024-08,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,2189688,289573,78.2
+2024-08,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,2270906,440436,59.0
+2024-09,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,21031656,2789679,78.8
+2024-09,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,4372576,561447,97.2
+2024-09,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,3245472,699636,88.4
+2024-09,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,1814437,213078,72.2
+2024-10,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,7547208,1896009,100.0
+2024-10,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,7053246,946117,76.9
+2024-10,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,3888869,508255,77.6
+2024-10,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,3937010,1306496,71.2
+2024-11,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,12322132,3018747,57.8
+2024-11,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,60552732,9240117,73.5
+2024-11,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,1140294,297833,58.0
+2024-11,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,2269785,468116,79.1
+2024-12,Ironheart,Pixar,Pelicula,49.7,6.6,Norteamerica,11889899,2272524,99.6
+2024-12,Ironheart,Pixar,Pelicula,49.7,6.6,Europa,2077124,260538,87.3
+2024-12,Ironheart,Pixar,Pelicula,49.7,6.6,LatAm,5987540,1244626,74.3
+2024-12,Ironheart,Pixar,Pelicula,49.7,6.6,APAC,2218711,268365,68.3
+2023-01,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,6265536,2007185,58.6
+2023-01,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,1153399,166665,79.8
+2023-01,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,4180677,835193,73.3
+2023-01,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,1302652,398407,60.7
+2023-02,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,19268607,3510707,65.3
+2023-02,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,33468601,8264868,77.1
+2023-02,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,3648872,524929,39.2
+2023-02,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,9125023,1081970,69.3
+2023-03,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,8789383,2710268,48.7
+2023-03,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,4370811,702937,98.6
+2023-03,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,9881884,1120290,49.3
+2023-03,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,3781616,488424,52.1
+2023-04,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,46485281,9930194,79.1
+2023-04,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,4027886,851503,66.3
+2023-04,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,3909870,482545,47.6
+2023-04,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,15084238,3259111,91.2
+2023-05,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,4149509,695822,54.6
+2023-05,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,8559928,2749639,65.0
+2023-05,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,2179124,378164,71.3
+2023-05,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,2896660,529560,95.2
+2023-06,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,9184023,1863488,64.0
+2023-06,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,8522201,1031173,46.5
+2023-06,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,15376638,3202186,83.2
+2023-06,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,2303443,303919,59.0
+2023-07,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,26367303,4809095,77.5
+2023-07,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,20767744,2806425,83.5
+2023-07,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,1572704,221872,56.9
+2023-07,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,7523677,986885,51.1
+2023-08,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,8434501,1432275,71.2
+2023-08,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,1863684,266343,77.7
+2023-08,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,22568103,6855428,65.7
+2023-08,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,8088830,1356997,57.6
+2023-09,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,12805054,1441998,71.4
+2023-09,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,3097647,658716,55.8
+2023-09,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,6886598,2288069,93.0
+2023-09,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,4226675,565318,68.3
+2023-10,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,3346572,1063450,80.8
+2023-10,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,50511979,11336352,68.0
+2023-10,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,3094331,780927,77.7
+2023-10,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,4028234,1249853,62.7
+2023-11,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,21590754,4478798,71.8
+2023-11,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,5446125,1050327,59.7
+2023-11,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,6224700,785129,98.8
+2023-11,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,8546220,2475741,79.7
+2023-12,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,12055036,1488432,83.4
+2023-12,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,9566792,1256412,71.4
+2023-12,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,6924198,1008983,72.9
+2023-12,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,2517371,420935,56.2
+2024-01,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,13810579,3235813,98.4
+2024-01,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,3400993,831357,57.5
+2024-01,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,6353150,942812,64.8
+2024-01,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,751364,108732,64.5
+2024-02,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,2982853,366311,52.4
+2024-02,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,13255448,1499563,96.0
+2024-02,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,8933597,1266992,58.2
+2024-02,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,6824016,1445568,69.5
+2024-03,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,27142941,4779040,73.4
+2024-03,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,15037633,1742147,69.6
+2024-03,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,3892509,1064799,56.2
+2024-03,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,5423359,1181526,73.1
+2024-04,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,22527320,4545664,68.5
+2024-04,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,8148407,2455675,93.5
+2024-04,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,10145682,2501956,98.9
+2024-04,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,1267329,421661,77.5
+2024-05,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,4719401,1017630,55.4
+2024-05,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,12173963,2837452,76.1
+2024-05,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,1113981,138099,80.5
+2024-05,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,4275867,1141237,67.4
+2024-06,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,26511808,3197078,59.7
+2024-06,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,15530691,3947760,61.7
+2024-06,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,6532964,1140408,96.4
+2024-06,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,5605774,1028374,83.9
+2024-07,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,3588516,435004,67.4
+2024-07,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,11730266,2424168,76.8
+2024-07,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,4088608,587384,73.8
+2024-07,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,359731,94807,81.6
+2024-08,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,14014165,1853619,96.6
+2024-08,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,8988555,1571839,87.7
+2024-08,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,6555164,1124434,35.4
+2024-08,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,2870055,353143,66.7
+2024-09,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,18620602,3447447,91.3
+2024-09,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,5532724,722820,79.6
+2024-09,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,16304811,3226190,65.1
+2024-09,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,8288267,2355501,75.6
+2024-10,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,7761399,1528303,77.5
+2024-10,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,12839783,1924610,66.6
+2024-10,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,6388021,1534565,100.0
+2024-10,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,7614939,1260821,71.2
+2024-11,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,15321287,2448115,74.8
+2024-11,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,3005826,878649,54.9
+2024-11,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,3471161,761936,100.0
+2024-11,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,2997809,611952,63.7
+2024-12,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Norteamerica,36982457,8366966,57.0
+2024-12,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,Europa,62295218,8785360,55.4
+2024-12,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,LatAm,4742879,694414,84.7
+2024-12,Daredevil Reborn,Marvel,Pelicula,158.2,6.7,APAC,18313338,2386155,63.9
+2023-01,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,2804494,765246,54.3
+2023-01,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,9001965,1736272,24.8
+2023-01,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,2127716,339383,62.9
+2023-01,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,14177381,4180522,85.2
+2023-02,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,9661412,1604209,59.5
+2023-02,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,6684741,1187249,74.6
+2023-02,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,4059984,632606,86.9
+2023-02,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,5915053,861684,74.2
+2023-03,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,9173032,1615116,73.1
+2023-03,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,4263303,763532,47.7
+2023-03,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,3681399,531000,61.6
+2023-03,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,31582243,3716514,91.6
+2023-04,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,18532396,2257816,60.2
+2023-04,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,903267,127089,80.4
+2023-04,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,5536665,1191865,91.8
+2023-04,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,5706889,1395761,57.9
+2023-05,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,4083730,506924,73.5
+2023-05,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,4255747,1000796,62.3
+2023-05,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,2781558,352602,49.5
+2023-05,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,3596728,547595,88.6
+2023-06,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,12401125,2031295,60.9
+2023-06,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,6360016,735800,82.7
+2023-06,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,4549718,1029757,72.1
+2023-06,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,7927246,1255441,44.8
+2023-07,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,12158313,1739530,80.6
+2023-07,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,9821786,1814476,59.9
+2023-07,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,7625984,987706,63.6
+2023-07,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,10212040,2129184,63.2
+2023-08,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,36323543,7274490,66.6
+2023-08,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,8817675,2877340,30.8
+2023-08,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,2375005,287059,66.7
+2023-08,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,5122845,918986,67.2
+2023-09,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,4208903,1099677,67.1
+2023-09,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,6184232,808127,100.0
+2023-09,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,816780,104267,71.9
+2023-09,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,2250413,258744,84.2
+2023-10,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,9441569,3007287,70.3
+2023-10,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,6443194,774672,69.2
+2023-10,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,6002272,860753,53.5
+2023-10,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,1813932,409725,85.0
+2023-11,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,11984145,2139827,50.6
+2023-11,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,29218796,4490483,74.5
+2023-11,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,9715149,2242956,63.8
+2023-11,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,4851876,936509,76.5
+2023-12,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,35460339,5359796,77.5
+2023-12,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,3175601,393373,49.5
+2023-12,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,17652525,3291534,32.2
+2023-12,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,3201512,566374,68.4
+2024-01,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,17380182,2953076,52.4
+2024-01,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,6617365,794141,66.8
+2024-01,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,13092135,2767334,76.7
+2024-01,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,4438888,611332,52.2
+2024-02,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,9903168,2654903,80.7
+2024-02,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,1761817,473166,83.0
+2024-02,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,4541275,525182,58.8
+2024-02,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,5563336,742474,78.8
+2024-03,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,6857582,1258838,72.4
+2024-03,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,10815656,1306450,86.6
+2024-03,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,3389324,788825,100.0
+2024-03,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,2591718,549075,71.0
+2024-04,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,10350872,1339853,71.7
+2024-04,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,6787236,1730373,36.6
+2024-04,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,22084583,3252510,80.7
+2024-04,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,1395910,420441,61.9
+2024-05,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,31788511,5136268,83.4
+2024-05,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,4164171,540904,68.3
+2024-05,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,13698068,3136818,52.3
+2024-05,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,885311,99654,59.8
+2024-06,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,2695923,330705,41.8
+2024-06,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,3103289,425817,78.1
+2024-06,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,5698214,962836,49.0
+2024-06,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,1689957,553098,85.0
+2024-07,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,20190655,6335446,60.9
+2024-07,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,7145577,2086419,69.0
+2024-07,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,25025144,3854171,68.5
+2024-07,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,11083164,2607999,62.3
+2024-08,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,6424347,759021,48.1
+2024-08,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,11280578,2845945,79.6
+2024-08,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,2444595,359571,58.5
+2024-08,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,3221833,890354,73.4
+2024-09,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,3793559,525233,51.7
+2024-09,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,2684905,618461,65.3
+2024-09,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,10378682,2027432,79.8
+2024-09,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,1745233,250120,76.1
+2024-10,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,5933830,1818436,78.6
+2024-10,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,5300682,767694,95.9
+2024-10,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,4274605,969370,80.4
+2024-10,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,1299831,176670,59.5
+2024-11,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,4950348,819693,81.2
+2024-11,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,19124695,3400146,65.3
+2024-11,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,927173,112049,72.4
+2024-11,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,4866480,731230,90.6
+2024-12,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Norteamerica,18382050,2805555,64.3
+2024-12,Skeleton Crew,Marvel,Pelicula,177.4,5.5,Europa,6494645,800834,79.5
+2024-12,Skeleton Crew,Marvel,Pelicula,177.4,5.5,LatAm,6525423,975410,90.0
+2024-12,Skeleton Crew,Marvel,Pelicula,177.4,5.5,APAC,4562525,1101906,71.2
+2023-01,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,8764200,1958608,50.8
+2023-01,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,13230666,1657187,76.8
+2023-01,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,12483151,2867619,82.3
+2023-01,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,1559888,419131,80.0
+2023-02,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,5541640,880237,75.9
+2023-02,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,1415725,424770,57.7
+2023-02,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,5074870,1054560,68.0
+2023-02,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,1764973,290400,100.0
+2023-03,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,22851331,4906375,71.6
+2023-03,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,10589367,2091984,59.6
+2023-03,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,3546153,398180,88.8
+2023-03,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,16872468,4329526,40.1
+2023-04,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,12281254,3034826,62.0
+2023-04,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,8897323,2688437,64.7
+2023-04,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,2243708,291256,65.9
+2023-04,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,1331457,280730,77.1
+2023-05,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,6543543,1292678,86.8
+2023-05,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,602565,95136,62.7
+2023-05,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,4247614,533114,88.9
+2023-05,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,1828946,383641,74.9
+2023-06,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,1918857,241280,50.4
+2023-06,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,7538982,1594373,76.1
+2023-06,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,2539971,630184,48.6
+2023-06,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,3067923,356060,61.8
+2023-07,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,10632973,1608910,66.9
+2023-07,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,10064700,1667199,58.6
+2023-07,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,3069310,549081,61.6
+2023-07,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,4556023,1401349,48.1
+2023-08,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,2013230,236845,59.8
+2023-08,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,6862846,1694064,52.9
+2023-08,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,1219675,147892,72.0
+2023-08,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,4284142,1322546,58.0
+2023-09,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,5015880,745425,85.3
+2023-09,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,2895299,337583,66.0
+2023-09,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,1637440,195505,32.6
+2023-09,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,2936002,629932,84.4
+2023-10,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,1668487,285523,84.3
+2023-10,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,14674690,4855385,87.2
+2023-10,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,1162786,202880,60.4
+2023-10,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,862898,99905,72.1
+2023-11,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,3902129,566093,44.9
+2023-11,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,982958,131452,85.6
+2023-11,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,1629669,241286,87.3
+2023-11,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,4522316,1117628,88.4
+2023-12,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,4205493,1389925,71.7
+2023-12,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,4333085,623703,73.1
+2023-12,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,3878081,550602,84.0
+2023-12,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,1480760,472192,67.6
+2024-01,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,10048713,1561586,85.4
+2024-01,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,3135840,839705,64.8
+2024-01,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,3628210,410183,67.8
+2024-01,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,8712368,1158581,78.2
+2024-02,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,7979921,1978682,61.7
+2024-02,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,2452850,610048,73.5
+2024-02,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,3161856,368544,91.6
+2024-02,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,1481408,259571,50.5
+2024-03,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,38292730,4523164,79.2
+2024-03,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,1844711,351327,79.6
+2024-03,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,3082091,824961,100.0
+2024-03,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,1515906,421953,58.8
+2024-04,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,27273649,4824040,70.0
+2024-04,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,5549662,1334744,85.4
+2024-04,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,2784011,327814,81.1
+2024-04,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,2782272,382448,72.2
+2024-05,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,14256971,3910160,80.8
+2024-05,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,10248597,2674305,61.4
+2024-05,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,6366204,1393716,50.7
+2024-05,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,2487325,410697,64.3
+2024-06,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,24688811,3112863,92.6
+2024-06,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,6654076,1462842,58.0
+2024-06,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,3808967,461418,51.5
+2024-06,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,2100219,377750,78.2
+2024-07,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,10913949,1676383,79.0
+2024-07,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,4659118,894125,64.7
+2024-07,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,8944201,1088216,73.7
+2024-07,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,11494547,1315460,72.0
+2024-08,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,2658464,325861,70.8
+2024-08,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,5594538,865487,81.9
+2024-08,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,1872569,253448,79.4
+2024-08,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,1962790,220118,71.2
+2024-09,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,2308946,628503,74.7
+2024-09,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,2612609,539484,43.7
+2024-09,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,1565562,275135,100.0
+2024-09,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,5782181,763383,65.5
+2024-10,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,3510522,789154,69.2
+2024-10,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,29282594,4630305,45.9
+2024-10,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,2214557,441791,70.8
+2024-10,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,3081487,342685,77.8
+2024-11,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,3187316,679511,81.2
+2024-11,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,5382924,788217,56.3
+2024-11,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,4108275,1267912,76.9
+2024-11,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,5102979,1026991,86.1
+2024-12,Turning Red,National Geographic,Pelicula,86.7,7.8,Norteamerica,7988454,976231,63.0
+2024-12,Turning Red,National Geographic,Pelicula,86.7,7.8,Europa,4521231,1165764,64.8
+2024-12,Turning Red,National Geographic,Pelicula,86.7,7.8,LatAm,1784660,317182,47.2
+2024-12,Turning Red,National Geographic,Pelicula,86.7,7.8,APAC,2679695,359429,57.0
+2023-01,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,6320411,792371,80.1
+2023-01,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,3957678,1216236,89.9
+2023-01,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,9949566,2077702,85.9
+2023-01,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,864334,115361,77.9
+2023-02,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,22019998,2596913,72.7
+2023-02,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,5621543,814048,67.3
+2023-02,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,9820574,1493890,63.9
+2023-02,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,21582583,2726976,68.4
+2023-03,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,4841677,1256561,61.0
+2023-03,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,6039764,693349,61.5
+2023-03,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,9217166,1156576,87.8
+2023-03,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,4704224,523729,68.5
+2023-04,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,22804386,3304373,58.9
+2023-04,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,6483149,884531,97.6
+2023-04,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,16004053,3709192,53.2
+2023-04,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,6207495,1501689,49.7
+2023-05,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,11877583,3378158,85.6
+2023-05,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,10428711,1215312,57.2
+2023-05,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,4509550,508392,41.9
+2023-05,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,7602995,1389978,85.1
+2023-06,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,23807579,3340466,80.9
+2023-06,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,4128558,981301,73.8
+2023-06,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,3365173,532758,100.0
+2023-06,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,1240286,311590,57.1
+2023-07,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,20286082,4404376,77.7
+2023-07,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,3290179,796191,85.9
+2023-07,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,20222926,6344121,58.5
+2023-07,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,5513385,1076740,73.5
+2023-08,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,31588673,4095688,71.4
+2023-08,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,11501826,1672764,60.5
+2023-08,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,2566555,299585,89.9
+2023-08,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,14093911,2491197,74.0
+2023-09,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,7647406,1034826,82.7
+2023-09,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,3192771,755661,79.4
+2023-09,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,4256124,1127454,88.1
+2023-09,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,7715704,1038095,43.0
+2023-10,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,12013659,1509274,49.1
+2023-10,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,4149289,731332,72.3
+2023-10,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,18037662,2409829,59.8
+2023-10,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,6406248,1036207,77.8
+2023-11,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,13497569,3251222,97.3
+2023-11,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,16925594,4619217,83.9
+2023-11,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,10014934,3006392,89.0
+2023-11,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,4886553,1269775,73.8
+2023-12,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,1951758,287216,62.0
+2023-12,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,2712024,638666,79.6
+2023-12,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,4788963,1124809,76.4
+2023-12,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,9292215,1033251,69.0
+2024-01,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,9771434,1915140,43.0
+2024-01,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,6691231,789479,70.0
+2024-01,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,3283388,599965,100.0
+2024-01,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,3244269,464833,100.0
+2024-02,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,6317436,773951,72.1
+2024-02,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,29147544,6025260,76.6
+2024-02,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,4653754,1155572,73.1
+2024-02,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,8618553,1275633,67.3
+2024-03,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,8026109,1040217,90.4
+2024-03,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,4108809,660248,77.7
+2024-03,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,16646573,4547046,53.2
+2024-03,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,3403374,818816,68.0
+2024-04,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,35405031,6253076,47.7
+2024-04,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,3611092,769922,81.3
+2024-04,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,6959707,1661395,80.8
+2024-04,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,10767974,2128552,89.8
+2024-05,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,7641926,1504163,52.1
+2024-05,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,7034446,1469413,89.3
+2024-05,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,1379850,458984,55.7
+2024-05,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,6299214,955788,91.3
+2024-06,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,6393631,1348785,92.4
+2024-06,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,1881851,267859,86.4
+2024-06,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,3987632,1177649,86.1
+2024-06,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,1610300,230949,71.4
+2024-07,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,17387583,3479398,61.7
+2024-07,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,7583585,884215,100.0
+2024-07,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,1468429,362744,55.7
+2024-07,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,9497960,1361985,61.9
+2024-08,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,6122124,739795,76.8
+2024-08,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,10317224,1717419,52.1
+2024-08,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,8779396,2329386,89.4
+2024-08,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,2386521,294481,71.5
+2024-09,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,27662787,5212131,69.0
+2024-09,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,3492354,478386,56.6
+2024-09,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,2745225,575793,44.2
+2024-09,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,11654596,2096007,85.5
+2024-10,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,15330120,5015392,56.1
+2024-10,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,6263839,737654,79.3
+2024-10,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,9352115,1598656,77.6
+2024-10,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,8808246,1050639,64.8
+2024-11,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,14328684,2260282,76.0
+2024-11,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,2997863,537741,81.5
+2024-11,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,9969503,1372203,82.1
+2024-11,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,2745160,405923,93.3
+2024-12,Lightyear,Marvel,Pelicula,280.4,7.8,Norteamerica,18714820,2335324,100.0
+2024-12,Lightyear,Marvel,Pelicula,280.4,7.8,Europa,3989836,705235,61.2
+2024-12,Lightyear,Marvel,Pelicula,280.4,7.8,LatAm,4001134,598310,68.9
+2024-12,Lightyear,Marvel,Pelicula,280.4,7.8,APAC,2719291,367020,77.3
+2023-01,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,6612134,1929548,55.6
+2023-01,Encanto,Marvel,Pelicula,170.6,6.4,Europa,3868543,845502,57.8
+2023-01,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,3252478,510095,74.6
+2023-01,Encanto,Marvel,Pelicula,170.6,6.4,APAC,5909727,767127,72.2
+2023-02,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,2858987,819760,65.9
+2023-02,Encanto,Marvel,Pelicula,170.6,6.4,Europa,5074446,611357,93.4
+2023-02,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,9391976,1819342,82.2
+2023-02,Encanto,Marvel,Pelicula,170.6,6.4,APAC,7016538,828278,84.7
+2023-03,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,8628102,1153435,78.8
+2023-03,Encanto,Marvel,Pelicula,170.6,6.4,Europa,8334663,1350792,71.4
+2023-03,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,2759116,384479,71.3
+2023-03,Encanto,Marvel,Pelicula,170.6,6.4,APAC,4802742,691736,54.7
+2023-04,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,4796562,584013,80.5
+2023-04,Encanto,Marvel,Pelicula,170.6,6.4,Europa,2656702,435857,77.6
+2023-04,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,7941173,1227694,71.0
+2023-04,Encanto,Marvel,Pelicula,170.6,6.4,APAC,15994620,1949258,86.8
+2023-05,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,12849699,1975572,82.8
+2023-05,Encanto,Marvel,Pelicula,170.6,6.4,Europa,6174554,1805936,62.5
+2023-05,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,4270932,511351,75.7
+2023-05,Encanto,Marvel,Pelicula,170.6,6.4,APAC,6240162,1005421,51.9
+2023-06,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,35986863,9613561,78.7
+2023-06,Encanto,Marvel,Pelicula,170.6,6.4,Europa,2429438,731253,79.6
+2023-06,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,14340264,4243055,70.1
+2023-06,Encanto,Marvel,Pelicula,170.6,6.4,APAC,4917369,896138,66.8
+2023-07,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,2807443,839109,88.9
+2023-07,Encanto,Marvel,Pelicula,170.6,6.4,Europa,6558622,1040564,64.9
+2023-07,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,2493183,687801,77.8
+2023-07,Encanto,Marvel,Pelicula,170.6,6.4,APAC,6223440,692991,56.2
+2023-08,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,6307282,832059,63.5
+2023-08,Encanto,Marvel,Pelicula,170.6,6.4,Europa,13109837,1573262,57.1
+2023-08,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,5169604,748883,86.0
+2023-08,Encanto,Marvel,Pelicula,170.6,6.4,APAC,5757715,1201440,76.8
+2023-09,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,8438022,1190980,76.3
+2023-09,Encanto,Marvel,Pelicula,170.6,6.4,Europa,5367455,615973,92.1
+2023-09,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,8137231,959085,70.7
+2023-09,Encanto,Marvel,Pelicula,170.6,6.4,APAC,1532850,224033,73.5
+2023-10,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,11785749,1664567,85.8
+2023-10,Encanto,Marvel,Pelicula,170.6,6.4,Europa,4027438,461657,93.8
+2023-10,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,9088083,2821688,70.4
+2023-10,Encanto,Marvel,Pelicula,170.6,6.4,APAC,3872332,515121,79.1
+2023-11,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,74538825,19324505,81.9
+2023-11,Encanto,Marvel,Pelicula,170.6,6.4,Europa,1817882,547725,90.4
+2023-11,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,6766818,906123,86.6
+2023-11,Encanto,Marvel,Pelicula,170.6,6.4,APAC,1014785,185188,100.0
+2023-12,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,1986948,388884,30.4
+2023-12,Encanto,Marvel,Pelicula,170.6,6.4,Europa,14838911,1797551,36.8
+2023-12,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,7008256,1614557,77.5
+2023-12,Encanto,Marvel,Pelicula,170.6,6.4,APAC,6711954,1066424,44.1
+2024-01,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,17061375,1901379,88.9
+2024-01,Encanto,Marvel,Pelicula,170.6,6.4,Europa,1428397,174272,59.3
+2024-01,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,1371353,165715,77.9
+2024-01,Encanto,Marvel,Pelicula,170.6,6.4,APAC,1338869,231712,81.0
+2024-02,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,6326825,1667275,42.8
+2024-02,Encanto,Marvel,Pelicula,170.6,6.4,Europa,5371160,795399,74.5
+2024-02,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,6641117,954520,68.0
+2024-02,Encanto,Marvel,Pelicula,170.6,6.4,APAC,5285588,797046,70.6
+2024-03,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,12646770,2089489,62.3
+2024-03,Encanto,Marvel,Pelicula,170.6,6.4,Europa,10645714,1333701,77.8
+2024-03,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,5016753,824776,67.1
+2024-03,Encanto,Marvel,Pelicula,170.6,6.4,APAC,2799753,383567,77.7
+2024-04,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,11805474,2458711,64.0
+2024-04,Encanto,Marvel,Pelicula,170.6,6.4,Europa,31917696,5845407,58.9
+2024-04,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,2214952,302361,95.0
+2024-04,Encanto,Marvel,Pelicula,170.6,6.4,APAC,12589737,3186886,58.6
+2024-05,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,41776755,6790404,68.0
+2024-05,Encanto,Marvel,Pelicula,170.6,6.4,Europa,22123955,4618544,100.0
+2024-05,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,5984402,950386,62.8
+2024-05,Encanto,Marvel,Pelicula,170.6,6.4,APAC,959283,157889,89.2
+2024-06,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,15837701,3009846,57.1
+2024-06,Encanto,Marvel,Pelicula,170.6,6.4,Europa,8401011,1311748,78.5
+2024-06,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,5604483,648062,85.0
+2024-06,Encanto,Marvel,Pelicula,170.6,6.4,APAC,343181,44499,100.0
+2024-07,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,2934764,933988,71.9
+2024-07,Encanto,Marvel,Pelicula,170.6,6.4,Europa,4839384,610672,79.1
+2024-07,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,5540136,875675,72.3
+2024-07,Encanto,Marvel,Pelicula,170.6,6.4,APAC,53512735,16806753,74.9
+2024-08,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,2496654,354731,89.2
+2024-08,Encanto,Marvel,Pelicula,170.6,6.4,Europa,2407257,330065,72.5
+2024-08,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,14684233,2152276,67.0
+2024-08,Encanto,Marvel,Pelicula,170.6,6.4,APAC,950504,241869,81.9
+2024-09,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,2358297,354934,83.5
+2024-09,Encanto,Marvel,Pelicula,170.6,6.4,Europa,17334633,3699179,81.8
+2024-09,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,7439141,964714,44.7
+2024-09,Encanto,Marvel,Pelicula,170.6,6.4,APAC,1265137,389011,70.1
+2024-10,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,13380995,1660879,88.8
+2024-10,Encanto,Marvel,Pelicula,170.6,6.4,Europa,17560462,2688752,75.6
+2024-10,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,2489080,786368,76.8
+2024-10,Encanto,Marvel,Pelicula,170.6,6.4,APAC,275011,34185,80.5
+2024-11,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,6090701,761388,66.8
+2024-11,Encanto,Marvel,Pelicula,170.6,6.4,Europa,7790220,1000420,96.8
+2024-11,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,4509521,661940,90.1
+2024-11,Encanto,Marvel,Pelicula,170.6,6.4,APAC,6713629,1765776,88.7
+2024-12,Encanto,Marvel,Pelicula,170.6,6.4,Norteamerica,74747257,12106654,73.8
+2024-12,Encanto,Marvel,Pelicula,170.6,6.4,Europa,8031372,1222893,63.0
+2024-12,Encanto,Marvel,Pelicula,170.6,6.4,LatAm,3925621,477987,54.2
+2024-12,Encanto,Marvel,Pelicula,170.6,6.4,APAC,2778157,909080,98.5
+2023-01,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,18583051,2248479,65.4
+2023-01,Wish,Star Wars,Serie,92.5,8.3,Europa,13255806,2954482,77.9
+2023-01,Wish,Star Wars,Serie,92.5,8.3,LatAm,23241551,3679808,60.4
+2023-01,Wish,Star Wars,Serie,92.5,8.3,APAC,4490476,647636,51.1
+2023-02,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,13220788,2013541,67.3
+2023-02,Wish,Star Wars,Serie,92.5,8.3,Europa,3985651,1236378,69.8
+2023-02,Wish,Star Wars,Serie,92.5,8.3,LatAm,2405889,343474,100.0
+2023-02,Wish,Star Wars,Serie,92.5,8.3,APAC,4696690,924147,85.3
+2023-03,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,13982277,4271374,76.1
+2023-03,Wish,Star Wars,Serie,92.5,8.3,Europa,4346039,692450,77.1
+2023-03,Wish,Star Wars,Serie,92.5,8.3,LatAm,2777875,572382,74.2
+2023-03,Wish,Star Wars,Serie,92.5,8.3,APAC,2746282,458833,79.6
+2023-04,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,16333780,3675533,66.1
+2023-04,Wish,Star Wars,Serie,92.5,8.3,Europa,3502650,520826,75.1
+2023-04,Wish,Star Wars,Serie,92.5,8.3,LatAm,4435627,1351983,69.4
+2023-04,Wish,Star Wars,Serie,92.5,8.3,APAC,664135,75350,60.4
+2023-05,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,7339249,1447666,63.3
+2023-05,Wish,Star Wars,Serie,92.5,8.3,Europa,4309476,717622,79.2
+2023-05,Wish,Star Wars,Serie,92.5,8.3,LatAm,11930218,2376886,86.4
+2023-05,Wish,Star Wars,Serie,92.5,8.3,APAC,10283566,3158010,71.4
+2023-06,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,16915852,2867300,81.7
+2023-06,Wish,Star Wars,Serie,92.5,8.3,Europa,1683352,191719,67.9
+2023-06,Wish,Star Wars,Serie,92.5,8.3,LatAm,7039318,1338862,89.1
+2023-06,Wish,Star Wars,Serie,92.5,8.3,APAC,9261380,1133941,90.1
+2023-07,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,3291576,886465,65.0
+2023-07,Wish,Star Wars,Serie,92.5,8.3,Europa,7929562,2355956,47.3
+2023-07,Wish,Star Wars,Serie,92.5,8.3,LatAm,2997676,368950,78.9
+2023-07,Wish,Star Wars,Serie,92.5,8.3,APAC,16247049,2148963,100.0
+2023-08,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,8697004,1287183,52.8
+2023-08,Wish,Star Wars,Serie,92.5,8.3,Europa,13104289,3327251,62.3
+2023-08,Wish,Star Wars,Serie,92.5,8.3,LatAm,10514959,1209640,89.0
+2023-08,Wish,Star Wars,Serie,92.5,8.3,APAC,2420346,637343,71.1
+2023-09,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,14111304,1715344,77.5
+2023-09,Wish,Star Wars,Serie,92.5,8.3,Europa,26164468,3062731,68.5
+2023-09,Wish,Star Wars,Serie,92.5,8.3,LatAm,7321268,1276391,100.0
+2023-09,Wish,Star Wars,Serie,92.5,8.3,APAC,8357646,1011828,68.7
+2023-10,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,11962984,2768818,78.5
+2023-10,Wish,Star Wars,Serie,92.5,8.3,Europa,7753271,2555801,67.1
+2023-10,Wish,Star Wars,Serie,92.5,8.3,LatAm,3313837,618655,97.8
+2023-10,Wish,Star Wars,Serie,92.5,8.3,APAC,2669504,443970,59.0
+2023-11,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,13386764,1653831,96.4
+2023-11,Wish,Star Wars,Serie,92.5,8.3,Europa,6341916,1963835,69.7
+2023-11,Wish,Star Wars,Serie,92.5,8.3,LatAm,5755923,733321,72.9
+2023-11,Wish,Star Wars,Serie,92.5,8.3,APAC,3610574,666297,67.6
+2023-12,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,6214990,1244369,100.0
+2023-12,Wish,Star Wars,Serie,92.5,8.3,Europa,2056480,471975,57.6
+2023-12,Wish,Star Wars,Serie,92.5,8.3,LatAm,3473573,408102,80.9
+2023-12,Wish,Star Wars,Serie,92.5,8.3,APAC,3710953,905566,61.6
+2024-01,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,6206911,918853,48.2
+2024-01,Wish,Star Wars,Serie,92.5,8.3,Europa,2128550,261590,83.5
+2024-01,Wish,Star Wars,Serie,92.5,8.3,LatAm,4591002,713306,44.4
+2024-01,Wish,Star Wars,Serie,92.5,8.3,APAC,986897,126488,30.3
+2024-02,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,20098901,3947339,84.7
+2024-02,Wish,Star Wars,Serie,92.5,8.3,Europa,2647515,715760,100.0
+2024-02,Wish,Star Wars,Serie,92.5,8.3,LatAm,612180,69292,44.9
+2024-02,Wish,Star Wars,Serie,92.5,8.3,APAC,4549780,666138,73.9
+2024-03,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,3638649,869117,50.3
+2024-03,Wish,Star Wars,Serie,92.5,8.3,Europa,14553030,2609110,51.0
+2024-03,Wish,Star Wars,Serie,92.5,8.3,LatAm,13514510,3579522,100.0
+2024-03,Wish,Star Wars,Serie,92.5,8.3,APAC,8591288,2448339,70.7
+2024-04,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,8312762,954140,78.6
+2024-04,Wish,Star Wars,Serie,92.5,8.3,Europa,6206043,1166498,71.2
+2024-04,Wish,Star Wars,Serie,92.5,8.3,LatAm,10713323,3568132,66.1
+2024-04,Wish,Star Wars,Serie,92.5,8.3,APAC,2058665,289081,51.0
+2024-05,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,4139857,843656,68.9
+2024-05,Wish,Star Wars,Serie,92.5,8.3,Europa,9468957,2559263,80.5
+2024-05,Wish,Star Wars,Serie,92.5,8.3,LatAm,3315910,451101,74.7
+2024-05,Wish,Star Wars,Serie,92.5,8.3,APAC,2174945,485321,85.8
+2024-06,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,9164851,2235829,57.5
+2024-06,Wish,Star Wars,Serie,92.5,8.3,Europa,1662967,422045,96.2
+2024-06,Wish,Star Wars,Serie,92.5,8.3,LatAm,4438638,665214,75.4
+2024-06,Wish,Star Wars,Serie,92.5,8.3,APAC,3098721,624975,81.1
+2024-07,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,692327,88439,56.9
+2024-07,Wish,Star Wars,Serie,92.5,8.3,Europa,1728245,367852,78.2
+2024-07,Wish,Star Wars,Serie,92.5,8.3,LatAm,1015343,177890,83.5
+2024-07,Wish,Star Wars,Serie,92.5,8.3,APAC,3357661,390926,57.3
+2024-08,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,17145013,3397331,88.0
+2024-08,Wish,Star Wars,Serie,92.5,8.3,Europa,4722461,683001,46.4
+2024-08,Wish,Star Wars,Serie,92.5,8.3,LatAm,3354964,466532,52.0
+2024-08,Wish,Star Wars,Serie,92.5,8.3,APAC,4819029,900209,62.3
+2024-09,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,14949833,1671539,77.2
+2024-09,Wish,Star Wars,Serie,92.5,8.3,Europa,19688556,3765251,77.8
+2024-09,Wish,Star Wars,Serie,92.5,8.3,LatAm,2963793,480597,67.5
+2024-09,Wish,Star Wars,Serie,92.5,8.3,APAC,4996359,1192299,83.4
+2024-10,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,41574628,9086883,51.8
+2024-10,Wish,Star Wars,Serie,92.5,8.3,Europa,1838028,228646,71.1
+2024-10,Wish,Star Wars,Serie,92.5,8.3,LatAm,7608600,1286145,84.5
+2024-10,Wish,Star Wars,Serie,92.5,8.3,APAC,2849160,368617,66.0
+2024-11,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,2895964,323983,70.6
+2024-11,Wish,Star Wars,Serie,92.5,8.3,Europa,9025922,2324481,56.2
+2024-11,Wish,Star Wars,Serie,92.5,8.3,LatAm,3128989,660202,64.2
+2024-11,Wish,Star Wars,Serie,92.5,8.3,APAC,1611617,504580,79.5
+2024-12,Wish,Star Wars,Serie,92.5,8.3,Norteamerica,28085128,7141985,81.7
+2024-12,Wish,Star Wars,Serie,92.5,8.3,Europa,9582223,2296265,57.6
+2024-12,Wish,Star Wars,Serie,92.5,8.3,LatAm,1585179,369000,83.9
+2024-12,Wish,Star Wars,Serie,92.5,8.3,APAC,4078396,673169,33.1
+2023-01,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,3939448,663249,77.4
+2023-01,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,2233308,436833,51.4
+2023-01,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,7026569,1002049,99.2
+2023-01,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,1868430,273144,52.7
+2023-02,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,5771491,744696,79.0
+2023-02,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,12159452,1409730,59.4
+2023-02,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,8386211,1590760,67.1
+2023-02,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,1834651,329005,98.1
+2023-03,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,9649347,1132730,68.1
+2023-03,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,38140333,6471969,61.2
+2023-03,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,3031090,791321,74.2
+2023-03,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,1845375,322634,93.8
+2023-04,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,2638100,337938,64.8
+2023-04,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,3800197,658853,87.0
+2023-04,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,8030705,2545468,67.7
+2023-04,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,1012375,237591,79.4
+2023-05,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,21110268,2770913,69.9
+2023-05,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,6175104,1754373,49.9
+2023-05,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,6798210,1127773,56.1
+2023-05,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,610168,73120,93.7
+2023-06,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,28809621,3410709,100.0
+2023-06,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,5207691,669704,65.2
+2023-06,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,2499611,534886,41.1
+2023-06,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,9055185,1509838,67.5
+2023-07,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,4516131,615681,54.3
+2023-07,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,4576808,565618,100.0
+2023-07,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,999121,253542,56.5
+2023-07,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,7130162,1820701,62.5
+2023-08,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,7996629,1292072,96.2
+2023-08,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,8348292,1264517,32.0
+2023-08,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,3576496,436613,91.9
+2023-08,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,737855,179713,54.0
+2023-09,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,29661292,5474287,60.5
+2023-09,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,5539010,952221,55.7
+2023-09,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,3884403,698063,42.9
+2023-09,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,2383904,327330,50.2
+2023-10,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,9063976,1094046,97.7
+2023-10,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,4483394,656662,84.8
+2023-10,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,1305695,218742,80.0
+2023-10,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,2710023,318241,69.9
+2023-11,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,14875072,3204702,60.8
+2023-11,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,6012549,1030898,59.5
+2023-11,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,4237391,692349,71.1
+2023-11,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,877338,170222,60.4
+2023-12,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,17146931,2712954,62.6
+2023-12,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,14224815,1969403,75.1
+2023-12,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,6936067,1452114,71.9
+2023-12,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,1904775,329721,61.6
+2024-01,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,24756467,3561350,72.3
+2024-01,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,9889482,1196629,67.5
+2024-01,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,3683250,415835,62.1
+2024-01,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,2923186,432671,85.0
+2024-02,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,6966307,1054426,69.7
+2024-02,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,4456405,1133058,52.3
+2024-02,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,1646139,415008,89.0
+2024-02,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,3149245,512255,90.4
+2024-03,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,26099166,2974845,59.2
+2024-03,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,3626581,849116,75.6
+2024-03,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,3045645,543474,87.1
+2024-03,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,2047263,518964,85.9
+2024-04,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,2982410,360709,55.3
+2024-04,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,2453768,397891,79.2
+2024-04,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,2915952,837704,72.8
+2024-04,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,1291873,240573,89.0
+2024-05,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,7082298,1295482,77.6
+2024-05,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,1063657,125136,100.0
+2024-05,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,3420112,566108,83.2
+2024-05,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,12060431,1869808,39.7
+2024-06,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,11842334,1475151,81.3
+2024-06,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,2140004,546095,52.8
+2024-06,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,10115384,1424245,73.1
+2024-06,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,1628142,345831,94.3
+2024-07,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,8196665,1170321,54.8
+2024-07,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,1205781,164212,73.7
+2024-07,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,8264766,1900029,95.6
+2024-07,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,1821505,396010,55.8
+2024-08,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,16669339,3706656,47.7
+2024-08,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,28861194,3520752,66.8
+2024-08,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,10377483,1159414,80.5
+2024-08,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,8592086,2625474,76.4
+2024-09,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,11718539,2615233,100.0
+2024-09,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,5129025,885614,58.2
+2024-09,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,8243176,932055,68.2
+2024-09,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,3510700,504820,76.2
+2024-10,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,58707784,12857492,65.5
+2024-10,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,12143024,3064262,93.6
+2024-10,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,4304085,761533,45.2
+2024-10,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,885038,135777,77.7
+2024-11,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,2537456,391851,72.5
+2024-11,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,4433280,1366440,81.3
+2024-11,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,1982217,303436,89.8
+2024-11,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,4294609,1103825,81.6
+2024-12,Percy Jackson,Pixar,Pelicula,180.2,5.8,Norteamerica,7599687,1950123,59.7
+2024-12,Percy Jackson,Pixar,Pelicula,180.2,5.8,Europa,28241946,4088620,95.3
+2024-12,Percy Jackson,Pixar,Pelicula,180.2,5.8,LatAm,3243715,368024,83.0
+2024-12,Percy Jackson,Pixar,Pelicula,180.2,5.8,APAC,8094179,1874733,88.1
+2023-01,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,4963962,1068804,97.7
+2023-01,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,2413557,730495,96.2
+2023-01,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,6218030,1663612,65.2
+2023-01,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,3577587,479749,74.1
+2023-02,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,1825190,213773,76.9
+2023-02,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,5147163,637442,58.6
+2023-02,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,6752986,921314,79.7
+2023-02,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,17000197,3827401,49.4
+2023-03,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,4911459,1240403,70.9
+2023-03,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,1759385,454913,71.8
+2023-03,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,17448868,3053143,89.5
+2023-03,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,1173502,135416,82.8
+2023-04,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,17956394,2783244,72.4
+2023-04,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,1784656,212710,84.6
+2023-04,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,2664050,387717,55.1
+2023-04,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,1925098,285259,85.5
+2023-05,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,7998880,907573,67.3
+2023-05,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,1501624,227155,92.4
+2023-05,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,3366348,573082,70.6
+2023-05,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,3142066,357035,31.9
+2023-06,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,8889876,1964650,94.3
+2023-06,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,11660801,1491132,90.6
+2023-06,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,3058617,859143,75.0
+2023-06,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,2749580,745876,77.1
+2023-07,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,8894995,1203171,88.4
+2023-07,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,10088271,2331638,81.1
+2023-07,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,4314302,591711,70.6
+2023-07,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,3320983,904974,96.3
+2023-08,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,7496385,1370064,93.9
+2023-08,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,10224881,2221915,67.2
+2023-08,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,4919327,1630412,62.0
+2023-08,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,3585499,423880,66.4
+2023-09,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,15549402,3693850,86.5
+2023-09,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,4321016,1284952,73.2
+2023-09,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,1403848,181029,74.2
+2023-09,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,25751740,3569344,82.7
+2023-10,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,9210075,2931134,56.9
+2023-10,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,1340844,266347,71.3
+2023-10,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,700040,203975,68.3
+2023-10,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,2721879,559102,66.9
+2023-11,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,29966399,4270722,63.6
+2023-11,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,5102911,969858,60.5
+2023-11,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,2039103,263850,65.7
+2023-11,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,1347036,162270,73.8
+2023-12,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,1557058,343686,85.0
+2023-12,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,7732814,1319147,90.8
+2023-12,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,12024686,2310196,83.4
+2023-12,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,3684445,656703,63.6
+2024-01,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,8224444,1464952,78.0
+2024-01,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,3199396,556995,78.2
+2024-01,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,3379221,514911,50.2
+2024-01,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,1291559,252412,78.2
+2024-02,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,8989999,1416256,83.3
+2024-02,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,12705205,3789501,75.1
+2024-02,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,9091099,1584503,77.6
+2024-02,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,8939872,2391002,67.6
+2024-03,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,5908129,1341348,95.6
+2024-03,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,1689353,452379,54.4
+2024-03,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,1514131,378458,67.2
+2024-03,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,929535,235679,82.2
+2024-04,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,17534931,3601840,71.4
+2024-04,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,5260087,654644,29.5
+2024-04,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,1754631,259895,55.7
+2024-04,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,2630062,498667,62.1
+2024-05,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,7944952,1433136,68.5
+2024-05,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,3750666,806458,71.9
+2024-05,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,937591,119636,65.2
+2024-05,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,8871925,1140877,89.6
+2024-06,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,3360731,1088148,53.4
+2024-06,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,3065885,614237,94.3
+2024-06,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,1505775,447655,70.9
+2024-06,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,5166256,1438885,48.0
+2024-07,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,11163645,1947335,65.3
+2024-07,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,6135937,1326430,69.9
+2024-07,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,2815695,500121,76.3
+2024-07,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,1927165,231880,77.7
+2024-08,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,29831099,9139905,90.2
+2024-08,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,3306874,467910,68.5
+2024-08,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,3363413,420825,91.0
+2024-08,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,6555767,1225043,81.6
+2024-09,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,9018526,1558110,51.8
+2024-09,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,4796855,903186,81.4
+2024-09,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,2282027,444885,55.8
+2024-09,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,3079679,580538,97.3
+2024-10,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,12027056,1734972,71.5
+2024-10,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,13037582,1782181,69.9
+2024-10,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,1578394,300714,100.0
+2024-10,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,4426737,681998,70.3
+2024-11,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,11343924,1485553,64.0
+2024-11,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,3193349,808727,66.6
+2024-11,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,2624284,440432,73.2
+2024-11,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,2797385,366295,75.0
+2024-12,X-Men 97,Star / General,Pelicula,48.2,7.1,Norteamerica,13726983,2475028,80.3
+2024-12,X-Men 97,Star / General,Pelicula,48.2,7.1,Europa,4445770,942948,56.3
+2024-12,X-Men 97,Star / General,Pelicula,48.2,7.1,LatAm,2347355,390521,60.2
+2024-12,X-Men 97,Star / General,Pelicula,48.2,7.1,APAC,3492121,843394,47.1
+2023-01,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,10584497,1641967,66.0
+2023-01,Agatha,Star / General,Serie,330.3,6.1,Europa,4535969,555371,44.8
+2023-01,Agatha,Star / General,Serie,330.3,6.1,LatAm,18197958,3051543,31.4
+2023-01,Agatha,Star / General,Serie,330.3,6.1,APAC,2991159,338268,68.0
+2023-02,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,5399215,1618715,70.3
+2023-02,Agatha,Star / General,Serie,330.3,6.1,Europa,2600655,310534,79.7
+2023-02,Agatha,Star / General,Serie,330.3,6.1,LatAm,1463509,199470,100.0
+2023-02,Agatha,Star / General,Serie,330.3,6.1,APAC,1934255,556044,100.0
+2023-03,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,5488886,1303491,98.6
+2023-03,Agatha,Star / General,Serie,330.3,6.1,Europa,8571446,1640274,51.2
+2023-03,Agatha,Star / General,Serie,330.3,6.1,LatAm,2741876,714578,46.2
+2023-03,Agatha,Star / General,Serie,330.3,6.1,APAC,6228506,1253606,94.4
+2023-04,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,32377630,7521686,78.6
+2023-04,Agatha,Star / General,Serie,330.3,6.1,Europa,2011602,406504,64.5
+2023-04,Agatha,Star / General,Serie,330.3,6.1,LatAm,1580950,258932,65.0
+2023-04,Agatha,Star / General,Serie,330.3,6.1,APAC,2493123,390718,60.2
+2023-05,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,30234391,5372689,96.2
+2023-05,Agatha,Star / General,Serie,330.3,6.1,Europa,2389970,398301,64.6
+2023-05,Agatha,Star / General,Serie,330.3,6.1,LatAm,2865754,405498,94.5
+2023-05,Agatha,Star / General,Serie,330.3,6.1,APAC,8381975,1212482,74.8
+2023-06,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,4036182,468024,54.8
+2023-06,Agatha,Star / General,Serie,330.3,6.1,Europa,3797833,828142,43.3
+2023-06,Agatha,Star / General,Serie,330.3,6.1,LatAm,3635445,539858,88.8
+2023-06,Agatha,Star / General,Serie,330.3,6.1,APAC,2024892,475323,78.9
+2023-07,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,1181776,138095,68.8
+2023-07,Agatha,Star / General,Serie,330.3,6.1,Europa,23325092,2685724,85.8
+2023-07,Agatha,Star / General,Serie,330.3,6.1,LatAm,3481305,485219,51.5
+2023-07,Agatha,Star / General,Serie,330.3,6.1,APAC,5208344,659065,98.8
+2023-08,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,16901491,1893927,56.9
+2023-08,Agatha,Star / General,Serie,330.3,6.1,Europa,1803440,272558,60.3
+2023-08,Agatha,Star / General,Serie,330.3,6.1,LatAm,12329544,1644292,70.1
+2023-08,Agatha,Star / General,Serie,330.3,6.1,APAC,4922031,711184,67.4
+2023-09,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,12800701,1705157,66.5
+2023-09,Agatha,Star / General,Serie,330.3,6.1,Europa,9405487,1554029,60.0
+2023-09,Agatha,Star / General,Serie,330.3,6.1,LatAm,6096262,1335990,79.3
+2023-09,Agatha,Star / General,Serie,330.3,6.1,APAC,2249203,254188,98.0
+2023-10,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,26004011,4035746,66.2
+2023-10,Agatha,Star / General,Serie,330.3,6.1,Europa,4238608,585403,66.7
+2023-10,Agatha,Star / General,Serie,330.3,6.1,LatAm,2274521,667584,71.3
+2023-10,Agatha,Star / General,Serie,330.3,6.1,APAC,13308515,2231307,79.8
+2023-11,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,39560365,7470173,68.0
+2023-11,Agatha,Star / General,Serie,330.3,6.1,Europa,2117609,290648,60.4
+2023-11,Agatha,Star / General,Serie,330.3,6.1,LatAm,3497217,532110,95.4
+2023-11,Agatha,Star / General,Serie,330.3,6.1,APAC,8146367,1199449,54.7
+2023-12,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,25782277,5451662,55.4
+2023-12,Agatha,Star / General,Serie,330.3,6.1,Europa,1316260,155683,50.2
+2023-12,Agatha,Star / General,Serie,330.3,6.1,LatAm,2292304,354937,66.4
+2023-12,Agatha,Star / General,Serie,330.3,6.1,APAC,4298295,672759,73.0
+2024-01,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,35081795,5477975,77.8
+2024-01,Agatha,Star / General,Serie,330.3,6.1,Europa,1540439,342886,64.8
+2024-01,Agatha,Star / General,Serie,330.3,6.1,LatAm,8742895,2764254,81.2
+2024-01,Agatha,Star / General,Serie,330.3,6.1,APAC,5531581,716877,88.4
+2024-02,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,4111441,467555,66.1
+2024-02,Agatha,Star / General,Serie,330.3,6.1,Europa,7128749,1454511,72.7
+2024-02,Agatha,Star / General,Serie,330.3,6.1,LatAm,1596892,479941,72.7
+2024-02,Agatha,Star / General,Serie,330.3,6.1,APAC,2099167,557155,74.0
+2024-03,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,4608378,754013,56.9
+2024-03,Agatha,Star / General,Serie,330.3,6.1,Europa,35201048,4750697,76.1
+2024-03,Agatha,Star / General,Serie,330.3,6.1,LatAm,9635988,1293022,33.6
+2024-03,Agatha,Star / General,Serie,330.3,6.1,APAC,2349566,356427,68.5
+2024-04,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,8894979,1553227,54.9
+2024-04,Agatha,Star / General,Serie,330.3,6.1,Europa,7420110,2467005,77.2
+2024-04,Agatha,Star / General,Serie,330.3,6.1,LatAm,2489288,280981,70.4
+2024-04,Agatha,Star / General,Serie,330.3,6.1,APAC,13369949,2997539,83.1
+2024-05,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,7193852,2273872,81.5
+2024-05,Agatha,Star / General,Serie,330.3,6.1,Europa,4242491,475601,26.1
+2024-05,Agatha,Star / General,Serie,330.3,6.1,LatAm,10441123,1770815,100.0
+2024-05,Agatha,Star / General,Serie,330.3,6.1,APAC,3188788,477886,65.7
+2024-06,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,7614857,1741094,96.7
+2024-06,Agatha,Star / General,Serie,330.3,6.1,Europa,32333108,8090138,71.8
+2024-06,Agatha,Star / General,Serie,330.3,6.1,LatAm,1338890,180171,73.1
+2024-06,Agatha,Star / General,Serie,330.3,6.1,APAC,2565959,368616,63.2
+2024-07,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,8486373,967467,88.3
+2024-07,Agatha,Star / General,Serie,330.3,6.1,Europa,4957792,1000614,69.0
+2024-07,Agatha,Star / General,Serie,330.3,6.1,LatAm,3383310,381090,83.4
+2024-07,Agatha,Star / General,Serie,330.3,6.1,APAC,1604788,287791,72.0
+2024-08,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,8314001,1021327,68.5
+2024-08,Agatha,Star / General,Serie,330.3,6.1,Europa,10182531,1871849,68.6
+2024-08,Agatha,Star / General,Serie,330.3,6.1,LatAm,4296236,925900,56.5
+2024-08,Agatha,Star / General,Serie,330.3,6.1,APAC,3141143,399572,56.2
+2024-09,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,5592218,1005416,86.1
+2024-09,Agatha,Star / General,Serie,330.3,6.1,Europa,5005828,1163529,73.4
+2024-09,Agatha,Star / General,Serie,330.3,6.1,LatAm,1440419,249601,50.1
+2024-09,Agatha,Star / General,Serie,330.3,6.1,APAC,1377458,372943,61.0
+2024-10,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,10956597,1363887,83.4
+2024-10,Agatha,Star / General,Serie,330.3,6.1,Europa,2371739,349016,72.8
+2024-10,Agatha,Star / General,Serie,330.3,6.1,LatAm,24289854,5246877,63.1
+2024-10,Agatha,Star / General,Serie,330.3,6.1,APAC,5594046,951519,47.6
+2024-11,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,3845778,505079,65.7
+2024-11,Agatha,Star / General,Serie,330.3,6.1,Europa,4130027,703188,93.1
+2024-11,Agatha,Star / General,Serie,330.3,6.1,LatAm,1208920,394881,87.7
+2024-11,Agatha,Star / General,Serie,330.3,6.1,APAC,3156664,490819,51.8
+2024-12,Agatha,Star / General,Serie,330.3,6.1,Norteamerica,6277440,1920518,75.1
+2024-12,Agatha,Star / General,Serie,330.3,6.1,Europa,1756509,349562,73.7
+2024-12,Agatha,Star / General,Serie,330.3,6.1,LatAm,4391556,674964,65.4
+2024-12,Agatha,Star / General,Serie,330.3,6.1,APAC,1809427,230817,69.1
+2023-01,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,10062566,3309303,90.0
+2023-01,Echo,Star Wars,Serie,111.3,6.6,Europa,25761436,5429153,92.7
+2023-01,Echo,Star Wars,Serie,111.3,6.6,LatAm,6967342,1211066,99.8
+2023-01,Echo,Star Wars,Serie,111.3,6.6,APAC,6921246,1213563,68.9
+2023-02,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,7300127,1319116,81.3
+2023-02,Echo,Star Wars,Serie,111.3,6.6,Europa,3028934,793784,36.7
+2023-02,Echo,Star Wars,Serie,111.3,6.6,LatAm,14973566,3802958,78.8
+2023-02,Echo,Star Wars,Serie,111.3,6.6,APAC,10380127,1367099,93.7
+2023-03,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,2794271,380492,88.3
+2023-03,Echo,Star Wars,Serie,111.3,6.6,Europa,6371605,864556,54.5
+2023-03,Echo,Star Wars,Serie,111.3,6.6,LatAm,2994935,404271,44.0
+2023-03,Echo,Star Wars,Serie,111.3,6.6,APAC,5063358,644824,100.0
+2023-04,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,2126754,243694,63.6
+2023-04,Echo,Star Wars,Serie,111.3,6.6,Europa,3769271,578276,55.7
+2023-04,Echo,Star Wars,Serie,111.3,6.6,LatAm,5210273,668990,83.1
+2023-04,Echo,Star Wars,Serie,111.3,6.6,APAC,1902732,260377,64.1
+2023-05,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,9878171,3155129,72.5
+2023-05,Echo,Star Wars,Serie,111.3,6.6,Europa,9407012,1269044,67.3
+2023-05,Echo,Star Wars,Serie,111.3,6.6,LatAm,1636298,539251,79.1
+2023-05,Echo,Star Wars,Serie,111.3,6.6,APAC,1005096,117775,61.2
+2023-06,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,6389806,1137280,82.6
+2023-06,Echo,Star Wars,Serie,111.3,6.6,Europa,1492395,438454,67.0
+2023-06,Echo,Star Wars,Serie,111.3,6.6,LatAm,3278192,662317,62.9
+2023-06,Echo,Star Wars,Serie,111.3,6.6,APAC,2346274,380901,74.3
+2023-07,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,4444638,746214,79.3
+2023-07,Echo,Star Wars,Serie,111.3,6.6,Europa,2825820,746776,73.9
+2023-07,Echo,Star Wars,Serie,111.3,6.6,LatAm,9970110,1393383,83.5
+2023-07,Echo,Star Wars,Serie,111.3,6.6,APAC,3343932,376008,91.4
+2023-08,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,8833445,1410504,79.6
+2023-08,Echo,Star Wars,Serie,111.3,6.6,Europa,4665194,692148,73.2
+2023-08,Echo,Star Wars,Serie,111.3,6.6,LatAm,2727268,392274,53.8
+2023-08,Echo,Star Wars,Serie,111.3,6.6,APAC,5047591,1480414,88.5
+2023-09,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,2682136,576681,89.3
+2023-09,Echo,Star Wars,Serie,111.3,6.6,Europa,963379,229986,65.6
+2023-09,Echo,Star Wars,Serie,111.3,6.6,LatAm,4223612,607214,82.9
+2023-09,Echo,Star Wars,Serie,111.3,6.6,APAC,4025990,818999,79.8
+2023-10,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,30866349,6406494,100.0
+2023-10,Echo,Star Wars,Serie,111.3,6.6,Europa,11082336,2113692,100.0
+2023-10,Echo,Star Wars,Serie,111.3,6.6,LatAm,2382949,459367,72.4
+2023-10,Echo,Star Wars,Serie,111.3,6.6,APAC,7557466,935448,81.4
+2023-11,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,6162048,853289,78.6
+2023-11,Echo,Star Wars,Serie,111.3,6.6,Europa,11395785,1277098,70.7
+2023-11,Echo,Star Wars,Serie,111.3,6.6,LatAm,5239655,678664,86.4
+2023-11,Echo,Star Wars,Serie,111.3,6.6,APAC,2413168,396665,89.7
+2023-12,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,1218975,195780,67.0
+2023-12,Echo,Star Wars,Serie,111.3,6.6,Europa,2597722,307486,90.4
+2023-12,Echo,Star Wars,Serie,111.3,6.6,LatAm,8663593,1043309,85.1
+2023-12,Echo,Star Wars,Serie,111.3,6.6,APAC,6476097,2066114,61.6
+2024-01,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,4539307,922197,71.4
+2024-01,Echo,Star Wars,Serie,111.3,6.6,Europa,2333906,453469,84.5
+2024-01,Echo,Star Wars,Serie,111.3,6.6,LatAm,2436083,779231,90.6
+2024-01,Echo,Star Wars,Serie,111.3,6.6,APAC,1134876,150492,69.4
+2024-02,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,10224184,1532183,52.1
+2024-02,Echo,Star Wars,Serie,111.3,6.6,Europa,8502224,2418685,69.2
+2024-02,Echo,Star Wars,Serie,111.3,6.6,LatAm,3379936,393249,77.2
+2024-02,Echo,Star Wars,Serie,111.3,6.6,APAC,5152829,1392539,57.3
+2024-03,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,16662736,3198035,74.8
+2024-03,Echo,Star Wars,Serie,111.3,6.6,Europa,1630954,421793,74.9
+2024-03,Echo,Star Wars,Serie,111.3,6.6,LatAm,1510037,212014,50.9
+2024-03,Echo,Star Wars,Serie,111.3,6.6,APAC,5256669,766448,47.3
+2024-04,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,9995485,1208020,79.7
+2024-04,Echo,Star Wars,Serie,111.3,6.6,Europa,3940326,689508,60.4
+2024-04,Echo,Star Wars,Serie,111.3,6.6,LatAm,2452917,652637,74.2
+2024-04,Echo,Star Wars,Serie,111.3,6.6,APAC,2776213,593176,66.7
+2024-05,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,56100319,11523538,63.6
+2024-05,Echo,Star Wars,Serie,111.3,6.6,Europa,75156509,8516322,51.3
+2024-05,Echo,Star Wars,Serie,111.3,6.6,LatAm,7403584,2253828,85.6
+2024-05,Echo,Star Wars,Serie,111.3,6.6,APAC,2731617,318316,96.1
+2024-06,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,11870813,1347688,78.5
+2024-06,Echo,Star Wars,Serie,111.3,6.6,Europa,3777014,679548,90.1
+2024-06,Echo,Star Wars,Serie,111.3,6.6,LatAm,4202186,813267,84.8
+2024-06,Echo,Star Wars,Serie,111.3,6.6,APAC,3831475,455564,74.1
+2024-07,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,2773113,731140,75.3
+2024-07,Echo,Star Wars,Serie,111.3,6.6,Europa,3863684,820259,72.3
+2024-07,Echo,Star Wars,Serie,111.3,6.6,LatAm,7006007,1434345,74.5
+2024-07,Echo,Star Wars,Serie,111.3,6.6,APAC,1083171,184828,69.9
+2024-08,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,7072772,2195746,64.7
+2024-08,Echo,Star Wars,Serie,111.3,6.6,Europa,18536390,2872781,78.7
+2024-08,Echo,Star Wars,Serie,111.3,6.6,LatAm,3461888,477467,73.1
+2024-08,Echo,Star Wars,Serie,111.3,6.6,APAC,2777317,400454,65.4
+2024-09,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,9232899,1101428,81.0
+2024-09,Echo,Star Wars,Serie,111.3,6.6,Europa,3284386,925486,58.4
+2024-09,Echo,Star Wars,Serie,111.3,6.6,LatAm,2386340,281308,55.9
+2024-09,Echo,Star Wars,Serie,111.3,6.6,APAC,7287741,906204,61.5
+2024-10,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,20599933,3274930,69.2
+2024-10,Echo,Star Wars,Serie,111.3,6.6,Europa,2398554,274330,84.7
+2024-10,Echo,Star Wars,Serie,111.3,6.6,LatAm,6813944,1326232,73.1
+2024-10,Echo,Star Wars,Serie,111.3,6.6,APAC,2125830,629646,91.3
+2024-11,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,13912741,2209614,72.6
+2024-11,Echo,Star Wars,Serie,111.3,6.6,Europa,4239296,975581,74.7
+2024-11,Echo,Star Wars,Serie,111.3,6.6,LatAm,2705861,629776,49.8
+2024-11,Echo,Star Wars,Serie,111.3,6.6,APAC,925539,110322,70.7
+2024-12,Echo,Star Wars,Serie,111.3,6.6,Norteamerica,3746121,416274,73.9
+2024-12,Echo,Star Wars,Serie,111.3,6.6,Europa,9070986,2003031,80.7
+2024-12,Echo,Star Wars,Serie,111.3,6.6,LatAm,3259213,521265,73.7
+2024-12,Echo,Star Wars,Serie,111.3,6.6,APAC,1177653,182478,57.9
+2023-01,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,5703672,820771,89.6
+2023-01,Zootopia+,Marvel,Serie,268.6,6.1,Europa,26579515,3215597,99.6
+2023-01,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,3890147,1070566,57.9
+2023-01,Zootopia+,Marvel,Serie,268.6,6.1,APAC,5883715,984156,55.2
+2023-02,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,14248724,1590985,78.4
+2023-02,Zootopia+,Marvel,Serie,268.6,6.1,Europa,14469170,1687633,57.5
+2023-02,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,3356267,460206,70.5
+2023-02,Zootopia+,Marvel,Serie,268.6,6.1,APAC,4561723,813882,97.1
+2023-03,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,5516827,1270439,56.4
+2023-03,Zootopia+,Marvel,Serie,268.6,6.1,Europa,7426656,938460,89.0
+2023-03,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,3504235,1065050,78.3
+2023-03,Zootopia+,Marvel,Serie,268.6,6.1,APAC,2729386,523217,63.0
+2023-04,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,16056052,3616579,79.1
+2023-04,Zootopia+,Marvel,Serie,268.6,6.1,Europa,11022501,1665263,50.1
+2023-04,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,7087683,959482,63.2
+2023-04,Zootopia+,Marvel,Serie,268.6,6.1,APAC,23702523,3425839,60.9
+2023-05,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,24665167,7635088,65.3
+2023-05,Zootopia+,Marvel,Serie,268.6,6.1,Europa,19031498,6299960,48.6
+2023-05,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,7578918,985833,95.1
+2023-05,Zootopia+,Marvel,Serie,268.6,6.1,APAC,2588499,328330,98.6
+2023-06,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,4965784,932744,77.8
+2023-06,Zootopia+,Marvel,Serie,268.6,6.1,Europa,3528867,759303,68.6
+2023-06,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,4031444,669968,73.1
+2023-06,Zootopia+,Marvel,Serie,268.6,6.1,APAC,4792885,1006581,63.7
+2023-07,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,8921426,2861908,65.4
+2023-07,Zootopia+,Marvel,Serie,268.6,6.1,Europa,9079375,1045724,61.0
+2023-07,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,3920567,525358,96.4
+2023-07,Zootopia+,Marvel,Serie,268.6,6.1,APAC,4267881,612272,64.8
+2023-08,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,9686205,1309942,69.5
+2023-08,Zootopia+,Marvel,Serie,268.6,6.1,Europa,3310989,534445,33.6
+2023-08,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,1989286,245904,84.5
+2023-08,Zootopia+,Marvel,Serie,268.6,6.1,APAC,12076477,1824483,82.1
+2023-09,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,6827994,949680,89.2
+2023-09,Zootopia+,Marvel,Serie,268.6,6.1,Europa,7378040,897317,66.5
+2023-09,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,23771691,7623612,92.0
+2023-09,Zootopia+,Marvel,Serie,268.6,6.1,APAC,16336166,2829933,64.7
+2023-10,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,4292814,979810,82.0
+2023-10,Zootopia+,Marvel,Serie,268.6,6.1,Europa,5986763,1130082,80.3
+2023-10,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,1109899,315063,66.8
+2023-10,Zootopia+,Marvel,Serie,268.6,6.1,APAC,6436269,1286787,92.6
+2023-11,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,9019961,1136606,72.9
+2023-11,Zootopia+,Marvel,Serie,268.6,6.1,Europa,8226981,947887,74.2
+2023-11,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,3674305,414858,82.1
+2023-11,Zootopia+,Marvel,Serie,268.6,6.1,APAC,2677940,432505,65.1
+2023-12,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,26356339,8661225,73.2
+2023-12,Zootopia+,Marvel,Serie,268.6,6.1,Europa,4925101,1028209,92.2
+2023-12,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,8235609,966939,81.1
+2023-12,Zootopia+,Marvel,Serie,268.6,6.1,APAC,1393521,171500,68.9
+2024-01,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,5488388,1153283,43.9
+2024-01,Zootopia+,Marvel,Serie,268.6,6.1,Europa,2386028,499734,71.0
+2024-01,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,2600583,382254,65.5
+2024-01,Zootopia+,Marvel,Serie,268.6,6.1,APAC,10059193,1457688,82.4
+2024-02,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,11540896,2238486,70.6
+2024-02,Zootopia+,Marvel,Serie,268.6,6.1,Europa,2607402,309801,60.8
+2024-02,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,6657534,1279847,72.2
+2024-02,Zootopia+,Marvel,Serie,268.6,6.1,APAC,6645636,858177,60.5
+2024-03,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,9949543,2568075,95.2
+2024-03,Zootopia+,Marvel,Serie,268.6,6.1,Europa,2142106,380055,100.0
+2024-03,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,3942050,497284,63.3
+2024-03,Zootopia+,Marvel,Serie,268.6,6.1,APAC,458832,55096,84.1
+2024-04,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,4730335,871680,85.9
+2024-04,Zootopia+,Marvel,Serie,268.6,6.1,Europa,1727510,193946,68.6
+2024-04,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,2686692,320457,53.0
+2024-04,Zootopia+,Marvel,Serie,268.6,6.1,APAC,4990214,1471559,80.2
+2024-05,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,11514942,1513110,50.3
+2024-05,Zootopia+,Marvel,Serie,268.6,6.1,Europa,10390863,1892143,69.5
+2024-05,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,11345149,2382092,92.3
+2024-05,Zootopia+,Marvel,Serie,268.6,6.1,APAC,13351227,1654973,57.3
+2024-06,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,1706238,468883,73.7
+2024-06,Zootopia+,Marvel,Serie,268.6,6.1,Europa,3860110,1158720,59.1
+2024-06,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,3493326,1060639,55.3
+2024-06,Zootopia+,Marvel,Serie,268.6,6.1,APAC,3851425,534046,75.2
+2024-07,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,26609465,7195709,72.1
+2024-07,Zootopia+,Marvel,Serie,268.6,6.1,Europa,1080539,124265,83.5
+2024-07,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,1419035,445462,77.1
+2024-07,Zootopia+,Marvel,Serie,268.6,6.1,APAC,13621979,1884439,62.3
+2024-08,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,9406202,2780707,69.7
+2024-08,Zootopia+,Marvel,Serie,268.6,6.1,Europa,16220378,2252349,73.8
+2024-08,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,7003072,2159009,84.6
+2024-08,Zootopia+,Marvel,Serie,268.6,6.1,APAC,4736009,610279,74.9
+2024-09,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,13255990,2102053,62.5
+2024-09,Zootopia+,Marvel,Serie,268.6,6.1,Europa,18659789,2694780,56.7
+2024-09,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,5668188,993505,63.4
+2024-09,Zootopia+,Marvel,Serie,268.6,6.1,APAC,9068893,1334632,73.8
+2024-10,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,878289,217224,77.1
+2024-10,Zootopia+,Marvel,Serie,268.6,6.1,Europa,10166373,1750421,68.8
+2024-10,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,4295870,489170,68.9
+2024-10,Zootopia+,Marvel,Serie,268.6,6.1,APAC,1532297,170605,55.7
+2024-11,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,32794928,4046556,75.3
+2024-11,Zootopia+,Marvel,Serie,268.6,6.1,Europa,4646232,776479,86.0
+2024-11,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,862793,165548,71.2
+2024-11,Zootopia+,Marvel,Serie,268.6,6.1,APAC,5055212,1162452,44.4
+2024-12,Zootopia+,Marvel,Serie,268.6,6.1,Norteamerica,5167821,1053232,60.4
+2024-12,Zootopia+,Marvel,Serie,268.6,6.1,Europa,15224417,2354581,76.5
+2024-12,Zootopia+,Marvel,Serie,268.6,6.1,LatAm,5566777,881478,70.0
+2024-12,Zootopia+,Marvel,Serie,268.6,6.1,APAC,7916370,1307011,78.5
+2023-01,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,11038217,1986737,94.3
+2023-01,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,3730667,1140279,80.9
+2023-01,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,14921552,1959579,62.2
+2023-01,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,975453,119235,78.3
+2023-02,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,10841816,1331969,76.9
+2023-02,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,1901479,413752,57.4
+2023-02,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,2748677,396656,63.2
+2023-02,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,1060815,238623,76.5
+2023-03,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,6300216,847843,79.1
+2023-03,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,6719690,1190793,74.0
+2023-03,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,6449429,816646,74.4
+2023-03,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2711083,417302,64.8
+2023-04,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,10319265,2183055,62.9
+2023-04,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,2824218,613519,64.6
+2023-04,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,1175049,211838,76.0
+2023-04,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,8903270,2810447,33.0
+2023-05,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,12603879,2467161,78.8
+2023-05,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,5329093,1136926,70.5
+2023-05,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,3705710,503128,71.7
+2023-05,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,7706720,1078088,82.0
+2023-06,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,1806997,512040,65.1
+2023-06,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,9555063,1716796,54.2
+2023-06,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,18337084,4356289,89.2
+2023-06,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,3555160,745639,71.3
+2023-07,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,2664685,505289,55.8
+2023-07,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,3928015,486159,75.8
+2023-07,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,1152666,158392,71.9
+2023-07,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2095758,382816,69.5
+2023-08,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,2969615,665933,71.7
+2023-08,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,5049964,1091454,89.7
+2023-08,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,2479139,483735,61.8
+2023-08,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,9347262,1313454,68.2
+2023-09,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,22636548,2610761,68.0
+2023-09,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,4719777,722482,59.5
+2023-09,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,3786410,598696,46.7
+2023-09,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2779323,399559,87.4
+2023-10,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,1725236,250422,64.8
+2023-10,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,11617890,2571248,98.9
+2023-10,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,6408243,827761,75.6
+2023-10,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2436125,592101,52.0
+2023-11,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,3904012,1102607,90.4
+2023-11,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,925810,184230,69.9
+2023-11,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,835867,112224,49.1
+2023-11,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,3183241,690064,81.5
+2023-12,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,4861621,1334721,65.8
+2023-12,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,5536583,1173462,60.2
+2023-12,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,7759918,1235263,59.0
+2023-12,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2095412,355113,70.0
+2024-01,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,4329061,1035356,100.0
+2024-01,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,6374053,855904,87.5
+2024-01,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,2324029,617510,52.8
+2024-01,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2744804,668547,66.0
+2024-02,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,4141448,1293972,80.0
+2024-02,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,4898337,1399121,60.8
+2024-02,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,1118842,162402,79.5
+2024-02,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,3970541,456885,75.7
+2024-03,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,5180337,1040965,83.1
+2024-03,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,10369944,2010350,62.9
+2024-03,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,9692034,1339273,81.8
+2024-03,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2148851,253861,35.7
+2024-04,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,5926483,1118057,65.8
+2024-04,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,21964771,6377217,63.5
+2024-04,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,1829268,354933,87.5
+2024-04,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,10549613,1512244,61.2
+2024-05,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,2989956,445407,88.8
+2024-05,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,4951566,957186,52.4
+2024-05,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,4324593,791241,41.0
+2024-05,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2500813,281550,68.7
+2024-06,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,24845388,2896205,55.7
+2024-06,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,4264617,794798,57.7
+2024-06,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,1736584,215102,57.3
+2024-06,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,7663069,1358155,71.6
+2024-07,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,11827616,2476301,80.5
+2024-07,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,1048484,260566,35.0
+2024-07,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,3146645,733769,81.3
+2024-07,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,1144462,169874,61.7
+2024-08,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,8757709,1330213,71.8
+2024-08,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,6914584,1261031,79.9
+2024-08,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,4512240,650953,43.0
+2024-08,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,3598058,1073649,63.3
+2024-09,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,11070246,2145414,71.4
+2024-09,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,8395881,971021,75.7
+2024-09,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,3596243,503207,63.9
+2024-09,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2665398,338043,70.6
+2024-10,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,3107717,881944,55.8
+2024-10,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,5117824,1312214,76.0
+2024-10,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,3241446,422086,68.5
+2024-10,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,1324343,151351,68.7
+2024-11,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,12164312,2256792,66.7
+2024-11,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,3743924,423663,69.6
+2024-11,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,2724291,314230,54.0
+2024-11,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,2037953,250249,81.3
+2024-12,Bluey Specials,Pixar,Pelicula,246.5,7.5,Norteamerica,3677412,1031932,59.0
+2024-12,Bluey Specials,Pixar,Pelicula,246.5,7.5,Europa,8451376,1678644,69.8
+2024-12,Bluey Specials,Pixar,Pelicula,246.5,7.5,LatAm,1254034,285430,84.9
+2024-12,Bluey Specials,Pixar,Pelicula,246.5,7.5,APAC,1179615,140658,73.7

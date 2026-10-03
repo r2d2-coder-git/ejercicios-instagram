@@ -1,0 +1,1501 @@
+conversacion_id,modelo,caso_uso,cliente,dia,tokens_entrada,tokens_salida,coste_usd,rechazo_seguridad,satisfaccion
+CV600000,Claude 3 Haiku,Atencion cliente,Developer,7,1940,3410,0.00475,False,3.3
+CV600001,Claude 3 Opus,Contenido sensible,Developer,25,589,267,0.02886,True,3.2
+CV600002,Claude 3.5 Haiku,Redaccion,Enterprise,22,191,164,0.00081,False,4.5
+CV600003,Claude 3 Haiku,Redaccion,Developer,6,320,92,0.0002,False,3.9
+CV600004,Claude 3.5 Sonnet,Educacion,Enterprise,21,2488,630,0.01691,True,3.3
+CV600005,Claude 3.5 Haiku,Analisis,Developer,19,737,1460,0.00643,False,4.2
+CV600006,Claude 3 Haiku,Atencion cliente,Developer,9,590,642,0.00095,False,3.7
+CV600007,Claude 3 Haiku,Analisis,Enterprise,13,2895,2431,0.00376,False,4.7
+CV600008,Claude 3.5 Sonnet,Programacion,Enterprise,26,2236,1553,0.03,False,4.1
+CV600009,Claude 3 Opus,Educacion,Enterprise,6,973,1910,0.15784,False,4.2
+CV600010,Claude 3.5 Sonnet,Programacion,Developer,22,791,517,0.01013,False,4.2
+CV600011,Claude 3.5 Haiku,Programacion,Developer,25,878,1322,0.00599,False,5.0
+CV600012,Claude 3 Haiku,Atencion cliente,Developer,29,1112,790,0.00127,False,4.4
+CV600013,Claude 3.5 Haiku,Educacion,Enterprise,10,2811,918,0.00592,False,4.4
+CV600014,Claude 3 Opus,Investigacion,Developer,8,1266,1810,0.15474,False,4.2
+CV600015,Claude 3.5 Sonnet,Redaccion,Developer,29,1552,314,0.00937,False,4.6
+CV600016,Claude 3 Opus,Programacion,Enterprise,14,2095,2967,0.25395,False,5.0
+CV600017,Claude 3.5 Sonnet,Contenido sensible,Enterprise,18,455,296,0.0058,True,3.5
+CV600018,Claude 3.5 Haiku,Programacion,Developer,16,1582,2441,0.01103,False,4.7
+CV600019,Claude 3 Haiku,Programacion,Enterprise,16,790,1252,0.00176,False,4.7
+CV600020,Claude 3 Haiku,Redaccion,Enterprise,19,214,321,0.00045,False,3.7
+CV600021,Claude 3.5 Sonnet,Analisis,Enterprise,13,262,63,0.00173,False,4.0
+CV600022,Claude 3.5 Haiku,Investigacion,Enterprise,12,500,733,0.00333,False,4.3
+CV600023,Claude 3.5 Haiku,Educacion,Enterprise,13,1362,2699,0.01189,False,4.0
+CV600024,Claude 3 Haiku,Atencion cliente,Enterprise,20,1032,657,0.00108,False,3.9
+CV600025,Claude 3.5 Sonnet,Programacion,Developer,25,1081,749,0.01448,False,3.5
+CV600026,Claude 3 Opus,Redaccion,Developer,17,3578,5955,0.5003,False,3.7
+CV600027,Claude 3.5 Sonnet,Analisis,Developer,21,429,209,0.00442,False,4.3
+CV600028,Claude 3.5 Sonnet,Programacion,Developer,13,940,1305,0.0224,False,4.4
+CV600029,Claude 3 Haiku,Redaccion,Developer,24,1171,1825,0.00257,False,4.0
+CV600030,Claude 3 Haiku,Redaccion,Enterprise,12,596,159,0.00035,False,4.4
+CV600031,Claude 3.5 Haiku,Programacion,Enterprise,13,975,1166,0.00544,False,4.2
+CV600032,Claude 3.5 Sonnet,Analisis,Enterprise,2,352,435,0.00758,False,4.9
+CV600033,Claude 3.5 Sonnet,Atencion cliente,Developer,8,2468,1841,0.03502,False,4.3
+CV600034,Claude 3 Opus,Programacion,Developer,23,617,1096,0.09146,False,4.7
+CV600035,Claude 3.5 Sonnet,Analisis,Enterprise,3,3781,1863,0.03929,True,3.3
+CV600036,Claude 3.5 Sonnet,Educacion,Developer,7,937,801,0.01483,False,3.7
+CV600037,Claude 3 Opus,Educacion,Investigacion,24,1903,3287,0.27507,False,4.4
+CV600038,Claude 3.5 Sonnet,Educacion,Enterprise,27,924,501,0.01029,False,3.8
+CV600039,Claude 3 Haiku,Analisis,Developer,13,938,1574,0.0022,False,4.3
+CV600040,Claude 3 Opus,Educacion,Developer,13,656,224,0.02664,False,4.0
+CV600041,Claude 3.5 Haiku,Redaccion,Developer,16,1035,1118,0.0053,False,4.6
+CV600042,Claude 3 Haiku,Redaccion,Developer,24,1181,396,0.00079,False,3.7
+CV600043,Claude 3.5 Sonnet,Programacion,Developer,15,578,820,0.01403,False,4.4
+CV600044,Claude 3.5 Haiku,Analisis,Enterprise,6,882,1431,0.00643,False,4.7
+CV600045,Claude 3 Haiku,Redaccion,Developer,13,645,1115,0.00156,False,4.9
+CV600046,Claude 3.5 Sonnet,Redaccion,Developer,8,4550,8946,0.14784,False,4.0
+CV600047,Claude 3.5 Sonnet,Educacion,Enterprise,21,903,1272,0.02179,False,4.4
+CV600048,Claude 3 Haiku,Redaccion,Investigacion,5,2708,4290,0.00604,False,4.5
+CV600049,Claude 3.5 Sonnet,Redaccion,Enterprise,19,842,934,0.01654,False,5.0
+CV600050,Claude 3.5 Sonnet,Programacion,Developer,4,1136,2093,0.0348,False,3.7
+CV600051,Claude 3.5 Sonnet,Redaccion,Developer,30,416,565,0.00972,False,3.9
+CV600052,Claude 3 Haiku,Redaccion,Developer,20,716,1281,0.00178,False,5.0
+CV600053,Claude 3 Haiku,Redaccion,Investigacion,5,1100,686,0.00113,False,4.3
+CV600054,Claude 3 Haiku,Programacion,Enterprise,29,2784,3046,0.0045,False,3.5
+CV600055,Claude 3 Haiku,Educacion,Developer,18,1108,1677,0.00237,False,4.1
+CV600056,Claude 3 Opus,Investigacion,Developer,19,2425,1369,0.13905,False,3.0
+CV600057,Claude 3 Opus,Analisis,Investigacion,2,1466,850,0.08574,False,4.5
+CV600058,Claude 3.5 Sonnet,Atencion cliente,Developer,6,2865,5616,0.09284,False,4.8
+CV600059,Claude 3.5 Sonnet,Investigacion,Investigacion,25,921,904,0.01632,False,3.9
+CV600060,Claude 3 Haiku,Contenido sensible,Investigacion,15,4844,2554,0.0044,False,4.2
+CV600061,Claude 3 Opus,Atencion cliente,Enterprise,19,699,556,0.05218,False,4.9
+CV600062,Claude 3 Opus,Investigacion,Investigacion,30,585,535,0.0489,False,3.5
+CV600063,Claude 3 Haiku,Investigacion,Investigacion,13,444,586,0.00084,False,3.7
+CV600064,Claude 3 Haiku,Educacion,Enterprise,12,4650,8655,0.01198,False,4.3
+CV600065,Claude 3 Opus,Analisis,Developer,25,1653,3266,0.26974,False,4.0
+CV600066,Claude 3 Opus,Programacion,Enterprise,2,770,1057,0.09082,False,4.3
+CV600067,Claude 3.5 Sonnet,Programacion,Developer,14,2212,3229,0.05507,False,3.8
+CV600068,Claude 3.5 Sonnet,Analisis,Enterprise,26,1512,1178,0.02221,False,4.5
+CV600069,Claude 3 Opus,Analisis,Developer,7,3615,6300,0.52672,False,4.3
+CV600070,Claude 3.5 Sonnet,Redaccion,Developer,10,363,214,0.0043,False,4.7
+CV600071,Claude 3.5 Sonnet,Analisis,Developer,15,805,315,0.00714,False,4.5
+CV600072,Claude 3.5 Haiku,Analisis,Enterprise,3,709,1383,0.0061,False,4.5
+CV600073,Claude 3.5 Sonnet,Educacion,Developer,3,285,500,0.00836,False,3.7
+CV600074,Claude 3.5 Sonnet,Programacion,Developer,8,1946,1452,0.02762,False,4.6
+CV600075,Claude 3.5 Sonnet,Programacion,Developer,27,803,1136,0.01945,False,4.2
+CV600076,Claude 3.5 Sonnet,Educacion,Enterprise,7,1566,1629,0.02913,False,4.3
+CV600077,Claude 3 Haiku,Educacion,Enterprise,22,4743,3707,0.00582,False,4.9
+CV600078,Claude 3 Opus,Contenido sensible,Developer,13,761,545,0.05229,False,4.0
+CV600079,Claude 3 Haiku,Investigacion,Investigacion,23,728,323,0.00059,False,5.0
+CV600080,Claude 3 Haiku,Investigacion,Enterprise,10,1035,1230,0.0018,False,5.0
+CV600081,Claude 3.5 Sonnet,Redaccion,Developer,27,1851,1858,0.03342,False,4.8
+CV600082,Claude 3 Haiku,Redaccion,Enterprise,12,663,743,0.00109,True,2.7
+CV600083,Claude 3.5 Sonnet,Redaccion,Developer,24,637,374,0.00752,False,3.3
+CV600084,Claude 3.5 Sonnet,Atencion cliente,Enterprise,25,1941,3667,0.06083,False,4.9
+CV600085,Claude 3.5 Sonnet,Investigacion,Developer,13,1230,1659,0.02858,False,4.5
+CV600086,Claude 3 Haiku,Redaccion,Enterprise,21,274,498,0.00069,False,4.0
+CV600087,Claude 3 Opus,Analisis,Enterprise,4,440,174,0.01965,False,5.0
+CV600088,Claude 3.5 Sonnet,Redaccion,Enterprise,15,2627,3470,0.05993,False,4.0
+CV600089,Claude 3 Opus,Programacion,Enterprise,12,1249,2159,0.18066,False,4.2
+CV600090,Claude 3.5 Sonnet,Programacion,Developer,29,586,466,0.00875,True,3.5
+CV600091,Claude 3 Haiku,Programacion,Investigacion,29,856,471,0.0008,False,3.8
+CV600092,Claude 3 Opus,Contenido sensible,Developer,24,966,654,0.06354,True,3.1
+CV600093,Claude 3.5 Sonnet,Redaccion,Investigacion,29,1562,1079,0.02087,False,4.9
+CV600094,Claude 3.5 Sonnet,Educacion,Developer,30,406,408,0.00734,False,4.5
+CV600095,Claude 3 Haiku,Atencion cliente,Enterprise,24,558,438,0.00069,False,5.0
+CV600096,Claude 3.5 Sonnet,Programacion,Enterprise,18,1146,788,0.01526,False,5.0
+CV600097,Claude 3.5 Sonnet,Programacion,Developer,7,897,1226,0.02108,False,4.4
+CV600098,Claude 3.5 Sonnet,Educacion,Enterprise,25,1399,413,0.01039,False,3.2
+CV600099,Claude 3.5 Haiku,Redaccion,Investigacion,6,439,356,0.00178,False,3.8
+CV600100,Claude 3.5 Haiku,Investigacion,Developer,6,1212,1747,0.00796,False,4.8
+CV600101,Claude 3 Haiku,Programacion,Developer,27,1987,1026,0.00178,False,3.6
+CV600102,Claude 3.5 Sonnet,Atencion cliente,Developer,4,1322,790,0.01582,False,4.2
+CV600103,Claude 3.5 Haiku,Educacion,Enterprise,5,1049,588,0.00319,False,4.6
+CV600104,Claude 3 Haiku,Programacion,Developer,16,899,181,0.00045,False,5.0
+CV600105,Claude 3 Haiku,Redaccion,Enterprise,18,560,589,0.00088,False,4.1
+CV600106,Claude 3 Opus,Contenido sensible,Enterprise,2,913,246,0.03214,False,4.1
+CV600107,Claude 3.5 Sonnet,Redaccion,Enterprise,12,2228,1540,0.02978,False,4.4
+CV600108,Claude 3.5 Sonnet,Redaccion,Enterprise,7,886,1763,0.0291,False,4.6
+CV600109,Claude 3.5 Haiku,Redaccion,Developer,10,541,1002,0.00444,False,4.3
+CV600110,Claude 3 Opus,Redaccion,Enterprise,6,696,408,0.04104,False,4.9
+CV600111,Claude 3.5 Sonnet,Educacion,Enterprise,21,1093,828,0.0157,False,4.0
+CV600112,Claude 3.5 Sonnet,Educacion,Investigacion,15,751,777,0.01391,False,4.5
+CV600113,Claude 3 Opus,Redaccion,Investigacion,29,1321,2272,0.19022,False,4.6
+CV600114,Claude 3.5 Sonnet,Educacion,Developer,1,1354,2227,0.03747,False,4.2
+CV600115,Claude 3.5 Haiku,Programacion,Developer,24,1732,739,0.00434,False,4.8
+CV600116,Claude 3 Haiku,Programacion,Developer,28,2492,1056,0.00194,False,4.5
+CV600117,Claude 3 Haiku,Analisis,Enterprise,15,1862,1769,0.00268,False,4.8
+CV600118,Claude 3 Opus,Contenido sensible,Developer,21,526,929,0.07756,True,3.3
+CV600119,Claude 3 Haiku,Programacion,Enterprise,14,537,960,0.00133,False,4.6
+CV600120,Claude 3 Opus,Programacion,Developer,18,911,358,0.04051,False,4.1
+CV600121,Claude 3 Haiku,Analisis,Investigacion,28,714,880,0.00128,True,2.9
+CV600122,Claude 3.5 Sonnet,Educacion,Developer,16,464,222,0.00472,False,5.0
+CV600123,Claude 3.5 Sonnet,Programacion,Investigacion,18,719,1031,0.01762,False,4.7
+CV600124,Claude 3.5 Sonnet,Redaccion,Developer,30,704,1302,0.02164,False,3.9
+CV600125,Claude 3 Opus,Educacion,Developer,15,620,631,0.05663,False,4.5
+CV600126,Claude 3.5 Sonnet,Redaccion,Developer,6,779,272,0.00642,False,3.2
+CV600127,Claude 3.5 Sonnet,Programacion,Developer,21,2108,2619,0.04561,False,4.1
+CV600128,Claude 3.5 Sonnet,Programacion,Developer,21,1092,1021,0.01859,False,4.9
+CV600129,Claude 3 Opus,Redaccion,Enterprise,8,5125,8505,0.71475,False,4.3
+CV600130,Claude 3.5 Sonnet,Analisis,Developer,22,1071,870,0.01626,False,4.5
+CV600131,Claude 3.5 Haiku,Investigacion,Enterprise,2,792,1405,0.00625,False,2.9
+CV600132,Claude 3 Opus,Atencion cliente,Developer,10,960,664,0.0642,False,4.2
+CV600133,Claude 3.5 Sonnet,Atencion cliente,Enterprise,26,1134,548,0.01162,False,4.6
+CV600134,Claude 3 Opus,Contenido sensible,Developer,19,1277,959,0.09108,False,4.6
+CV600135,Claude 3.5 Sonnet,Redaccion,Enterprise,19,3901,1025,0.02708,False,4.9
+CV600136,Claude 3.5 Haiku,Redaccion,Enterprise,19,556,392,0.00201,False,4.3
+CV600137,Claude 3 Opus,Investigacion,Developer,5,1698,2357,0.20224,False,4.3
+CV600138,Claude 3 Haiku,Redaccion,Enterprise,29,1098,500,0.0009,False,3.7
+CV600139,Claude 3.5 Sonnet,Atencion cliente,Investigacion,9,358,143,0.00322,False,4.3
+CV600140,Claude 3 Opus,Educacion,Developer,24,1599,700,0.07648,False,3.8
+CV600141,Claude 3 Opus,Programacion,Enterprise,30,2240,760,0.0906,False,3.5
+CV600142,Claude 3.5 Haiku,Analisis,Enterprise,8,552,979,0.00436,False,3.9
+CV600143,Claude 3 Opus,Programacion,Investigacion,20,952,1808,0.14988,False,5.0
+CV600144,Claude 3 Opus,Programacion,Developer,2,328,93,0.0119,False,4.3
+CV600145,Claude 3.5 Sonnet,Analisis,Developer,20,431,675,0.01142,False,4.5
+CV600146,Claude 3.5 Sonnet,Redaccion,Enterprise,14,1929,2945,0.04996,False,4.1
+CV600147,Claude 3 Opus,Educacion,Developer,3,707,1410,0.11636,False,3.5
+CV600148,Claude 3 Opus,Investigacion,Investigacion,21,473,390,0.03634,False,4.9
+CV600149,Claude 3.5 Sonnet,Educacion,Enterprise,30,1114,795,0.01527,False,3.3
+CV600150,Claude 3.5 Haiku,Redaccion,Enterprise,3,682,692,0.00331,False,4.1
+CV600151,Claude 3.5 Haiku,Redaccion,Enterprise,27,705,1227,0.00547,False,4.4
+CV600152,Claude 3.5 Sonnet,Redaccion,Enterprise,26,1566,2366,0.04019,False,4.5
+CV600153,Claude 3 Opus,Programacion,Developer,17,458,480,0.04287,False,4.0
+CV600154,Claude 3.5 Sonnet,Contenido sensible,Investigacion,28,536,343,0.00675,True,2.3
+CV600155,Claude 3 Haiku,Redaccion,Investigacion,10,1060,1599,0.00226,False,4.0
+CV600156,Claude 3.5 Sonnet,Programacion,Developer,22,1829,3179,0.05317,False,4.0
+CV600157,Claude 3 Haiku,Educacion,Enterprise,21,2196,2020,0.00307,False,4.0
+CV600158,Claude 3 Haiku,Redaccion,Investigacion,18,623,874,0.00125,False,4.9
+CV600159,Claude 3 Haiku,Programacion,Enterprise,26,1790,1647,0.00251,False,3.8
+CV600160,Claude 3.5 Sonnet,Programacion,Enterprise,27,578,613,0.01093,False,4.6
+CV600161,Claude 3.5 Haiku,Atencion cliente,Developer,24,3283,3758,0.01766,False,4.5
+CV600162,Claude 3.5 Sonnet,Educacion,Enterprise,18,466,743,0.01254,False,4.9
+CV600163,Claude 3.5 Sonnet,Programacion,Investigacion,30,2335,4575,0.07563,False,4.3
+CV600164,Claude 3 Opus,Investigacion,Investigacion,17,627,626,0.05636,False,4.8
+CV600165,Claude 3.5 Sonnet,Educacion,Developer,20,3734,3047,0.05691,False,4.3
+CV600166,Claude 3.5 Haiku,Educacion,Developer,6,1418,1237,0.00608,False,4.6
+CV600167,Claude 3 Haiku,Programacion,Enterprise,10,500,220,0.0004,False,3.6
+CV600168,Claude 3.5 Sonnet,Programacion,Enterprise,28,682,500,0.00955,False,3.1
+CV600169,Claude 3.5 Haiku,Investigacion,Developer,15,1611,572,0.00358,False,4.6
+CV600170,Claude 3.5 Sonnet,Redaccion,Developer,16,1935,1877,0.03396,False,4.6
+CV600171,Claude 3 Opus,Atencion cliente,Investigacion,25,914,458,0.04806,True,3.4
+CV600172,Claude 3.5 Sonnet,Educacion,Enterprise,10,986,812,0.01514,False,4.1
+CV600173,Claude 3.5 Haiku,Programacion,Enterprise,8,1586,2582,0.0116,False,5.0
+CV600174,Claude 3.5 Sonnet,Educacion,Enterprise,1,1044,670,0.01318,False,4.2
+CV600175,Claude 3.5 Sonnet,Investigacion,Developer,7,423,550,0.00952,False,4.6
+CV600176,Claude 3 Opus,Atencion cliente,Developer,16,568,1034,0.08607,False,4.7
+CV600177,Claude 3.5 Haiku,Analisis,Investigacion,22,1118,1364,0.00635,False,5.0
+CV600178,Claude 3.5 Haiku,Investigacion,Enterprise,10,2162,1186,0.00647,False,4.2
+CV600179,Claude 3 Haiku,Analisis,Developer,14,2842,2332,0.00363,False,4.1
+CV600180,Claude 3.5 Haiku,Educacion,Enterprise,7,1609,2031,0.00941,False,3.7
+CV600181,Claude 3.5 Haiku,Educacion,Enterprise,25,1157,1286,0.00607,False,5.0
+CV600182,Claude 3 Opus,Educacion,Enterprise,16,1576,736,0.07884,False,4.6
+CV600183,Claude 3.5 Sonnet,Redaccion,Developer,5,622,624,0.01123,False,4.6
+CV600184,Claude 3 Haiku,Programacion,Developer,19,866,1019,0.00149,False,5.0
+CV600185,Claude 3 Haiku,Programacion,Enterprise,11,564,384,0.00062,False,4.6
+CV600186,Claude 3.5 Sonnet,Analisis,Developer,26,434,565,0.00978,False,3.7
+CV600187,Claude 3.5 Sonnet,Analisis,Investigacion,9,1193,389,0.00941,False,4.3
+CV600188,Claude 3 Haiku,Analisis,Enterprise,26,1082,871,0.00136,False,3.9
+CV600189,Claude 3.5 Sonnet,Redaccion,Enterprise,21,1512,2491,0.0419,False,4.2
+CV600190,Claude 3.5 Haiku,Educacion,Developer,5,1375,916,0.00476,False,4.2
+CV600191,Claude 3.5 Sonnet,Investigacion,Developer,23,1124,1449,0.02511,False,4.1
+CV600192,Claude 3.5 Sonnet,Redaccion,Investigacion,22,1385,1299,0.02364,False,3.7
+CV600193,Claude 3.5 Haiku,Atencion cliente,Enterprise,14,931,716,0.00361,False,5.0
+CV600194,Claude 3.5 Sonnet,Atencion cliente,Developer,5,1258,2326,0.03866,False,4.5
+CV600195,Claude 3.5 Sonnet,Analisis,Investigacion,15,600,490,0.00915,False,4.3
+CV600196,Claude 3 Opus,Programacion,Enterprise,19,1223,765,0.07572,False,4.8
+CV600197,Claude 3.5 Haiku,Educacion,Developer,4,1493,2742,0.01216,False,4.6
+CV600198,Claude 3.5 Sonnet,Contenido sensible,Investigacion,11,621,958,0.01623,True,3.3
+CV600199,Claude 3.5 Sonnet,Atencion cliente,Enterprise,22,991,1414,0.02418,False,4.7
+CV600200,Claude 3 Haiku,Investigacion,Developer,17,640,185,0.00039,False,4.5
+CV600201,Claude 3.5 Haiku,Contenido sensible,Investigacion,30,681,297,0.00173,False,4.7
+CV600202,Claude 3 Opus,Redaccion,Enterprise,7,468,631,0.05434,False,4.8
+CV600203,Claude 3.5 Sonnet,Atencion cliente,Developer,24,2237,1290,0.02606,False,4.5
+CV600204,Claude 3.5 Sonnet,Analisis,Developer,13,1953,1183,0.0236,False,4.3
+CV600205,Claude 3.5 Sonnet,Contenido sensible,Investigacion,7,1367,2190,0.03695,True,4.0
+CV600206,Claude 3.5 Sonnet,Programacion,Investigacion,29,3630,2594,0.0498,False,4.2
+CV600207,Claude 3 Haiku,Redaccion,Investigacion,19,846,278,0.00056,False,4.6
+CV600208,Claude 3.5 Sonnet,Investigacion,Enterprise,17,7556,2006,0.05276,False,4.6
+CV600209,Claude 3 Opus,Redaccion,Developer,9,825,823,0.0741,False,4.1
+CV600210,Claude 3 Haiku,Educacion,Investigacion,27,1133,1485,0.00214,False,4.0
+CV600211,Claude 3 Opus,Redaccion,Developer,1,739,1303,0.10881,False,4.2
+CV600212,Claude 3.5 Sonnet,Contenido sensible,Developer,4,1225,489,0.01101,False,4.2
+CV600213,Claude 3 Haiku,Investigacion,Enterprise,6,1671,925,0.00157,False,3.7
+CV600214,Claude 3 Haiku,Redaccion,Investigacion,20,889,1025,0.0015,False,4.1
+CV600215,Claude 3 Haiku,Educacion,Enterprise,4,3174,2715,0.00419,False,4.5
+CV600216,Claude 3.5 Sonnet,Redaccion,Enterprise,24,1121,1197,0.02132,False,5.0
+CV600217,Claude 3.5 Sonnet,Atencion cliente,Investigacion,6,1145,2133,0.03543,False,4.7
+CV600218,Claude 3.5 Haiku,Atencion cliente,Investigacion,21,535,631,0.00295,False,3.1
+CV600219,Claude 3.5 Sonnet,Educacion,Investigacion,24,1263,1196,0.02173,False,4.7
+CV600220,Claude 3.5 Sonnet,Programacion,Developer,27,877,1737,0.02869,False,4.1
+CV600221,Claude 3 Opus,Programacion,Enterprise,9,646,205,0.02506,False,4.6
+CV600222,Claude 3 Haiku,Atencion cliente,Developer,3,581,1091,0.00151,False,4.4
+CV600223,Claude 3.5 Haiku,Analisis,Enterprise,23,5886,6492,0.03068,False,4.3
+CV600224,Claude 3.5 Sonnet,Analisis,Investigacion,14,806,892,0.0158,False,4.3
+CV600225,Claude 3.5 Haiku,Programacion,Developer,29,383,712,0.00315,False,4.4
+CV600226,Claude 3.5 Sonnet,Redaccion,Developer,6,610,679,0.01202,False,5.0
+CV600227,Claude 3 Opus,Investigacion,Enterprise,18,926,915,0.08252,False,4.4
+CV600228,Claude 3 Haiku,Programacion,Developer,4,1376,950,0.00153,False,4.9
+CV600229,Claude 3.5 Sonnet,Redaccion,Investigacion,15,1383,1916,0.03289,False,4.9
+CV600230,Claude 3.5 Sonnet,Contenido sensible,Developer,1,1501,1839,0.03209,False,4.7
+CV600231,Claude 3.5 Sonnet,Programacion,Enterprise,23,631,369,0.00743,False,3.5
+CV600232,Claude 3.5 Haiku,Educacion,Enterprise,19,1199,1770,0.00804,True,3.8
+CV600233,Claude 3 Opus,Redaccion,Enterprise,3,546,742,0.06384,False,4.2
+CV600234,Claude 3.5 Haiku,Investigacion,Enterprise,15,641,586,0.00286,False,4.8
+CV600235,Claude 3 Haiku,Educacion,Investigacion,13,532,110,0.00027,False,3.9
+CV600236,Claude 3 Opus,Investigacion,Developer,21,450,451,0.04058,True,2.6
+CV600237,Claude 3 Haiku,Programacion,Enterprise,15,1951,411,0.001,False,5.0
+CV600238,Claude 3.5 Sonnet,Analisis,Developer,14,1513,506,0.01213,False,3.9
+CV600239,Claude 3.5 Sonnet,Educacion,Enterprise,25,1838,1792,0.03239,False,5.0
+CV600240,Claude 3.5 Haiku,Redaccion,Enterprise,16,982,341,0.00215,False,4.5
+CV600241,Claude 3 Haiku,Programacion,Developer,25,1606,1118,0.0018,False,4.2
+CV600242,Claude 3.5 Sonnet,Programacion,Enterprise,27,321,442,0.00759,False,4.4
+CV600243,Claude 3 Opus,Contenido sensible,Developer,26,1702,1285,0.1219,False,3.7
+CV600244,Claude 3 Haiku,Atencion cliente,Investigacion,29,1076,2147,0.00295,False,4.4
+CV600245,Claude 3.5 Haiku,Atencion cliente,Investigacion,21,1452,2685,0.0119,False,3.9
+CV600246,Claude 3 Haiku,Educacion,Enterprise,17,1231,1543,0.00224,False,4.2
+CV600247,Claude 3.5 Sonnet,Analisis,Developer,16,509,987,0.01633,False,4.9
+CV600248,Claude 3.5 Sonnet,Analisis,Enterprise,7,374,659,0.01101,False,4.5
+CV600249,Claude 3 Opus,Analisis,Developer,25,605,468,0.04418,False,3.7
+CV600250,Claude 3 Haiku,Atencion cliente,Enterprise,21,1393,2158,0.00305,False,4.8
+CV600251,Claude 3.5 Haiku,Programacion,Developer,27,1515,676,0.00392,False,4.4
+CV600252,Claude 3 Opus,Investigacion,Enterprise,22,404,578,0.04941,False,4.1
+CV600253,Claude 3.5 Sonnet,Educacion,Investigacion,15,511,553,0.00983,False,4.8
+CV600254,Claude 3.5 Sonnet,Redaccion,Investigacion,9,601,138,0.00387,False,4.3
+CV600255,Claude 3 Haiku,Analisis,Enterprise,30,759,526,0.00085,False,3.8
+CV600256,Claude 3 Haiku,Programacion,Developer,23,406,779,0.00108,False,5.0
+CV600257,Claude 3.5 Sonnet,Contenido sensible,Enterprise,27,391,300,0.00567,True,3.2
+CV600258,Claude 3.5 Sonnet,Investigacion,Developer,18,565,297,0.00615,False,4.4
+CV600259,Claude 3 Opus,Investigacion,Enterprise,16,1013,544,0.056,False,4.2
+CV600260,Claude 3.5 Sonnet,Redaccion,Enterprise,2,452,480,0.00856,False,5.0
+CV600261,Claude 3.5 Haiku,Programacion,Developer,3,887,1522,0.0068,False,4.1
+CV600262,Claude 3.5 Sonnet,Programacion,Developer,22,1943,3039,0.05141,False,3.6
+CV600263,Claude 3.5 Sonnet,Programacion,Developer,7,420,414,0.00747,False,4.1
+CV600264,Claude 3.5 Haiku,Programacion,Developer,3,837,481,0.00259,False,5.0
+CV600265,Claude 3.5 Sonnet,Programacion,Enterprise,24,1899,537,0.01375,False,4.8
+CV600266,Claude 3.5 Sonnet,Contenido sensible,Enterprise,19,729,752,0.01347,True,3.1
+CV600267,Claude 3.5 Sonnet,Programacion,Developer,4,660,1099,0.01846,False,5.0
+CV600268,Claude 3.5 Sonnet,Programacion,Developer,15,2087,3158,0.05363,False,4.8
+CV600269,Claude 3.5 Sonnet,Educacion,Enterprise,15,784,733,0.01335,False,4.3
+CV600270,Claude 3.5 Sonnet,Analisis,Enterprise,1,2005,2547,0.04422,False,4.3
+CV600271,Claude 3.5 Sonnet,Educacion,Developer,19,1272,1253,0.02261,False,4.6
+CV600272,Claude 3.5 Sonnet,Atencion cliente,Developer,12,766,951,0.01656,False,4.0
+CV600273,Claude 3 Opus,Investigacion,Investigacion,27,1316,1489,0.13142,False,4.4
+CV600274,Claude 3 Haiku,Atencion cliente,Developer,4,1183,1686,0.0024,False,4.6
+CV600275,Claude 3.5 Sonnet,Analisis,Developer,26,1894,2109,0.03732,False,3.6
+CV600276,Claude 3.5 Sonnet,Atencion cliente,Developer,1,671,1270,0.02106,False,4.3
+CV600277,Claude 3 Opus,Analisis,Enterprise,23,984,954,0.08631,False,4.2
+CV600278,Claude 3.5 Haiku,Redaccion,Enterprise,24,920,210,0.00158,False,4.9
+CV600279,Claude 3.5 Haiku,Analisis,Enterprise,13,1529,956,0.00505,False,3.5
+CV600280,Claude 3.5 Sonnet,Programacion,Investigacion,9,498,548,0.00971,False,4.2
+CV600281,Claude 3.5 Sonnet,Educacion,Enterprise,5,1889,2215,0.03889,False,4.2
+CV600282,Claude 3.5 Sonnet,Redaccion,Developer,11,1304,1557,0.02727,False,4.9
+CV600283,Claude 3.5 Sonnet,Programacion,Developer,21,417,619,0.01054,False,4.4
+CV600284,Claude 3 Opus,Redaccion,Enterprise,22,2151,1493,0.14424,False,5.0
+CV600285,Claude 3.5 Sonnet,Educacion,Investigacion,6,4349,6074,0.10416,False,4.7
+CV600286,Claude 3.5 Sonnet,Redaccion,Developer,1,1870,2743,0.04676,False,4.2
+CV600287,Claude 3.5 Sonnet,Atencion cliente,Enterprise,17,2497,2347,0.0427,False,4.5
+CV600288,Claude 3 Opus,Educacion,Developer,18,1013,935,0.08532,False,4.2
+CV600289,Claude 3.5 Sonnet,Programacion,Developer,30,340,177,0.00368,False,4.8
+CV600290,Claude 3.5 Haiku,Educacion,Enterprise,23,306,289,0.0014,False,3.7
+CV600291,Claude 3.5 Sonnet,Redaccion,Developer,17,1133,1831,0.03086,False,4.0
+CV600292,Claude 3.5 Haiku,Programacion,Developer,18,653,1199,0.00532,False,4.6
+CV600293,Claude 3.5 Sonnet,Atencion cliente,Enterprise,20,533,676,0.01174,False,5.0
+CV600294,Claude 3.5 Haiku,Investigacion,Investigacion,14,919,679,0.00345,False,3.3
+CV600295,Claude 3.5 Haiku,Redaccion,Developer,21,1441,2057,0.00938,False,5.0
+CV600296,Claude 3.5 Haiku,Analisis,Developer,6,384,588,0.00266,False,4.3
+CV600297,Claude 3 Haiku,Redaccion,Enterprise,25,715,570,0.00089,False,3.5
+CV600298,Claude 3 Haiku,Analisis,Enterprise,26,2643,4460,0.00624,False,2.9
+CV600299,Claude 3 Haiku,Atencion cliente,Developer,14,482,160,0.00032,False,3.6
+CV600300,Claude 3 Haiku,Atencion cliente,Developer,14,1710,375,0.0009,False,4.4
+CV600301,Claude 3.5 Sonnet,Atencion cliente,Developer,15,699,294,0.00651,False,4.4
+CV600302,Claude 3 Opus,Programacion,Developer,25,1375,661,0.0702,False,4.7
+CV600303,Claude 3 Opus,Atencion cliente,Enterprise,6,1995,3555,0.29655,False,4.1
+CV600304,Claude 3.5 Haiku,Atencion cliente,Developer,11,1568,1513,0.00731,False,3.8
+CV600305,Claude 3 Opus,Atencion cliente,Developer,19,1756,1220,0.11784,False,4.2
+CV600306,Claude 3.5 Sonnet,Programacion,Developer,21,460,447,0.00808,False,4.4
+CV600307,Claude 3 Haiku,Analisis,Developer,9,2017,1836,0.0028,False,4.5
+CV600308,Claude 3.5 Sonnet,Redaccion,Investigacion,4,554,411,0.00783,False,4.0
+CV600309,Claude 3.5 Sonnet,Programacion,Enterprise,16,1136,509,0.01104,False,4.9
+CV600310,Claude 3 Opus,Programacion,Developer,20,1135,1567,0.13455,False,4.1
+CV600311,Claude 3.5 Sonnet,Analisis,Investigacion,23,1320,588,0.01278,False,4.0
+CV600312,Claude 3.5 Sonnet,Educacion,Developer,1,1196,1908,0.03221,False,4.1
+CV600313,Claude 3.5 Sonnet,Programacion,Enterprise,1,557,313,0.00637,False,4.9
+CV600314,Claude 3.5 Sonnet,Educacion,Investigacion,12,409,620,0.01053,False,4.3
+CV600315,Claude 3.5 Sonnet,Analisis,Enterprise,17,1713,2826,0.04753,False,4.1
+CV600316,Claude 3.5 Sonnet,Educacion,Enterprise,1,1082,460,0.01015,False,4.9
+CV600317,Claude 3 Haiku,Analisis,Enterprise,6,2067,736,0.00144,False,5.0
+CV600318,Claude 3.5 Sonnet,Analisis,Developer,13,930,1775,0.02942,False,4.5
+CV600319,Claude 3.5 Haiku,Atencion cliente,Developer,9,395,408,0.00195,False,5.0
+CV600320,Claude 3.5 Haiku,Investigacion,Developer,22,1825,2435,0.0112,False,4.9
+CV600321,Claude 3 Opus,Analisis,Investigacion,2,752,181,0.02486,False,4.1
+CV600322,Claude 3.5 Sonnet,Analisis,Developer,27,1200,842,0.01623,False,4.4
+CV600323,Claude 3 Opus,Atencion cliente,Developer,6,630,699,0.06188,False,3.8
+CV600324,Claude 3.5 Haiku,Atencion cliente,Investigacion,14,2898,5202,0.02313,False,4.3
+CV600325,Claude 3 Haiku,Programacion,Developer,30,546,375,0.00061,False,4.1
+CV600326,Claude 3 Haiku,Analisis,Enterprise,20,768,1225,0.00172,False,4.2
+CV600327,Claude 3 Opus,Analisis,Enterprise,30,1027,1429,0.12258,False,4.0
+CV600328,Claude 3 Haiku,Investigacion,Developer,1,477,194,0.00036,False,4.3
+CV600329,Claude 3.5 Sonnet,Analisis,Investigacion,22,1191,867,0.01658,False,4.7
+CV600330,Claude 3 Haiku,Analisis,Developer,3,2834,1780,0.00293,False,4.3
+CV600331,Claude 3.5 Sonnet,Contenido sensible,Enterprise,19,696,693,0.01248,False,3.5
+CV600332,Claude 3 Haiku,Analisis,Developer,10,1243,1670,0.0024,False,4.0
+CV600333,Claude 3.5 Haiku,Programacion,Developer,24,191,187,0.0009,False,3.6
+CV600334,Claude 3.5 Sonnet,Programacion,Developer,4,933,597,0.01175,False,4.5
+CV600335,Claude 3 Haiku,Programacion,Investigacion,27,781,1134,0.00161,False,4.7
+CV600336,Claude 3.5 Sonnet,Programacion,Developer,15,566,708,0.01232,False,4.5
+CV600337,Claude 3 Haiku,Redaccion,Developer,16,1974,2240,0.00329,False,4.0
+CV600338,Claude 3.5 Sonnet,Educacion,Developer,18,774,927,0.01623,False,4.5
+CV600339,Claude 3.5 Haiku,Atencion cliente,Developer,2,852,510,0.00272,False,4.2
+CV600340,Claude 3.5 Sonnet,Programacion,Developer,10,749,1067,0.01825,False,3.8
+CV600341,Claude 3.5 Haiku,Analisis,Developer,22,294,263,0.00129,False,4.8
+CV600342,Claude 3 Haiku,Programacion,Developer,29,466,398,0.00061,False,4.8
+CV600343,Claude 3 Opus,Contenido sensible,Developer,30,1819,854,0.09134,False,4.9
+CV600344,Claude 3 Haiku,Programacion,Developer,17,265,337,0.00049,False,4.1
+CV600345,Claude 3 Haiku,Atencion cliente,Enterprise,8,585,751,0.00108,False,5.0
+CV600346,Claude 3.5 Haiku,Redaccion,Developer,15,738,599,0.00299,False,4.2
+CV600347,Claude 3.5 Sonnet,Atencion cliente,Developer,14,3102,5421,0.09062,False,4.7
+CV600348,Claude 3 Opus,Redaccion,Enterprise,12,1597,2749,0.23013,False,4.1
+CV600349,Claude 3.5 Sonnet,Educacion,Enterprise,11,667,264,0.00596,False,4.3
+CV600350,Claude 3 Haiku,Programacion,Enterprise,27,2297,3333,0.00474,False,3.2
+CV600351,Claude 3.5 Sonnet,Investigacion,Investigacion,12,594,539,0.00987,False,4.2
+CV600352,Claude 3 Opus,Analisis,Investigacion,1,1879,3757,0.30996,False,4.4
+CV600353,Claude 3 Opus,Educacion,Developer,22,406,245,0.02446,False,4.2
+CV600354,Claude 3 Opus,Educacion,Developer,20,1963,1383,0.13317,False,5.0
+CV600355,Claude 3 Opus,Contenido sensible,Developer,12,735,731,0.06585,True,2.6
+CV600356,Claude 3 Haiku,Programacion,Developer,19,497,339,0.00055,False,4.1
+CV600357,Claude 3 Haiku,Redaccion,Investigacion,29,831,1201,0.00171,False,3.9
+CV600358,Claude 3 Opus,Redaccion,Enterprise,28,1150,1225,0.10912,False,4.1
+CV600359,Claude 3 Opus,Redaccion,Enterprise,24,695,415,0.04155,False,4.9
+CV600360,Claude 3.5 Haiku,Analisis,Developer,18,1383,1537,0.00725,False,5.0
+CV600361,Claude 3.5 Sonnet,Contenido sensible,Enterprise,1,656,1180,0.01967,False,4.0
+CV600362,Claude 3.5 Sonnet,Contenido sensible,Developer,16,1446,2351,0.0396,False,4.0
+CV600363,Claude 3.5 Sonnet,Analisis,Developer,25,1283,1408,0.02497,False,3.8
+CV600364,Claude 3 Haiku,Atencion cliente,Enterprise,26,920,661,0.00106,False,5.0
+CV600365,Claude 3.5 Sonnet,Educacion,Developer,24,719,376,0.0078,True,3.8
+CV600366,Claude 3 Haiku,Investigacion,Developer,30,1058,1884,0.00262,False,4.3
+CV600367,Claude 3 Haiku,Programacion,Investigacion,16,1379,2038,0.00289,False,3.7
+CV600368,Claude 3.5 Sonnet,Analisis,Developer,4,3861,4748,0.0828,False,3.7
+CV600369,Claude 3.5 Haiku,Educacion,Enterprise,15,1792,3195,0.01421,False,4.5
+CV600370,Claude 3 Haiku,Redaccion,Developer,10,1837,769,0.00142,False,4.7
+CV600371,Claude 3.5 Sonnet,Redaccion,Developer,26,7860,11227,0.19198,False,3.4
+CV600372,Claude 3.5 Sonnet,Contenido sensible,Developer,24,1348,795,0.01597,True,3.0
+CV600373,Claude 3.5 Sonnet,Contenido sensible,Developer,13,1320,550,0.01221,True,4.0
+CV600374,Claude 3.5 Sonnet,Investigacion,Enterprise,12,1529,1587,0.02839,False,4.3
+CV600375,Claude 3.5 Sonnet,Educacion,Developer,5,503,451,0.00827,False,5.0
+CV600376,Claude 3.5 Haiku,Redaccion,Developer,2,718,1359,0.00601,False,4.7
+CV600377,Claude 3 Opus,Redaccion,Enterprise,10,689,539,0.05076,False,3.9
+CV600378,Claude 3.5 Sonnet,Analisis,Developer,8,1472,2453,0.04121,False,4.3
+CV600379,Claude 3 Haiku,Analisis,Investigacion,8,854,1321,0.00186,False,4.3
+CV600380,Claude 3 Opus,Analisis,Developer,30,1049,1470,0.12599,False,3.9
+CV600381,Claude 3.5 Haiku,Atencion cliente,Enterprise,21,1982,3680,0.01631,False,3.9
+CV600382,Claude 3 Haiku,Redaccion,Developer,17,1702,1590,0.00241,False,5.0
+CV600383,Claude 3 Opus,Educacion,Enterprise,6,861,776,0.07112,False,3.9
+CV600384,Claude 3.5 Sonnet,Redaccion,Developer,26,621,304,0.00642,False,4.9
+CV600385,Claude 3.5 Haiku,Redaccion,Developer,20,2047,1425,0.00734,False,4.2
+CV600386,Claude 3 Haiku,Programacion,Enterprise,16,1603,2859,0.00397,False,4.4
+CV600387,Claude 3.5 Haiku,Programacion,Enterprise,14,351,369,0.00176,False,4.7
+CV600388,Claude 3.5 Sonnet,Educacion,Investigacion,17,781,636,0.01188,True,2.9
+CV600389,Claude 3.5 Haiku,Analisis,Enterprise,26,1068,629,0.00337,False,4.7
+CV600390,Claude 3 Haiku,Programacion,Developer,22,1608,1725,0.00256,False,3.4
+CV600391,Claude 3.5 Sonnet,Educacion,Developer,15,1757,2617,0.04453,False,4.6
+CV600392,Claude 3 Opus,Analisis,Developer,21,1155,827,0.07935,False,3.2
+CV600393,Claude 3 Haiku,Programacion,Enterprise,28,1412,2208,0.00311,False,4.3
+CV600394,Claude 3.5 Sonnet,Redaccion,Enterprise,10,999,1332,0.02298,False,4.8
+CV600395,Claude 3 Opus,Programacion,Enterprise,28,620,1002,0.08445,False,4.7
+CV600396,Claude 3.5 Haiku,Atencion cliente,Developer,19,807,525,0.00275,False,3.8
+CV600397,Claude 3.5 Sonnet,Redaccion,Investigacion,6,969,1294,0.02232,False,3.8
+CV600398,Claude 3 Opus,Programacion,Investigacion,30,936,446,0.04749,False,4.1
+CV600399,Claude 3 Opus,Programacion,Enterprise,21,299,255,0.02361,False,4.5
+CV600400,Claude 3.5 Sonnet,Analisis,Enterprise,12,739,1111,0.01888,False,3.4
+CV600401,Claude 3.5 Haiku,Programacion,Enterprise,7,993,1327,0.0061,False,4.4
+CV600402,Claude 3 Haiku,Educacion,Investigacion,28,797,428,0.00073,False,4.6
+CV600403,Claude 3.5 Sonnet,Programacion,Enterprise,25,815,1422,0.02378,False,4.3
+CV600404,Claude 3.5 Haiku,Atencion cliente,Enterprise,2,1323,391,0.00262,False,4.7
+CV600405,Claude 3.5 Haiku,Analisis,Developer,20,481,611,0.00283,False,4.5
+CV600406,Claude 3.5 Sonnet,Analisis,Developer,4,347,683,0.01129,False,4.1
+CV600407,Claude 3.5 Haiku,Programacion,Enterprise,9,763,882,0.00414,False,3.4
+CV600408,Claude 3.5 Sonnet,Educacion,Developer,18,1592,2612,0.04396,False,4.5
+CV600409,Claude 3.5 Haiku,Investigacion,Enterprise,8,2985,3794,0.01756,False,3.9
+CV600410,Claude 3 Haiku,Programacion,Enterprise,16,1612,2594,0.00365,False,4.1
+CV600411,Claude 3 Haiku,Programacion,Enterprise,13,381,525,0.00075,False,4.6
+CV600412,Claude 3.5 Sonnet,Investigacion,Enterprise,18,823,1188,0.02029,False,5.0
+CV600413,Claude 3.5 Haiku,Analisis,Investigacion,25,1134,691,0.00367,False,4.4
+CV600414,Claude 3.5 Sonnet,Programacion,Developer,5,1076,1651,0.02799,False,4.7
+CV600415,Claude 3.5 Sonnet,Programacion,Developer,24,1369,860,0.01701,False,3.7
+CV600416,Claude 3.5 Sonnet,Atencion cliente,Enterprise,7,532,1045,0.01727,False,4.5
+CV600417,Claude 3 Haiku,Atencion cliente,Developer,2,999,609,0.00101,False,4.4
+CV600418,Claude 3.5 Sonnet,Analisis,Investigacion,14,1264,791,0.01566,False,5.0
+CV600419,Claude 3.5 Haiku,Contenido sensible,Enterprise,10,1660,2897,0.01292,False,4.1
+CV600420,Claude 3 Haiku,Analisis,Investigacion,6,570,363,0.0006,False,4.3
+CV600421,Claude 3.5 Sonnet,Redaccion,Developer,13,765,649,0.01203,False,4.9
+CV600422,Claude 3.5 Sonnet,Analisis,Developer,27,195,289,0.00492,False,4.4
+CV600423,Claude 3.5 Sonnet,Redaccion,Enterprise,18,641,311,0.00659,False,3.8
+CV600424,Claude 3 Haiku,Programacion,Developer,22,681,331,0.00058,False,5.0
+CV600425,Claude 3 Haiku,Programacion,Developer,5,499,536,0.00079,False,3.9
+CV600426,Claude 3.5 Sonnet,Redaccion,Investigacion,3,1068,682,0.01343,False,4.4
+CV600427,Claude 3.5 Haiku,Atencion cliente,Investigacion,11,923,576,0.00304,False,4.6
+CV600428,Claude 3.5 Sonnet,Programacion,Enterprise,24,244,52,0.00151,False,4.5
+CV600429,Claude 3 Haiku,Redaccion,Investigacion,27,1104,956,0.00147,False,4.3
+CV600430,Claude 3.5 Haiku,Atencion cliente,Investigacion,4,528,408,0.00205,False,4.3
+CV600431,Claude 3 Haiku,Atencion cliente,Developer,15,1321,338,0.00075,False,4.3
+CV600432,Claude 3 Haiku,Educacion,Enterprise,12,426,561,0.00081,False,3.8
+CV600433,Claude 3.5 Haiku,Educacion,Enterprise,23,976,1296,0.00596,False,5.0
+CV600434,Claude 3.5 Sonnet,Atencion cliente,Enterprise,7,796,260,0.00629,False,4.3
+CV600435,Claude 3.5 Sonnet,Programacion,Enterprise,15,1170,901,0.01702,False,4.7
+CV600436,Claude 3.5 Sonnet,Analisis,Investigacion,26,1039,1840,0.03072,False,4.2
+CV600437,Claude 3 Opus,Atencion cliente,Enterprise,14,810,1010,0.0879,False,4.2
+CV600438,Claude 3 Haiku,Redaccion,Developer,24,366,344,0.00052,False,4.2
+CV600439,Claude 3 Haiku,Programacion,Developer,19,379,393,0.00059,False,3.6
+CV600440,Claude 3.5 Haiku,Programacion,Developer,18,656,377,0.00203,False,4.3
+CV600441,Claude 3.5 Sonnet,Analisis,Enterprise,8,952,1581,0.02657,False,4.2
+CV600442,Claude 3 Haiku,Redaccion,Developer,30,646,1192,0.00165,False,5.0
+CV600443,Claude 3.5 Sonnet,Programacion,Developer,8,1450,2666,0.04434,False,3.8
+CV600444,Claude 3.5 Sonnet,Educacion,Developer,28,798,481,0.00961,False,4.1
+CV600445,Claude 3 Haiku,Investigacion,Enterprise,30,516,391,0.00062,False,4.0
+CV600446,Claude 3.5 Haiku,Programacion,Developer,16,799,390,0.0022,False,5.0
+CV600447,Claude 3 Haiku,Investigacion,Enterprise,27,1111,836,0.00132,False,4.0
+CV600448,Claude 3.5 Sonnet,Programacion,Developer,22,1187,948,0.01778,False,4.7
+CV600449,Claude 3 Haiku,Investigacion,Developer,23,3403,4558,0.00655,False,4.9
+CV600450,Claude 3.5 Sonnet,Contenido sensible,Enterprise,3,622,336,0.00691,False,4.3
+CV600451,Claude 3.5 Haiku,Programacion,Developer,5,912,1691,0.00749,False,3.7
+CV600452,Claude 3 Haiku,Educacion,Enterprise,3,1269,489,0.00093,False,3.7
+CV600453,Claude 3.5 Sonnet,Contenido sensible,Investigacion,1,943,200,0.00583,True,3.6
+CV600454,Claude 3.5 Sonnet,Investigacion,Investigacion,26,692,1203,0.02012,False,3.8
+CV600455,Claude 3.5 Sonnet,Contenido sensible,Enterprise,6,363,532,0.00907,False,4.6
+CV600456,Claude 3.5 Haiku,Analisis,Enterprise,1,687,576,0.00285,False,4.5
+CV600457,Claude 3 Opus,Programacion,Enterprise,29,483,614,0.05329,False,4.6
+CV600458,Claude 3 Haiku,Educacion,Investigacion,9,328,197,0.00033,True,3.4
+CV600459,Claude 3 Haiku,Atencion cliente,Developer,25,574,288,0.0005,False,3.9
+CV600460,Claude 3 Opus,Atencion cliente,Enterprise,29,491,514,0.04592,False,3.9
+CV600461,Claude 3.5 Sonnet,Redaccion,Developer,16,1411,1179,0.02192,False,4.8
+CV600462,Claude 3.5 Haiku,Analisis,Enterprise,28,1427,1865,0.0086,False,4.1
+CV600463,Claude 3.5 Sonnet,Programacion,Developer,30,536,317,0.00636,False,3.0
+CV600464,Claude 3 Opus,Atencion cliente,Developer,5,808,1125,0.0965,False,4.7
+CV600465,Claude 3 Haiku,Programacion,Enterprise,5,304,480,0.00068,False,3.9
+CV600466,Claude 3 Haiku,Atencion cliente,Developer,12,695,347,0.00061,False,4.6
+CV600467,Claude 3.5 Haiku,Educacion,Enterprise,17,1247,347,0.00239,False,5.0
+CV600468,Claude 3.5 Sonnet,Analisis,Developer,24,1659,1644,0.02964,False,4.4
+CV600469,Claude 3 Opus,Analisis,Developer,6,605,963,0.0813,False,4.9
+CV600470,Claude 3.5 Sonnet,Redaccion,Investigacion,6,1934,2652,0.04558,False,4.5
+CV600471,Claude 3 Opus,Contenido sensible,Developer,10,370,541,0.04612,False,5.0
+CV600472,Claude 3.5 Sonnet,Atencion cliente,Investigacion,9,434,401,0.00732,False,3.9
+CV600473,Claude 3.5 Sonnet,Redaccion,Enterprise,29,1535,956,0.01894,False,4.4
+CV600474,Claude 3.5 Sonnet,Programacion,Investigacion,12,2952,3416,0.0601,False,4.7
+CV600475,Claude 3.5 Sonnet,Programacion,Enterprise,27,1328,754,0.01529,False,4.3
+CV600476,Claude 3 Opus,Analisis,Developer,2,932,1404,0.11928,False,5.0
+CV600477,Claude 3 Haiku,Contenido sensible,Enterprise,4,253,140,0.00024,True,3.0
+CV600478,Claude 3 Haiku,Atencion cliente,Investigacion,25,277,200,0.00032,False,5.0
+CV600479,Claude 3.5 Sonnet,Programacion,Investigacion,8,1042,1158,0.0205,False,5.0
+CV600480,Claude 3.5 Sonnet,Educacion,Developer,3,758,815,0.0145,False,4.5
+CV600481,Claude 3.5 Sonnet,Redaccion,Developer,18,474,607,0.01053,False,4.7
+CV600482,Claude 3 Opus,Educacion,Developer,5,999,986,0.08893,False,5.0
+CV600483,Claude 3.5 Sonnet,Redaccion,Enterprise,2,1033,1916,0.03184,False,3.8
+CV600484,Claude 3.5 Sonnet,Atencion cliente,Developer,13,1799,3079,0.05158,False,3.7
+CV600485,Claude 3.5 Sonnet,Investigacion,Developer,17,1047,1866,0.03113,True,3.8
+CV600486,Claude 3 Opus,Redaccion,Developer,16,2181,2907,0.25074,False,4.5
+CV600487,Claude 3.5 Sonnet,Atencion cliente,Enterprise,18,962,1291,0.02225,False,4.3
+CV600488,Claude 3 Opus,Contenido sensible,Investigacion,1,888,1151,0.09964,False,4.4
+CV600489,Claude 3 Opus,Programacion,Enterprise,9,1951,1917,0.17304,False,3.2
+CV600490,Claude 3 Haiku,Programacion,Developer,11,512,399,0.00063,False,4.3
+CV600491,Claude 3 Haiku,Atencion cliente,Enterprise,9,6498,8223,0.0119,False,4.0
+CV600492,Claude 3 Haiku,Redaccion,Enterprise,17,1227,301,0.00068,False,4.9
+CV600493,Claude 3.5 Sonnet,Programacion,Enterprise,7,1232,262,0.00763,False,4.9
+CV600494,Claude 3 Haiku,Analisis,Enterprise,19,1356,2349,0.00328,False,4.7
+CV600495,Claude 3 Opus,Educacion,Developer,29,3400,964,0.1233,False,4.6
+CV600496,Claude 3 Opus,Redaccion,Developer,20,1623,1857,0.16362,False,3.7
+CV600497,Claude 3 Haiku,Redaccion,Developer,12,351,458,0.00066,False,4.7
+CV600498,Claude 3.5 Sonnet,Educacion,Developer,14,2458,1368,0.02789,False,4.7
+CV600499,Claude 3 Opus,Analisis,Enterprise,18,767,1390,0.11576,False,5.0
+CV600500,Claude 3 Haiku,Educacion,Enterprise,22,1027,556,0.00095,False,5.0
+CV600501,Claude 3.5 Haiku,Analisis,Developer,10,426,763,0.00339,False,3.6
+CV600502,Claude 3.5 Haiku,Contenido sensible,Developer,2,1357,2135,0.00963,False,4.2
+CV600503,Claude 3 Opus,Atencion cliente,Developer,22,629,398,0.03928,False,4.0
+CV600504,Claude 3 Opus,Programacion,Enterprise,20,1023,482,0.0515,False,4.5
+CV600505,Claude 3 Haiku,Investigacion,Developer,4,795,611,0.00096,False,4.4
+CV600506,Claude 3.5 Sonnet,Analisis,Enterprise,19,3514,3219,0.05883,False,4.3
+CV600507,Claude 3.5 Haiku,Programacion,Developer,3,3656,2348,0.01232,False,4.9
+CV600508,Claude 3 Opus,Programacion,Enterprise,20,987,1972,0.1627,False,3.8
+CV600509,Claude 3.5 Sonnet,Atencion cliente,Developer,23,998,612,0.01217,True,2.7
+CV600510,Claude 3.5 Sonnet,Programacion,Developer,1,751,1273,0.02135,False,3.9
+CV600511,Claude 3.5 Haiku,Redaccion,Developer,22,2007,976,0.00551,False,4.2
+CV600512,Claude 3.5 Sonnet,Programacion,Enterprise,4,773,1518,0.02509,False,3.8
+CV600513,Claude 3.5 Sonnet,Analisis,Developer,8,728,441,0.0088,False,4.4
+CV600514,Claude 3.5 Sonnet,Redaccion,Enterprise,22,1841,1765,0.032,False,4.3
+CV600515,Claude 3.5 Sonnet,Analisis,Developer,11,675,813,0.01422,False,4.0
+CV600516,Claude 3.5 Sonnet,Redaccion,Enterprise,30,934,389,0.00864,False,4.8
+CV600517,Claude 3 Haiku,Programacion,Enterprise,29,356,594,0.00083,False,4.4
+CV600518,Claude 3.5 Sonnet,Atencion cliente,Developer,30,1529,1061,0.0205,False,4.9
+CV600519,Claude 3.5 Haiku,Redaccion,Enterprise,4,3553,4223,0.01973,False,4.3
+CV600520,Claude 3.5 Haiku,Atencion cliente,Enterprise,6,1547,1839,0.00859,False,4.4
+CV600521,Claude 3.5 Sonnet,Programacion,Investigacion,6,2558,3286,0.05696,False,4.1
+CV600522,Claude 3.5 Sonnet,Programacion,Developer,18,556,166,0.00416,False,4.4
+CV600523,Claude 3 Haiku,Redaccion,Investigacion,13,1119,563,0.00098,False,4.8
+CV600524,Claude 3.5 Sonnet,Analisis,Enterprise,23,523,256,0.00541,False,4.2
+CV600525,Claude 3.5 Sonnet,Redaccion,Developer,9,825,613,0.01167,False,4.7
+CV600526,Claude 3.5 Haiku,Educacion,Developer,6,1601,737,0.00423,False,4.0
+CV600527,Claude 3.5 Haiku,Redaccion,Enterprise,20,1024,1904,0.00844,False,4.8
+CV600528,Claude 3 Haiku,Analisis,Developer,19,394,442,0.00065,False,4.1
+CV600529,Claude 3.5 Sonnet,Analisis,Enterprise,21,417,551,0.00952,False,4.8
+CV600530,Claude 3 Haiku,Programacion,Investigacion,10,401,338,0.00052,False,4.4
+CV600531,Claude 3 Haiku,Analisis,Developer,16,1326,924,0.00149,False,5.0
+CV600532,Claude 3.5 Sonnet,Redaccion,Developer,28,3867,4275,0.07573,False,3.8
+CV600533,Claude 3 Haiku,Redaccion,Developer,19,2390,1744,0.00278,False,3.7
+CV600534,Claude 3.5 Sonnet,Programacion,Enterprise,28,298,243,0.00454,False,4.1
+CV600535,Claude 3.5 Sonnet,Educacion,Enterprise,14,2487,2524,0.04532,False,3.7
+CV600536,Claude 3 Opus,Contenido sensible,Developer,2,1789,1986,0.17578,False,3.7
+CV600537,Claude 3.5 Sonnet,Programacion,Developer,23,364,717,0.01185,False,4.7
+CV600538,Claude 3.5 Sonnet,Atencion cliente,Developer,14,786,473,0.00945,False,4.4
+CV600539,Claude 3.5 Haiku,Educacion,Enterprise,2,1993,2149,0.01019,False,4.2
+CV600540,Claude 3.5 Haiku,Redaccion,Developer,5,1379,646,0.00369,False,4.2
+CV600541,Claude 3 Opus,Educacion,Enterprise,10,419,347,0.03231,False,4.1
+CV600542,Claude 3.5 Haiku,Atencion cliente,Enterprise,6,1436,2141,0.00971,False,5.0
+CV600543,Claude 3.5 Haiku,Investigacion,Investigacion,21,261,134,0.00074,False,4.0
+CV600544,Claude 3.5 Sonnet,Contenido sensible,Developer,19,828,1032,0.01796,False,3.7
+CV600545,Claude 3 Opus,Programacion,Developer,10,2051,1948,0.17686,False,4.8
+CV600546,Claude 3.5 Sonnet,Analisis,Investigacion,3,969,283,0.00715,False,4.3
+CV600547,Claude 3.5 Sonnet,Analisis,Enterprise,3,693,1302,0.02161,False,5.0
+CV600548,Claude 3 Haiku,Programacion,Investigacion,29,1733,1636,0.00248,False,4.1
+CV600549,Claude 3 Opus,Redaccion,Developer,11,1836,2957,0.24932,True,3.6
+CV600550,Claude 3 Opus,Contenido sensible,Developer,4,2306,2189,0.19876,False,4.9
+CV600551,Claude 3.5 Sonnet,Programacion,Enterprise,22,1715,3236,0.05368,False,4.1
+CV600552,Claude 3.5 Sonnet,Analisis,Enterprise,27,1974,1426,0.02731,False,4.0
+CV600553,Claude 3.5 Haiku,Educacion,Developer,4,1559,1468,0.00712,False,4.8
+CV600554,Claude 3.5 Sonnet,Redaccion,Enterprise,29,1141,1786,0.03021,False,4.7
+CV600555,Claude 3.5 Sonnet,Analisis,Enterprise,22,1015,830,0.01549,False,3.7
+CV600556,Claude 3.5 Sonnet,Contenido sensible,Developer,8,820,701,0.01298,False,3.8
+CV600557,Claude 3 Opus,Analisis,Developer,24,444,883,0.07289,False,3.1
+CV600558,Claude 3 Opus,Programacion,Enterprise,13,520,624,0.0546,False,4.7
+CV600559,Claude 3 Opus,Programacion,Developer,20,797,1148,0.09806,False,4.3
+CV600560,Claude 3.5 Sonnet,Contenido sensible,Investigacion,4,1123,1525,0.02624,True,3.1
+CV600561,Claude 3.5 Sonnet,Redaccion,Developer,8,2521,4261,0.07148,False,3.6
+CV600562,Claude 3.5 Haiku,Analisis,Developer,24,931,1630,0.00726,False,3.9
+CV600563,Claude 3 Haiku,Programacion,Developer,25,1872,2272,0.00331,True,3.0
+CV600564,Claude 3 Haiku,Redaccion,Enterprise,1,1971,1439,0.00229,False,4.1
+CV600565,Claude 3 Haiku,Investigacion,Enterprise,7,823,198,0.00045,False,4.5
+CV600566,Claude 3 Haiku,Analisis,Investigacion,19,1421,1855,0.00267,False,4.7
+CV600567,Claude 3.5 Sonnet,Contenido sensible,Developer,28,817,1377,0.02311,False,5.0
+CV600568,Claude 3.5 Sonnet,Redaccion,Developer,21,2325,2350,0.04223,False,4.4
+CV600569,Claude 3 Opus,Analisis,Investigacion,22,1461,725,0.07629,False,5.0
+CV600570,Claude 3.5 Sonnet,Educacion,Enterprise,12,450,323,0.00619,False,4.0
+CV600571,Claude 3.5 Haiku,Analisis,Enterprise,2,1065,1190,0.00561,False,3.6
+CV600572,Claude 3 Opus,Redaccion,Developer,23,2906,4957,0.41536,True,3.0
+CV600573,Claude 3 Haiku,Educacion,Enterprise,24,850,432,0.00075,False,3.6
+CV600574,Claude 3.5 Haiku,Redaccion,Developer,14,1288,1676,0.00773,False,4.4
+CV600575,Claude 3 Opus,Analisis,Developer,16,1375,2139,0.18105,False,4.0
+CV600576,Claude 3.5 Haiku,Contenido sensible,Developer,8,494,931,0.00412,True,2.2
+CV600577,Claude 3 Opus,Programacion,Enterprise,14,1343,550,0.0614,False,5.0
+CV600578,Claude 3.5 Haiku,Redaccion,Developer,8,398,743,0.00329,False,4.1
+CV600579,Claude 3.5 Sonnet,Programacion,Enterprise,13,639,819,0.0142,False,3.6
+CV600580,Claude 3 Opus,Redaccion,Investigacion,5,1966,3106,0.26244,False,4.8
+CV600581,Claude 3 Opus,Programacion,Enterprise,19,1212,359,0.0451,False,4.0
+CV600582,Claude 3.5 Sonnet,Atencion cliente,Investigacion,8,785,872,0.01544,False,4.9
+CV600583,Claude 3.5 Sonnet,Programacion,Developer,22,1287,1699,0.02935,False,4.0
+CV600584,Claude 3.5 Haiku,Atencion cliente,Developer,16,920,692,0.0035,False,4.1
+CV600585,Claude 3 Haiku,Redaccion,Developer,27,965,942,0.00142,True,3.4
+CV600586,Claude 3.5 Sonnet,Redaccion,Enterprise,7,1481,1773,0.03104,False,4.7
+CV600587,Claude 3.5 Sonnet,Redaccion,Developer,9,599,715,0.01252,True,3.6
+CV600588,Claude 3.5 Sonnet,Atencion cliente,Investigacion,8,983,270,0.007,False,4.4
+CV600589,Claude 3.5 Sonnet,Analisis,Developer,19,781,774,0.01395,False,4.7
+CV600590,Claude 3.5 Haiku,Redaccion,Enterprise,4,355,207,0.00111,False,4.8
+CV600591,Claude 3 Opus,Educacion,Developer,21,531,982,0.08162,False,4.5
+CV600592,Claude 3.5 Sonnet,Analisis,Investigacion,25,2751,5386,0.08904,False,4.3
+CV600593,Claude 3 Opus,Programacion,Developer,21,1235,913,0.087,False,3.7
+CV600594,Claude 3.5 Sonnet,Investigacion,Developer,5,415,213,0.00444,False,4.7
+CV600595,Claude 3.5 Sonnet,Redaccion,Enterprise,15,365,217,0.00435,False,4.4
+CV600596,Claude 3 Haiku,Programacion,Investigacion,17,890,943,0.0014,False,4.2
+CV600597,Claude 3 Haiku,Analisis,Enterprise,12,2738,4857,0.00676,False,5.0
+CV600598,Claude 3.5 Haiku,Programacion,Enterprise,14,847,931,0.0044,False,3.7
+CV600599,Claude 3 Haiku,Programacion,Developer,23,2301,689,0.00144,False,5.0
+CV600600,Claude 3 Opus,Educacion,Enterprise,26,1208,328,0.04272,False,4.4
+CV600601,Claude 3 Haiku,Programacion,Investigacion,10,1308,796,0.00132,False,4.6
+CV600602,Claude 3.5 Haiku,Educacion,Enterprise,10,412,707,0.00316,False,4.2
+CV600603,Claude 3 Haiku,Investigacion,Developer,7,1790,2360,0.0034,True,2.4
+CV600604,Claude 3.5 Haiku,Atencion cliente,Investigacion,13,770,934,0.00435,False,4.3
+CV600605,Claude 3 Haiku,Atencion cliente,Investigacion,17,1702,1317,0.00207,False,4.6
+CV600606,Claude 3.5 Haiku,Atencion cliente,Investigacion,22,567,1061,0.0047,False,4.7
+CV600607,Claude 3.5 Sonnet,Contenido sensible,Investigacion,9,1076,856,0.01607,False,4.3
+CV600608,Claude 3 Haiku,Redaccion,Enterprise,7,1208,2057,0.00287,False,3.3
+CV600609,Claude 3 Opus,Programacion,Investigacion,1,866,1569,0.13066,False,3.6
+CV600610,Claude 3 Opus,Analisis,Investigacion,3,1251,1338,0.11912,False,5.0
+CV600611,Claude 3 Haiku,Analisis,Developer,2,805,1456,0.00202,False,3.9
+CV600612,Claude 3.5 Haiku,Programacion,Developer,7,630,439,0.00226,False,5.0
+CV600613,Claude 3.5 Haiku,Atencion cliente,Enterprise,21,2822,3908,0.01789,False,3.9
+CV600614,Claude 3.5 Sonnet,Programacion,Developer,24,1931,691,0.01616,False,4.3
+CV600615,Claude 3 Haiku,Investigacion,Developer,30,587,618,0.00092,False,4.7
+CV600616,Claude 3 Haiku,Redaccion,Developer,17,1396,825,0.00138,False,4.0
+CV600617,Claude 3.5 Sonnet,Programacion,Developer,14,593,185,0.00455,False,5.0
+CV600618,Claude 3.5 Sonnet,Programacion,Developer,27,451,93,0.00275,False,4.4
+CV600619,Claude 3.5 Sonnet,Redaccion,Enterprise,5,1911,1499,0.02822,False,4.6
+CV600620,Claude 3 Haiku,Redaccion,Investigacion,19,332,418,0.00061,False,4.3
+CV600621,Claude 3 Opus,Programacion,Enterprise,25,1777,1811,0.16248,False,4.7
+CV600622,Claude 3.5 Haiku,Redaccion,Enterprise,16,812,603,0.00306,False,5.0
+CV600623,Claude 3 Opus,Programacion,Enterprise,8,834,1654,0.13656,False,4.3
+CV600624,Claude 3.5 Haiku,Redaccion,Investigacion,19,1256,2375,0.0105,False,5.0
+CV600625,Claude 3.5 Sonnet,Redaccion,Investigacion,30,1408,600,0.01322,False,4.1
+CV600626,Claude 3 Haiku,Redaccion,Enterprise,8,563,533,0.00081,False,4.8
+CV600627,Claude 3.5 Sonnet,Redaccion,Enterprise,17,1543,2110,0.03628,False,4.6
+CV600628,Claude 3 Opus,Programacion,Developer,2,1032,1568,0.13308,False,3.9
+CV600629,Claude 3 Haiku,Programacion,Enterprise,7,432,371,0.00057,False,4.5
+CV600630,Claude 3.5 Haiku,Programacion,Developer,24,857,1322,0.00597,False,4.4
+CV600631,Claude 3.5 Haiku,Educacion,Enterprise,15,2421,1025,0.00604,False,4.0
+CV600632,Claude 3.5 Sonnet,Contenido sensible,Developer,6,2963,2362,0.04432,False,4.6
+CV600633,Claude 3.5 Sonnet,Investigacion,Enterprise,11,1543,2298,0.0391,False,4.5
+CV600634,Claude 3.5 Sonnet,Analisis,Developer,4,450,596,0.01029,False,4.4
+CV600635,Claude 3.5 Sonnet,Analisis,Developer,24,1325,2261,0.03789,False,4.4
+CV600636,Claude 3 Haiku,Redaccion,Enterprise,29,1688,479,0.00102,False,4.4
+CV600637,Claude 3 Haiku,Educacion,Enterprise,4,1552,797,0.00138,False,4.2
+CV600638,Claude 3 Haiku,Educacion,Enterprise,8,1615,463,0.00098,False,4.5
+CV600639,Claude 3.5 Haiku,Educacion,Enterprise,26,1217,664,0.00363,False,4.1
+CV600640,Claude 3 Haiku,Investigacion,Investigacion,27,913,189,0.00046,False,5.0
+CV600641,Claude 3 Haiku,Redaccion,Enterprise,24,646,715,0.00106,False,3.7
+CV600642,Claude 3.5 Sonnet,Educacion,Enterprise,22,297,341,0.00601,False,4.1
+CV600643,Claude 3.5 Sonnet,Educacion,Enterprise,26,1198,1658,0.02846,False,4.1
+CV600644,Claude 3 Haiku,Redaccion,Developer,12,1082,966,0.00148,False,5.0
+CV600645,Claude 3.5 Haiku,Investigacion,Investigacion,27,1386,285,0.00225,False,3.7
+CV600646,Claude 3.5 Sonnet,Programacion,Developer,27,412,582,0.00997,False,4.6
+CV600647,Claude 3 Opus,Contenido sensible,Developer,7,1470,437,0.05482,True,3.3
+CV600648,Claude 3 Haiku,Educacion,Developer,3,3842,6758,0.00941,False,4.6
+CV600649,Claude 3.5 Sonnet,Programacion,Developer,16,1008,242,0.00665,False,5.0
+CV600650,Claude 3.5 Sonnet,Atencion cliente,Investigacion,23,919,1061,0.01867,False,5.0
+CV600651,Claude 3.5 Haiku,Programacion,Developer,26,1174,2125,0.00944,False,4.2
+CV600652,Claude 3 Haiku,Educacion,Enterprise,5,3784,4656,0.00677,False,4.5
+CV600653,Claude 3.5 Sonnet,Educacion,Developer,12,498,644,0.01115,False,3.5
+CV600654,Claude 3.5 Haiku,Atencion cliente,Enterprise,24,1095,1562,0.00712,False,4.4
+CV600655,Claude 3.5 Sonnet,Educacion,Enterprise,2,572,240,0.00532,False,4.0
+CV600656,Claude 3.5 Haiku,Programacion,Investigacion,22,672,950,0.00434,False,4.3
+CV600657,Claude 3.5 Sonnet,Redaccion,Enterprise,9,927,1654,0.02759,False,3.6
+CV600658,Claude 3 Opus,Redaccion,Developer,1,2365,4620,0.38197,False,4.6
+CV600659,Claude 3.5 Sonnet,Programacion,Investigacion,8,3227,3218,0.05795,False,3.6
+CV600660,Claude 3.5 Sonnet,Analisis,Developer,23,1288,1056,0.0197,False,4.5
+CV600661,Claude 3.5 Haiku,Redaccion,Enterprise,27,749,1165,0.00526,False,3.8
+CV600662,Claude 3.5 Sonnet,Redaccion,Developer,3,5200,6121,0.10742,False,4.0
+CV600663,Claude 3.5 Sonnet,Redaccion,Developer,14,725,480,0.00938,False,5.0
+CV600664,Claude 3.5 Sonnet,Investigacion,Enterprise,7,661,337,0.00704,False,4.7
+CV600665,Claude 3 Haiku,Redaccion,Enterprise,21,319,161,0.00028,False,5.0
+CV600666,Claude 3 Haiku,Investigacion,Developer,24,2445,2509,0.00375,False,5.0
+CV600667,Claude 3.5 Haiku,Redaccion,Investigacion,29,1828,925,0.00516,False,4.0
+CV600668,Claude 3.5 Sonnet,Redaccion,Enterprise,11,4937,1162,0.03224,False,5.0
+CV600669,Claude 3.5 Sonnet,Analisis,Enterprise,9,399,117,0.00295,False,3.7
+CV600670,Claude 3.5 Sonnet,Redaccion,Investigacion,10,2551,4780,0.07935,False,4.8
+CV600671,Claude 3 Opus,Redaccion,Enterprise,23,1003,332,0.03994,False,4.2
+CV600672,Claude 3.5 Haiku,Analisis,Enterprise,14,1638,543,0.00348,False,3.9
+CV600673,Claude 3 Haiku,Programacion,Developer,1,343,347,0.00052,False,4.7
+CV600674,Claude 3 Opus,Redaccion,Enterprise,29,2569,1647,0.16206,False,4.9
+CV600675,Claude 3.5 Sonnet,Analisis,Enterprise,4,1617,3125,0.05173,False,4.9
+CV600676,Claude 3.5 Haiku,Redaccion,Developer,28,933,1716,0.00761,False,4.5
+CV600677,Claude 3 Opus,Educacion,Developer,5,1470,1364,0.12435,False,4.5
+CV600678,Claude 3.5 Sonnet,Redaccion,Developer,17,585,589,0.01059,False,4.7
+CV600679,Claude 3.5 Sonnet,Contenido sensible,Enterprise,10,658,575,0.0106,False,4.6
+CV600680,Claude 3.5 Sonnet,Educacion,Developer,21,709,190,0.00498,False,4.7
+CV600681,Claude 3.5 Sonnet,Contenido sensible,Developer,13,305,221,0.00423,False,4.5
+CV600682,Claude 3.5 Sonnet,Educacion,Developer,12,1701,715,0.01583,False,4.8
+CV600683,Claude 3 Opus,Programacion,Developer,15,2127,817,0.09318,False,3.6
+CV600684,Claude 3 Haiku,Analisis,Developer,30,609,736,0.00107,False,4.3
+CV600685,Claude 3.5 Sonnet,Programacion,Investigacion,8,1205,455,0.01044,False,3.7
+CV600686,Claude 3 Opus,Educacion,Investigacion,7,805,310,0.03532,False,4.5
+CV600687,Claude 3.5 Haiku,Analisis,Enterprise,2,1189,1266,0.00602,False,5.0
+CV600688,Claude 3 Haiku,Redaccion,Investigacion,23,638,635,0.00095,False,4.2
+CV600689,Claude 3 Opus,Investigacion,Investigacion,21,543,243,0.02637,True,3.3
+CV600690,Claude 3.5 Sonnet,Programacion,Enterprise,19,1935,402,0.01184,False,4.8
+CV600691,Claude 3.5 Haiku,Analisis,Enterprise,1,918,502,0.00274,False,3.4
+CV600692,Claude 3.5 Sonnet,Atencion cliente,Developer,24,3757,2346,0.04646,False,4.1
+CV600693,Claude 3.5 Sonnet,Programacion,Developer,25,987,1619,0.02725,False,4.6
+CV600694,Claude 3.5 Haiku,Analisis,Developer,29,529,977,0.00433,False,3.0
+CV600695,Claude 3 Opus,Educacion,Developer,28,2179,2027,0.18471,False,3.9
+CV600696,Claude 3 Haiku,Programacion,Enterprise,8,1456,1352,0.00205,False,5.0
+CV600697,Claude 3 Opus,Analisis,Enterprise,22,1553,2302,0.19594,False,4.9
+CV600698,Claude 3 Haiku,Redaccion,Investigacion,13,2126,2824,0.00406,False,4.6
+CV600699,Claude 3.5 Sonnet,Atencion cliente,Enterprise,18,628,333,0.00688,True,3.6
+CV600700,Claude 3.5 Sonnet,Programacion,Developer,10,881,346,0.00783,False,4.5
+CV600701,Claude 3.5 Sonnet,Investigacion,Enterprise,20,856,845,0.01524,False,4.7
+CV600702,Claude 3.5 Sonnet,Investigacion,Developer,29,423,514,0.00898,False,4.2
+CV600703,Claude 3.5 Haiku,Programacion,Developer,20,806,362,0.00209,False,4.5
+CV600704,Claude 3.5 Sonnet,Redaccion,Enterprise,28,2348,1709,0.03268,False,4.1
+CV600705,Claude 3 Opus,Analisis,Developer,28,1120,840,0.0798,False,5.0
+CV600706,Claude 3 Haiku,Atencion cliente,Developer,4,409,274,0.00044,True,4.0
+CV600707,Claude 3 Haiku,Analisis,Enterprise,29,362,372,0.00056,False,5.0
+CV600708,Claude 3 Opus,Programacion,Enterprise,25,2939,4042,0.34723,False,4.2
+CV600709,Claude 3 Opus,Programacion,Developer,13,902,1007,0.08906,False,3.9
+CV600710,Claude 3.5 Haiku,Contenido sensible,Developer,19,630,354,0.00192,False,5.0
+CV600711,Claude 3 Haiku,Analisis,Developer,19,801,308,0.00059,False,4.7
+CV600712,Claude 3 Haiku,Investigacion,Developer,24,379,636,0.00089,False,4.6
+CV600713,Claude 3.5 Haiku,Analisis,Enterprise,25,2491,2647,0.01258,True,2.9
+CV600714,Claude 3 Haiku,Investigacion,Enterprise,4,741,231,0.00047,False,4.6
+CV600715,Claude 3.5 Sonnet,Programacion,Developer,1,2398,1593,0.03109,False,3.9
+CV600716,Claude 3 Opus,Programacion,Developer,8,990,1630,0.1371,False,4.7
+CV600717,Claude 3.5 Sonnet,Investigacion,Developer,16,2502,3885,0.06578,False,5.0
+CV600718,Claude 3 Haiku,Contenido sensible,Enterprise,26,1134,2014,0.0028,True,4.0
+CV600719,Claude 3.5 Haiku,Redaccion,Developer,20,1691,2170,0.01003,False,4.8
+CV600720,Claude 3 Opus,Redaccion,Developer,5,1545,1485,0.13455,False,3.7
+CV600721,Claude 3 Opus,Analisis,Enterprise,22,1448,1401,0.1268,False,4.5
+CV600722,Claude 3.5 Sonnet,Redaccion,Developer,15,1205,661,0.01353,False,5.0
+CV600723,Claude 3.5 Haiku,Programacion,Developer,12,822,1127,0.00517,False,4.0
+CV600724,Claude 3.5 Sonnet,Investigacion,Enterprise,24,3491,4374,0.07608,False,4.4
+CV600725,Claude 3.5 Sonnet,Redaccion,Enterprise,9,535,256,0.00544,False,5.0
+CV600726,Claude 3.5 Sonnet,Atencion cliente,Enterprise,19,960,1722,0.02871,False,4.7
+CV600727,Claude 3.5 Sonnet,Programacion,Investigacion,6,967,834,0.01541,False,5.0
+CV600728,Claude 3 Opus,Programacion,Enterprise,12,1249,361,0.04581,False,4.0
+CV600729,Claude 3 Opus,Atencion cliente,Enterprise,17,724,572,0.05376,False,3.9
+CV600730,Claude 3.5 Sonnet,Redaccion,Enterprise,19,1179,2081,0.03475,False,5.0
+CV600731,Claude 3.5 Sonnet,Atencion cliente,Enterprise,28,857,1585,0.02635,False,3.8
+CV600732,Claude 3.5 Sonnet,Programacion,Enterprise,9,356,385,0.00684,False,4.3
+CV600733,Claude 3.5 Sonnet,Contenido sensible,Developer,27,963,1850,0.03064,True,3.2
+CV600734,Claude 3.5 Sonnet,Educacion,Enterprise,25,475,843,0.01407,False,4.9
+CV600735,Claude 3 Haiku,Investigacion,Enterprise,11,326,549,0.00077,False,4.7
+CV600736,Claude 3.5 Sonnet,Programacion,Enterprise,5,1048,1831,0.03061,False,4.6
+CV600737,Claude 3.5 Sonnet,Redaccion,Developer,8,1323,1173,0.02156,False,4.2
+CV600738,Claude 3.5 Sonnet,Redaccion,Enterprise,20,1358,2120,0.03587,False,5.0
+CV600739,Claude 3.5 Sonnet,Analisis,Developer,24,1395,1728,0.0301,False,5.0
+CV600740,Claude 3.5 Sonnet,Redaccion,Developer,19,292,436,0.00742,False,4.7
+CV600741,Claude 3.5 Sonnet,Programacion,Developer,22,406,211,0.00438,False,4.4
+CV600742,Claude 3.5 Haiku,Redaccion,Enterprise,4,3634,5510,0.02495,False,3.8
+CV600743,Claude 3.5 Sonnet,Redaccion,Investigacion,16,491,944,0.01563,False,4.1
+CV600744,Claude 3 Opus,Redaccion,Developer,27,1436,1069,0.10172,False,4.3
+CV600745,Claude 3 Opus,Programacion,Enterprise,12,615,1214,0.10028,False,4.1
+CV600746,Claude 3.5 Sonnet,Redaccion,Developer,27,1009,889,0.01636,False,4.4
+CV600747,Claude 3 Opus,Atencion cliente,Developer,4,636,355,0.03617,False,5.0
+CV600748,Claude 3 Haiku,Redaccion,Enterprise,30,1390,558,0.00104,False,5.0
+CV600749,Claude 3.5 Haiku,Redaccion,Enterprise,24,1048,1690,0.0076,False,4.3
+CV600750,Claude 3.5 Sonnet,Analisis,Developer,19,716,858,0.01502,False,3.8
+CV600751,Claude 3.5 Sonnet,Educacion,Enterprise,19,490,368,0.00699,False,5.0
+CV600752,Claude 3.5 Sonnet,Redaccion,Investigacion,29,1142,1479,0.02561,False,4.4
+CV600753,Claude 3 Opus,Analisis,Enterprise,12,444,354,0.03321,False,3.5
+CV600754,Claude 3 Haiku,Contenido sensible,Enterprise,5,1271,1279,0.00192,True,3.6
+CV600755,Claude 3.5 Sonnet,Analisis,Enterprise,28,5705,9999,0.1671,False,4.9
+CV600756,Claude 3.5 Sonnet,Investigacion,Enterprise,4,2370,3324,0.05697,False,3.2
+CV600757,Claude 3.5 Haiku,Educacion,Investigacion,20,1544,2427,0.01094,False,4.0
+CV600758,Claude 3.5 Sonnet,Programacion,Developer,8,905,1131,0.01968,False,4.3
+CV600759,Claude 3 Opus,Redaccion,Investigacion,28,291,577,0.04764,False,4.8
+CV600760,Claude 3 Haiku,Atencion cliente,Developer,30,415,263,0.00043,False,4.1
+CV600761,Claude 3.5 Sonnet,Contenido sensible,Developer,15,2263,1521,0.0296,False,4.0
+CV600762,Claude 3.5 Sonnet,Analisis,Enterprise,16,576,211,0.00489,False,4.8
+CV600763,Claude 3.5 Sonnet,Programacion,Enterprise,14,610,730,0.01278,False,4.2
+CV600764,Claude 3.5 Haiku,Analisis,Investigacion,13,859,1120,0.00517,False,4.7
+CV600765,Claude 3.5 Sonnet,Programacion,Developer,29,486,732,0.01244,False,3.8
+CV600766,Claude 3.5 Sonnet,Educacion,Developer,9,440,353,0.00662,False,3.7
+CV600767,Claude 3.5 Sonnet,Analisis,Developer,29,926,205,0.00585,False,4.8
+CV600768,Claude 3.5 Sonnet,Atencion cliente,Developer,20,541,723,0.01247,False,4.5
+CV600769,Claude 3 Haiku,Investigacion,Enterprise,29,594,1186,0.00163,False,4.9
+CV600770,Claude 3.5 Sonnet,Atencion cliente,Developer,19,579,422,0.00807,False,4.1
+CV600771,Claude 3 Opus,Atencion cliente,Developer,25,1354,719,0.07423,False,4.0
+CV600772,Claude 3 Opus,Educacion,Investigacion,15,823,582,0.056,False,5.0
+CV600773,Claude 3.5 Haiku,Educacion,Enterprise,14,852,822,0.00397,False,3.6
+CV600774,Claude 3.5 Sonnet,Investigacion,Enterprise,8,1423,927,0.01817,False,5.0
+CV600775,Claude 3.5 Haiku,Programacion,Developer,7,872,718,0.00357,False,5.0
+CV600776,Claude 3 Haiku,Analisis,Investigacion,2,798,1076,0.00154,False,4.8
+CV600777,Claude 3.5 Sonnet,Programacion,Investigacion,12,1308,1073,0.02002,False,4.1
+CV600778,Claude 3 Haiku,Investigacion,Developer,30,1493,1362,0.00208,False,4.0
+CV600779,Claude 3.5 Haiku,Atencion cliente,Enterprise,29,870,236,0.00164,False,4.3
+CV600780,Claude 3.5 Sonnet,Redaccion,Enterprise,21,1009,1868,0.03105,False,3.8
+CV600781,Claude 3.5 Haiku,Programacion,Developer,11,579,539,0.00262,False,3.9
+CV600782,Claude 3 Opus,Redaccion,Enterprise,16,551,435,0.04089,False,4.7
+CV600783,Claude 3 Haiku,Atencion cliente,Developer,23,1598,568,0.00111,False,4.7
+CV600784,Claude 3.5 Haiku,Programacion,Investigacion,1,1285,1723,0.00792,False,3.9
+CV600785,Claude 3.5 Sonnet,Programacion,Enterprise,28,1294,2270,0.03793,False,4.7
+CV600786,Claude 3 Haiku,Investigacion,Enterprise,27,1152,315,0.00068,True,3.4
+CV600787,Claude 3.5 Sonnet,Educacion,Enterprise,30,987,455,0.00979,False,5.0
+CV600788,Claude 3 Haiku,Programacion,Enterprise,3,1521,704,0.00126,False,4.7
+CV600789,Claude 3 Haiku,Redaccion,Developer,29,1787,2294,0.00331,True,3.7
+CV600790,Claude 3.5 Sonnet,Contenido sensible,Enterprise,19,1759,3268,0.0543,False,4.6
+CV600791,Claude 3.5 Sonnet,Atencion cliente,Enterprise,17,896,885,0.01596,False,4.9
+CV600792,Claude 3.5 Sonnet,Atencion cliente,Enterprise,6,2430,1989,0.03712,False,3.8
+CV600793,Claude 3.5 Sonnet,Redaccion,Enterprise,15,1113,1756,0.02968,False,4.3
+CV600794,Claude 3.5 Sonnet,Redaccion,Developer,11,1457,2238,0.03794,False,4.4
+CV600795,Claude 3.5 Sonnet,Programacion,Developer,30,1153,742,0.01459,False,4.3
+CV600796,Claude 3.5 Sonnet,Atencion cliente,Developer,11,1127,551,0.01165,False,4.6
+CV600797,Claude 3.5 Sonnet,Programacion,Developer,7,596,503,0.00933,False,4.7
+CV600798,Claude 3 Haiku,Programacion,Enterprise,29,1526,2435,0.00343,False,4.6
+CV600799,Claude 3 Haiku,Atencion cliente,Developer,6,6639,9633,0.0137,False,4.3
+CV600800,Claude 3 Haiku,Contenido sensible,Enterprise,28,750,1048,0.0015,False,4.0
+CV600801,Claude 3.5 Sonnet,Educacion,Investigacion,29,1003,1698,0.02848,False,4.9
+CV600802,Claude 3.5 Haiku,Analisis,Enterprise,10,716,500,0.00257,False,4.6
+CV600803,Claude 3 Opus,Analisis,Developer,21,698,566,0.05292,False,3.9
+CV600804,Claude 3.5 Sonnet,Redaccion,Enterprise,24,2706,747,0.01932,False,4.3
+CV600805,Claude 3.5 Sonnet,Redaccion,Developer,17,620,1093,0.01826,False,3.5
+CV600806,Claude 3 Haiku,Analisis,Enterprise,21,704,878,0.00127,False,4.4
+CV600807,Claude 3.5 Sonnet,Redaccion,Investigacion,4,355,261,0.00498,False,4.3
+CV600808,Claude 3 Opus,Analisis,Enterprise,16,588,191,0.02314,False,4.1
+CV600809,Claude 3.5 Haiku,Investigacion,Investigacion,16,331,497,0.00225,False,5.0
+CV600810,Claude 3.5 Sonnet,Contenido sensible,Developer,17,1457,2255,0.0382,False,3.8
+CV600811,Claude 3.5 Sonnet,Programacion,Enterprise,29,6432,8999,0.15428,False,4.8
+CV600812,Claude 3.5 Haiku,Redaccion,Enterprise,25,754,427,0.00231,False,5.0
+CV600813,Claude 3 Opus,Programacion,Enterprise,19,339,625,0.05196,False,4.9
+CV600814,Claude 3.5 Sonnet,Redaccion,Investigacion,13,1745,2714,0.04594,False,4.4
+CV600815,Claude 3.5 Haiku,Redaccion,Investigacion,13,599,828,0.00379,False,3.8
+CV600816,Claude 3.5 Haiku,Programacion,Enterprise,1,2289,3139,0.01439,False,3.7
+CV600817,Claude 3 Opus,Educacion,Enterprise,17,796,1454,0.12099,False,4.2
+CV600818,Claude 3 Haiku,Analisis,Enterprise,8,636,1189,0.00165,False,4.1
+CV600819,Claude 3.5 Sonnet,Investigacion,Enterprise,27,852,1083,0.0188,False,4.0
+CV600820,Claude 3.5 Sonnet,Programacion,Developer,24,1586,1506,0.02735,False,4.2
+CV600821,Claude 3 Opus,Programacion,Enterprise,28,825,705,0.06525,False,4.3
+CV600822,Claude 3.5 Sonnet,Redaccion,Enterprise,30,694,1161,0.0195,False,4.6
+CV600823,Claude 3 Haiku,Programacion,Investigacion,13,841,1144,0.00164,False,3.8
+CV600824,Claude 3.5 Haiku,Redaccion,Developer,13,428,145,0.00092,False,4.1
+CV600825,Claude 3.5 Sonnet,Contenido sensible,Developer,19,1245,567,0.01224,True,3.1
+CV600826,Claude 3 Opus,Programacion,Enterprise,13,317,577,0.04803,False,4.3
+CV600827,Claude 3.5 Sonnet,Programacion,Investigacion,9,717,1284,0.02141,False,5.0
+CV600828,Claude 3.5 Haiku,Analisis,Developer,22,1587,3036,0.01341,False,4.5
+CV600829,Claude 3.5 Sonnet,Analisis,Developer,14,1170,1135,0.02053,False,3.6
+CV600830,Claude 3 Haiku,Analisis,Enterprise,29,1417,2283,0.00321,False,4.6
+CV600831,Claude 3 Opus,Redaccion,Investigacion,7,917,1550,0.13,False,4.7
+CV600832,Claude 3.5 Sonnet,Educacion,Developer,14,2096,1610,0.03044,False,4.3
+CV600833,Claude 3 Haiku,Programacion,Investigacion,16,1775,819,0.00147,False,3.8
+CV600834,Claude 3 Haiku,Redaccion,Developer,28,1286,2565,0.00353,False,5.0
+CV600835,Claude 3 Opus,Atencion cliente,Developer,18,1778,452,0.06057,False,3.9
+CV600836,Claude 3 Haiku,Investigacion,Developer,3,1578,2012,0.00291,False,4.7
+CV600837,Claude 3.5 Haiku,Redaccion,Investigacion,11,720,986,0.00452,False,4.5
+CV600838,Claude 3.5 Sonnet,Analisis,Enterprise,27,410,585,0.01,False,4.7
+CV600839,Claude 3 Opus,Programacion,Enterprise,9,1265,835,0.0816,False,5.0
+CV600840,Claude 3.5 Sonnet,Programacion,Developer,11,1375,2060,0.03502,False,4.7
+CV600841,Claude 3 Haiku,Programacion,Developer,5,1986,1170,0.00196,False,4.1
+CV600842,Claude 3 Opus,Atencion cliente,Developer,22,526,890,0.07464,False,5.0
+CV600843,Claude 3.5 Sonnet,Redaccion,Developer,5,536,318,0.00638,False,4.1
+CV600844,Claude 3.5 Sonnet,Atencion cliente,Developer,12,1298,1887,0.0322,False,4.5
+CV600845,Claude 3.5 Haiku,Programacion,Developer,22,914,1471,0.00662,False,3.8
+CV600846,Claude 3.5 Sonnet,Investigacion,Enterprise,27,299,161,0.00331,False,3.9
+CV600847,Claude 3 Haiku,Educacion,Investigacion,7,1227,771,0.00127,False,4.4
+CV600848,Claude 3.5 Sonnet,Programacion,Enterprise,10,305,488,0.00823,False,4.6
+CV600849,Claude 3.5 Haiku,Programacion,Developer,4,523,185,0.00116,False,3.5
+CV600850,Claude 3.5 Sonnet,Programacion,Investigacion,14,2372,1288,0.02644,False,4.6
+CV600851,Claude 3.5 Sonnet,Educacion,Enterprise,30,3280,3345,0.06002,False,4.0
+CV600852,Claude 3.5 Haiku,Programacion,Enterprise,10,443,830,0.00367,False,5.0
+CV600853,Claude 3.5 Haiku,Analisis,Enterprise,8,772,935,0.00436,False,4.2
+CV600854,Claude 3.5 Sonnet,Redaccion,Developer,12,985,884,0.01622,False,3.8
+CV600855,Claude 3 Opus,Educacion,Developer,27,3183,6242,0.5159,False,4.4
+CV600856,Claude 3 Haiku,Analisis,Enterprise,17,695,719,0.00107,False,3.9
+CV600857,Claude 3.5 Haiku,Analisis,Investigacion,19,703,689,0.00332,False,5.0
+CV600858,Claude 3.5 Sonnet,Contenido sensible,Enterprise,24,2714,2553,0.04644,True,3.2
+CV600859,Claude 3 Opus,Programacion,Developer,22,750,571,0.05408,False,4.3
+CV600860,Claude 3 Haiku,Educacion,Developer,18,1548,1217,0.00191,True,3.5
+CV600861,Claude 3 Haiku,Programacion,Enterprise,17,379,545,0.00078,False,3.9
+CV600862,Claude 3 Haiku,Analisis,Enterprise,16,856,234,0.00051,False,3.8
+CV600863,Claude 3 Opus,Investigacion,Investigacion,6,340,485,0.04148,False,4.6
+CV600864,Claude 3.5 Sonnet,Atencion cliente,Developer,13,488,274,0.00557,False,3.9
+CV600865,Claude 3.5 Haiku,Atencion cliente,Enterprise,26,1675,1493,0.00731,False,3.8
+CV600866,Claude 3.5 Haiku,Redaccion,Developer,2,927,429,0.00246,False,4.8
+CV600867,Claude 3 Haiku,Redaccion,Developer,25,778,929,0.00136,False,4.7
+CV600868,Claude 3.5 Sonnet,Redaccion,Enterprise,17,591,894,0.01518,False,3.8
+CV600869,Claude 3.5 Sonnet,Analisis,Developer,11,829,695,0.01291,False,4.1
+CV600870,Claude 3 Haiku,Analisis,Developer,4,1168,577,0.00101,False,3.9
+CV600871,Claude 3.5 Sonnet,Redaccion,Enterprise,23,1846,1121,0.02235,False,5.0
+CV600872,Claude 3.5 Haiku,Redaccion,Investigacion,1,202,337,0.00151,False,4.9
+CV600873,Claude 3.5 Sonnet,Redaccion,Enterprise,17,561,382,0.00741,False,4.2
+CV600874,Claude 3 Haiku,Redaccion,Enterprise,5,1063,1694,0.00238,False,4.7
+CV600875,Claude 3.5 Haiku,Programacion,Enterprise,28,897,714,0.00357,False,3.7
+CV600876,Claude 3.5 Sonnet,Investigacion,Developer,6,1250,674,0.01386,False,4.1
+CV600877,Claude 3.5 Sonnet,Atencion cliente,Developer,25,1142,1723,0.02927,False,4.5
+CV600878,Claude 3 Haiku,Programacion,Investigacion,18,785,819,0.00122,False,4.6
+CV600879,Claude 3 Opus,Atencion cliente,Enterprise,2,680,174,0.02325,False,4.4
+CV600880,Claude 3.5 Sonnet,Educacion,Developer,22,816,1573,0.02604,False,4.5
+CV600881,Claude 3 Haiku,Programacion,Developer,27,2066,962,0.00172,False,4.4
+CV600882,Claude 3.5 Haiku,Programacion,Enterprise,7,597,499,0.00247,False,4.3
+CV600883,Claude 3 Opus,Programacion,Enterprise,30,919,820,0.07529,False,4.3
+CV600884,Claude 3.5 Sonnet,Programacion,Developer,24,1080,1167,0.02074,False,4.2
+CV600885,Claude 3.5 Sonnet,Educacion,Enterprise,23,2736,4415,0.07443,False,4.5
+CV600886,Claude 3.5 Sonnet,Contenido sensible,Developer,11,787,166,0.00485,False,4.6
+CV600887,Claude 3.5 Sonnet,Programacion,Developer,4,1816,3411,0.05661,False,4.5
+CV600888,Claude 3.5 Sonnet,Educacion,Enterprise,13,2186,2979,0.05124,False,3.8
+CV600889,Claude 3 Haiku,Programacion,Investigacion,25,918,1754,0.00242,False,3.9
+CV600890,Claude 3.5 Sonnet,Analisis,Developer,18,834,1393,0.0234,False,4.6
+CV600891,Claude 3.5 Haiku,Educacion,Developer,20,773,1445,0.0064,False,5.0
+CV600892,Claude 3.5 Sonnet,Redaccion,Developer,24,810,1038,0.018,False,4.5
+CV600893,Claude 3.5 Sonnet,Programacion,Developer,11,1692,1426,0.02647,False,4.2
+CV600894,Claude 3 Haiku,Analisis,Developer,2,1115,1111,0.00167,False,4.5
+CV600895,Claude 3.5 Haiku,Contenido sensible,Enterprise,27,1118,1547,0.00708,False,3.8
+CV600896,Claude 3.5 Sonnet,Redaccion,Developer,19,468,453,0.0082,False,5.0
+CV600897,Claude 3.5 Sonnet,Programacion,Enterprise,17,516,782,0.01328,False,4.5
+CV600898,Claude 3.5 Sonnet,Programacion,Developer,18,4085,1492,0.03464,False,4.1
+CV600899,Claude 3 Opus,Analisis,Developer,26,852,1443,0.121,False,4.3
+CV600900,Claude 3 Opus,Analisis,Enterprise,24,581,329,0.03339,False,4.1
+CV600901,Claude 3.5 Sonnet,Educacion,Investigacion,21,2504,4755,0.07884,False,5.0
+CV600902,Claude 3.5 Sonnet,Educacion,Enterprise,24,1153,553,0.01175,False,4.3
+CV600903,Claude 3 Opus,Investigacion,Enterprise,9,1405,607,0.0666,False,4.5
+CV600904,Claude 3.5 Haiku,Educacion,Enterprise,22,875,1453,0.00651,False,4.7
+CV600905,Claude 3 Haiku,Redaccion,Developer,30,778,1302,0.00182,False,4.0
+CV600906,Claude 3 Opus,Analisis,Enterprise,8,857,1311,0.11118,False,4.5
+CV600907,Claude 3.5 Sonnet,Redaccion,Developer,18,401,773,0.0128,False,4.5
+CV600908,Claude 3.5 Sonnet,Redaccion,Developer,21,904,621,0.01203,False,3.6
+CV600909,Claude 3.5 Sonnet,Investigacion,Enterprise,16,1164,1964,0.03295,False,4.5
+CV600910,Claude 3 Haiku,Atencion cliente,Investigacion,30,3339,2783,0.00431,False,4.4
+CV600911,Claude 3.5 Haiku,Contenido sensible,Enterprise,13,1013,1182,0.00554,False,4.5
+CV600912,Claude 3.5 Haiku,Redaccion,Developer,7,235,235,0.00113,False,4.4
+CV600913,Claude 3.5 Haiku,Analisis,Enterprise,5,900,189,0.00148,False,4.5
+CV600914,Claude 3.5 Haiku,Analisis,Developer,26,6169,7612,0.03538,False,5.0
+CV600915,Claude 3.5 Haiku,Programacion,Investigacion,21,1706,2636,0.01191,False,3.8
+CV600916,Claude 3.5 Sonnet,Programacion,Enterprise,18,568,292,0.00608,False,4.2
+CV600917,Claude 3.5 Sonnet,Analisis,Enterprise,13,1418,2661,0.04417,False,4.7
+CV600918,Claude 3.5 Sonnet,Programacion,Enterprise,13,594,685,0.01206,False,4.6
+CV600919,Claude 3 Opus,Investigacion,Enterprise,29,408,212,0.02202,False,4.6
+CV600920,Claude 3.5 Sonnet,Programacion,Investigacion,21,763,1039,0.01787,False,5.0
+CV600921,Claude 3.5 Haiku,Programacion,Developer,29,1017,554,0.00303,False,4.7
+CV600922,Claude 3 Haiku,Educacion,Developer,25,302,94,0.00019,False,5.0
+CV600923,Claude 3 Opus,Programacion,Investigacion,24,461,660,0.05642,False,4.2
+CV600924,Claude 3.5 Sonnet,Investigacion,Investigacion,17,964,384,0.00865,False,3.9
+CV600925,Claude 3.5 Sonnet,Atencion cliente,Developer,8,734,287,0.00651,False,4.2
+CV600926,Claude 3.5 Sonnet,Programacion,Enterprise,20,1243,1904,0.03229,False,4.8
+CV600927,Claude 3.5 Haiku,Atencion cliente,Enterprise,22,443,132,0.00088,False,4.6
+CV600928,Claude 3 Opus,Atencion cliente,Enterprise,16,1540,2552,0.2145,False,4.6
+CV600929,Claude 3 Haiku,Educacion,Enterprise,1,452,738,0.00104,False,4.3
+CV600930,Claude 3.5 Sonnet,Educacion,Enterprise,29,2895,1315,0.02841,False,4.2
+CV600931,Claude 3.5 Sonnet,Atencion cliente,Enterprise,25,330,373,0.00659,False,4.3
+CV600932,Claude 3.5 Sonnet,Analisis,Enterprise,11,477,178,0.0041,False,4.8
+CV600933,Claude 3 Haiku,Redaccion,Developer,15,1262,1689,0.00243,False,4.8
+CV600934,Claude 3 Haiku,Atencion cliente,Enterprise,4,2938,920,0.00188,False,3.9
+CV600935,Claude 3.5 Sonnet,Contenido sensible,Enterprise,29,1179,2240,0.03714,True,3.6
+CV600936,Claude 3.5 Haiku,Analisis,Enterprise,7,1391,798,0.0043,False,4.1
+CV600937,Claude 3.5 Sonnet,Atencion cliente,Developer,12,968,1383,0.02365,False,4.6
+CV600938,Claude 3.5 Haiku,Redaccion,Developer,13,497,214,0.00125,True,3.1
+CV600939,Claude 3.5 Sonnet,Educacion,Developer,8,697,402,0.00812,False,5.0
+CV600940,Claude 3.5 Sonnet,Contenido sensible,Enterprise,20,444,449,0.00807,True,3.0
+CV600941,Claude 3.5 Haiku,Programacion,Enterprise,30,426,524,0.00244,False,4.5
+CV600942,Claude 3.5 Sonnet,Programacion,Enterprise,26,1249,2495,0.04117,False,4.7
+CV600943,Claude 3.5 Sonnet,Analisis,Enterprise,16,469,115,0.00313,False,4.0
+CV600944,Claude 3 Opus,Analisis,Enterprise,4,1182,237,0.0355,False,4.4
+CV600945,Claude 3.5 Sonnet,Analisis,Investigacion,26,420,348,0.00648,False,4.3
+CV600946,Claude 3 Haiku,Programacion,Enterprise,8,1164,999,0.00154,False,4.1
+CV600947,Claude 3.5 Haiku,Redaccion,Enterprise,28,697,1248,0.00555,False,4.2
+CV600948,Claude 3.5 Haiku,Analisis,Developer,12,2463,4538,0.02012,False,5.0
+CV600949,Claude 3.5 Sonnet,Analisis,Developer,16,1186,2116,0.0353,False,4.1
+CV600950,Claude 3 Opus,Atencion cliente,Enterprise,14,2192,1003,0.1081,False,4.7
+CV600951,Claude 3.5 Sonnet,Atencion cliente,Enterprise,14,589,554,0.01008,True,3.4
+CV600952,Claude 3.5 Sonnet,Atencion cliente,Investigacion,5,993,1531,0.02594,False,3.7
+CV600953,Claude 3.5 Sonnet,Educacion,Enterprise,17,511,389,0.00737,False,4.7
+CV600954,Claude 3.5 Haiku,Atencion cliente,Developer,13,732,1020,0.00467,False,3.7
+CV600955,Claude 3.5 Haiku,Analisis,Developer,26,807,505,0.00267,False,4.7
+CV600956,Claude 3 Haiku,Atencion cliente,Enterprise,15,600,469,0.00074,False,4.1
+CV600957,Claude 3 Opus,Programacion,Developer,29,443,774,0.0647,False,4.4
+CV600958,Claude 3 Opus,Redaccion,Enterprise,9,393,255,0.02502,False,3.8
+CV600959,Claude 3 Opus,Analisis,Enterprise,10,234,452,0.03741,False,4.5
+CV600960,Claude 3 Opus,Investigacion,Enterprise,2,488,366,0.03477,False,4.9
+CV600961,Claude 3 Opus,Atencion cliente,Investigacion,23,1453,352,0.0482,False,4.0
+CV600962,Claude 3.5 Sonnet,Programacion,Enterprise,3,353,232,0.00454,False,4.1
+CV600963,Claude 3.5 Sonnet,Analisis,Enterprise,9,404,205,0.00429,False,4.6
+CV600964,Claude 3.5 Haiku,Programacion,Investigacion,28,3205,3564,0.01682,False,4.6
+CV600965,Claude 3 Opus,Atencion cliente,Enterprise,19,635,255,0.02865,False,3.2
+CV600966,Claude 3.5 Haiku,Educacion,Investigacion,17,1184,1571,0.00723,False,5.0
+CV600967,Claude 3.5 Sonnet,Analisis,Developer,25,1467,2603,0.04345,False,4.7
+CV600968,Claude 3 Opus,Analisis,Developer,24,1487,1267,0.11733,False,4.7
+CV600969,Claude 3.5 Sonnet,Redaccion,Developer,27,369,185,0.00388,False,4.3
+CV600970,Claude 3.5 Sonnet,Analisis,Developer,20,823,757,0.01382,False,3.5
+CV600971,Claude 3.5 Sonnet,Investigacion,Enterprise,14,349,563,0.00949,True,3.5
+CV600972,Claude 3.5 Sonnet,Atencion cliente,Investigacion,4,5036,6368,0.11063,False,4.1
+CV600973,Claude 3.5 Haiku,Analisis,Investigacion,12,354,135,0.00082,False,4.7
+CV600974,Claude 3.5 Sonnet,Redaccion,Investigacion,22,491,572,0.01005,False,4.3
+CV600975,Claude 3 Haiku,Programacion,Developer,8,493,513,0.00076,True,3.3
+CV600976,Claude 3 Opus,Programacion,Developer,21,374,295,0.02774,False,4.0
+CV600977,Claude 3.5 Sonnet,Programacion,Developer,5,2374,945,0.0213,False,4.8
+CV600978,Claude 3 Opus,Redaccion,Enterprise,2,4953,9737,0.80457,False,3.8
+CV600979,Claude 3.5 Sonnet,Contenido sensible,Developer,11,703,363,0.00755,False,5.0
+CV600980,Claude 3.5 Haiku,Analisis,Developer,7,416,227,0.00124,False,5.0
+CV600981,Claude 3 Haiku,Programacion,Developer,27,247,114,0.0002,False,5.0
+CV600982,Claude 3 Haiku,Programacion,Enterprise,12,816,1000,0.00145,False,5.0
+CV600983,Claude 3 Opus,Redaccion,Developer,13,779,777,0.06996,False,4.4
+CV600984,Claude 3.5 Sonnet,Educacion,Developer,13,629,408,0.00801,False,5.0
+CV600985,Claude 3.5 Haiku,Redaccion,Developer,10,1108,1078,0.0052,False,4.4
+CV600986,Claude 3.5 Sonnet,Educacion,Investigacion,28,1243,1755,0.03005,False,3.6
+CV600987,Claude 3.5 Sonnet,Educacion,Developer,23,1185,837,0.01611,False,5.0
+CV600988,Claude 3.5 Sonnet,Programacion,Enterprise,5,779,1439,0.02392,False,5.0
+CV600989,Claude 3 Haiku,Atencion cliente,Enterprise,7,475,356,0.00056,False,4.4
+CV600990,Claude 3 Haiku,Contenido sensible,Developer,3,1490,829,0.00141,True,2.6
+CV600991,Claude 3 Haiku,Redaccion,Developer,8,965,1851,0.00256,False,4.1
+CV600992,Claude 3 Haiku,Programacion,Investigacion,20,1732,2873,0.00402,False,3.5
+CV600993,Claude 3.5 Sonnet,Investigacion,Enterprise,29,1620,1324,0.02472,True,3.7
+CV600994,Claude 3.5 Haiku,Investigacion,Enterprise,15,391,670,0.00299,False,3.6
+CV600995,Claude 3 Opus,Analisis,Enterprise,3,388,439,0.03874,False,4.5
+CV600996,Claude 3 Haiku,Analisis,Developer,2,589,485,0.00075,False,4.0
+CV600997,Claude 3.5 Sonnet,Programacion,Investigacion,13,488,835,0.01399,False,3.7
+CV600998,Claude 3.5 Haiku,Educacion,Investigacion,8,1583,2459,0.0111,False,4.5
+CV600999,Claude 3.5 Sonnet,Analisis,Developer,18,1208,889,0.01696,False,4.2
+CV601000,Claude 3.5 Sonnet,Programacion,Developer,4,1998,2581,0.04471,False,4.8
+CV601001,Claude 3 Opus,Atencion cliente,Enterprise,7,1245,1076,0.09938,False,3.8
+CV601002,Claude 3.5 Sonnet,Contenido sensible,Developer,17,1099,221,0.00661,False,4.0
+CV601003,Claude 3.5 Sonnet,Educacion,Investigacion,9,2139,4130,0.06837,False,3.2
+CV601004,Claude 3 Haiku,Redaccion,Enterprise,11,1307,1554,0.00227,False,3.3
+CV601005,Claude 3.5 Sonnet,Programacion,Investigacion,7,1001,1278,0.02217,False,5.0
+CV601006,Claude 3.5 Haiku,Contenido sensible,Enterprise,2,2590,3314,0.01533,True,4.2
+CV601007,Claude 3.5 Sonnet,Investigacion,Enterprise,11,1033,1230,0.02155,False,4.4
+CV601008,Claude 3 Haiku,Analisis,Developer,10,785,566,0.0009,False,4.0
+CV601009,Claude 3 Opus,Atencion cliente,Investigacion,27,559,1089,0.09006,False,4.3
+CV601010,Claude 3 Haiku,Analisis,Enterprise,27,1528,2015,0.0029,False,4.8
+CV601011,Claude 3 Opus,Redaccion,Developer,13,2194,3088,0.26451,False,4.1
+CV601012,Claude 3 Opus,Programacion,Enterprise,9,926,943,0.08462,False,4.5
+CV601013,Claude 3.5 Haiku,Programacion,Developer,13,2302,1653,0.00845,False,4.4
+CV601014,Claude 3.5 Sonnet,Programacion,Developer,19,286,90,0.00221,False,4.1
+CV601015,Claude 3.5 Sonnet,Educacion,Enterprise,12,923,766,0.01426,False,4.1
+CV601016,Claude 3 Haiku,Programacion,Developer,23,932,481,0.00083,False,4.5
+CV601017,Claude 3.5 Haiku,Programacion,Developer,29,599,833,0.00381,False,3.9
+CV601018,Claude 3.5 Sonnet,Analisis,Developer,13,4823,8595,0.14339,False,4.6
+CV601019,Claude 3 Opus,Programacion,Enterprise,4,917,683,0.06498,False,4.2
+CV601020,Claude 3.5 Haiku,Programacion,Enterprise,4,734,586,0.00293,False,4.5
+CV601021,Claude 3 Haiku,Analisis,Investigacion,27,974,1370,0.00196,False,5.0
+CV601022,Claude 3.5 Haiku,Redaccion,Developer,13,280,131,0.00075,False,4.3
+CV601023,Claude 3 Opus,Atencion cliente,Developer,10,587,1099,0.09123,False,4.9
+CV601024,Claude 3 Haiku,Investigacion,Developer,19,1846,1578,0.00243,True,2.3
+CV601025,Claude 3.5 Sonnet,Programacion,Investigacion,29,638,243,0.00556,False,4.2
+CV601026,Claude 3.5 Haiku,Investigacion,Enterprise,13,562,289,0.00161,False,4.4
+CV601027,Claude 3.5 Sonnet,Investigacion,Developer,10,2305,4330,0.07186,False,5.0
+CV601028,Claude 3 Haiku,Educacion,Developer,26,2354,1517,0.00248,False,3.4
+CV601029,Claude 3.5 Sonnet,Atencion cliente,Enterprise,3,1349,1877,0.0322,False,4.4
+CV601030,Claude 3 Opus,Atencion cliente,Enterprise,26,712,342,0.03633,False,5.0
+CV601031,Claude 3 Haiku,Atencion cliente,Developer,16,819,449,0.00077,False,4.0
+CV601032,Claude 3 Opus,Atencion cliente,Investigacion,1,571,1017,0.08484,False,4.3
+CV601033,Claude 3.5 Haiku,Programacion,Developer,7,507,236,0.00135,False,4.6
+CV601034,Claude 3.5 Sonnet,Contenido sensible,Enterprise,21,492,115,0.0032,True,3.3
+CV601035,Claude 3 Haiku,Analisis,Investigacion,23,642,707,0.00104,False,5.0
+CV601036,Claude 3.5 Sonnet,Educacion,Enterprise,6,495,867,0.01449,False,4.6
+CV601037,Claude 3.5 Sonnet,Redaccion,Enterprise,20,360,283,0.00532,False,5.0
+CV601038,Claude 3 Opus,Programacion,Investigacion,30,1106,476,0.05229,False,4.2
+CV601039,Claude 3.5 Sonnet,Analisis,Developer,21,1118,2200,0.03635,False,4.0
+CV601040,Claude 3.5 Sonnet,Analisis,Investigacion,22,3012,4271,0.0731,False,4.3
+CV601041,Claude 3 Haiku,Redaccion,Developer,6,622,1076,0.0015,False,3.8
+CV601042,Claude 3 Haiku,Redaccion,Developer,20,1164,1808,0.00255,False,4.6
+CV601043,Claude 3 Haiku,Redaccion,Enterprise,22,1177,1714,0.00244,False,4.2
+CV601044,Claude 3.5 Sonnet,Analisis,Enterprise,4,811,723,0.01328,False,4.1
+CV601045,Claude 3.5 Sonnet,Redaccion,Investigacion,10,1571,1231,0.02318,False,4.6
+CV601046,Claude 3.5 Sonnet,Contenido sensible,Investigacion,27,1604,2390,0.04066,True,2.6
+CV601047,Claude 3 Haiku,Programacion,Enterprise,30,1189,1771,0.00251,False,4.8
+CV601048,Claude 3.5 Haiku,Redaccion,Enterprise,6,810,1547,0.00684,False,4.2
+CV601049,Claude 3.5 Sonnet,Redaccion,Enterprise,22,759,928,0.0162,False,5.0
+CV601050,Claude 3 Haiku,Analisis,Enterprise,16,404,295,0.00047,False,4.2
+CV601051,Claude 3.5 Sonnet,Analisis,Investigacion,18,570,616,0.01095,False,4.7
+CV601052,Claude 3.5 Sonnet,Atencion cliente,Enterprise,16,640,834,0.01443,False,4.5
+CV601053,Claude 3.5 Sonnet,Contenido sensible,Developer,27,468,453,0.0082,False,4.8
+CV601054,Claude 3.5 Sonnet,Redaccion,Investigacion,14,1281,2080,0.03504,False,4.5
+CV601055,Claude 3 Haiku,Atencion cliente,Developer,18,2134,2672,0.00387,False,3.6
+CV601056,Claude 3.5 Haiku,Programacion,Developer,21,535,116,0.00089,False,4.9
+CV601057,Claude 3.5 Sonnet,Redaccion,Enterprise,17,1154,1414,0.02467,False,4.4
+CV601058,Claude 3 Opus,Analisis,Enterprise,27,495,663,0.05715,False,4.8
+CV601059,Claude 3 Haiku,Programacion,Enterprise,8,785,1450,0.00201,False,4.7
+CV601060,Claude 3.5 Haiku,Atencion cliente,Enterprise,29,613,579,0.00281,False,4.0
+CV601061,Claude 3 Haiku,Atencion cliente,Enterprise,21,1428,1762,0.00256,False,3.9
+CV601062,Claude 3.5 Sonnet,Educacion,Enterprise,29,618,651,0.01162,True,3.5
+CV601063,Claude 3 Haiku,Analisis,Enterprise,12,1882,2177,0.00319,False,4.2
+CV601064,Claude 3.5 Sonnet,Atencion cliente,Enterprise,15,815,261,0.00636,False,4.9
+CV601065,Claude 3.5 Haiku,Redaccion,Investigacion,2,629,1141,0.00507,False,4.3
+CV601066,Claude 3.5 Sonnet,Programacion,Enterprise,28,433,796,0.01324,False,4.9
+CV601067,Claude 3 Haiku,Programacion,Enterprise,25,1131,1341,0.00196,False,4.6
+CV601068,Claude 3.5 Sonnet,Atencion cliente,Investigacion,9,1740,2091,0.03658,False,4.5
+CV601069,Claude 3.5 Sonnet,Contenido sensible,Enterprise,2,1147,348,0.00866,False,4.2
+CV601070,Claude 3.5 Haiku,Programacion,Developer,21,4363,5568,0.02576,False,4.5
+CV601071,Claude 3 Haiku,Analisis,Investigacion,21,2502,2433,0.00367,False,5.0
+CV601072,Claude 3 Opus,Educacion,Developer,16,783,1155,0.09837,False,4.4
+CV601073,Claude 3.5 Haiku,Educacion,Enterprise,5,778,221,0.00151,False,4.7
+CV601074,Claude 3.5 Haiku,Analisis,Developer,28,1307,1933,0.00878,False,4.4
+CV601075,Claude 3.5 Sonnet,Atencion cliente,Developer,13,559,400,0.00768,False,4.5
+CV601076,Claude 3 Opus,Atencion cliente,Enterprise,22,2091,2871,0.24669,False,5.0
+CV601077,Claude 3 Opus,Educacion,Enterprise,26,1216,1615,0.13936,False,5.0
+CV601078,Claude 3 Haiku,Programacion,Enterprise,17,1134,689,0.00114,False,4.4
+CV601079,Claude 3.5 Sonnet,Investigacion,Investigacion,3,1512,1501,0.02705,False,4.5
+CV601080,Claude 3.5 Sonnet,Programacion,Enterprise,27,3058,5211,0.08734,False,4.0
+CV601081,Claude 3.5 Haiku,Educacion,Enterprise,21,1071,1381,0.00638,False,4.3
+CV601082,Claude 3.5 Haiku,Programacion,Developer,27,889,287,0.00186,False,4.6
+CV601083,Claude 3.5 Haiku,Programacion,Investigacion,19,2641,2633,0.01264,False,4.8
+CV601084,Claude 3.5 Haiku,Programacion,Enterprise,28,1827,1390,0.00702,True,3.6
+CV601085,Claude 3 Haiku,Analisis,Enterprise,27,777,1052,0.00151,False,3.8
+CV601086,Claude 3 Haiku,Redaccion,Developer,7,961,1255,0.00181,False,4.9
+CV601087,Claude 3 Haiku,Programacion,Developer,6,1089,238,0.00057,False,4.4
+CV601088,Claude 3 Opus,Analisis,Developer,5,1216,1573,0.13622,False,3.9
+CV601089,Claude 3 Opus,Redaccion,Investigacion,24,407,619,0.05253,False,5.0
+CV601090,Claude 3.5 Sonnet,Educacion,Enterprise,8,364,576,0.00973,False,5.0
+CV601091,Claude 3 Haiku,Investigacion,Enterprise,14,542,165,0.00034,False,4.5
+CV601092,Claude 3.5 Sonnet,Atencion cliente,Enterprise,24,516,385,0.00732,False,4.8
+CV601093,Claude 3.5 Sonnet,Programacion,Enterprise,13,632,605,0.01097,False,4.8
+CV601094,Claude 3 Opus,Redaccion,Developer,2,1460,764,0.0792,False,5.0
+CV601095,Claude 3.5 Sonnet,Investigacion,Developer,11,857,820,0.01487,False,4.8
+CV601096,Claude 3.5 Sonnet,Programacion,Enterprise,3,1090,357,0.00863,False,3.7
+CV601097,Claude 3 Haiku,Redaccion,Developer,12,441,178,0.00033,False,5.0
+CV601098,Claude 3.5 Haiku,Contenido sensible,Enterprise,23,709,995,0.00455,False,4.9
+CV601099,Claude 3.5 Sonnet,Contenido sensible,Developer,16,1414,951,0.01851,True,2.9
+CV601100,Claude 3.5 Sonnet,Redaccion,Enterprise,21,1421,2103,0.03581,False,3.9
+CV601101,Claude 3.5 Sonnet,Atencion cliente,Developer,4,600,171,0.00436,False,4.7
+CV601102,Claude 3 Haiku,Analisis,Enterprise,23,1065,1291,0.00188,False,4.3
+CV601103,Claude 3.5 Haiku,Educacion,Investigacion,13,4244,3839,0.01875,False,4.6
+CV601104,Claude 3.5 Sonnet,Programacion,Investigacion,9,946,1546,0.02603,False,4.8
+CV601105,Claude 3 Haiku,Programacion,Investigacion,20,612,986,0.00139,False,4.1
+CV601106,Claude 3.5 Sonnet,Atencion cliente,Investigacion,5,855,748,0.01378,False,3.8
+CV601107,Claude 3.5 Sonnet,Programacion,Enterprise,15,1017,1343,0.0232,False,4.6
+CV601108,Claude 3.5 Haiku,Atencion cliente,Developer,13,867,528,0.00281,False,4.1
+CV601109,Claude 3.5 Sonnet,Redaccion,Enterprise,5,938,1167,0.02032,False,4.5
+CV601110,Claude 3.5 Sonnet,Investigacion,Investigacion,29,386,133,0.00315,False,3.7
+CV601111,Claude 3 Opus,Educacion,Enterprise,11,517,507,0.04578,False,4.3
+CV601112,Claude 3 Haiku,Analisis,Enterprise,2,868,459,0.00079,False,4.8
+CV601113,Claude 3.5 Haiku,Educacion,Developer,14,859,1537,0.00684,False,4.7
+CV601114,Claude 3.5 Haiku,Redaccion,Enterprise,29,664,664,0.00319,False,4.0
+CV601115,Claude 3.5 Sonnet,Analisis,Developer,21,853,1077,0.01871,False,3.8
+CV601116,Claude 3.5 Sonnet,Programacion,Enterprise,20,997,846,0.01568,False,4.4
+CV601117,Claude 3 Haiku,Investigacion,Developer,28,1733,1247,0.00199,False,4.7
+CV601118,Claude 3.5 Sonnet,Educacion,Investigacion,3,897,507,0.0103,False,4.6
+CV601119,Claude 3.5 Haiku,Investigacion,Developer,17,1247,2296,0.01018,False,4.1
+CV601120,Claude 3 Haiku,Investigacion,Enterprise,10,674,1104,0.00155,False,4.5
+CV601121,Claude 3.5 Sonnet,Contenido sensible,Enterprise,21,1400,615,0.01342,True,4.0
+CV601122,Claude 3.5 Haiku,Programacion,Enterprise,26,1227,1894,0.00856,False,4.5
+CV601123,Claude 3.5 Sonnet,Investigacion,Enterprise,3,1705,1625,0.02949,False,3.6
+CV601124,Claude 3 Opus,Analisis,Developer,5,1539,350,0.04934,False,4.5
+CV601125,Claude 3 Opus,Redaccion,Enterprise,29,1415,1628,0.14332,False,5.0
+CV601126,Claude 3 Opus,Analisis,Enterprise,15,898,389,0.04264,False,3.8
+CV601127,Claude 3 Haiku,Redaccion,Enterprise,10,1125,650,0.00109,False,4.4
+CV601128,Claude 3 Haiku,Redaccion,Investigacion,5,1950,2833,0.00403,False,4.3
+CV601129,Claude 3.5 Haiku,Redaccion,Enterprise,11,628,416,0.00217,False,4.4
+CV601130,Claude 3.5 Haiku,Programacion,Enterprise,1,638,1151,0.00511,False,4.5
+CV601131,Claude 3 Opus,Analisis,Developer,7,1079,1492,0.12808,False,5.0
+CV601132,Claude 3.5 Sonnet,Investigacion,Enterprise,6,1260,2139,0.03586,True,3.2
+CV601133,Claude 3 Haiku,Atencion cliente,Investigacion,3,564,737,0.00106,False,5.0
+CV601134,Claude 3.5 Haiku,Analisis,Enterprise,30,912,1608,0.00716,False,4.3
+CV601135,Claude 3.5 Sonnet,Redaccion,Developer,24,900,765,0.01418,False,4.2
+CV601136,Claude 3 Opus,Analisis,Developer,29,250,297,0.02602,False,4.1
+CV601137,Claude 3 Opus,Programacion,Developer,8,829,935,0.08256,False,3.5
+CV601138,Claude 3.5 Sonnet,Educacion,Developer,9,864,1578,0.02626,True,3.3
+CV601139,Claude 3 Haiku,Programacion,Developer,9,862,428,0.00075,False,5.0
+CV601140,Claude 3.5 Sonnet,Atencion cliente,Developer,17,2479,3075,0.05356,False,4.6
+CV601141,Claude 3 Haiku,Educacion,Developer,6,443,690,0.00097,False,4.7
+CV601142,Claude 3.5 Haiku,Analisis,Developer,8,564,488,0.0024,False,4.2
+CV601143,Claude 3.5 Haiku,Investigacion,Developer,30,204,359,0.0016,False,4.3
+CV601144,Claude 3.5 Sonnet,Redaccion,Developer,11,701,610,0.01125,False,4.9
+CV601145,Claude 3.5 Sonnet,Investigacion,Enterprise,24,740,378,0.00789,False,5.0
+CV601146,Claude 3 Haiku,Atencion cliente,Enterprise,7,688,860,0.00125,False,5.0
+CV601147,Claude 3 Haiku,Educacion,Enterprise,28,2009,1922,0.0029,False,4.8
+CV601148,Claude 3 Opus,Atencion cliente,Enterprise,21,1699,386,0.05444,False,4.4
+CV601149,Claude 3.5 Haiku,Educacion,Developer,26,1008,328,0.00212,False,4.5
+CV601150,Claude 3.5 Sonnet,Contenido sensible,Enterprise,16,752,414,0.00847,True,2.8
+CV601151,Claude 3.5 Haiku,Redaccion,Developer,28,1901,3012,0.01357,False,3.7
+CV601152,Claude 3.5 Sonnet,Educacion,Developer,11,945,1706,0.02843,False,3.8
+CV601153,Claude 3.5 Sonnet,Educacion,Developer,15,566,669,0.01173,False,4.4
+CV601154,Claude 3 Opus,Analisis,Developer,2,330,128,0.01455,False,4.3
+CV601155,Claude 3.5 Sonnet,Investigacion,Enterprise,6,719,835,0.01468,False,3.7
+CV601156,Claude 3.5 Sonnet,Redaccion,Enterprise,24,1582,2752,0.04603,False,4.4
+CV601157,Claude 3.5 Sonnet,Analisis,Developer,10,4478,6936,0.11747,False,4.2
+CV601158,Claude 3 Opus,Programacion,Developer,4,997,721,0.06903,False,3.8
+CV601159,Claude 3 Haiku,Programacion,Developer,9,585,247,0.00046,False,4.2
+CV601160,Claude 3.5 Sonnet,Educacion,Developer,11,451,821,0.01367,False,4.2
+CV601161,Claude 3 Haiku,Redaccion,Developer,22,1381,2399,0.00334,False,4.1
+CV601162,Claude 3.5 Haiku,Redaccion,Developer,3,321,95,0.00064,False,4.9
+CV601163,Claude 3.5 Sonnet,Redaccion,Developer,1,1379,2320,0.03894,False,3.4
+CV601164,Claude 3.5 Sonnet,Analisis,Developer,22,1651,619,0.01424,False,3.4
+CV601165,Claude 3.5 Haiku,Educacion,Enterprise,5,1278,401,0.00263,True,3.2
+CV601166,Claude 3.5 Haiku,Investigacion,Enterprise,13,829,1297,0.00585,False,4.4
+CV601167,Claude 3 Opus,Programacion,Enterprise,21,1393,1623,0.14262,False,4.6
+CV601168,Claude 3 Haiku,Analisis,Developer,16,1071,1013,0.00153,False,4.1
+CV601169,Claude 3.5 Sonnet,Analisis,Developer,4,580,1059,0.01762,False,3.9
+CV601170,Claude 3.5 Sonnet,Atencion cliente,Enterprise,22,3338,5710,0.09566,False,4.4
+CV601171,Claude 3 Haiku,Analisis,Enterprise,2,761,231,0.00048,False,4.2
+CV601172,Claude 3.5 Sonnet,Redaccion,Developer,7,1605,2100,0.03632,False,5.0
+CV601173,Claude 3 Haiku,Analisis,Enterprise,4,225,357,0.0005,False,4.2
+CV601174,Claude 3 Opus,Analisis,Investigacion,16,2254,2684,0.23511,False,4.4
+CV601175,Claude 3 Haiku,Analisis,Enterprise,21,2570,5061,0.00697,False,5.0
+CV601176,Claude 3 Opus,Analisis,Enterprise,20,976,1400,0.11964,False,4.3
+CV601177,Claude 3.5 Sonnet,Educacion,Developer,5,1387,537,0.01222,False,4.7
+CV601178,Claude 3.5 Sonnet,Educacion,Enterprise,11,1387,772,0.01574,False,4.7
+CV601179,Claude 3.5 Sonnet,Redaccion,Enterprise,5,632,1066,0.01789,False,4.8
+CV601180,Claude 3 Haiku,Educacion,Enterprise,11,1376,2743,0.00377,False,4.5
+CV601181,Claude 3.5 Sonnet,Educacion,Enterprise,7,569,214,0.00492,False,4.5
+CV601182,Claude 3.5 Sonnet,Programacion,Enterprise,23,646,245,0.00561,False,4.5
+CV601183,Claude 3.5 Sonnet,Analisis,Developer,23,2036,3204,0.05417,False,4.1
+CV601184,Claude 3.5 Sonnet,Redaccion,Enterprise,25,1836,579,0.01419,False,4.6
+CV601185,Claude 3.5 Haiku,Atencion cliente,Enterprise,7,607,196,0.00127,False,5.0
+CV601186,Claude 3.5 Sonnet,Programacion,Enterprise,1,597,1074,0.0179,False,5.0
+CV601187,Claude 3.5 Haiku,Atencion cliente,Investigacion,2,631,1035,0.00464,False,4.6
+CV601188,Claude 3.5 Sonnet,Redaccion,Developer,26,1559,2785,0.04645,False,4.8
+CV601189,Claude 3 Haiku,Analisis,Investigacion,28,505,692,0.00099,False,4.0
+CV601190,Claude 3 Opus,Contenido sensible,Investigacion,7,1212,946,0.08913,True,3.1
+CV601191,Claude 3.5 Sonnet,Redaccion,Enterprise,27,1574,2882,0.04795,False,4.9
+CV601192,Claude 3.5 Haiku,Investigacion,Developer,16,904,666,0.00339,False,5.0
+CV601193,Claude 3.5 Haiku,Contenido sensible,Enterprise,6,1880,1308,0.00674,True,2.8
+CV601194,Claude 3.5 Haiku,Investigacion,Investigacion,10,785,1409,0.00626,False,4.2
+CV601195,Claude 3.5 Sonnet,Programacion,Developer,8,833,1187,0.0203,False,5.0
+CV601196,Claude 3.5 Sonnet,Educacion,Enterprise,23,513,929,0.01547,False,4.4
+CV601197,Claude 3 Haiku,Programacion,Investigacion,6,1889,907,0.00161,False,5.0
+CV601198,Claude 3.5 Sonnet,Redaccion,Investigacion,6,585,1119,0.01854,False,4.5
+CV601199,Claude 3 Haiku,Investigacion,Investigacion,22,1206,1571,0.00227,False,4.5
+CV601200,Claude 3 Opus,Atencion cliente,Enterprise,10,914,1281,0.10978,False,4.2
+CV601201,Claude 3 Opus,Analisis,Enterprise,8,489,902,0.07498,False,4.9
+CV601202,Claude 3.5 Haiku,Redaccion,Enterprise,25,646,571,0.0028,False,5.0
+CV601203,Claude 3 Haiku,Educacion,Developer,28,2423,3622,0.00513,False,3.9
+CV601204,Claude 3.5 Sonnet,Atencion cliente,Developer,17,1093,1478,0.02545,False,4.2
+CV601205,Claude 3.5 Sonnet,Analisis,Enterprise,25,503,813,0.0137,False,4.9
+CV601206,Claude 3 Haiku,Investigacion,Developer,26,1171,2124,0.00295,False,4.3
+CV601207,Claude 3 Opus,Programacion,Enterprise,18,870,1238,0.1059,False,4.2
+CV601208,Claude 3.5 Sonnet,Programacion,Developer,25,10135,3260,0.0793,False,4.9
+CV601209,Claude 3.5 Sonnet,Atencion cliente,Investigacion,1,1156,612,0.01265,False,5.0
+CV601210,Claude 3 Haiku,Contenido sensible,Developer,2,747,1432,0.00198,True,3.0
+CV601211,Claude 3.5 Haiku,Redaccion,Enterprise,27,2486,4831,0.02131,False,4.5
+CV601212,Claude 3 Opus,Redaccion,Enterprise,5,307,595,0.04923,False,3.8
+CV601213,Claude 3.5 Sonnet,Programacion,Enterprise,22,1019,271,0.00712,False,4.0
+CV601214,Claude 3.5 Sonnet,Investigacion,Developer,13,3686,3274,0.06017,False,4.5
+CV601215,Claude 3 Opus,Programacion,Developer,24,887,1390,0.11756,False,4.4
+CV601216,Claude 3.5 Sonnet,Analisis,Enterprise,20,326,506,0.00857,False,3.9
+CV601217,Claude 3 Opus,Contenido sensible,Investigacion,3,740,262,0.03075,False,4.0
+CV601218,Claude 3 Haiku,Programacion,Developer,11,2545,3301,0.00476,False,3.9
+CV601219,Claude 3.5 Sonnet,Analisis,Investigacion,22,1228,561,0.0121,False,4.6
+CV601220,Claude 3.5 Sonnet,Analisis,Developer,28,559,608,0.0108,False,3.4
+CV601221,Claude 3.5 Sonnet,Educacion,Investigacion,25,615,388,0.00766,False,3.9
+CV601222,Claude 3.5 Haiku,Redaccion,Enterprise,27,666,196,0.00132,False,3.5
+CV601223,Claude 3 Haiku,Redaccion,Enterprise,29,1216,418,0.00083,False,4.6
+CV601224,Claude 3.5 Sonnet,Programacion,Investigacion,27,2350,4323,0.0719,False,3.5
+CV601225,Claude 3.5 Haiku,Educacion,Investigacion,18,1935,2980,0.01347,False,4.4
+CV601226,Claude 3 Opus,Educacion,Developer,11,1295,2431,0.20175,True,4.0
+CV601227,Claude 3 Opus,Programacion,Enterprise,16,413,431,0.03852,False,5.0
+CV601228,Claude 3.5 Haiku,Redaccion,Enterprise,24,414,390,0.00189,False,3.5
+CV601229,Claude 3.5 Sonnet,Investigacion,Developer,13,1364,1152,0.02137,False,4.5
+CV601230,Claude 3.5 Sonnet,Programacion,Investigacion,25,410,536,0.00927,False,3.9
+CV601231,Claude 3 Opus,Redaccion,Enterprise,22,826,687,0.06392,False,3.8
+CV601232,Claude 3.5 Sonnet,Analisis,Enterprise,7,1170,1805,0.03058,False,4.3
+CV601233,Claude 3 Haiku,Redaccion,Developer,28,464,762,0.00107,False,5.0
+CV601234,Claude 3.5 Sonnet,Redaccion,Developer,26,498,884,0.01475,False,4.7
+CV601235,Claude 3.5 Sonnet,Analisis,Developer,18,900,573,0.0113,False,4.0
+CV601236,Claude 3.5 Sonnet,Programacion,Developer,6,1337,1535,0.02704,False,4.8
+CV601237,Claude 3 Opus,Analisis,Investigacion,7,1947,1172,0.1171,False,3.3
+CV601238,Claude 3.5 Sonnet,Atencion cliente,Enterprise,26,1433,383,0.01004,False,4.0
+CV601239,Claude 3.5 Sonnet,Analisis,Developer,1,1005,1481,0.02523,False,4.0
+CV601240,Claude 3.5 Haiku,Programacion,Developer,15,592,703,0.00329,False,4.4
+CV601241,Claude 3.5 Sonnet,Educacion,Developer,19,484,727,0.01236,False,4.3
+CV601242,Claude 3.5 Sonnet,Programacion,Investigacion,7,687,245,0.00574,False,4.3
+CV601243,Claude 3.5 Sonnet,Educacion,Developer,26,1256,2501,0.04128,False,4.3
+CV601244,Claude 3.5 Sonnet,Redaccion,Developer,16,1196,2379,0.03927,False,4.4
+CV601245,Claude 3.5 Sonnet,Educacion,Enterprise,2,266,275,0.00492,False,4.7
+CV601246,Claude 3 Haiku,Programacion,Developer,10,578,1016,0.00141,False,4.5
+CV601247,Claude 3.5 Sonnet,Programacion,Enterprise,12,2146,1370,0.02699,False,4.3
+CV601248,Claude 3.5 Haiku,Analisis,Enterprise,7,1009,1541,0.00697,False,4.6
+CV601249,Claude 3.5 Haiku,Programacion,Developer,29,392,698,0.00311,False,4.8
+CV601250,Claude 3.5 Sonnet,Programacion,Developer,11,4730,7882,0.13242,False,4.1
+CV601251,Claude 3.5 Sonnet,Atencion cliente,Investigacion,16,939,1559,0.0262,False,4.4
+CV601252,Claude 3.5 Sonnet,Educacion,Developer,17,1235,1276,0.02284,False,5.0
+CV601253,Claude 3 Haiku,Programacion,Investigacion,7,1247,2089,0.00292,False,3.8
+CV601254,Claude 3.5 Sonnet,Investigacion,Enterprise,18,754,1088,0.01858,False,5.0
+CV601255,Claude 3.5 Haiku,Educacion,Developer,11,599,262,0.00153,False,3.7
+CV601256,Claude 3 Haiku,Investigacion,Investigacion,1,4024,1631,0.00304,False,4.2
+CV601257,Claude 3 Haiku,Atencion cliente,Developer,13,1872,2975,0.00419,False,3.9
+CV601258,Claude 3 Opus,Atencion cliente,Developer,18,1656,2195,0.18946,False,5.0
+CV601259,Claude 3.5 Haiku,Analisis,Developer,4,1403,1592,0.00749,False,4.1
+CV601260,Claude 3.5 Sonnet,Atencion cliente,Enterprise,24,504,923,0.01536,False,4.1
+CV601261,Claude 3.5 Sonnet,Investigacion,Developer,20,2255,3128,0.05368,False,4.2
+CV601262,Claude 3.5 Sonnet,Programacion,Enterprise,10,557,508,0.00929,False,4.4
+CV601263,Claude 3.5 Haiku,Redaccion,Enterprise,18,1154,1090,0.00528,False,4.2
+CV601264,Claude 3 Opus,Programacion,Enterprise,10,344,443,0.03838,False,4.3
+CV601265,Claude 3 Haiku,Contenido sensible,Enterprise,20,275,431,0.00061,False,2.6
+CV601266,Claude 3.5 Sonnet,Analisis,Enterprise,5,1181,1435,0.02507,False,4.4
+CV601267,Claude 3.5 Haiku,Atencion cliente,Investigacion,19,569,634,0.00299,False,4.4
+CV601268,Claude 3 Opus,Educacion,Enterprise,2,283,426,0.0362,False,4.9
+CV601269,Claude 3 Opus,Contenido sensible,Investigacion,1,1370,2013,0.17152,True,3.9
+CV601270,Claude 3.5 Haiku,Programacion,Developer,8,4020,6812,0.03046,False,4.3
+CV601271,Claude 3.5 Sonnet,Educacion,Enterprise,6,2434,760,0.0187,False,4.8
+CV601272,Claude 3.5 Sonnet,Investigacion,Enterprise,15,809,1261,0.02134,False,3.8
+CV601273,Claude 3 Opus,Programacion,Investigacion,5,963,1083,0.09567,False,4.8
+CV601274,Claude 3.5 Sonnet,Educacion,Developer,8,1731,578,0.01386,False,4.1
+CV601275,Claude 3.5 Sonnet,Redaccion,Investigacion,3,2029,2885,0.04936,False,3.8
+CV601276,Claude 3.5 Sonnet,Atencion cliente,Enterprise,27,765,1139,0.01938,False,4.3
+CV601277,Claude 3.5 Sonnet,Analisis,Developer,23,979,1118,0.01971,False,5.0
+CV601278,Claude 3.5 Haiku,Redaccion,Developer,7,1168,1902,0.00854,False,4.5
+CV601279,Claude 3 Opus,Programacion,Investigacion,4,1383,1024,0.09754,False,5.0
+CV601280,Claude 3.5 Sonnet,Programacion,Enterprise,26,877,494,0.01004,False,4.0
+CV601281,Claude 3.5 Sonnet,Programacion,Investigacion,21,885,735,0.01368,False,4.9
+CV601282,Claude 3 Opus,Atencion cliente,Enterprise,27,2418,2268,0.20637,False,4.1
+CV601283,Claude 3 Haiku,Redaccion,Investigacion,6,2153,3127,0.00445,False,4.5
+CV601284,Claude 3.5 Haiku,Programacion,Developer,11,1314,2262,0.0101,False,4.5
+CV601285,Claude 3.5 Haiku,Atencion cliente,Developer,4,3051,4569,0.02072,False,4.7
+CV601286,Claude 3.5 Sonnet,Atencion cliente,Enterprise,13,745,382,0.00796,False,4.5
+CV601287,Claude 3.5 Sonnet,Analisis,Investigacion,5,2856,2453,0.04536,False,4.0
+CV601288,Claude 3 Opus,Investigacion,Enterprise,1,1372,665,0.07046,False,4.8
+CV601289,Claude 3 Opus,Redaccion,Developer,16,8923,12814,1.0949,False,5.0
+CV601290,Claude 3 Opus,Educacion,Developer,30,449,290,0.02848,False,4.1
+CV601291,Claude 3 Haiku,Programacion,Developer,20,614,703,0.00103,False,3.5
+CV601292,Claude 3 Opus,Atencion cliente,Developer,23,1263,2052,0.17284,False,4.6
+CV601293,Claude 3.5 Sonnet,Contenido sensible,Developer,25,1245,1752,0.03002,True,3.0
+CV601294,Claude 3.5 Sonnet,Educacion,Developer,30,3576,2635,0.05025,False,4.3
+CV601295,Claude 3.5 Sonnet,Analisis,Developer,4,622,497,0.00932,False,4.7
+CV601296,Claude 3.5 Sonnet,Atencion cliente,Developer,8,1751,2409,0.04139,False,4.2
+CV601297,Claude 3.5 Sonnet,Redaccion,Developer,19,2085,2479,0.04344,False,4.3
+CV601298,Claude 3 Haiku,Atencion cliente,Investigacion,25,1530,571,0.0011,False,4.3
+CV601299,Claude 3.5 Sonnet,Educacion,Developer,24,518,918,0.01532,False,5.0
+CV601300,Claude 3.5 Sonnet,Contenido sensible,Enterprise,22,2465,2767,0.0489,False,4.4
+CV601301,Claude 3 Opus,Analisis,Developer,10,2182,2295,0.20486,False,3.8
+CV601302,Claude 3 Haiku,Programacion,Enterprise,11,1426,794,0.00135,False,3.8
+CV601303,Claude 3.5 Sonnet,Analisis,Enterprise,3,1095,962,0.01772,False,4.5
+CV601304,Claude 3.5 Haiku,Programacion,Developer,10,1111,887,0.00444,False,3.8
+CV601305,Claude 3.5 Haiku,Redaccion,Developer,5,909,624,0.00322,False,3.6
+CV601306,Claude 3 Opus,Redaccion,Developer,29,1466,1790,0.15624,False,4.7
+CV601307,Claude 3 Haiku,Atencion cliente,Investigacion,3,977,1008,0.0015,False,4.7
+CV601308,Claude 3.5 Sonnet,Programacion,Enterprise,11,555,999,0.01665,False,4.2
+CV601309,Claude 3.5 Haiku,Programacion,Enterprise,27,490,928,0.0041,False,4.5
+CV601310,Claude 3.5 Sonnet,Programacion,Enterprise,29,590,351,0.00704,False,4.5
+CV601311,Claude 3.5 Haiku,Investigacion,Enterprise,12,1108,421,0.00257,False,4.7
+CV601312,Claude 3 Opus,Atencion cliente,Developer,14,941,1518,0.12796,False,4.7
+CV601313,Claude 3.5 Sonnet,Programacion,Developer,16,1103,2195,0.03623,False,3.1
+CV601314,Claude 3.5 Sonnet,Programacion,Developer,25,1334,2340,0.0391,False,4.3
+CV601315,Claude 3 Haiku,Analisis,Enterprise,24,638,154,0.00035,False,4.7
+CV601316,Claude 3 Opus,Redaccion,Developer,16,2564,1672,0.16386,False,4.2
+CV601317,Claude 3.5 Sonnet,Analisis,Enterprise,12,804,223,0.00576,False,4.4
+CV601318,Claude 3 Haiku,Redaccion,Developer,12,722,1211,0.00169,False,4.8
+CV601319,Claude 3.5 Haiku,Investigacion,Developer,20,1318,1642,0.00762,False,4.4
+CV601320,Claude 3 Opus,Redaccion,Enterprise,26,308,346,0.03057,False,5.0
+CV601321,Claude 3 Opus,Atencion cliente,Developer,3,576,690,0.06039,False,5.0
+CV601322,Claude 3.5 Sonnet,Programacion,Developer,24,1844,1206,0.02362,False,4.3
+CV601323,Claude 3 Haiku,Contenido sensible,Enterprise,15,326,418,0.0006,False,4.3
+CV601324,Claude 3.5 Sonnet,Contenido sensible,Developer,5,2023,516,0.01381,False,3.0
+CV601325,Claude 3.5 Haiku,Atencion cliente,Developer,3,2645,3604,0.01653,False,4.2
+CV601326,Claude 3.5 Sonnet,Analisis,Enterprise,11,753,1146,0.01945,False,3.7
+CV601327,Claude 3 Opus,Programacion,Enterprise,8,1161,1638,0.14026,False,4.5
+CV601328,Claude 3.5 Sonnet,Educacion,Developer,4,2025,1615,0.0303,False,4.5
+CV601329,Claude 3.5 Sonnet,Atencion cliente,Investigacion,9,707,1192,0.02,False,4.7
+CV601330,Claude 3 Haiku,Programacion,Developer,26,1708,2541,0.0036,False,5.0
+CV601331,Claude 3 Opus,Analisis,Developer,22,621,267,0.02934,False,4.4
+CV601332,Claude 3 Opus,Analisis,Developer,7,702,386,0.03948,False,5.0
+CV601333,Claude 3.5 Haiku,Educacion,Developer,21,573,771,0.00354,False,4.5
+CV601334,Claude 3.5 Haiku,Atencion cliente,Enterprise,14,1201,865,0.00442,False,3.7
+CV601335,Claude 3.5 Haiku,Atencion cliente,Enterprise,23,2079,862,0.00511,False,4.1
+CV601336,Claude 3.5 Sonnet,Atencion cliente,Investigacion,8,849,406,0.00864,False,4.2
+CV601337,Claude 3 Opus,Redaccion,Developer,2,428,213,0.0224,False,4.7
+CV601338,Claude 3.5 Haiku,Redaccion,Investigacion,10,480,508,0.00242,False,3.9
+CV601339,Claude 3.5 Sonnet,Programacion,Enterprise,30,1243,1607,0.02783,False,4.3
+CV601340,Claude 3.5 Sonnet,Educacion,Developer,17,3324,1720,0.03577,False,4.3
+CV601341,Claude 3 Haiku,Redaccion,Developer,2,1242,1841,0.00261,False,4.2
+CV601342,Claude 3 Opus,Redaccion,Enterprise,30,744,525,0.05054,False,4.8
+CV601343,Claude 3 Opus,Redaccion,Enterprise,25,1595,1213,0.1149,False,4.7
+CV601344,Claude 3.5 Haiku,Programacion,Developer,17,819,493,0.00263,False,5.0
+CV601345,Claude 3 Haiku,Analisis,Developer,23,748,1206,0.00169,False,4.2
+CV601346,Claude 3 Opus,Programacion,Developer,6,519,1000,0.08278,False,5.0
+CV601347,Claude 3.5 Sonnet,Programacion,Enterprise,18,2466,2679,0.04758,False,3.7
+CV601348,Claude 3.5 Sonnet,Educacion,Developer,28,211,58,0.0015,False,3.7
+CV601349,Claude 3.5 Sonnet,Redaccion,Enterprise,14,1629,1089,0.02122,False,3.8
+CV601350,Claude 3 Haiku,Redaccion,Enterprise,2,708,343,0.00061,False,4.4
+CV601351,Claude 3.5 Haiku,Redaccion,Developer,23,733,1258,0.00562,False,5.0
+CV601352,Claude 3.5 Sonnet,Educacion,Enterprise,22,2995,1056,0.02482,False,4.1
+CV601353,Claude 3.5 Sonnet,Redaccion,Investigacion,23,604,1171,0.01938,False,4.2
+CV601354,Claude 3.5 Haiku,Educacion,Developer,20,617,777,0.0036,True,3.1
+CV601355,Claude 3.5 Sonnet,Investigacion,Enterprise,5,879,994,0.01755,False,4.7
+CV601356,Claude 3 Opus,Atencion cliente,Enterprise,4,1259,2172,0.18178,False,4.2
+CV601357,Claude 3 Opus,Redaccion,Developer,24,718,179,0.0242,False,4.1
+CV601358,Claude 3 Haiku,Educacion,Enterprise,26,358,572,0.0008,False,3.7
+CV601359,Claude 3.5 Sonnet,Analisis,Enterprise,3,549,225,0.00502,False,4.1
+CV601360,Claude 3 Haiku,Redaccion,Developer,18,2261,3873,0.00541,False,5.0
+CV601361,Claude 3.5 Sonnet,Analisis,Enterprise,16,1006,1159,0.0204,False,4.4
+CV601362,Claude 3 Haiku,Redaccion,Developer,11,1291,400,0.00082,False,4.0
+CV601363,Claude 3.5 Sonnet,Programacion,Developer,20,807,1371,0.02299,False,5.0
+CV601364,Claude 3 Opus,Redaccion,Enterprise,28,625,155,0.021,False,4.1
+CV601365,Claude 3 Opus,Programacion,Developer,25,2965,1331,0.1443,False,5.0
+CV601366,Claude 3.5 Sonnet,Redaccion,Developer,5,847,1385,0.02332,False,5.0
+CV601367,Claude 3.5 Sonnet,Analisis,Developer,14,718,744,0.01331,False,4.4
+CV601368,Claude 3.5 Sonnet,Investigacion,Enterprise,29,1993,3560,0.05938,True,2.5
+CV601369,Claude 3.5 Sonnet,Programacion,Developer,8,601,807,0.01391,False,5.0
+CV601370,Claude 3.5 Sonnet,Atencion cliente,Enterprise,26,652,862,0.01489,False,4.6
+CV601371,Claude 3.5 Haiku,Analisis,Developer,15,964,699,0.00357,False,4.2
+CV601372,Claude 3.5 Sonnet,Programacion,Enterprise,16,958,422,0.0092,False,4.9
+CV601373,Claude 3 Haiku,Redaccion,Investigacion,8,1136,2192,0.00302,False,4.8
+CV601374,Claude 3.5 Haiku,Programacion,Enterprise,28,3942,1532,0.00928,False,5.0
+CV601375,Claude 3.5 Sonnet,Programacion,Investigacion,16,1196,1378,0.02426,False,4.1
+CV601376,Claude 3 Haiku,Redaccion,Investigacion,18,229,158,0.00025,False,4.6
+CV601377,Claude 3.5 Haiku,Redaccion,Developer,14,1188,802,0.00416,False,3.8
+CV601378,Claude 3 Haiku,Analisis,Enterprise,3,981,1246,0.0018,False,4.7
+CV601379,Claude 3 Opus,Programacion,Enterprise,24,985,1611,0.1356,False,4.4
+CV601380,Claude 3 Opus,Programacion,Investigacion,10,1126,1800,0.15189,False,4.5
+CV601381,Claude 3.5 Sonnet,Programacion,Developer,8,940,1658,0.02769,False,4.3
+CV601382,Claude 3 Opus,Analisis,Developer,24,925,672,0.06428,False,4.3
+CV601383,Claude 3.5 Haiku,Redaccion,Enterprise,6,1439,1494,0.00713,False,4.0
+CV601384,Claude 3.5 Haiku,Analisis,Investigacion,21,674,146,0.00112,False,4.8
+CV601385,Claude 3.5 Sonnet,Programacion,Enterprise,15,522,806,0.01366,False,5.0
+CV601386,Claude 3 Haiku,Programacion,Enterprise,24,7515,5592,0.00887,False,4.1
+CV601387,Claude 3.5 Sonnet,Contenido sensible,Enterprise,2,603,730,0.01276,False,4.7
+CV601388,Claude 3.5 Haiku,Programacion,Developer,24,1023,516,0.00288,False,4.6
+CV601389,Claude 3.5 Sonnet,Programacion,Investigacion,7,375,628,0.01054,False,4.4
+CV601390,Claude 3.5 Haiku,Programacion,Developer,27,1034,1727,0.00774,False,3.6
+CV601391,Claude 3.5 Haiku,Contenido sensible,Enterprise,11,527,937,0.00417,False,3.7
+CV601392,Claude 3.5 Sonnet,Atencion cliente,Enterprise,1,718,202,0.00518,False,4.0
+CV601393,Claude 3.5 Sonnet,Atencion cliente,Developer,15,1925,3823,0.06312,False,3.3
+CV601394,Claude 3.5 Haiku,Contenido sensible,Developer,2,1309,845,0.00443,False,5.0
+CV601395,Claude 3.5 Sonnet,Programacion,Enterprise,9,1396,1056,0.02003,False,4.6
+CV601396,Claude 3 Opus,Contenido sensible,Enterprise,22,319,206,0.02024,True,3.2
+CV601397,Claude 3.5 Haiku,Programacion,Developer,17,3308,2254,0.01166,True,2.1
+CV601398,Claude 3 Opus,Atencion cliente,Investigacion,22,449,536,0.04694,False,3.5
+CV601399,Claude 3.5 Sonnet,Redaccion,Developer,27,2677,1690,0.03338,False,4.4
+CV601400,Claude 3 Opus,Redaccion,Enterprise,15,1895,1722,0.15758,False,5.0
+CV601401,Claude 3.5 Sonnet,Investigacion,Developer,17,1404,1937,0.03327,False,4.1
+CV601402,Claude 3.5 Haiku,Programacion,Enterprise,2,553,942,0.00421,False,4.8
+CV601403,Claude 3.5 Sonnet,Contenido sensible,Investigacion,9,1058,1530,0.02612,False,4.2
+CV601404,Claude 3.5 Sonnet,Redaccion,Enterprise,22,705,895,0.01554,False,4.4
+CV601405,Claude 3.5 Sonnet,Atencion cliente,Enterprise,2,976,454,0.00974,False,5.0
+CV601406,Claude 3.5 Haiku,Contenido sensible,Developer,11,813,1356,0.00607,True,3.0
+CV601407,Claude 3.5 Sonnet,Programacion,Enterprise,5,275,73,0.00192,False,4.1
+CV601408,Claude 3.5 Haiku,Investigacion,Enterprise,26,2028,1370,0.0071,False,5.0
+CV601409,Claude 3 Haiku,Analisis,Developer,17,908,274,0.00057,False,4.4
+CV601410,Claude 3.5 Haiku,Atencion cliente,Developer,20,699,979,0.00448,False,4.9
+CV601411,Claude 3.5 Haiku,Programacion,Investigacion,21,666,574,0.00283,False,4.1
+CV601412,Claude 3.5 Haiku,Analisis,Enterprise,7,1213,1666,0.00763,False,5.0
+CV601413,Claude 3.5 Haiku,Atencion cliente,Enterprise,2,540,445,0.00221,False,4.5
+CV601414,Claude 3.5 Sonnet,Analisis,Developer,12,245,249,0.00447,False,4.6
+CV601415,Claude 3 Haiku,Programacion,Developer,6,1253,1283,0.00192,False,4.5
+CV601416,Claude 3 Opus,Redaccion,Enterprise,10,1351,381,0.04884,False,4.1
+CV601417,Claude 3 Opus,Educacion,Investigacion,10,840,818,0.07395,False,4.4
+CV601418,Claude 3.5 Haiku,Programacion,Investigacion,24,462,625,0.00287,False,4.2
+CV601419,Claude 3.5 Haiku,Atencion cliente,Enterprise,10,1015,1200,0.00561,False,4.9
+CV601420,Claude 3 Haiku,Contenido sensible,Developer,5,382,128,0.00026,False,4.3
+CV601421,Claude 3 Opus,Programacion,Developer,29,497,697,0.05973,False,3.7
+CV601422,Claude 3 Opus,Programacion,Enterprise,2,590,446,0.0423,False,3.6
+CV601423,Claude 3.5 Sonnet,Atencion cliente,Developer,7,1680,379,0.01072,False,3.5
+CV601424,Claude 3.5 Sonnet,Programacion,Enterprise,11,756,362,0.0077,False,4.7
+CV601425,Claude 3.5 Sonnet,Analisis,Enterprise,2,716,784,0.01391,False,3.8
+CV601426,Claude 3.5 Sonnet,Atencion cliente,Investigacion,27,3587,2721,0.05158,False,4.6
+CV601427,Claude 3.5 Sonnet,Analisis,Developer,11,1209,1752,0.02991,False,4.5
+CV601428,Claude 3 Haiku,Redaccion,Enterprise,24,1198,758,0.00125,True,3.2
+CV601429,Claude 3 Opus,Atencion cliente,Developer,5,753,1198,0.10114,False,4.6
+CV601430,Claude 3.5 Haiku,Analisis,Investigacion,16,651,465,0.00238,False,4.5
+CV601431,Claude 3 Haiku,Programacion,Developer,4,254,334,0.00048,False,3.0
+CV601432,Claude 3.5 Sonnet,Analisis,Investigacion,7,1828,2995,0.05041,False,4.2
+CV601433,Claude 3.5 Sonnet,Investigacion,Investigacion,13,1288,1151,0.02113,False,4.6
+CV601434,Claude 3.5 Sonnet,Atencion cliente,Enterprise,26,852,242,0.00619,False,5.0
+CV601435,Claude 3.5 Haiku,Analisis,Developer,10,875,1018,0.00477,False,5.0
+CV601436,Claude 3.5 Sonnet,Redaccion,Developer,23,1563,3113,0.05138,False,3.7
+CV601437,Claude 3 Opus,Programacion,Developer,3,362,703,0.05815,False,4.2
+CV601438,Claude 3.5 Haiku,Redaccion,Enterprise,8,654,390,0.00208,False,3.6
+CV601439,Claude 3.5 Haiku,Programacion,Enterprise,19,465,725,0.00327,False,5.0
+CV601440,Claude 3.5 Sonnet,Contenido sensible,Enterprise,15,3162,2595,0.04841,True,3.7
+CV601441,Claude 3.5 Sonnet,Programacion,Developer,16,1717,838,0.01772,False,4.6
+CV601442,Claude 3.5 Sonnet,Educacion,Developer,21,252,352,0.00604,False,4.5
+CV601443,Claude 3.5 Sonnet,Programacion,Developer,3,371,408,0.00723,False,5.0
+CV601444,Claude 3.5 Sonnet,Redaccion,Developer,21,878,1027,0.01804,False,5.0
+CV601445,Claude 3 Opus,Redaccion,Enterprise,26,705,1190,0.09983,False,5.0
+CV601446,Claude 3.5 Haiku,Redaccion,Enterprise,23,415,334,0.00167,False,4.6
+CV601447,Claude 3 Opus,Educacion,Developer,9,3562,4989,0.4276,False,4.2
+CV601448,Claude 3 Haiku,Contenido sensible,Developer,11,1177,1011,0.00156,False,4.8
+CV601449,Claude 3.5 Sonnet,Investigacion,Developer,29,1311,363,0.00938,False,4.8
+CV601450,Claude 3 Haiku,Programacion,Enterprise,24,613,539,0.00083,True,3.1
+CV601451,Claude 3 Haiku,Educacion,Developer,28,1548,2956,0.00408,False,4.2
+CV601452,Claude 3.5 Haiku,Programacion,Investigacion,28,747,799,0.00379,False,5.0
+CV601453,Claude 3.5 Haiku,Investigacion,Enterprise,14,796,314,0.00189,False,5.0
+CV601454,Claude 3.5 Sonnet,Analisis,Enterprise,4,1437,2066,0.0353,False,4.0
+CV601455,Claude 3.5 Sonnet,Redaccion,Developer,7,347,671,0.01111,False,4.3
+CV601456,Claude 3.5 Sonnet,Programacion,Developer,9,2806,5147,0.08562,False,4.6
+CV601457,Claude 3 Opus,Programacion,Investigacion,26,1080,1327,0.11572,False,4.6
+CV601458,Claude 3.5 Haiku,Redaccion,Investigacion,9,2260,1982,0.00974,False,4.1
+CV601459,Claude 3.5 Sonnet,Investigacion,Developer,11,482,600,0.01045,False,5.0
+CV601460,Claude 3 Haiku,Educacion,Enterprise,26,530,884,0.00124,False,4.6
+CV601461,Claude 3 Opus,Contenido sensible,Developer,5,458,801,0.06694,False,4.7
+CV601462,Claude 3.5 Sonnet,Programacion,Investigacion,20,1129,1889,0.03172,False,5.0
+CV601463,Claude 3.5 Sonnet,Analisis,Developer,17,1000,1019,0.01828,False,4.2
+CV601464,Claude 3 Haiku,Redaccion,Investigacion,30,708,293,0.00054,False,4.4
+CV601465,Claude 3 Haiku,Analisis,Developer,15,501,613,0.00089,False,3.8
+CV601466,Claude 3 Opus,Redaccion,Enterprise,16,429,206,0.02188,False,4.3
+CV601467,Claude 3.5 Sonnet,Redaccion,Developer,26,927,287,0.00709,False,3.7
+CV601468,Claude 3 Haiku,Analisis,Developer,30,708,777,0.00115,False,4.8
+CV601469,Claude 3.5 Sonnet,Programacion,Enterprise,22,615,848,0.01456,False,4.6
+CV601470,Claude 3.5 Haiku,Analisis,Enterprise,21,2711,4710,0.02101,False,4.3
+CV601471,Claude 3.5 Sonnet,Atencion cliente,Developer,27,907,1459,0.02461,False,4.3
+CV601472,Claude 3.5 Sonnet,Programacion,Enterprise,30,2244,3911,0.0654,False,4.8
+CV601473,Claude 3 Opus,Investigacion,Enterprise,23,678,1063,0.08989,False,3.8
+CV601474,Claude 3 Opus,Analisis,Developer,9,1125,1649,0.14055,False,4.5
+CV601475,Claude 3 Opus,Educacion,Developer,20,923,201,0.02892,False,4.7
+CV601476,Claude 3 Opus,Atencion cliente,Developer,8,333,441,0.03807,False,3.5
+CV601477,Claude 3.5 Haiku,Atencion cliente,Investigacion,16,2500,1042,0.00617,False,4.7
+CV601478,Claude 3 Opus,Atencion cliente,Investigacion,14,876,267,0.03316,False,3.6
+CV601479,Claude 3 Opus,Investigacion,Developer,30,1573,757,0.08037,False,4.3
+CV601480,Claude 3 Opus,Atencion cliente,Enterprise,17,590,992,0.08325,False,3.8
+CV601481,Claude 3.5 Sonnet,Redaccion,Developer,29,859,1321,0.02239,False,5.0
+CV601482,Claude 3 Opus,Programacion,Enterprise,25,549,1047,0.08676,True,2.6
+CV601483,Claude 3.5 Sonnet,Atencion cliente,Investigacion,26,2192,4301,0.07109,False,3.6
+CV601484,Claude 3 Haiku,Programacion,Developer,6,1176,2126,0.00295,False,4.5
+CV601485,Claude 3.5 Sonnet,Redaccion,Enterprise,24,1220,535,0.01168,False,4.2
+CV601486,Claude 3.5 Haiku,Programacion,Developer,8,2383,4244,0.01888,False,3.6
+CV601487,Claude 3 Opus,Analisis,Developer,18,2077,3550,0.29741,False,4.7
+CV601488,Claude 3.5 Haiku,Programacion,Investigacion,15,1594,2818,0.01255,False,3.4
+CV601489,Claude 3 Opus,Atencion cliente,Enterprise,8,391,184,0.01967,False,3.9
+CV601490,Claude 3.5 Sonnet,Educacion,Investigacion,30,611,250,0.00558,False,4.1
+CV601491,Claude 3.5 Haiku,Educacion,Enterprise,27,504,938,0.00416,False,4.8
+CV601492,Claude 3 Haiku,Redaccion,Developer,18,1554,797,0.00138,False,5.0
+CV601493,Claude 3 Haiku,Analisis,Investigacion,1,1071,924,0.00142,False,5.0
+CV601494,Claude 3 Opus,Analisis,Enterprise,6,399,407,0.03651,False,4.3
+CV601495,Claude 3 Haiku,Analisis,Enterprise,7,846,358,0.00066,False,3.2
+CV601496,Claude 3.5 Haiku,Atencion cliente,Developer,30,375,88,0.00065,False,4.6
+CV601497,Claude 3 Haiku,Programacion,Investigacion,13,925,1840,0.00253,False,5.0
+CV601498,Claude 3.5 Sonnet,Contenido sensible,Enterprise,2,341,606,0.01011,False,5.0
+CV601499,Claude 3 Haiku,Programacion,Developer,18,1360,2505,0.00347,False,4.6
